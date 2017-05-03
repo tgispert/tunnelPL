@@ -1,0 +1,24 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Subclase</th>
+      <th>Marca</th>
+      <th>Genero</th>
+      <th>Nombre</th>
+      <th>Codigo</th>
+      <th>Precio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let producto of productos">
+      <td>{{producto.class}}</td>
+      <td>{{producto.subclass}}</td>
+      <td>{{producto.brand}}</td>
+      <td>{{producto.gender}}</td>
+      <td>{{producto.name}}</td>
+      <td>{{producto.code}}</td>
+      <td>{{producto.price}}</td>
+    </tr>
+  </tbody>
+</table>
