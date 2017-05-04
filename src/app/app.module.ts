@@ -6,12 +6,14 @@ import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { PricingListComponent } from './pricing-list/pricing-list.component';
+import { PricingSearchComponent } from './pricing-search/pricing-search.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    PricingListComponent
+    PricingListComponent,
+    PricingSearchComponent
   ],
   imports: [
     BrowserModule,
