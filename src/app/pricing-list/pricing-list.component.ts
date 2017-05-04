@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Product } from './product';
-import { Products } from './mocks';
+import { PricingDataService } from '../pricing-data.service';
+import { PricingSearchService } from '../pricing-search.service';
 
 @Component({
   selector: 'pricing-list',
@@ -10,12 +11,13 @@ import { Products } from './mocks';
 export class PricingListComponent implements OnInit {
 
   productos : Product[];
+  filter : string;
 
-  constructor() {}
+  constructor(private pricingDataService:PricingDataService, private searchService:PricingSearchService) {}
 
   ngOnInit() {
-    this.productos = Products;
-    return this.productos;
+    this.productos = this.pricingDataService.getProducts();
+    this.searchService.word.subscribe(word => this.filter=word);
   }
 
 }

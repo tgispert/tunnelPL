@@ -5,22 +5,26 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
+import { PricingDataService } from './pricing-data.service';
+import { PricingSearchService } from './pricing-search.service';
 import { PricingListComponent } from './pricing-list/pricing-list.component';
 import { PricingSearchComponent } from './pricing-search/pricing-search.component';
+import { PricingSearchPipePipe } from './pricing-search-pipe.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     PricingListComponent,
-    PricingSearchComponent
+    PricingSearchComponent,
+    PricingSearchPipePipe
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpModule
   ],
-  providers: [],
+  providers: [PricingDataService,PricingSearchService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
