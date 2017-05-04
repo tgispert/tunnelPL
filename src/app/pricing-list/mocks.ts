@@ -11,9 +11,9 @@ export const Products : Product[] = [{
 {
   "class": "campera",
   "subclass": "rompeviento",
-  "brand": "columbia",
+  "brand": "nexxt",
   "gender": "hombre",
-  "name": "porter 2",
+  "name": "powder dreams",
   "code": "AM2150423",
   "price": 1600
 }
