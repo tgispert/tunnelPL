@@ -1,10 +1,10 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { Product } from './data/product';
+import { Product } from '../data/product';
 
 @Pipe({
-  name: 'pricingSearch'
+  name: 'pricingSearchName'
 })
-export class PricingSearchPipe implements PipeTransform {
+export class PricingSearchNamePipe implements PipeTransform {
 
   transform(items: any, args?: string): any {
     let filter = args.toLocaleLowerCase();

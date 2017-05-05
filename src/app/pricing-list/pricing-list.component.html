@@ -11,7 +11,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let producto of productos | pricingSearch:filter">
+    <tr *ngFor="let producto of productos | pricingSearchName:filter">
       <td>{{producto.class}}</td>
       <td>{{producto.subclass}}</td>
       <td>{{producto.brand}}</td>
