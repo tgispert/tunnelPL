@@ -1,8 +1,8 @@
-import { PricingSearchPipePipe } from './pricing-search-pipe.pipe';
+import { PricingSearchPipe } from './pricing-search-pipe.pipe';
 
-describe('PricingSearchPipePipe', () => {
+describe('PricingSearchPipe', () => {
   it('create an instance', () => {
-    const pipe = new PricingSearchPipePipe();
+    const pipe = new PricingSearchPipe();
     expect(pipe).toBeTruthy();
   });
 });

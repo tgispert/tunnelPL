@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Products } from './data/products';
+import { Brands } from './data/brands';
 
 @Injectable()
 export class PricingDataService {
@@ -8,6 +9,10 @@ export class PricingDataService {
 
   getProducts(){
     return Products;
+  }
+
+  getBrands(){
+    return Brands;
   }
 
 }

@@ -4,7 +4,7 @@ import { Product } from './data/product';
 @Pipe({
   name: 'pricingSearch'
 })
-export class PricingSearchPipePipe implements PipeTransform {
+export class PricingSearchPipe implements PipeTransform {
 
   transform(items: any, args?: string): any {
     let filter = args.toLocaleLowerCase();
