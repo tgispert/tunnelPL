@@ -9,7 +9,7 @@ import { PricingDataService } from './pricing-data.service';
 import { PricingSearchService } from './pricing-search.service';
 import { PricingListComponent } from './pricing-list/pricing-list.component';
 import { PricingSearchComponent } from './pricing-search/pricing-search.component';
-import { PricingSearchPipe } from './pricing-search-pipe.pipe';
+import { PricingSearchNamePipe } from './pipes/pricing-search-name.pipe';
 import { PricingBrandsComponent } from './pricing-brands/pricing-brands.component';
 
 @NgModule({
@@ -18,7 +18,7 @@ import { PricingBrandsComponent } from './pricing-brands/pricing-brands.componen
     LoginComponent,
     PricingListComponent,
     PricingSearchComponent,
-    PricingSearchPipe,
+    PricingSearchNamePipe,
     PricingBrandsComponent
   ],
   imports: [
