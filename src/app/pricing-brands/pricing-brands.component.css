@@ -1,0 +1,11 @@
+.row .col-md-2{
+    padding: 0;
+    margin: 0;
+}
+
+.row .col-md-2 div{
+    text-align: center;
+    vertical-align: middle;
+    height: 9vh;
+    font-size: 0.7em;
+}

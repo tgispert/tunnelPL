@@ -1,589 +1,589 @@
 export const Brands = [{
 		"id": "0",
-		"marca": "oxford"
+		"name": "oxford",
 	},
 	{
 		"id": "1",
-		"marca": "ufo"
+		"name": "ufo"
 	},
 	{
 		"id": "2",
-		"marca": "taverniti"
+		"name": "taverniti"
 	},
 	{
 		"id": "3",
-		"marca": "absolut"
+		"name": "absolut"
 	},
 	{
 		"id": "4",
-		"marca": "tunnel"
+		"name": "tunnel"
 	},
 	{
 		"id": "5",
-		"marca": "wrangler"
+		"name": "wrangler"
 	},
 	{
 		"id": "6",
-		"marca": "posto 5"
+		"name": "posto 5"
 	},
 	{
 		"id": "7",
-		"marca": "oggi"
+		"name": "oggi"
 	},
 	{
 		"id": "8",
-		"marca": "cruz diablo"
+		"name": "cruz diablo"
 	},
 	{
 		"id": "9",
-		"marca": "hi tec"
+		"name": "hi tec"
 	},
 	{
 		"id": "10",
-		"marca": "lee"
+		"name": "lee"
 	},
 	{
 		"id": "11",
-		"marca": "columbia"
+		"name": "columbia"
 	},
 	{
 		"id": "12",
-		"marca": "northland"
+		"name": "northland"
 	},
 	{
 		"id": "13",
-		"marca": "forest"
+		"name": "forest"
 	},
 	{
 		"id": "14",
-		"marca": "crocs"
+		"name": "crocs"
 	},
 	{
 		"id": "15",
-		"marca": "nexxt"
+		"name": "nexxt"
 	},
 	{
 		"id": "16",
-		"marca": "eyelit"
+		"name": "eyelit"
 	},
 	{
 		"id": "17",
-		"marca": "black rock"
+		"name": "black rock"
 	},
 	{
 		"id": "18",
-		"marca": "polo club"
+		"name": "polo club"
 	},
 	{
 		"id": "19",
-		"marca": "sox"
+		"name": "sox"
 	},
 	{
 		"id": "20",
-		"marca": "havaianas"
+		"name": "havaianas"
 	},
 	{
 		"id": "21",
-		"marca": "coca cola"
+		"name": "coca cola"
 	},
 	{
 		"id": "22",
-		"marca": "arido"
+		"name": "arido"
 	},
 	{
 		"id": "23",
-		"marca": "silla"
+		"name": "silla"
 	},
 	{
 		"id": "24",
-		"marca": "praxis"
+		"name": "praxis"
 	},
 	{
 		"id": "25",
-		"marca": "diesel"
+		"name": "diesel"
 	},
 	{
 		"id": "26",
-		"marca": "hope and glory"
+		"name": "hope and glory"
 	},
 	{
 		"id": "27",
-		"marca": "iñaki"
+		"name": "iñaki"
 	},
 	{
 		"id": "28",
-		"marca": "rica lewis"
+		"name": "rica lewis"
 	},
 	{
 		"id": "29",
-		"marca": "high sierra"
+		"name": "high sierra"
 	},
 	{
 		"id": "30",
-		"marca": "calvin klein"
+		"name": "calvin klein"
 	},
 	{
 		"id": "31",
-		"marca": "criativa"
+		"name": "criativa"
 	},
 	{
 		"id": "32",
-		"marca": "premier"
+		"name": "premier"
 	},
 	{
 		"id": "33",
-		"marca": "trakers"
+		"name": "trakers"
 	},
 	{
 		"id": "34",
-		"marca": "marsanto"
+		"name": "marsanto"
 	},
 	{
 		"id": "35",
-		"marca": "continent"
+		"name": "continent"
 	},
 	{
 		"id": "36",
-		"marca": "skala"
+		"name": "skala"
 	},
 	{
 		"id": "37",
-		"marca": "hi extreme"
+		"name": "hi extreme"
 	},
 	{
 		"id": "38",
-		"marca": "escrorpio"
+		"name": "escrorpio"
 	},
 	{
 		"id": "39",
-		"marca": "marasco & speciale"
+		"name": "marasco & speciale"
 	},
 	{
 		"id": "40",
-		"marca": "spirit"
+		"name": "spirit"
 	},
 	{
 		"id": "41",
-		"marca": "montagne"
+		"name": "montagne"
 	},
 	{
 		"id": "42",
-		"marca": "allstar"
+		"name": "allstar"
 	},
 	{
 		"id": "43",
-		"marca": "levis"
+		"name": "levis"
 	},
 	{
 		"id": "44",
-		"marca": "jr"
+		"name": "jr"
 	},
 	{
 		"id": "45",
-		"marca": "seawalk"
+		"name": "seawalk"
 	},
 	{
 		"id": "46",
-		"marca": "only one"
+		"name": "only one"
 	},
 	{
 		"id": "47",
-		"marca": "super comfort"
+		"name": "super comfort"
 	},
 	{
 		"id": "48",
-		"marca": "timberland"
+		"name": "timberland"
 	},
 	{
 		"id": "49",
-		"marca": "blend"
+		"name": "blend"
 	},
 	{
 		"id": "50",
-		"marca": "banana republic"
+		"name": "banana republic"
 	},
 	{
 		"id": "51",
-		"marca": "bill sanderson"
+		"name": "bill sanderson"
 	},
 	{
 		"id": "52",
-		"marca": "benetton"
+		"name": "benetton"
 	},
 	{
 		"id": "53",
-		"marca": "bootlegger"
+		"name": "bootlegger"
 	},
 	{
 		"id": "54",
-		"marca": "bufalo"
+		"name": "bufalo"
 	},
 	{
 		"id": "55",
-		"marca": "board walk"
+		"name": "board walk"
 	},
 	{
 		"id": "56",
-		"marca": "b cool"
+		"name": "b cool"
 	},
 	{
 		"id": "57",
-		"marca": "bel"
+		"name": "bel"
 	},
 	{
 		"id": "58",
-		"marca": "binfox"
+		"name": "binfox"
 	},
 	{
 		"id": "59",
-		"marca": "area 77"
+		"name": "area 77"
 	},
 	{
 		"id": "60",
-		"marca": "bula"
+		"name": "bula"
 	},
 	{
 		"id": "61",
-		"marca": "blue ridge"
+		"name": "blue ridge"
 	},
 	{
 		"id": "62",
-		"marca": "tinsulate"
+		"name": "tinsulate"
 	},
 	{
 		"id": "63",
-		"marca": "carven"
+		"name": "carven"
 	},
 	{
 		"id": "64",
-		"marca": "cacique"
+		"name": "cacique"
 	},
 	{
 		"id": "65",
-		"marca": "cuatro tacos"
+		"name": "cuatro tacos"
 	},
 	{
 		"id": "66",
-		"marca": "cayon"
+		"name": "cayon"
 	},
 	{
 		"id": "67",
-		"marca": "chevignon"
+		"name": "chevignon"
 	},
 	{
 		"id": "68",
-		"marca": "custom made"
+		"name": "custom made"
 	},
 	{
 		"id": "69",
-		"marca": "cartujano"
+		"name": "cartujano"
 	},
 	{
 		"id": "70",
-		"marca": "cool port"
+		"name": "cool port"
 	},
 	{
 		"id": "71",
-		"marca": "costu menti"
+		"name": "costu menti"
 	},
 	{
 		"id": "72",
-		"marca": "castro"
+		"name": "castro"
 	},
 	{
 		"id": "73",
-		"marca": "colegial"
+		"name": "colegial"
 	},
 	{
 		"id": "74",
-		"marca": "dank"
+		"name": "dank"
 	},
 	{
 		"id": "75",
-		"marca": "dunod"
+		"name": "dunod"
 	},
 	{
 		"id": "76",
-		"marca": "energy"
+		"name": "energy"
 	},
 	{
 		"id": "77",
-		"marca": "drops"
+		"name": "drops"
 	},
 	{
 		"id": "78",
-		"marca": "dcd"
+		"name": "dcd"
 	},
 	{
 		"id": "79",
-		"marca": "dino b"
+		"name": "dino b"
 	},
 	{
 		"id": "80",
-		"marca": "dinamarca"
+		"name": "dinaname"
 	},
 	{
 		"id": "81",
-		"marca": "folk"
+		"name": "folk"
 	},
 	{
 		"id": "82",
-		"marca": "fus"
+		"name": "fus"
 	},
 	{
 		"id": "83",
-		"marca": "fbi"
+		"name": "fbi"
 	},
 	{
 		"id": "84",
-		"marca": "fiorucci"
+		"name": "fiorucci"
 	},
 	{
 		"id": "85",
-		"marca": "fred perry"
+		"name": "fred perry"
 	},
 	{
 		"id": "86",
-		"marca": "givernchy"
+		"name": "givernchy"
 	},
 	{
 		"id": "87",
-		"marca": "gianni morely"
+		"name": "gianni morely"
 	},
 	{
 		"id": "88",
-		"marca": "guess"
+		"name": "guess"
 	},
 	{
 		"id": "89",
-		"marca": "gibo"
+		"name": "gibo"
 	},
 	{
 		"id": "90",
-		"marca": "brit z"
+		"name": "brit z"
 	},
 	{
 		"id": "91",
-		"marca": "gloria vanderville"
+		"name": "gloria vanderville"
 	},
 	{
 		"id": "92",
-		"marca": "hummer"
+		"name": "hummer"
 	},
 	{
 		"id": "93",
-		"marca": "island"
+		"name": "island"
 	},
 	{
 		"id": "94",
-		"marca": "herny sacks"
+		"name": "herny sacks"
 	},
 	{
 		"id": "95",
-		"marca": "igi & igi"
+		"name": "igi & igi"
 	},
 	{
 		"id": "96",
-		"marca": "jlg"
+		"name": "jlg"
 	},
 	{
 		"id": "97",
-		"marca": "kappa"
+		"name": "kappa"
 	},
 	{
 		"id": "98",
-		"marca": "killi watch"
+		"name": "killi watch"
 	},
 	{
 		"id": "99",
-		"marca": "k way"
+		"name": "k way"
 	},
 	{
 		"id": "100",
-		"marca": "las pampas polo"
+		"name": "las pampas polo"
 	},
 	{
 		"id": "101",
-		"marca": "la horqueta"
+		"name": "la horqueta"
 	},
 	{
 		"id": "102",
-		"marca": "la santa"
+		"name": "la santa"
 	},
 	{
 		"id": "103",
-		"marca": "londsdale"
+		"name": "londsdale"
 	},
 	{
 		"id": "104",
-		"marca": "lambert"
+		"name": "lambert"
 	},
 	{
 		"id": "105",
-		"marca": "mcgregor"
+		"name": "mcgregor"
 	},
 	{
 		"id": "106",
-		"marca": "lacoste"
+		"name": "lacoste"
 	},
 	{
 		"id": "107",
-		"marca": "motor oil"
+		"name": "motor oil"
 	},
 	{
 		"id": "108",
-		"marca": "maitezi"
+		"name": "maitezi"
 	},
 	{
 		"id": "109",
-		"marca": "mango"
+		"name": "mango"
 	},
 	{
 		"id": "110",
-		"marca": "montaña"
+		"name": "montaña"
 	},
 	{
 		"id": "111",
-		"marca": "mr k"
+		"name": "mr k"
 	},
 	{
 		"id": "112",
-		"marca": "norton"
+		"name": "norton"
 	},
 	{
 		"id": "113",
-		"marca": "newport"
+		"name": "newport"
 	},
 	{
 		"id": "114",
-		"marca": "new man"
+		"name": "new man"
 	},
 	{
 		"id": "115",
-		"marca": "north bermich"
+		"name": "north bermich"
 	},
 	{
 		"id": "116",
-		"marca": "ocean pacific"
+		"name": "ocean pacific"
 	},
 	{
 		"id": "117",
-		"marca": "old bridge"
+		"name": "old bridge"
 	},
 	{
 		"id": "118",
-		"marca": "one goodly"
+		"name": "one goodly"
 	},
 	{
 		"id": "119",
-		"marca": "overlo"
+		"name": "overlo"
 	},
 	{
 		"id": "120",
-		"marca": "old kent"
+		"name": "old kent"
 	},
 	{
 		"id": "121",
-		"marca": "ojo rojo"
+		"name": "ojo rojo"
 	},
 	{
 		"id": "122",
-		"marca": "pierre balmain"
+		"name": "pierre balmain"
 	},
 	{
 		"id": "123",
-		"marca": "puebla"
+		"name": "puebla"
 	},
 	{
 		"id": "124",
-		"marca": "request"
+		"name": "request"
 	},
 	{
 		"id": "125",
-		"marca": "route 66"
+		"name": "route 66"
 	},
 	{
 		"id": "126",
-		"marca": "raiders"
+		"name": "raiders"
 	},
 	{
 		"id": "127",
-		"marca": "silvina caminos"
+		"name": "silvina caminos"
 	},
 	{
 		"id": "128",
-		"marca": "snow way"
+		"name": "snow way"
 	},
 	{
 		"id": "129",
-		"marca": "shooter"
+		"name": "shooter"
 	},
 	{
 		"id": "130",
-		"marca": "uniform"
+		"name": "uniform"
 	},
 	{
 		"id": "131",
-		"marca": "unik"
+		"name": "unik"
 	},
 	{
 		"id": "132",
-		"marca": "vela mayor"
+		"name": "vela mayor"
 	},
 	{
 		"id": "133",
-		"marca": "valentino"
+		"name": "valentino"
 	},
 	{
 		"id": "134",
-		"marca": "wados"
+		"name": "wados"
 	},
 	{
 		"id": "135",
-		"marca": "since"
+		"name": "since"
 	},
 	{
 		"id": "136",
-		"marca": "taos"
+		"name": "taos"
 	},
 	{
 		"id": "137",
-		"marca": "tokyo"
+		"name": "tokyo"
 	},
 	{
 		"id": "138",
-		"marca": "tennis club"
+		"name": "tennis club"
 	},
 	{
 		"id": "139",
-		"marca": "this week"
+		"name": "this week"
 	},
 	{
 		"id": "140",
-		"marca": "tonsur"
+		"name": "tonsur"
 	},
 	{
 		"id": "141",
-		"marca": "take two"
+		"name": "take two"
 	},
 	{
 		"id": "142",
-		"marca": "tessuto"
+		"name": "tessuto"
 	},
 	{
 		"id": "143",
-		"marca": "ted lapidus"
+		"name": "ted lapidus"
 	},
 	{
 		"id": "144",
-		"marca": "yukon"
+		"name": "yukon"
 	},
 	{
 		"id": "145",
-		"marca": "ysl"
+		"name": "ysl"
 	},
 	{
 		"id": "146",
-		"marca": "yuma"
+		"name": "yuma"
 	}
 ];
