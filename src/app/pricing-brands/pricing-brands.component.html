@@ -1,3 +1,10 @@
-<ul *ngFor="let brand of brands">
-  <li>{{brand.marca}}</li>
-</ul>
+<div class="row">
+  <div class="col-md-2" *ngFor="let brand of brands">
+    <div>{{brand.name}}</div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2" *ngFor="let categoria of categorias">
+    <div>{{categoria}}</div>
+  </div>
+</div>
