@@ -1,10 +1,5 @@
-<div class="row">
-  <div class="col-md-2" *ngFor="let brand of brands">
-    <div>{{brand.name}}</div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2" *ngFor="let categoria of categorias">
-    <div>{{categoria}}</div>
+<div id="listaMarcas">
+  <div *ngFor="let brand of brands">
+    <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
   </div>
 </div>
