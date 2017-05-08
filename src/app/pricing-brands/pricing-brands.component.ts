@@ -9,13 +9,15 @@ import { PricingDataService } from '../pricing-data.service';
 export class PricingBrandsComponent implements OnInit {
 
   brands;
-  categorias;
 
   constructor(private pricingDataService:PricingDataService) {}
 
   ngOnInit() {    
     this.brands = this.pricingDataService.getBrands();
-    this.categorias = this.pricingDataService.getCategories();
+  }
+
+  select(value){
+    console.log(value);
   }
 
 }

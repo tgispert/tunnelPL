@@ -1,7 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import { Product } from '../data/product';
+import { PricingList } from '../data/pricing-list';
+import { PricingClass } from '../data/pricing-class';
 import { PricingDataService } from '../pricing-data.service';
 import { PricingSearchService } from '../pricing-search.service';
+
 
 @Component({
   selector: 'pricing-list',
@@ -10,8 +12,10 @@ import { PricingSearchService } from '../pricing-search.service';
 })
 export class PricingListComponent implements OnInit {
 
-  productos : Product[];
+  productos;
   filter : string;
+  brand : string;
+  lista : PricingList;
 
   constructor(private pricingDataService:PricingDataService, private searchService:PricingSearchService) {}
 
