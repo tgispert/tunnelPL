@@ -1,14 +1,14 @@
 <table class="table table-striped">
   <thead>
     <tr>
-      <th>Genero</th>
+      <th>Tipo</th>
       <th>Nombre</th>
       <th>Codigo</th>
       <th>Precio</th>
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let producto of productos | pricingSearchName:filter">
+    <tr *ngFor="let producto of productos | pricingSearchName:filter pricingSearchBrand">
       <td>{{producto.class[0].class}}</td>
     </tr>
   </tbody>

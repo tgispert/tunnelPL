@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PricingDataService } from '../pricing-data.service';
+import { PricingSearchService } from '../pricing-search.service';
 
 @Component({
   selector: 'pricing-brands',
@@ -9,15 +10,30 @@ import { PricingDataService } from '../pricing-data.service';
 export class PricingBrandsComponent implements OnInit {
 
   brands;
+  selectedBrand : string;
+  isSelected: boolean;
+  filter : string;
 
-  constructor(private pricingDataService:PricingDataService) {}
+  constructor(private pricingDataService:PricingDataService, private searchService:PricingSearchService) {}
 
-  ngOnInit() {    
+  ngOnInit() {
+    this.selectedBrand = "";
     this.brands = this.pricingDataService.getBrands();
   }
 
   select(value){
-    console.log(value);
+    this.isSelected = true;
+    this.selectedBrand = value;
+  }
+
+  exit(){
+    this.isSelected = false;
+    this.selectedBrand = "";
+  }
+
+  toSearch(value) {
+    this.filter = value;
+    this.searchService.addToSearch(this.filter);
   }
 
 }

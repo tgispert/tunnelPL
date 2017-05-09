@@ -11,6 +11,7 @@ import { PricingListComponent } from './pricing-list/pricing-list.component';
 import { PricingSearchComponent } from './pricing-search/pricing-search.component';
 import { PricingSearchNamePipe } from './pipes/pricing-search-name.pipe';
 import { PricingBrandsComponent } from './pricing-brands/pricing-brands.component';
+import { PricingSearchBrandPipe } from './pipes/pricing-search-brand.pipe';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { PricingBrandsComponent } from './pricing-brands/pricing-brands.componen
     PricingListComponent,
     PricingSearchComponent,
     PricingSearchNamePipe,
-    PricingBrandsComponent
+    PricingBrandsComponent,
+    PricingSearchBrandPipe
   ],
   imports: [
     BrowserModule,
