@@ -217,7 +217,7 @@ export const Brands = [
     },
     {
         "id": "86",
-        "name": "givernchy"
+        "name": "givenchy"
     },
     {
         "id": "91",
@@ -494,6 +494,10 @@ export const Brands = [
     {
         "id": "47",
         "name": "super comfort"
+    },
+    {
+        "id": "147",
+        "name": "surfanic"
     },
     {
         "id": "141",
