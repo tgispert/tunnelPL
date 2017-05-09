@@ -1,5 +1,10 @@
-<div id="listaMarcas">
+<div id="listaMarcas" *ngIf="!isSelected">
   <div *ngFor="let brand of brands">
     <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
   </div>
 </div>
+<h3 (change)="toSearch($event.target.value)">
+  {{selectedBrand}}
+  <span class="glyphicon glyphicon-remove" aria-hidden="true" (click)="exit()"></span>
+</h3>
+<pricing-list></pricing-list>
