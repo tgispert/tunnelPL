@@ -1,6 +1,6 @@
-import { PricingClass } from './pricing-class';
+import { Product } from './product';
 
 export class PricingList {
   brand: string;
-  class: PricingClass[];
+  products: Product[];
 }
