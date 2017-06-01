@@ -1,15 +1,31 @@
+<div id="listaMarcas" *ngIf="!isSelected">
+  <div *ngFor="let brand of brands">
+    <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
+  </div>
+</div>
+<h3 ng-change="changeList(slectedBrand)">
+  {{selectedBrand}}
+  <span class="glyphicon glyphicon-remove" aria-hidden="true" (click)="exit()"></span>
+</h3>
+
 <table class="table table-striped">
   <thead>
     <tr>
-      <th>Tipo</th>
+      <th>Clase</th>
+      <th>Genero</th>
       <th>Nombre</th>
       <th>Codigo</th>
       <th>Precio</th>
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let producto of productos | pricingSearchName:filter pricingSearchBrand">
-      <td>{{producto.class[0].class}}</td>
+    <tr *ngFor="let producto of productos | pricingSearchName:filter">
+      <td>{{producto.brand}}</td>
+      <td>{{producto.class}}</td>
+      <td>{{producto.gender}}</td>
+      <td>{{producto.name}}</td>
+      <td>{{producto.code}}</td>
+      <td>{{producto.price}}</td>
     </tr>
   </tbody>
 </table>
