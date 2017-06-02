@@ -36,6 +36,12 @@ export class PricingListComponent implements OnInit {
   exit(){
     this.isSelected = false;
     this.selectedBrand = "";
+    this.productos = this.pricingDataService.getProducts('');
+  }
+
+  toSearch(value) {
+    this.filter = value;
+    this.searchService.addToSearch(this.filter);
   }
 
 }

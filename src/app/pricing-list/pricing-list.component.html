@@ -3,12 +3,20 @@
     <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
   </div>
 </div>
-<h3 ng-change="changeList(slectedBrand)">
+
+<div id="search-bar" class="input-group" *ngIf="isSelected">
+  <span class="input-group-addon">
+    <i class="glyphicon glyphicon-search"></i>
+  </span>
+  <input type="text" class="form-control" placeholder="NOMBRE" (keyup)="toSearch($event.target.value)">
+</div>
+
+<h3 ng-change="changeList(slectedBrand)" *ngIf="isSelected">
   {{selectedBrand}}
   <span class="glyphicon glyphicon-remove" aria-hidden="true" (click)="exit()"></span>
 </h3>
 
-<table class="table table-striped">
+<table class="table table-striped" *ngIf="isSelected">
   <thead>
     <tr>
       <th>Clase</th>
