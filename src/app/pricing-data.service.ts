@@ -11,13 +11,15 @@ export class PricingDataService {
   getProducts(brand){
     let result : Product[];
     result = new Array<Product>();
-    Products.forEach(element => {
-      if((brand=='')||(element.brand==brand)){
+    if(brand!=''){
+      Products.forEach(element => {
+      if((element.brand==brand)){
         element.products.forEach(element => {
-          result.push(element);
-        });
-      }
-    });
+            result.push(element);
+          });
+        }
+      });
+    }
     return result;
   }
 
