@@ -19,6 +19,46 @@ export const Products : PricingList[] = [
         name: 'nombre2',
         code: 'fff1515',
         price: 1502
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'nombre2',
+        code: 'fff1515',
+        price: 1502
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'nombre2',
+        code: 'fff1515',
+        price: 1502
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'nombre2',
+        code: 'fff1515',
+        price: 1502
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'nombre2',
+        code: 'fff1515',
+        price: 1502
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'nombre2',
+        code: 'fff1515',
+        price: 1502
       }
     ]
   },
