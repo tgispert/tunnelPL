@@ -220,6 +220,10 @@ export const Brands = [
         "name": "givenchy"
     },
     {
+        "id": "148",
+        "name": "globe"
+    },
+    {
         "id": "91",
         "name": "gloria vanderville"
     },
@@ -356,6 +360,10 @@ export const Brands = [
         "name": "mr k"
     },
     {
+        "id": "149",
+        "name": "mt buller"
+    },
+    {
         "id": "114",
         "name": "new man"
     },
@@ -370,6 +378,10 @@ export const Brands = [
     {
         "id": "115",
         "name": "north bermich"
+    },
+    {
+        "id": "150",
+        "name": "north land"
     },
     {
         "id": "12",
