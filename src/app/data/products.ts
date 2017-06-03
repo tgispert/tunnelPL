@@ -1979,6 +1979,478 @@ export const Products : PricingList[] = [
         name: 'polera',
         code: '',
         price: 930
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'argon ice',
+        code: '',
+        price: 4950
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'white locks',
+        code: '',
+        price: 4950
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'bugaboo parka',
+        code: '',
+        price: 5750
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'bugaboo shell',
+        code: '',
+        price: 5750
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'whirlbird oh',
+        code: '',
+        price: 8990
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'outer west',
+        code: '',
+        price: 5100
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
+        name: 'bugaboo interchange oh',
+        code: '',
+        price: 6300
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'aurora ice',
+        code: 'wl5425',
+        price: 2475
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'columbia blues',
+        code: 'al7212',
+        price: 1375
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'falmouth 2',
+        code: 'wl3094',
+        price: 2310
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'gotcha grooving',
+        code: 'sl5464',
+        price: 3100
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'kaleidaslope oh',
+        code: 'wl4045',
+        price: 4300
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'mercury maver',
+        code: '',
+        price: 6150
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'pommier glade',
+        code: 'el5454',
+        price: 4675
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'varaluck',
+        code: 'el5459',
+        price: 5400
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'varaluck 2',
+        code: 'el5082',
+        price: 5400
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'varaluck tapado',
+        code: '',
+        price: 7200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'verglas',
+        code: 'el5462',
+        price: 3090
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'trillium',
+        code: '',
+        price: 2750
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'buhermut pass',
+        code: '',
+        price: 5270
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'powerfly',
+        code: '',
+        price: 7590
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'shimmer me hood',
+        code: '',
+        price: 5049
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'garson pass',
+        code: '',
+        price: 5390
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'bugaboo',
+        code: '',
+        price: 5270
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: '*mighty lite tapado',
+        code: '',
+        price: 5720
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'mighty lite jkt',
+        code: '',
+        price: 4100
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'melange',
+        code: '',
+        price: 5390
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'powder pillo tapado',
+        code: '',
+        price: 4599
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'alpin action',
+        code: '',
+        price: 5390
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'goto c/capucha',
+        code: '',
+        price: 4300
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: '*hillfire tapado',
+        code: '',
+        price: 6700
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'mercury tapado',
+        code: '',
+        price: 6380
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'flash forward',
+        code: '',
+        price: 4500
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'vista e',
+        code: '',
+        price: 3900
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'flash forward parka',
+        code: '',
+        price: 5300
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'mercury maver tapado',
+        code: '',
+        price: 6670
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'down diva tapado',
+        code: '',
+        price: 7249
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'melange maven',
+        code: '',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'mercury maven',
+        code: 'wl1468',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'power dreams rev',
+        code: 'sl1039',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'resolute',
+        code: 'el1058',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'trail twist',
+        code: '',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'verglas',
+        code: 'el1061',
+        price: 2800
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'mighty lite',
+        code: '',
+        price: 3000
+      },
+      {
+        brand: 'columbia',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'power pillow',
+        code: '',
+        price: 2750
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'glacial gleam',
+        code: 'wl6557',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'kruser ridge',
+        code: 'wl6081',
+        price: 3200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'landlash',
+        code: 'wl6659',
+        price: 3180
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'phurtec',
+        code: '',
+        price: 4200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'soft drop',
+        code: '',
+        price: 2740
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'sure fire',
+        code: '',
+        price: 2090
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'sweet slope c/capucha',
+        code: 'wl6440',
+        price: 2410
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'trail time',
+        code: 'el6510',
+        price: 2200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'trail twist',
+        code: 'tl6221',
+        price: 2200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'winter ace',
+        code: 'wl6375',
+        price: 2310
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'sweet as',
+        code: '',
+        price: 3100
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'trail twist 2',
+        code: 'al3036',
+        price: 2200
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'luxford',
+        code: '',
+        price: 2420
+      },
+      {
+        brand: 'columbia',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'techtonic',
+        code: '',
+        price: 3960
       }
     ]
   },
