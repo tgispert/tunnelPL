@@ -12,6 +12,10 @@
     border: 0.1px solid #444;
 }
 
+#marca-seleccionada{
+    margin-top: 10px;
+}
+
 .glyphicon{
     cursor: pointer
 }
@@ -19,6 +23,10 @@
 #main-container{
     background-color: black;
     color: yellow;
+}
+
+table{
+    text-transform: uppercase;
 }
 
 tr:nth-child(even){
