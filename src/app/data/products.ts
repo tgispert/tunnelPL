@@ -2451,6 +2451,158 @@ export const Products : PricingList[] = [
         name: 'techtonic',
         code: '',
         price: 3960
+      },
+      {
+        brand: 'columbia',
+        class: 'campera sport',
+        gender: 'dama',
+        name: 'wicked summit',
+        code: '',
+        price: 1050
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'benton springs',
+        code: 'pl6327',
+        price: 1120
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'benton springs vest',
+        code: 'wl1023',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'fast trek f/z',
+        code: 'al6542',
+        price: 1350
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'fast trek hoodie',
+        code: '',
+        price: 1500
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'glacial h/z',
+        code: 'al6413',
+        price: 1000
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'glacial h/z 3',
+        code: 'al6389',
+        price: 1000
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'intrepid f/z',
+        code: 'el6271',
+        price: 1590
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'kerby c/guarda',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'microvantage f/z',
+        code: 'el6882',
+        price: 1500
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'microvantage h/z',
+        code: 'el6883',
+        price: 1290
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: '*shapphire sky vest',
+        code: 'wl1017',
+        price: 1350
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'twilight c/capucha',
+        code: 'wl3155',
+        price: 990
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'heat 360 f/z',
+        code: '',
+        price: 2590
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'heat 360 h/z',
+        code: '',
+        price: 2310
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'cross light h/z',
+        code: '',
+        price: 2600
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'fuller s/capucha',
+        code: '',
+        price: 2150
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'fuller c/capucha',
+        code: '',
+        price: 2450
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'titan pass',
+        code: '',
+        price: 2400
       }
     ]
   },
