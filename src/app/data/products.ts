@@ -648,7 +648,7 @@ export const Products : PricingList[] = [
         brand: 'columbia',
         class: 'chaleco',
         gender: 'hombre',
-        name: 'silver',
+        name: 'silver ridge',
         code: '',
         price: 2600
       },
@@ -2603,6 +2603,862 @@ export const Products : PricingList[] = [
         name: 'titan pass',
         code: '',
         price: 2400
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'cougar flats',
+        code: 'rl3007',
+        price: 1400
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'drynamo',
+        code: 'rl3032',
+        price: 690
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'power paces',
+        code: 'wl3002',
+        price: 1690
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'sierra madre',
+        code: 'wl2049',
+        price: 1690
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'switchback',
+        code: 'rl3029',
+        price: 2050
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'evapouration',
+        code: 'rl2023',
+        price: 4400
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'arcadia 2 jkt',
+        code: 'rl2436',
+        price: 2900
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'sleemer',
+        code: '',
+        price: 3790
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: 'flash back',
+        code: '',
+        price: 1399
+      },
+      {
+        brand: 'columbia',
+        class: 'campera rompeviento',
+        gender: 'dama',
+        name: '*pardor trench',
+        code: '',
+        price: 3150
+      },
+      {
+        brand: 'columbia',
+        class: 'algodon',
+        gender: 'dama',
+        name: 'hart mountain camp',
+        code: '',
+        price: 1290
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'elkhorn',
+        code: '',
+        price: 1390
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'elkhorn desmontable',
+        code: 'el8303',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'explorer',
+        code: '',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'psych to hike',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'silver ridge desmontable',
+        code: '',
+        price: 2490
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'silver ridge fijo',
+        code: '',
+        price: 2190
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'tryson creek',
+        code: 'al8514',
+        price: 1000
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'venture',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'x-mile',
+        code: '',
+        price: 1090
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'awesome',
+        code: '',
+        price: 1590
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'rapid run calza',
+        code: '',
+        price: 1590
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'bugaboo',
+        code: '',
+        price: 2500
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'arch cape',
+        code: '',
+        price: 1050
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'cape kiwanda',
+        code: '',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'dolomite',
+        code: '',
+        price: 1270
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'explorer',
+        code: '',
+        price: 1090
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'go easy',
+        code: '',
+        price: 1160
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'psych to hike',
+        code: '',
+        price: 1090
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'royal trek',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'silver ridge capri',
+        code: '',
+        price: 1300
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'silver ridge strech short',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'trekster',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'mt awesome capri',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'rapid run calza',
+        code: '',
+        price: 1200
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'trail dash short',
+        code: '',
+        price: 999
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'saturday trail',
+        code: '',
+        price: 1270
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'sandy river',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'silver ridge bermuda',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'trail bound calza',
+        code: '',
+        price: 1590
+      },
+      {
+        brand: 'columbia',
+        class: 'bermuda short',
+        gender: 'dama',
+        name: 'awesome short',
+        code: '',
+        price: 1210
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'psych to hike m/c',
+        code: '',
+        price: 1160
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'silver ridge m/c',
+        code: '',
+        price: 1300
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'silver ridge elast m/c',
+        code: '',
+        price: 1300
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'tamiami m/c',
+        code: '',
+        price: 1250
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'bay view 3/4',
+        code: '',
+        price: 1090
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'psych to hike m/l',
+        code: '',
+        price: 1320
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'silver ridge m/l',
+        code: '',
+        price: 1650
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'silver ridge elast m/l',
+        code: '',
+        price: 1650
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'tamiami m/l',
+        code: '',
+        price: 1550
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'henry m/l',
+        code: '',
+        price: 1400
+      },
+      {
+        brand: 'columbia',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'diamond cuadros m/c',
+        code: '',
+        price: 1270
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'cool rules',
+        code: 'tl7219',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'innisfree polo',
+        code: 'fl6084',
+        price: 1050
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'journey polo o dry',
+        code: 'tl6692',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'mountain tech m/c',
+        code: '',
+        price: 650
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'mountain tech m/l',
+        code: '',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'pebbled 2',
+        code: '',
+        price: 660
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'pebbled rayada',
+        code: '',
+        price: 720
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'polo shirt',
+        code: '',
+        price: 660
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'rocky ridge stripe polo',
+        code: 'al6274',
+        price: 960
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'silver ridge m/c',
+        code: 'el6063',
+        price: 690
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'freeze m/c',
+        code: '',
+        price: 950
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'freeze musculosa',
+        code: '',
+        price: 900
+      },
+      {
+        brand: 'columbia',
+        class: 'remera chomba musculosa',
+        gender: 'dama',
+        name: 'zero rules',
+        code: '',
+        price: 850
+      },
+      {
+        brand: 'columbia',
+        class: 'campera',
+        gender: 'niño',
+        name: 'glacier',
+        code: '',
+        price: 2990
+      },
+      {
+        brand: 'columbia',
+        class: 'campera',
+        gender: 'niño',
+        name: 'snow back',
+        code: '',
+        price: 2990
+      },
+      {
+        brand: 'columbia',
+        class: 'campera',
+        gender: 'niño',
+        name: '*boar beauty',
+        code: '',
+        price: 2990
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'niño',
+        name: 'fast trek h/z',
+        code: '',
+        price: 790
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'niño',
+        name: 'fast trek f/z',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'niño',
+        name: 'benton springs',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'niño',
+        name: 'benton springs c/capucha',
+        code: '',
+        price: 960
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon ski',
+        gender: 'niño',
+        name: 'epic explorer',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'pantalon ski',
+        gender: 'niño',
+        name: 'snow slope',
+        code: '',
+        price: 2290
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'niño',
+        name: 'under shirt',
+        code: '',
+        price: 490
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'niño',
+        name: 'under pant',
+        code: '',
+        price: 490
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'hombre',
+        name: 'under shirt',
+        code: '',
+        price: 799
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'hombre',
+        name: 'under pant',
+        code: '',
+        price: 799
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'dama',
+        name: 'under shirt',
+        code: '',
+        price: 699
+      },
+      {
+        brand: 'columbia',
+        class: 'termico',
+        gender: 'dama',
+        name: 'under pant',
+        code: '',
+        price: 699
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'cuello mag',
+        code: '',
+        price: 250
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'cuello polar',
+        code: '',
+        price: 190
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro peak ascent',
+        code: '',
+        price: 400
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro perovian',
+        code: '',
+        price: 390
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro perovian jr',
+        code: '',
+        price: 390
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro whirlbird',
+        code: '',
+        price: 390
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'medias x3',
+        code: '',
+        price: 320
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'soquetes x3',
+        code: '',
+        price: 290
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'tamiami cachalot 2',
+        code: '',
+        price: 550
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro alpine run',
+        code: '',
+        price: 329
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro hampton trail',
+        code: '',
+        price: 329
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'city trek miton jr',
+        code: '',
+        price: 390
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro diamond',
+        code: '',
+        price: 690
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro parallel',
+        code: '',
+        price: 590
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro termarator',
+        code: '',
+        price: 390
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'morral',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: '*mochila grandel',
+        code: '',
+        price: 790
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'media larga hiker lite',
+        code: '',
+        price: 275
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'soquete trail microtab',
+        code: '',
+        price: 250
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: '*media corta trail mini crem',
+        code: '',
+        price: 250
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro cup logo 2',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'guante ascender softshell',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro silver ridge',
+        code: '',
+        price: 590
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro bora bora',
+        code: '',
+        price: 645
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'hombre',
+        name: 'gorro cup silver ridge hombre',
+        code: '',
+        price: 519
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'dama',
+        name: 'gorro cup silver ridge dama',
+        code: '',
+        price: 540
+      },
+      {
+        brand: 'columbia',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'gorro cup coolhead',
+        code: '',
+        price: 450
       }
     ]
   },
