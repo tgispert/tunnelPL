@@ -3459,27 +3459,1238 @@ export const Products : PricingList[] = [
         name: 'gorro cup coolhead',
         code: '',
         price: 450
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'bugaboot plus',
+        code: 'bm1490',
+        price: 2574
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'bugated lite',
+        code: 'bm1443',
+        price: 3200
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'drainmaker',
+        code: 'bm3673',
+        price: 1539
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kaibab',
+        code: 'bm35600',
+        price: 1375
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kaibab plus',
+        code: 'bm3662',
+        price: 1375
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '*lif top',
+        code: 'bm1525',
+        price: 3800
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'lone rock',
+        code: 'bm3694',
+        price: 1410
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'master of faster low',
+        code: 'bm3666',
+        price: 1815
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'ravenous',
+        code: 'bm3556',
+        price: 1716
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'ravenous ot',
+        code: 'bm3677',
+        price: 1839
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'romero trail',
+        code: 'bm3657',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'shasta ridge',
+        code: 'bm1370',
+        price: 1694
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'switchback',
+        code: 'bm3674',
+        price: 1550
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'switchback ot',
+        code: 'bm3577',
+        price: 1947
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'walla walla mid',
+        code: 'bm3637',
+        price: 1716
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'walla walla',
+        code: 'bm3636',
+        price: 1430
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'hells peak',
+        code: '',
+        price: 3267
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'northbend low',
+        code: '',
+        price: 1584 
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'drainmaker sup',
+        code: 'bm4334',
+        price: 1539
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'granite pass mid',
+        code: '',
+        price: 2750
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'northbend mid ot',
+        code: '',
+        price: 2519
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'woodvine cvs',
+        code: '',
+        price: 1815
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'big cedar mid',
+        code: '',
+        price: 2585
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'newton ridge mid',
+        code: '',
+        price: 2722
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'peak f mid',
+        code: '',
+        price: 3950
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'reamond mid',
+        code: '',
+        price: 3550
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'reamond zapatilla',
+        code: '',
+        price: 3450
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'plains butte',
+        code: '',
+        price: 3200
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'snow cross',
+        code: '',
+        price: 4000
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sandalia techsun h20',
+        code: '',
+        price: 1550
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sandalia techsun flip',
+        code: 'bm4390',
+        price: 1250
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sandalia watu 2',
+        code: '',
+        price: 1650
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sandalia whidby',
+        code: '',
+        price: 1650
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sandalia techsun 3 camo',
+        code: '',
+        price: 1650
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '*sandalia weather shot',
+        code: '',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bugaboot',
+        code: '',
+        price: 4180
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'coremic ridge',
+        code: 'bl3620',
+        price: 1800
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'heather canyon',
+        code: 'bl3571',
+        price: 2390
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'kaibab',
+        code: 'bl3571',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'kaibab plus',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'lone rock',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'master of faster',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'newton ridge',
+        code: '',
+        price: 2690
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'ravenous',
+        code: 'bl3567',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'ravenous ot',
+        code: 'bl3677',
+        price: 2390
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'romero trail',
+        code: 'bl3657',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'shasta ridge mid',
+        code: 'bl3708',
+        price: 2690
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'shastalavista low',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'shastalavista bota ot',
+        code: 'bl3634',
+        price: 2690
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'switchback',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'tagori',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'walla walla mid',
+        code: 'bl3637',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'drainsock',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'whitney ridge',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'drainmaker slip',
+        code: 'bl4344',
+        price: 1790
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'northbend',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'sandalia nassau',
+        code: '',
+        price: 1250
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'sandalia sun godess',
+        code: '',
+        price: 1250
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'sandalia sun light',
+        code: '',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'sandalia surf tide',
+        code: '',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'sandalia techsun',
+        code: '',
+        price: 1600
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'sandalia powder down jr hasta 4',
+        code: '',
+        price: 800
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'sandalia powder down jr desde 4 1/2',
+        code: '',
+        price: 879
       }
     ]
   },
   {
-    brand: 'nexxt',
+    brand: 'absolut',
     products: [
       {
-        brand: 'nexxt',
-        class: 'campera desmontable',
+        brand: 'absolut',
+        class: 'calzado',
         gender: 'hombre',
-        name: 'nombre1',
-        code: 'asd1234',
-        price: 1503
+        name: 'zapatilla baja',
+        code: '',
+        price: 1290
       },
       {
-        brand: 'nexxt',
-        class: 'campera fija',
+        brand: 'absolut',
+        class: 'calzado',
         gender: 'hombre',
-        name: 'nombre2',
-        code: 'fff1515',
-        price: 1504
+        name: 'zapatilla alta vintage lona',
+        code: '',
+        price: 1290
+      },
+      {
+        brand: 'absolut',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla alta vintage cuero',
+        code: '',
+        price: 1290
+      },
+      {
+        brand: 'absolut',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla white',
+        code: '',
+        price: 1690
+      }
+    ]
+  },
+  {
+    brand: 'allstar',
+    products: [
+      {
+        brand: 'allstar',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla baja',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'allstar',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla alta',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'allstar',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla nautica c/cordon',
+        code: '',
+        price: 890
+      }
+    ]
+  },
+  {
+    brand: 'arido',
+    products: [
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'mocasin',
+        code: '132',
+        price: 690
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'fransicana',
+        code: '102',
+        price: 550
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'fransicana',
+        code: '103',
+        price: 550
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'malaga mocasin',
+        code: '123',
+        price: 890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'malaga mocasin',
+        code: '125',
+        price: 890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'malaga mocasin',
+        code: '126',
+        price: 890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'nautico acrodonado engrasado',
+        code: '228',
+        price: 1690
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'nautico cuero bicolor',
+        code: '328',
+        price: 1690
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'mocasin cuero bicolor',
+        code: '329',
+        price: 1690
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'varios',
+        code: '331/931',
+        price: 1690
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota montar aros',
+        code: '3001',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota 2 hebillas',
+        code: '3002',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota montar punta',
+        code: '4001',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '2011',
+        price: 2590
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '3000',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '6001',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '7002',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '7004',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '7005',
+        price: 2890
+      },
+      {
+        brand: 'arido',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'bota',
+        code: '9001',
+        price: 2590
+      }
+    ]
+  },
+  {
+    brand: 'diesel',
+    products: [
+      {
+        brand: 'diesel',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapatilla recnkack',
+        code: '',
+        price: 690
+      },
+      {
+        brand: 'diesel',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'yunk scarpe mopiuk',
+        code: '',
+        price: 690
+      }
+    ]
+  },
+  {
+    brand: 'crocs',
+    products: [
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'walu',
+        code: '',
+        price: 1250
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'classic',
+        code: '',
+        price: 530
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'niño y junior hasta M3/W5',
+        code: '',
+        price: 350
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'mocasin santa cruz',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'band leopardo',
+        code: '',
+        price: 749
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'band kids',
+        code: '',
+        price: 550
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'piel',
+        code: '',
+        price: 799
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'piel jr',
+        code: '',
+        price: 715
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'sport glog importada',
+        code: '',
+        price: 1199
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'baya',
+        code: '',
+        price: 690
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'sport glog importada kids',
+        code: '',
+        price: 979
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'sport glog nacional',
+        code: '',
+        price: 858
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'sport glog nacional kids',
+        code: '',
+        price: 726
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'yukon',
+        code: '',
+        price: 1200
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'baya flip',
+        code: '',
+        price: 473
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'kids tortugas ninja',
+        code: '',
+        price: 790
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'niño',
+        name: 'band sandalia niño',
+        code: '',
+        price: 1150
+      },
+      {
+        brand: 'crocs',
+        class: 'calzado',
+        gender: 'unisex',
+        name: 'pin',
+        code: '',
+        price: 89
+      }
+    ]
+  },
+  {
+    brand: 'escorpio',
+    products: [
+      {
+        brand: 'escorpio',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'bota jr',
+        code: '126',
+        price: 529
+      }
+    ]
+  },
+  {
+    brand: 'coca cola',
+    products: [
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'ojota',
+        code: '2066/7',
+        price: 349
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'ojota',
+        code: '2014 y resto',
+        price: 269
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'mica mid',
+        code: '0534',
+        price: 1390
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'lumina',
+        code: '1049',
+        price: 990
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '0540',
+        price: 1290
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'miami onca',
+        code: '0882',
+        price: 950
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'iate print',
+        code: '0926',
+        price: 890
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '0927',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '0936',
+        price: 950
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'atacama',
+        code: '0511',
+        price: 1290
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'baltor',
+        code: '0951',
+        price: 1590
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kick summer',
+        code: '0471',
+        price: 990
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'viral',
+        code: '0456',
+        price: 1390
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'gossip mid',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kick tela',
+        code: '1126',
+        price: 890
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kick matelasse',
+        code: '1042',
+        price: 990
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '797',
+        price: 790
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'montreal',
+        code: '0749',
+        price: 990
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '0784',
+        price: 1490
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '0782',
+        price: 1099
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kick savory castor',
+        code: '1125',
+        price: 1390
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'cestaria cinza',
+        code: '1014',
+        price: 899
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kick pixel preto',
+        code: '1039',
+        price: 799
+      }
+    ]
+  },
+  {
+    brand: 'hi tec',
+    products: [
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'bahama sport',
+        code: '',
+        price: 2000
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'altitud 4',
+        code: '',
+        price: 3990
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sierra mid',
+        code: '',
+        price: 1900
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'deimos',
+        code: '',
+        price: 1800
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'lima mid',
+        code: '',
+        price: 2499
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sensor',
+        code: '',
+        price: 1890
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'snow peak mid',
+        code: '',
+        price: 3690
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sonoma mid',
+        code: '',
+        price: 3299
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'tortola',
+        code: '',
+        price: 1950
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'wolf river',
+        code: '',
+        price: 1490
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sentimellow',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'ezzez',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'estratos mid',
+        code: '',
+        price: 2600
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'logan mid',
+        code: '',
+        price: 2750
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'sentinel mid',
+        code: '',
+        price: 2250
       }
     ]
   }

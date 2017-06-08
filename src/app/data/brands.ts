@@ -177,7 +177,7 @@ export const Brands = [
     },
     {
         "id": "38",
-        "name": "escrorpio"
+        "name": "escorpio"
     },
     {
         "id": "16",
