@@ -117,7 +117,7 @@ export const Brands = [
     },
     {
         "id": "70",
-        "name": "cool port"
+        "name": "coal port"
     },
     {
         "id": "71",
@@ -381,7 +381,7 @@ export const Brands = [
     },
     {
         "id": "150",
-        "name": "north land"
+        "name": "north face"
     },
     {
         "id": "12",
