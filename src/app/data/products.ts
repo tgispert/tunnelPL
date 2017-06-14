@@ -12118,6 +12118,638 @@ export const Products : PricingList[] = [
         name: 'neill softshell',
         code: '',
         price: 2990
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'trim',
+        code: '',
+        price: 4230
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'mandarin 3l',
+        code: '',
+        price: 4230
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'mountain',
+        code: '',
+        price: 4230
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'downlite',
+        code: '',
+        price: 4230
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'niño',
+        name: 'storm jr',
+        code: '',
+        price: 3650
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'lin chaleco polar',
+        code: '',
+        price: 780
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'lin jkt',
+        code: '',
+        price: 1190
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'walkhome overpant liviano',
+        code: '',
+        price: 1190
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'warmtrek secado rapido con abrigo',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'ultimate snowboard nylon',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'universe ski nylon',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'carb ski softshell',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'unisex',
+        name: 'glimmer nive c/cierres',
+        code: '',
+        price: 3650
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'buzo edge micropolar',
+        code: '',
+        price: 1190
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'rim h/z',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'rim jkt',
+        code: '',
+        price: 1120
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'myo h/z',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'myo jkt',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'zen jkt',
+        code: '',
+        price: 1120
+      },
+      {
+        brand: 'nexxt',
+        class: 'polar micropolar',
+        gender: 'hombre',
+        name: 'palos ski x2',
+        code: '',
+        price: 790
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'ying fija',
+        code: '',
+        price: 3170
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'freestyle fija',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'offslope fija',
+        code: '',
+        price: 3170
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'zenit fija',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'cinnamon duvet c/mangas desm',
+        code: '',
+        price: 4229
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'halfmoon desmontable',
+        code: '',
+        price: 4360
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'robbin desmontable',
+        code: '',
+        price: 5150
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'icebreaker desmontable',
+        code: '',
+        price: 4229
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'hangover desmontable',
+        code: '',
+        price: 4229
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'dolphin softshell 8000mm wp',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'downunder softshell peludo',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'upsidedown softshell 1500mm',
+        code: '',
+        price: 2500
+      },
+      {
+        brand: 'nexxt',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'puffball chaleco duvet',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'windy chaleco fotografo',
+        code: '',
+        price: 1490
+      },
+      {
+        brand: 'nexxt',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'icy chaleco sintetico',
+        code: '',
+        price: 1890
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'victory',
+        code: '',
+        price: 3690
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'cora',
+        code: '',
+        price: 3100
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera softshell',
+        gender: 'dama',
+        name: 'nelli softshell',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'chaleco',
+        gender: 'dama',
+        name: 'upsidedown chaleco',
+        code: '',
+        price: 1790
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'dama',
+        name: 'curly piel',
+        code: '',
+        price: 2990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'breakthrough ski nylon',
+        code: '',
+        price: 2590
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'endurance ski nylon',
+        code: '',
+        price: 2590
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'earl ski softshell 8000mm wp',
+        code: '',
+        price: 2590
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'warmtrek',
+        code: '',
+        price: 2590
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'guante roi desm',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'guante retro',
+        code: '',
+        price: 820
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'guante miller',
+        code: '',
+        price: 820
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'cuello mag',
+        code: '',
+        price: 250
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'unisex',
+        name: 'remera protherm',
+        code: '',
+        price: 520
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'unisex',
+        name: 'pantalon protherm',
+        code: '',
+        price: 520
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'niño',
+        name: 'remera jr',
+        code: '',
+        price: 420
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'niño',
+        name: 'pantalon jr',
+        code: '',
+        price: 420
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'unisex',
+        name: 'remera micro dry',
+        code: '',
+        price: 660
+      },
+      {
+        brand: 'nexxt',
+        class: 'termico',
+        gender: 'unisex',
+        name: 'pantalon micro dry',
+        code: '',
+        price: 720
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'palo x2 trekking',
+        code: '',
+        price: 720
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'henry 2 en 1',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'mercury',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'milestone',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'subway',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'short one way',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'short move',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'short amphibious',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'short lewis',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'hombre',
+        name: 'short brighton',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'short rock',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'short railway capri',
+        code: '',
+        price: 1290
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'capri subway',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'dama',
+        name: 'railway',
+        code: '',
+        price: 1690
+      },
+      {
+        brand: 'nexxt',
+        class: 'camisa',
+        gender: 'hombre',
+        name: 'todas',
+        code: '',
+        price: 1150
+      },
+      {
+        brand: 'nexxt',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'todas',
+        code: '',
+        price: 1150
+      },
+      {
+        brand: 'nexxt',
+        class: 'camisa',
+        gender: 'hombre',
+        name: 'todas',
+        code: '',
+        price: 799
+      },
+      {
+        brand: 'nexxt',
+        class: 'camisa',
+        gender: 'dama',
+        name: 'todas',
+        code: '',
+        price: 799
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'niño',
+        name: 'zephyr jkt',
+        code: '',
+        price: 1890
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'niño',
+        name: 'asteroid jkt c/trampa',
+        code: '',
+        price: 3250
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera softshell',
+        gender: 'niño',
+        name: 'gilant jkt softshell c/trampa',
+        code: '',
+        price: 2090
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'niño',
+        name: 'lullaby jkt',
+        code: '',
+        price: 1990
+      },
+      {
+        brand: 'nexxt',
+        class: 'campera',
+        gender: 'niño',
+        name: 'moondanger parka',
+        code: '',
+        price: 2500
+      },
+      {
+        brand: 'nexxt',
+        class: 'pantalon',
+        gender: 'niño',
+        name: 'universe pant ski',
+        code: '',
+        price: 2150
+      },
+      {
+        brand: 'nexxt',
+        class: 'accesorio',
+        gender: 'niño',
+        name: 'guante miller jr',
+        code: '',
+        price: 679
       }
     ]
   }
