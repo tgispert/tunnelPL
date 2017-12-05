@@ -1,0 +1,6 @@
+<div id="search-bar" class="input-group" *ngIf="isSelected">
+  <span class="input-group-addon">
+    <i class="glyphicon glyphicon-search"></i>
+  </span>
+  <input type="text" class="form-control" placeholder="NOMBRE" (keyup)="toSearch($event.target.value)">
+</div>

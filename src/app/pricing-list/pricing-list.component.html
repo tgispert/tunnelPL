@@ -1,0 +1,41 @@
+<div id="main-container">
+  <div id="listaMarcas" *ngIf="!isSelected">
+    <div *ngFor="let brand of brands">
+      <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
+    </div>
+  </div>
+
+  <div id="search-bar" class="input-group" *ngIf="isSelected">
+    <span class="input-group-addon">
+      <i class="glyphicon glyphicon-search"></i>
+    </span>
+    <input type="text" class="form-control" placeholder="BUSCAR..." (keyup)="toSearch($event.target.value)">
+  </div>
+
+  <h3 id="marca-seleccionada" ng-change="changeList(selectedBrand)" *ngIf="isSelected">
+    {{selectedBrand}}
+    <span class="glyphicon glyphicon-remove" aria-hidden="true" (click)="exit()"></span>
+  </h3>
+
+  <table class="table" *ngIf="isSelected">
+    <thead>
+      <tr>
+        <th>Clase</th>
+        <th>Genero</th>
+        <th>Nombre</th>
+        <th>Codigo</th>
+        <th>Precio</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let producto of productos | pricingSearchName:filter">
+        <td>{{producto.class}}</td>
+        <td>{{producto.gender}}</td>
+        <td>{{producto.name}}</td>
+        <td>{{producto.code}}</td>
+        <td>{{producto.price}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>

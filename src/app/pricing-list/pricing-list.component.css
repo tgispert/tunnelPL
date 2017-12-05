@@ -1,0 +1,58 @@
+#listaMarcas{
+    height: 100vh;
+    padding-left: 1%;
+}
+
+.marca{
+    float: left;
+    width: 14.28%;
+    vertical-align: middle;
+    font-size: 1.5em;
+    cursor: pointer;
+    border: 0.1px solid #444;
+}
+
+#marca-seleccionada{
+    margin-top: 10px;
+}
+
+.glyphicon{
+    cursor: pointer
+}
+
+#main-container{
+    background-color: black;
+    color: yellow;
+}
+
+table{
+    text-transform: uppercase;
+}
+
+tr:nth-child(even){
+    background-color: #222
+}
+
+tr:nth-child(odd){
+    background-color: #333
+}
+
+#search-bar input{
+    background-color: #333;
+    border-color: yellow;
+    color: yellow;
+}
+
+#search-bar span{
+    background-color: #222;
+    border-color: yellow;
+    color: yellow;
+}
+
+#marca-seleccionada{
+    text-transform: uppercase;
+}
+
+.glyphicon{
+    font-size: 0.8em;
+}
