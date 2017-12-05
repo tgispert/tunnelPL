@@ -92,12 +92,16 @@ export const Brands = [
         "name": "castro"
     },
     {
-        "id": "66",
-        "name": "cayon"
-    },
-    {
         "id": "67",
         "name": "chevignon"
+    },
+    {
+        "id": "152",
+        "name": "christian dior"
+    },
+    {
+        "id": "70",
+        "name": "coal port"
     },
     {
         "id": "21",
@@ -116,12 +120,12 @@ export const Brands = [
         "name": "continent"
     },
     {
-        "id": "70",
-        "name": "coal port"
-    },
-    {
         "id": "71",
         "name": "costu menti"
+    },
+    {
+        "id": "66",
+        "name": "crayon"
     },
     {
         "id": "31",
@@ -142,6 +146,10 @@ export const Brands = [
     {
         "id": "68",
         "name": "custom made"
+    },
+    {
+        "id": "151",
+        "name": "dakine"
     },
     {
         "id": "74",
@@ -169,7 +177,7 @@ export const Brands = [
     },
     {
         "id": "75",
-        "name": "dunod"
+        "name": "dunond"
     },
     {
         "id": "76",
@@ -182,6 +190,10 @@ export const Brands = [
     {
         "id": "16",
         "name": "eyelit"
+    },
+    {
+        "id": "153",
+        "name": "exxes"
     },
     {
         "id": "83",
@@ -237,7 +249,7 @@ export const Brands = [
     },
     {
         "id": "94",
-        "name": "herny sacks"
+        "name": "henry sacks"
     },
     {
         "id": "37",
@@ -253,7 +265,7 @@ export const Brands = [
     },
     {
         "id": "26",
-        "name": "hope and glory"
+        "name": "hope & glory"
     },
     {
         "id": "92",
@@ -325,7 +337,7 @@ export const Brands = [
     },
     {
         "id": "108",
-        "name": "maitezi"
+        "name": "maitesi"
     },
     {
         "id": "109",
@@ -446,6 +458,10 @@ export const Brands = [
     {
         "id": "32",
         "name": "premier"
+    },
+    {
+        "id": "154",
+        "name": "priscia"
     },
     {
         "id": "123",
