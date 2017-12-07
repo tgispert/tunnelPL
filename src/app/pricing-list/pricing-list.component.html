@@ -1,7 +1,7 @@
 <div id="main-container">
-  <div id="listaMarcas" *ngIf="!isSelected">
-    <div *ngFor="let brand of brands">
-      <div class="marca" (click)="select(brand.name)">{{brand.name}}</div>
+  <div class="container" id="listaMarcas" *ngIf="!isSelected">
+    <div class="row" *ngFor="let brand of brands">
+      <div class="marca col-xs-offset-3 col-xs-6" (click)="select(brand.name)">{{brand.name}}</div>
     </div>
   </div>
 
