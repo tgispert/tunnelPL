@@ -31,11 +31,13 @@ export class PricingListComponent implements OnInit {
     this.isSelected = true;
     this.selectedBrand = value;
     this.productos = this.pricingDataService.getProducts(this.selectedBrand);
+    window.scrollTo(0,0);
   }
 
   exit(){
     this.isSelected = false;
     this.selectedBrand = "";
+    this.filter = "";
     this.productos = this.pricingDataService.getProducts('');
   }
 
