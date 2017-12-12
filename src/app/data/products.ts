@@ -3608,6 +3608,14 @@ export const Products : PricingList[] = [
         brand: 'columbia',
         class: 'calzado',
         gender: 'hombre',
+        name: 'master of faster',
+        code: 'bm3705',
+        price: 2266
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'hombre',
         name: 'ravenous',
         code: 'bm3556',
         price: 1716
@@ -3730,7 +3738,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'newton ridge mid',
         code: '',
-        price: 2722
+        price: 3990
       },
       {
         brand: 'columbia',
@@ -3738,7 +3746,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'peak f mid',
         code: '',
-        price: 3950
+        price: 3990
       },
       {
         brand: 'columbia',
@@ -3778,7 +3786,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sandalia techsun h20',
         code: '',
-        price: 1550
+        price: 1590
       },
       {
         brand: 'columbia',
@@ -3992,6 +4000,22 @@ export const Products : PricingList[] = [
         brand: 'columbia',
         class: 'calzado',
         gender: 'dama',
+        name: 'big cedar mid',
+        code: '',
+        price: 2690
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'redmond mid',
+        code: '',
+        price: 3410
+      },
+      {
+        brand: 'columbia',
+        class: 'calzado',
+        gender: 'dama',
         name: 'sandalia nassau',
         code: '',
         price: 1250
@@ -4109,9 +4133,25 @@ export const Products : PricingList[] = [
         brand: 'absolut',
         class: 'calzado',
         gender: 'hombre',
-        name: 'zapatilla white',
+        name: 'zapatilla cuero',
         code: '',
         price: 1690
+      },
+      {
+        brand: 'absolut',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapato vestir',
+        code: '',
+        price: 2490
+      },
+      {
+        brand: 'absolut',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'bota vestir',
+        code: '',
+        price: 2990
       },
       {
         brand: 'absolut',
@@ -4587,6 +4627,14 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'absolut',
+        class: 'blazer',
+        gender: 'hombre',
+        name: 'paño rivera',
+        code: '6059',
+        price: 6900
+      },
+      {
+        brand: 'absolut',
         class: 'camisa manga larga',
         gender: 'hombre',
         name: 'camisa seda',
@@ -4774,7 +4822,7 @@ export const Products : PricingList[] = [
         class: 'campera',
         gender: 'hombre',
         name: 'piloto',
-        code: '533',
+        code: '1533',
         price: 2990
       },
       {
@@ -4800,6 +4848,30 @@ export const Products : PricingList[] = [
         name: 'camp eco paño',
         code: '5025',
         price: 3290
+      },
+      {
+        brand: 'absolut',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'jkt camuf cam',
+        code: '5042',
+        price: 3490
+      },
+      {
+        brand: 'absolut',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'jkt cam nylon eng',
+        code: '502',
+        price: 4900
+      },
+      {
+        brand: 'absolut',
+        class: 'campera',
+        gender: 'hombre',
+        name: 'jkt cam nylon',
+        code: '502',
+        price: 2990
       },
       {
         brand: 'absolut',
@@ -4831,7 +4903,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: '*pantalon gabardina 5 pab black',
         code: '',
-        price: 1590
+        price: 1990
       },
       {
         brand: 'absolut',
@@ -5039,7 +5111,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer',
         code: '',
-        price: 329
+        price: 390
       },
       {
         brand: 'absolut',
@@ -5047,7 +5119,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'slip',
         code: '',
-        price: 279
+        price: 390
       },
       {
         brand: 'absolut',
@@ -5063,7 +5135,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chalina',
         code: '',
-        price: 579
+        price: 599
       },
       {
         brand: 'absolut',
@@ -5087,7 +5159,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'media x2',
         code: '',
-        price: 249
+        price: 320
       }
     ]
   },
@@ -5129,7 +5201,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'mocasin',
         code: '132',
-        price: 690
+        price: 890
       },
       {
         brand: 'arido',
@@ -5233,7 +5305,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'bota',
         code: '2011',
-        price: 2590
+        price: 2690
       },
       {
         brand: 'arido',
@@ -5516,8 +5588,16 @@ export const Products : PricingList[] = [
         class: 'calzado',
         gender: 'hombre',
         name: 'miami onca',
-        code: '0882',
+        code: '0872',
         price: 950
+      },
+      {
+        brand: 'coca cola',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'mika hombre',
+        code: '0882',
+        price: 1390
       },
       {
         brand: 'coca cola',
@@ -5783,6 +5863,14 @@ export const Products : PricingList[] = [
       {
         brand: 'hi tec',
         class: 'calzado',
+        gender: 'hombre',
+        name: 'forza mid',
+        code: '',
+        price: 3000
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
         gender: 'dama',
         name: 'kite mid',
         code: '',
@@ -5851,6 +5939,22 @@ export const Products : PricingList[] = [
         name: 'estratos mid',
         code: '',
         price: 2600
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'altitud',
+        code: '',
+        price: 3500
+      },
+      {
+        brand: 'hi tec',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'montevideo',
+        code: '',
+        price: 2650
       },
       {
         brand: 'hi tec',
@@ -6281,7 +6385,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'zapato vestir',
         code: '',
-        price: 1990
+        price: 2290
       },
       {
         brand: 'jr',
@@ -6553,6 +6657,14 @@ export const Products : PricingList[] = [
         name: '',
         code: '122',
         price: 1690
+      },
+      {
+        brand: 'trackers',
+        class: 'calzado',
+        gender: 'hombre',
+        name: '',
+        code: '1053',
+        price: 1690
       }
     ]
   },
@@ -6798,6 +6910,14 @@ export const Products : PricingList[] = [
         name: 'bota',
         code: '11002',
         price: 2590
+      },
+      {
+        brand: 'tunnel',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'zapato vestir',
+        code: '',
+        price: 2290
       },
       {
         brand: 'tunnel',
@@ -7682,7 +7802,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'mocasin',
         code: '1523',
-        price: 799
+        price: 890
       },
       {
         brand: 'praxis',
@@ -7690,7 +7810,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'mocasin',
         code: '1536',
-        price: 799
+        price: 890
       },
       {
         brand: 'praxis',
@@ -7751,7 +7871,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'seaband puntera',
         code: '260',
-        price: 379
+        price: 399
       },
       {
         brand: 'seawalk',
@@ -7775,7 +7895,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'seaband puntera',
         code: '270',
-        price: 429
+        price: 399
       },
       {
         brand: 'seawalk',
@@ -7783,7 +7903,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sueco',
         code: '300',
-        price: 279
+        price: 249
       },
       {
         brand: 'seawalk',
@@ -7966,7 +8086,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'jkt denim',
         code: '',
-        price: 1990
+        price: 2490
       },
       {
         brand: 'taverniti',
@@ -7974,7 +8094,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'jkt denim c/cord',
         code: '',
-        price: 2290
+        price: 2490
       },
       {
         brand: 'taverniti',
@@ -7990,7 +8110,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'jkt nylon inv',
         code: '',
-        price: 2930
+        price: 2990
       },
       {
         brand: 'taverniti',
@@ -8054,7 +8174,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'montgomery alg',
         code: '',
-        price: 2690
+        price: 3290
       },
       {
         brand: 'taverniti',
@@ -8086,7 +8206,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chaleco nylon',
         code: '',
-        price: 1790
+        price: 1890
       },
       {
         brand: 'taverniti',
@@ -8158,7 +8278,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'buzo polar y camp anteriores',
         code: '',
-        price: 1790
+        price: 1190
       },
       {
         brand: 'taverniti',
@@ -8262,7 +8382,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'musculosa dry fit',
         code: '',
-        price: 450
+        price: 690
       },
       {
         brand: 'taverniti',
@@ -8284,7 +8404,7 @@ export const Products : PricingList[] = [
         brand: 'taverniti',
         class: 'remera',
         gender: 'hombre',
-        name: 'remera m/c cuello v ray',
+        name: 'remera m/c cuello ray',
         code: '',
         price: 690
       },
@@ -8302,7 +8422,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'remera m/c dry fit',
         code: '',
-        price: 690
+        price: 890
       },
       {
         brand: 'taverniti',
@@ -8319,6 +8439,14 @@ export const Products : PricingList[] = [
         name: 'remera m/l lisa',
         code: '',
         price: 650
+      },
+      {
+        brand: 'taverniti',
+        class: 'remera',
+        gender: 'hombre',
+        name: 'remera m/l est',
+        code: '',
+        price: 790
       },
       {
         brand: 'taverniti',
@@ -8350,7 +8478,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chomba alg m/c lisa',
         code: '',
-        price: 799
+        price: 790
       },
       {
         brand: 'taverniti',
@@ -8358,7 +8486,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chomba alg m/c ray',
         code: '',
-        price: 799
+        price: 790
       },
       {
         brand: 'taverniti',
@@ -8690,6 +8818,14 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'taverniti',
+        class: 'buzo',
+        gender: 'dama',
+        name: 'buzo m/c',
+        code: '',
+        price: 890
+      },
+      {
+        brand: 'taverniti',
         class: 'remera camisa',
         gender: 'dama',
         name: 'musculosa y m/c alg',
@@ -8806,7 +8942,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'shirt m/l esc y denim',
         code: '',
-        price: 1290
+        price: 1590
       },
       {
         brand: 'taverniti',
@@ -8938,6 +9074,14 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'taverniti',
+        class: 'campera',
+        gender: 'dama',
+        name: 'montgomery nylon',
+        code: '3027',
+        price: 3990
+      },
+      {
+        brand: 'taverniti',
         class: 'falda short',
         gender: 'dama',
         name: 'short gab',
@@ -8990,7 +9134,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'falda denim',
         code: '',
-        price: 490
+        price: 990
       },
       {
         brand: 'taverniti',
@@ -9054,7 +9198,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer x2',
         code: '',
-        price: 580
+        price: 790
       },
       {
         brand: 'taverniti',
@@ -9062,7 +9206,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer alg liso',
         code: '',
-        price: 259
+        price: 350
       },
       {
         brand: 'taverniti',
@@ -9070,7 +9214,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer rebote',
         code: '',
-        price: 289
+        price: 390
       },
       {
         brand: 'taverniti',
@@ -9078,7 +9222,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer tela',
         code: '',
-        price: 289
+        price: 390
       },
       {
         brand: 'taverniti',
@@ -9086,7 +9230,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'boxer est',
         code: '',
-        price: 289
+        price: 390
       },
       {
         brand: 'taverniti',
@@ -9094,7 +9238,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'slip alg c/elast',
         code: '',
-        price: 229
+        price: 350
       },
       {
         brand: 'taverniti',
@@ -9102,7 +9246,7 @@ export const Products : PricingList[] = [
         gender: 'unisex',
         name: 'bufanda',
         code: '',
-        price: 699
+        price: 690
       },
       {
         brand: 'taverniti',
@@ -9334,7 +9478,7 @@ export const Products : PricingList[] = [
         brand: 'havaianas',
         class: 'calzado',
         gender: 'unisex',
-        name: 'smile',
+        name: 'style',
         code: '',
         price: 290
       },
@@ -11514,6 +11658,38 @@ export const Products : PricingList[] = [
         name: 'gorro shelpa trek',
         code: '',
         price: 590
+      },
+      {
+        brand: 'surfanic',
+        class: 'accesorio',
+        gender: 'hombre',
+        name: 'zammo camiseta termica hombre bossa',
+        code: '',
+        price: 900
+      },
+      {
+        brand: 'surfanic',
+        class: 'accesorio',
+        gender: 'dama',
+        name: 'sussi camiseta termica dama bossa camuflada',
+        code: '',
+        price: 840
+      },
+      {
+        brand: 'surfanic',
+        class: 'accesorio',
+        gender: 'dama',
+        name: 'calley camiseta termica dama h/z',
+        code: '',
+        price: 900
+      },
+      {
+        brand: 'surfanic',
+        class: 'accesorio',
+        gender: 'niño',
+        name: 'lockie camiseta termica niño bossa',
+        code: '',
+        price: 570
       },
       {
         brand: 'surfanic',
@@ -13926,6 +14102,62 @@ export const Products : PricingList[] = [
         name: 'bolso carrier',
         code: '',
         price: 3590
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'manaslu xt mid',
+        code: '',
+        price: 2900
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'broat xt mid',
+        code: '',
+        price: 3200
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'tron xt mid',
+        code: '',
+        price: 1970
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'huapi mid',
+        code: '',
+        price: 2550
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'hombre',
+        name: 'kang mid',
+        code: '',
+        price: 2150
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'khumbu',
+        code: '',
+        price: 1890
+      },
+      {
+        brand: 'nexxt',
+        class: 'calzado',
+        gender: 'dama',
+        name: 'kang mid',
+        code: '',
+        price: 2100
       }
     ]
   },
@@ -17514,6 +17746,14 @@ export const Products : PricingList[] = [
         name: 'riñonera running',
         code: '',
         price: 240
+      },
+      {
+        brand: 'skala',
+        class: 'accesorio',
+        gender: 'unisex',
+        name: 'colgante lentes',
+        code: '',
+        price: 80
       }
     ]
   },
@@ -23133,7 +23373,7 @@ export const Products : PricingList[] = [
       {
         brand: 'rica lewis',
         class: 'bermuda short',
-        gender: 'hombre',
+        gender: 'dama',
         name: 'short dama',
         code: '',
         price: 690
