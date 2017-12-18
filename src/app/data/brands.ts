@@ -364,6 +364,10 @@ export const Brands = [
         "name": "montaña"
     },
     {
+        "id": "155",
+        "name": "montreal"
+    },
+    {
         "id": "107",
         "name": "motor oil"
     },
@@ -445,7 +449,7 @@ export const Brands = [
     },
     {
         "id": "18",
-        "name": "polo club"
+        "name": "polo"
     },
     {
         "id": "6",
@@ -606,6 +610,10 @@ export const Brands = [
     {
         "id": "5",
         "name": "wrangler"
+    },
+    {
+        "id": "156",
+        "name": "wrangler anterior"
     },
     {
         "id": "145",
