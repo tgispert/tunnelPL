@@ -5225,7 +5225,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'fransicana',
         code: '102',
-        price: 550
+        price: 690
       },
       {
         brand: 'arido',
@@ -5233,7 +5233,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'fransicana',
         code: '103',
-        price: 550
+        price: 690
       },
       {
         brand: 'arido',
@@ -5685,7 +5685,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'kick tela',
         code: '1126',
-        price: 890
+        price: 990
       },
       {
         brand: 'coca cola',
@@ -12131,7 +12131,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chomba dry fit',
         code: '',
-        price: 590
+        price: 990
       },
       {
         brand: 'montagne',
@@ -17928,7 +17928,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA O.15 DESTROYED",
-          code: "05-1102-0765-86-01",
+          code: "1102-0765-86-01",
           price: 1099
         },
         {
@@ -17936,7 +17936,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA O.D 15 SW",
-          code: "05-1102-0765-94-01",
+          code: "1102-0765-94-01",
           price: 1099
         },
         {
@@ -17944,7 +17944,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA DENIM BLACK NEGRO",
-          code: "05-1102-1012-96-01",
+          code: "1102-1012-96-01",
           price: 1299
         },
         {
@@ -17952,7 +17952,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA ADVANCED EXTRA COMFORT DENIM C/",
-          code: "05-1102-1030-80-01",
+          code: "1102-1030-80-01",
           price: 1499
         },
         {
@@ -17960,7 +17960,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONT BLU.BL.S.W",
-          code: "05-1102-1042-94-01",
+          code: "1102-1042-94-01",
           price: 1099
         },
         {
@@ -17968,7 +17968,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA COAL BLACK PREWASHED",
-          code: "05-1102-1057-79-01",
+          code: "1102-1057-79-01",
           price: 1299
         },
         {
@@ -17976,7 +17976,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA OVERFIXED DIRTY S.W.LOCALIZADO",
-          code: "05-1102-1059-95-01",
+          code: "1102-1059-95-01",
           price: 1299
         },
         {
@@ -17984,7 +17984,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA DENIM INTENSE BLUE INDIGO",
-          code: "05-1102-1088-95-01",
+          code: "1102-1088-95-01",
           price: 1299
         },
         {
@@ -17992,7 +17992,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA NEW CAST NEW CAST KHAKY",
-          code: "05-1102-1123-43-01",
+          code: "1102-1123-43-01",
           price: 1299
         },
         {
@@ -18000,7 +18000,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA NEW CAST NEW CAST VERDE MUSGO",
-          code: "05-1102-1123-63-01",
+          code: "1102-1123-63-01",
           price: 1299
         },
         {
@@ -18008,7 +18008,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA NEW CAST NEW CAST GRIS PLOMO",
-          code: "05-1102-1123-77-01",
+          code: "1102-1123-77-01",
           price: 1299
         },
         {
@@ -18016,7 +18016,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA ADVANCED EXTRA COMF.ULTRA DIRTY",
-          code: "05-1102-1138-84-01",
+          code: "1102-1138-84-01",
           price: 1599
         },
         {
@@ -18024,7 +18024,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA ADV. EXTRA COMF.BLACK SUAV.",
-          code: "05-1102-1209-80-01",
+          code: "1102-1209-80-01",
           price: 1499
         },
         {
@@ -18032,7 +18032,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA COMFORT DENIM LIGHT BLUE GREY",
-          code: "05-1102-1210-90-01",
+          code: "1102-1210-90-01",
           price: 1599
         },
         {
@@ -18040,7 +18040,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA COMFORT DENIM LIGHT STONE WASH",
-          code: "05-1102-1215-86-01",
+          code: "1102-1215-86-01",
           price: 1599
         },
         {
@@ -18048,7 +18048,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MONTANA COMFORT DENIM DARK BLUE WASH",
-          code: "05-1102-1264-84-01",
+          code: "1102-1264-84-01",
           price: 1599
         },
         {
@@ -18056,7 +18056,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SPENCER LS DENIM LIGHT STONE WASH",
-          code: "05-1106-1157-94-01",
+          code: "1106-1157-94-01",
           price: 1799
         },
         {
@@ -18064,7 +18064,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SPENCER GABARD.C/ELAST.NEGRO SUAVIZADO",
-          code: "05-1106-1169-79-01",
+          code: "1106-1169-79-01",
           price: 1799
         },
         {
@@ -18072,7 +18072,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SPENCER DV DENIM DIRTY VINTAGE BLUE",
-          code: "05-1106-1210-95-01",
+          code: "1106-1210-95-01",
           price: 1799
         },
         {
@@ -18080,7 +18080,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SPENCER DS DENIM DARK STONE WASH",
-          code: "05-1106-1215-95-01",
+          code: "1106-1215-95-01",
           price: 1899
         },
         {
@@ -18088,7 +18088,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY COMFORT DENIM MID BLUE WASH",
-          code: "05-1108-1142-80-01",
+          code: "1108-1142-80-01",
           price: 1749
         },
         {
@@ -18096,7 +18096,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY ADVANCED EXTRA COMF.BLUE BLACK LOC.",
-          code: "05-1108-1155-84-01",
+          code: "1108-1155-84-01",
           price: 1749
         },
         {
@@ -18104,7 +18104,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY CORDEROY NEGRO ENZIMATICO",
-          code: "05-1108-1269-79-01",
+          code: "1108-1269-79-01",
           price: 1599
         },
         {
@@ -18112,7 +18112,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY CORDEROY BEIGE ENZIMATICO",
-          code: "05-1108-1270-01-01",
+          code: "1108-1270-01-01",
           price: 1599
         },
         {
@@ -18120,7 +18120,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY CORDEROY AZUL MARINO ENZIMATICO",
-          code: "05-1108-1273-38-01",
+          code: "1108-1273-38-01",
           price: 1599
         },
         {
@@ -18128,7 +18128,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY COMFORT DENIM LIGHT BLUE WASH",
-          code: "05-1108-1291-90-01",
+          code: "1108-1291-90-01",
           price: 1749
         },
         {
@@ -18136,7 +18136,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CODY COMFORT DENIM DARK STONE WASH",
-          code: "05-1108-1293-84-01",
+          code: "1108-1293-84-01",
           price: 1749
         },
         {
@@ -18144,7 +18144,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON COLOR GAB.MARENGO HEAVY SW",
-          code: "05-1140-1020-70-01",
+          code: "1140-1020-70-01",
           price: 1499
         },
         {
@@ -18152,7 +18152,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 DENIM 11OZ.BLUE VINTAGE",
-          code: "05-1140-1108-37-01",
+          code: "1140-1108-37-01",
           price: 1699
         },
         {
@@ -18160,7 +18160,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 BLUE DENIM 10OZ BLUE WASH",
-          code: "05-1140-1108-89-01",
+          code: "1140-1108-89-01",
           price: 1699
         },
         {
@@ -18168,7 +18168,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 DNO COMFORT DIRTY NEGRO",
-          code: "05-1140-1180-87-01",
+          code: "1140-1180-87-01",
           price: 1699
         },
         {
@@ -18176,7 +18176,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 GB COMFORT GREY BLUE",
-          code: "05-1140-1180-91-01",
+          code: "1140-1180-91-01",
           price: 1699
         },
         {
@@ -18184,7 +18184,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKT COMFORT C/ELASTANO ULTRA BLACK",
-          code: "05-1140-1496-79-01",
+          code: "1140-1496-79-01",
           price: 1699
         },
         {
@@ -18192,7 +18192,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 DS COMFORT DENIM C/ ELASTA",
-          code: "05-1140-1701-84-01",
+          code: "1140-1701-84-01",
           price: 1699
         },
         {
@@ -18200,7 +18200,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON 1947 MS COMFORT DENIM C/ ELASTA",
-          code: "05-1140-1701-94-01",
+          code: "1140-1701-94-01",
           price: 1699
         },
         {
@@ -18208,7 +18208,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON MEDIUM BLUE DENIM ELASTANO STL",
-          code: "05-1140-1740-85-01",
+          code: "1140-1740-85-01",
           price: 1299
         },
         {
@@ -18216,7 +18216,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON LIGHT DENIM ELASTANO LTL",
-          code: "05-1140-1740-86-01",
+          code: "1140-1740-86-01",
           price: 1299
         },
         {
@@ -18224,7 +18224,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCKTON DIRTY BLUE DENIM ELASTANO UW",
-          code: "05-1140-1740-96-01",
+          code: "1140-1740-96-01",
           price: 1299
         },
         {
@@ -18232,7 +18232,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUAL DNM PANT DNM INDI DARK LOC",
-          code: "05-1183-1562-84-01",
+          code: "1183-1562-84-01",
           price: 1999
         },
         {
@@ -18240,7 +18240,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUAL DENIM PANT ELASTANO TBD",
-          code: "05-1183-1755-94-01",
+          code: "1183-1755-94-01",
           price: 1999
         },
         {
@@ -18248,7 +18248,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICOLE ACTIVE STRECH C/ELAST MEDIUM",
-          code: "05-1200-1199-86-01",
+          code: "1200-1199-86-01",
           price: 1999
         },
         {
@@ -18256,7 +18256,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICOLE SHAPE KEEPER DEN C/ELASTANO DARK",
-          code: "05-1200-1201-95-01",
+          code: "1200-1201-95-01",
           price: 2199
         },
         {
@@ -18264,7 +18264,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICOLE SHAPE KEEPER DEN C/ELASTANO BLACK",
-          code: "05-1200-1201-96-01",
+          code: "1200-1201-96-01",
           price: 2199
         },
         {
@@ -18272,7 +18272,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICOLE DENIM INDIGO RAW WASH",
-          code: "05-1200-1701-80-01",
+          code: "1200-1701-80-01",
           price: 1599
         },
         {
@@ -18280,7 +18280,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIANCA CROPPED DENIM ULTRA STONE",
-          code: "05-1212-1294-85-01",
+          code: "1212-1294-85-01",
           price: 1799
         },
         {
@@ -18288,7 +18288,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIANCA DOBLADILLO DENIM DARK BLUE",
-          code: "05-1212-1295-84-01",
+          code: "1212-1295-84-01",
           price: 1599
         },
         {
@@ -18296,7 +18296,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIANCA ROTURAS DENIM DESTROYED",
-          code: "05-1212-1296-93-01",
+          code: "1212-1296-93-01",
           price: 1699
         },
         {
@@ -18304,7 +18304,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIANCA CROPPED DENIM BLUE",
-          code: "05-1212-1297-86-01",
+          code: "1212-1297-86-01",
           price: 1799
         },
         {
@@ -18312,7 +18312,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SALLIE OXFORD DENIM NEGRO LIGHT S.W+LOC",
-          code: "05-1228-1119-86-01",
+          code: "1228-1119-86-01",
           price: 1999
         },
         {
@@ -18320,7 +18320,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SALLY OXFORD DENIM CON ELAST INDI RAW W.",
-          code: "05-1228-1568-80-01",
+          code: "1228-1568-80-01",
           price: 1999
         },
         {
@@ -18328,7 +18328,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LIA EXTRA COMFORT JERSEY DENIM DIRTY OSC",
-          code: "05-1242-1196-85-01",
+          code: "1242-1196-85-01",
           price: 1999
         },
         {
@@ -18336,7 +18336,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LIA EXTRA COMFORT JERSEY DENIM MED LOC",
-          code: "05-1242-1196-95-01",
+          code: "1242-1196-95-01",
           price: 1999
         },
         {
@@ -18344,7 +18344,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEGAN BOOTCUT DENIM C/ ELAST.DARK S.W",
-          code: "05-1243-1293-84-01",
+          code: "1243-1293-84-01",
           price: 1799
         },
         {
@@ -18352,7 +18352,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEGAN BOOTCUT DEN C/ELAST.MED.S.W.",
-          code: "05-1243-1298-95-01",
+          code: "1243-1298-95-01",
           price: 1799
         },
         {
@@ -18360,7 +18360,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW LEGGING DENIM NEGRO SUAV",
-          code: "05-1247-1017-80-01",
+          code: "1247-1017-80-01",
           price: 1699
         },
         {
@@ -18368,7 +18368,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW LEGGING DENIM SW LOC",
-          code: "05-1247-1116-95-01",
+          code: "1247-1116-95-01",
           price: 1699
         },
         {
@@ -18376,7 +18376,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LEGGING POWER PUNTO ROMA PIACENZA NEGRO",
-          code: "05-1247-2171-79-01",
+          code: "1247-2171-79-01",
           price: 1199
         },
         {
@@ -18384,7 +18384,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER RELAXED DEN C/ELAS MED BLUE",
-          code: "05-1253-1205-91-01",
+          code: "1253-1291-01",
           price: 1799
         },
         {
@@ -18392,7 +18392,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MISSOURI DENIM INTENSE INDIGO",
-          code: "05-1257-1043-80-01",
+          code: "1257-1043-80-01",
           price: 1499
         },
         {
@@ -18400,7 +18400,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MISSOURI DENIM LINET MEGA BLACK BLACK",
-          code: "05-1257-1143-79-01",
+          code: "1257-1143-79-01",
           price: 1499
         },
         {
@@ -18408,7 +18408,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MISSOURI DENIM C/ELAST.DARK WASH LOC",
-          code: "05-1257-1403-84-01",
+          code: "1257-1403-84-01",
           price: 1599
         },
         {
@@ -18416,7 +18416,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MANDY GABARDINA NEGRO SUAVIZADO",
-          code: "05-1278-1004-79-01",
+          code: "1278-1004-79-01",
           price: 1599
         },
         {
@@ -18424,7 +18424,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MANDY DENIM INTENSE INDIGO",
-          code: "05-1278-1043-80-01",
+          code: "1278-1043-80-01",
           price: 1599
         },
         {
@@ -18432,7 +18432,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MANDY DENIM C/ELAST.DARK STONE WASH",
-          code: "05-1278-1141-84-01",
+          code: "1278-1141-84-01",
           price: 1699
         },
         {
@@ -18440,7 +18440,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MANDY DENIM C/ELAST.LIGHT BLUE WASH",
-          code: "05-1278-1206-88-01",
+          code: "1278-1206-88-01",
           price: 1699
         },
         {
@@ -18448,7 +18448,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY JEAN C/ELAST.LIGHT S.W.",
-          code: "05-1285-1076-86-01",
+          code: "1285-1076-86-01",
           price: 1799
         },
         {
@@ -18456,7 +18456,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON - NB DEN C/ELASTANO NIGHT BLUE",
-          code: "05-1301-1185-84-01",
+          code: "1301-1185-84-01",
           price: 1999
         },
         {
@@ -18464,7 +18464,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON - DG DEN C/ELASTANO DIRTY GREY",
-          code: "05-1301-1185-89-01",
+          code: "1301-1185-89-01",
           price: 1999
         },
         {
@@ -18472,7 +18472,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON ADV ACTIVE STRECH -RAW VINTAGE",
-          code: "05-1301-1186-80-01",
+          code: "1301-1186-80-01",
           price: 2199
         },
         {
@@ -18480,7 +18480,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON ADV ACTIVE STRECH - BLACK",
-          code: "05-1301-1186-84-01",
+          code: "1301-1186-84-01",
           price: 2199
         },
         {
@@ -18488,7 +18488,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON ADV ACTIVE STRECH -MED VTG",
-          code: "05-1301-1186-95-01",
+          code: "1301-1186-95-01",
           price: 2199
         },
         {
@@ -18496,7 +18496,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON MBL R DENIM BLUE MEDIO LOC",
-          code: "05-1301-1187-85-01",
+          code: "1301-1187-85-01",
           price: 1599
         },
         {
@@ -18504,7 +18504,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON DENIM C/ELAST.BLUE MEDIUM WASH",
-          code: "05-1301-1208-94-01",
+          code: "1301-1208-94-01",
           price: 1599
         },
         {
@@ -18512,7 +18512,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DEYTON DENIM C/ELAST.VINTAGE WASH",
-          code: "05-1301-1209-97-01",
+          code: "1301-1209-97-01",
           price: 1599
         },
         {
@@ -18520,7 +18520,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUAL FLAP PANT NUEVO D.6,9OZ AZUL MAR.",
-          code: "05-1308-1105-38-01",
+          code: "1308-1138-01",
           price: 1699
         },
         {
@@ -18528,7 +18528,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUAL FLAP PANT GABARDINA KHAKY",
-          code: "05-1308-1105-42-01",
+          code: "1308-1142-01",
           price: 1699
         },
         {
@@ -18536,7 +18536,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUAL FLAP PANT GABARDINA NOUGAT",
-          code: "05-1308-1105-47-01",
+          code: "1308-1147-01",
           price: 1699
         },
         {
@@ -18544,7 +18544,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LUCAS PANT FRENCH MOULINEX GRIS TOPO",
-          code: "05-1312-4911-37-01",
+          code: "1312-4911-37-01",
           price: 1299
         },
         {
@@ -18552,7 +18552,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON COLOR GAB.C/ELASTANO AZUL",
-          code: "05-1337-1128-38-01",
+          code: "1337-1128-38-01",
           price: 1499
         },
         {
@@ -18560,7 +18560,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON COLOR GAB.C/ELASTANO CHOCOLATE",
-          code: "05-1337-1128-48-01",
+          code: "1337-1128-48-01",
           price: 1499
         },
         {
@@ -18568,7 +18568,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON ADVANCE EXTRA COMFORT- USED W",
-          code: "05-1337-1190-95-01",
+          code: "1337-1190-95-01",
           price: 2099
         },
         {
@@ -18576,7 +18576,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON BS DENIM BLUE STONE WASH",
-          code: "05-1337-1192-95-01",
+          code: "1337-1192-95-01",
           price: 1699
         },
         {
@@ -18584,7 +18584,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON MS DENIM MEDIUM STONE WASH",
-          code: "05-1337-1193-85-01",
+          code: "1337-1193-85-01",
           price: 1699
         },
         {
@@ -18592,7 +18592,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON B DENIM BLACK STONE WASH",
-          code: "05-1337-1193-89-01",
+          code: "1337-1193-89-01",
           price: 1699
         },
         {
@@ -18600,7 +18600,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON VB R DENIM VINTAGE BLUE",
-          code: "05-1337-1193-95-01",
+          code: "1337-1193-95-01",
           price: 1699
         },
         {
@@ -18608,7 +18608,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON ADVAN XTRA COM DNM FLEE DARK LOC",
-          code: "05-1337-1643-84-01",
+          code: "1337-1643-84-01",
           price: 2099
         },
         {
@@ -18616,7 +18616,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON ADVANCED EXTRA COMF-MS DNM FLEE",
-          code: "05-1337-1653-86-01",
+          code: "1337-1653-86-01",
           price: 2099
         },
         {
@@ -18624,7 +18624,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON ADVANCED EXTRA COMF-DNM FLE DIRT",
-          code: "05-1337-1653-96-01",
+          code: "1337-1653-96-01",
           price: 2099
         },
         {
@@ -18632,7 +18632,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON - DK DENIM DK DARK WASH",
-          code: "05-1337-1655-84-01",
+          code: "1337-1655-84-01",
           price: 1299
         },
         {
@@ -18640,7 +18640,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LARSTON - UW DENIM UW USED WASH",
-          code: "05-1337-1655-95-01",
+          code: "1337-1655-95-01",
           price: 1299
         },
         {
@@ -18648,7 +18648,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CHINO PANT GABARDINA NEGRO ENZIMATICO",
-          code: "05-1339-1455-79-01",
+          code: "1339-1455-79-01",
           price: 1699
         },
         {
@@ -18656,7 +18656,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CHINO PANT GABARDINA C/ ELASTANO VISON",
-          code: "05-1339-1496-60-01",
+          code: "1339-1496-60-01",
           price: 1699
         },
         {
@@ -18664,7 +18664,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CHINO PANT GABARDINA C/ ELASTANO VERDE L",
-          code: "05-1339-1497-63-01",
+          code: "1339-1497-63-01",
           price: 1699
         },
         {
@@ -18672,7 +18672,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CHINO PANT GABARDINA C/ ELASTANO AZUL",
-          code: "05-1339-1497-69-01",
+          code: "1339-1497-69-01",
           price: 1699
         },
         {
@@ -18680,7 +18680,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACKSVILLE ADVANCED ACTIVE STRECH -DARK",
-          code: "05-1341-1188-84-01",
+          code: "1341-1188-84-01",
           price: 2199
         },
         {
@@ -18688,7 +18688,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACKSVILLE ADVANCED ACTIVE STRECH -USED",
-          code: "05-1341-1188-94-01",
+          code: "1341-1188-94-01",
           price: 2199
         },
         {
@@ -18696,7 +18696,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACKSVILLE LST R DENIM LIGHT LOC",
-          code: "05-1341-1189-85-01",
+          code: "1341-1189-85-01",
           price: 1599
         },
         {
@@ -18704,7 +18704,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACKSVILLE - DBL DENIM DBL DARK BLUE",
-          code: "05-1341-1657-84-01",
+          code: "1341-1657-84-01",
           price: 1799
         },
         {
@@ -18712,7 +18712,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SUMMER CARGO TWILL SOFT M.GRE.ENZYME WS",
-          code: "05-1503-1076-68-01",
+          code: "1503-1076-68-01",
           price: 1599
         },
         {
@@ -18720,7 +18720,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SUMMER CARGO TWILL SOFT D.GRE.ENZYME WS",
-          code: "05-1503-1076-77-01",
+          code: "1503-1076-77-01",
           price: 1599
         },
         {
@@ -18728,7 +18728,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILITARY CARGO TWILL BLACK ENZYME WASH",
-          code: "05-1503-1076-79-01",
+          code: "1503-1076-79-01",
           price: 1599
         },
         {
@@ -18736,7 +18736,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FRANKIE SKIRT DENIM ENGOMADO BLACK",
-          code: "05-2200-1211-97-01",
+          code: "2200-1211-97-01",
           price: 1599
         },
         {
@@ -18744,7 +18744,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AMELIE DRESS IDEM OR NEGRO",
-          code: "05-2407-2170-79-01",
+          code: "2407-2170-79-01",
           price: 1799
         },
         {
@@ -18752,7 +18752,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NELLY BASIC SKIRT DENIM S.W.+SILI",
-          code: "05-2438-1298-94-01",
+          code: "2438-1298-94-01",
           price: 1499
         },
         {
@@ -18760,7 +18760,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO LAMB JACKET DENIM ELASTANO S.W LOC",
-          code: "05-3005-1184-94-01",
+          code: "301184-94-01",
           price: 3499
         },
         {
@@ -18768,7 +18768,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "VINCENT ADVANCED JACKET NYLON INDIGO",
-          code: "05-3103-4423-36-01",
+          code: "3103-4423-36-01",
           price: 4499
         },
         {
@@ -18776,7 +18776,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "VINCENT ADVANCED JACKET NYLON ROJO",
-          code: "05-3103-4423-55-01",
+          code: "3103-4423-55-01",
           price: 4499
         },
         {
@@ -18784,7 +18784,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY JACKET DEN ACTIVE READY DIRT",
-          code: "05-3139-1183-36-01",
+          code: "3139-1183-36-01",
           price: 2999
         },
         {
@@ -18792,7 +18792,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PHOEBE ADVANCED PARKA MICRO C/ COR VERDE",
-          code: "05-3202-4408-42-01",
+          code: "3202-4408-42-01",
           price: 4699
         },
         {
@@ -18800,7 +18800,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RACHEL ADVANCED NYLON C/ PIEL BEIGE",
-          code: "05-3205-4423-01-01",
+          code: "324423-01-01",
           price: 3899
         },
         {
@@ -18808,7 +18808,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RACHEL ADVANCED NYLON C/ PIEL BORD",
-          code: "05-3205-4423-58-01",
+          code: "324423-58-01",
           price: 3899
         },
         {
@@ -18816,7 +18816,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FRIDA ADVANCED NYLON AERO C/ NEGRO",
-          code: "05-3259-4423-35-01",
+          code: "3259-4423-35-01",
           price: 3999
         },
         {
@@ -18824,7 +18824,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FRIDA ADVANCED NYLON NEGRO C/ ROSA COCID",
-          code: "05-3259-4423-79-01",
+          code: "3259-4423-79-01",
           price: 3999
         },
         {
@@ -18832,7 +18832,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PETER ADVANCED JACKET NYLON ROJO GRANATE",
-          code: "05-3339-4427-55-01",
+          code: "3339-4427-55-01",
           price: 3999
         },
         {
@@ -18840,7 +18840,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PETER ADVANCED JACKET NYLON NEGRO",
-          code: "05-3339-4427-79-01",
+          code: "3339-4427-79-01",
           price: 3999
         },
         {
@@ -18848,7 +18848,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GORDON ADVANCED NYLON AZUL PETROLEO",
-          code: "05-3340-4423-38-01",
+          code: "3340-4423-38-01",
           price: 3699
         },
         {
@@ -18856,7 +18856,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WILSON ADVANCED NYLON CAMUFLADA VERDE MI",
-          code: "05-3340-4423-63-01",
+          code: "3340-4423-63-01",
           price: 3699
         },
         {
@@ -18864,7 +18864,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADVANCED EXTRA COMFORT JACKET BLACK LOC",
-          code: "05-3345-4900-79-01",
+          code: "3345-4900-79-01",
           price: 3299
         },
         {
@@ -18872,7 +18872,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MORRISON ADVANCED PARKA MICROFIBRA AZUL",
-          code: "05-3369-4408-38-01",
+          code: "3369-4408-38-01",
           price: 4999
         },
         {
@@ -18880,7 +18880,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACK JACKET NYLON RUSSET BROWN",
-          code: "05-3370-4423-58-01",
+          code: "3370-4423-58-01",
           price: 2999
         },
         {
@@ -18888,7 +18888,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACK JACKET NYLON VERDE MILITAR",
-          code: "05-3370-4423-63-01",
+          code: "3370-4423-63-01",
           price: 2999
         },
         {
@@ -18896,7 +18896,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACK JACKET NYLON NEGRO GARMENT",
-          code: "05-3370-4423-79-01",
+          code: "3370-4423-79-01",
           price: 2999
         },
         {
@@ -18904,7 +18904,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOYD ADVANCED VEST NYLON AZUL",
-          code: "05-3371-4423-37-01",
+          code: "3371-4423-37-01",
           price: 2799
         },
         {
@@ -18912,7 +18912,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOYD ADVANCED VEST NYLON NEGRO",
-          code: "05-3371-4423-79-01",
+          code: "3371-4423-79-01",
           price: 2799
         },
         {
@@ -18920,7 +18920,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BRANCO JACKET ENGOMADO NEGRO",
-          code: "05-3372-4425-79-01",
+          code: "3372-4425-79-01",
           price: 2999
         },
         {
@@ -18928,7 +18928,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHARON VEST NYLON NEGRO C/ ROSA",
-          code: "05-3405-4408-79-01",
+          code: "344408-79-01",
           price: 2399
         },
         {
@@ -18936,7 +18936,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MIA ADVANCED EXTRA COMFORT JACKET JOG SW",
-          code: "05-3406-1184-36-01",
+          code: "3406-1184-36-01",
           price: 2999
         },
         {
@@ -18944,7 +18944,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MAY SHERPA COAT TEJIDO C/CORDERITO NEGRO",
-          code: "05-3408-4492-79-01",
+          code: "3408-4492-79-01",
           price: 3299
         },
         {
@@ -18952,7 +18952,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L (BOT.PASTA) TWINKLE RE",
-          code: "05-4100-1006-94-01",
+          code: "4100-1006-94-01",
           price: 1399
         },
         {
@@ -18960,7 +18960,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L TWINKLE RELOADED CELES",
-          code: "05-4101-1006-86-01",
+          code: "4101-1006-86-01",
           price: 1499
         },
         {
@@ -18968,7 +18968,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L TWINKLE RELOADED INDIG",
-          code: "05-4101-1006-95-01",
+          code: "4101-1006-95-01",
           price: 1499
         },
         {
@@ -18976,7 +18976,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L TWINKLE RELOADED BROWN",
-          code: "05-4101-1062-95-01",
+          code: "4101-1062-95-01",
           price: 1499
         },
         {
@@ -18984,7 +18984,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L POPLIN 40/1 BLANCO",
-          code: "05-4101-1457-02-01",
+          code: "4101-1457-02-01",
           price: 1449
         },
         {
@@ -18992,7 +18992,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT M/L POPLIN 40/1 NEGRO",
-          code: "05-4101-1457-79-01",
+          code: "4101-1457-79-01",
           price: 1449
         },
         {
@@ -19000,7 +19000,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT C4 POPLIN 40/1 AZUL+ROJO",
-          code: "05-4101-2173-37-01",
+          code: "4101-2173-37-01",
           price: 1499
         },
         {
@@ -19008,7 +19008,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT C1 40/1 NEG+TURQ+BCO",
-          code: "05-4101-2425-78-01",
+          code: "4101-2425-78-01",
           price: 1499
         },
         {
@@ -19016,7 +19016,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT C5 40/1 VERDE+FRAN+AMARI",
-          code: "05-4101-2427-61-01",
+          code: "4101-2427-61-01",
           price: 1499
         },
         {
@@ -19024,7 +19024,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN SHIRT C2 40/1 MILIT+CDO+MAIZ",
-          code: "05-4101-2434-68-01",
+          code: "4101-2434-68-01",
           price: 1499
         },
         {
@@ -19032,7 +19032,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW WESTERN M/L POPLIN 40/1 BLANCO",
-          code: "05-4121-1806-02-01",
+          code: "4121-1806-02-01",
           price: 1499
         },
         {
@@ -19040,7 +19040,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW WESTERN M/L POPLIN 40/1 NEGRO",
-          code: "05-4121-1807-79-01",
+          code: "4121-1807-79-01",
           price: 1499
         },
         {
@@ -19048,7 +19048,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW WESTERN SHIRT C1 A ROJO+BCO+NEGRO",
-          code: "05-4121-2507-55-01",
+          code: "4121-2507-55-01",
           price: 1499
         },
         {
@@ -19056,7 +19056,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW WESTERN SHIRT C1 B AZUL+ROJO+NEGRO",
-          code: "05-4121-2508-37-01",
+          code: "4121-2508-37-01",
           price: 1499
         },
         {
@@ -19064,7 +19064,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW WESTERN SHIRT C2 VIYELA MILITAR+NAR",
-          code: "05-4121-4586-68-01",
+          code: "4121-4586-68-01",
           price: 1499
         },
         {
@@ -19072,7 +19072,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ORIGINAL WRANGLER SHIRT M/L DENIM INDIGO",
-          code: "05-4130-2155-86-01",
+          code: "4130-2155-86-01",
           price: 1699
         },
         {
@@ -19080,7 +19080,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ORIGINAL WRANGLER SHIRT M/L DEN GREY SW",
-          code: "05-4130-2174-89-01",
+          code: "4130-2174-89-01",
           price: 1699
         },
         {
@@ -19088,7 +19088,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C5 POPLIN 40/1 AZUL+CELESTE+BLANC",
-          code: "05-4141-2164-25-01",
+          code: "4141-2164-25-01",
           price: 1299
         },
         {
@@ -19096,7 +19096,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C1 POPLIN 40/1 AZUL+ ROJO+ CRUDO",
-          code: "05-4141-2164-37-01",
+          code: "4141-2164-37-01",
           price: 1299
         },
         {
@@ -19104,7 +19104,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C2 POPLIN 40/1 AZUL+ VERDE+ BLANC",
-          code: "05-4141-2164-38-01",
+          code: "4141-2164-38-01",
           price: 1299
         },
         {
@@ -19112,7 +19112,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C3B POPLIN 40/1 AZUL+BLANCO",
-          code: "05-4141-2431-37-01",
+          code: "4141-2431-37-01",
           price: 1399
         },
         {
@@ -19120,7 +19120,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C3A POPLIN 40/1 STOCK ROJO+AZUL",
-          code: "05-4141-2432-55-01",
+          code: "4141-2432-55-01",
           price: 1399
         },
         {
@@ -19128,7 +19128,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GOSPEL C6 POPLIN 40/1 TURQ+AZUL+CRUDO",
-          code: "05-4141-2435-26-01",
+          code: "4141-2435-26-01",
           price: 1399
         },
         {
@@ -19136,7 +19136,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HERITAGE C3 POPLIN 40/1 NARANJA+AZUL",
-          code: "05-4300-2162-10-01",
+          code: "4300-2162-10-01",
           price: 1499
         },
         {
@@ -19144,7 +19144,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HERITAGE C5 POPLIN 40/1 BORD+BCO+MAIZ",
-          code: "05-4300-2426-58-01",
+          code: "4300-2426-58-01",
           price: 1499
         },
         {
@@ -19152,7 +19152,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HERITAGE C1 VIYELA LIV.VDE.PINO+AZUL",
-          code: "05-4300-2509-60-01",
+          code: "4300-2509-60-01",
           price: 1499
         },
         {
@@ -19160,7 +19160,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HERITAGE C2 VIYELA LIVIANA AZUL+CSTE",
-          code: "05-4300-2510-37-01",
+          code: "4300-2510-37-01",
           price: 1499
         },
         {
@@ -19168,7 +19168,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HERITAGE INDIGO C4 VERDE GRISACEO H.W.",
-          code: "05-4300-4800-36-01",
+          code: "4300-4800-36-01",
           price: 1499
         },
         {
@@ -19176,7 +19176,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILITARY SHIRT GAB.LIV.MILITAR H.S.W.",
-          code: "05-4320-2358-68-01",
+          code: "4320-2358-68-01",
           price: 1699
         },
         {
@@ -19184,7 +19184,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
-          code: "05-4345-2109-02-01",
+          code: "4345-2109-02-01",
           price: 1599
         },
         {
@@ -19192,7 +19192,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
-          code: "05-4345-2119-79-01",
+          code: "4345-2119-79-01",
           price: 1599
         },
         {
@@ -19200,7 +19200,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT C1 POPLIN NARANJA",
-          code: "05-4345-2160-10-01",
+          code: "4345-2160-10-01",
           price: 1699
         },
         {
@@ -19208,7 +19208,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT C3 POPLIN DIF AZUL",
-          code: "05-4345-2160-37-01",
+          code: "4345-2160-37-01",
           price: 1699
         },
         {
@@ -19216,7 +19216,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT C2 MINI CHECK MAR",
-          code: "05-4345-2160-38-01",
+          code: "4345-2160-38-01",
           price: 1699
         },
         {
@@ -19224,7 +19224,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT C4A DIFEREN BORD",
-          code: "05-4345-2160-58-01",
+          code: "4345-2160-58-01",
           price: 1699
         },
         {
@@ -19232,7 +19232,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT C4B DIFEREN VERDE",
-          code: "05-4345-2160-60-01",
+          code: "4345-2160-60-01",
           price: 1699
         },
         {
@@ -19240,7 +19240,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REGULAR SHIRT R1 DIFEREN VIOLETA",
-          code: "05-4345-2161-15-01",
+          code: "4345-2161-15-01",
           price: 1699
         },
         {
@@ -19248,7 +19248,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F1 POP 60/1 PIMA BLANCO+AZU",
-          code: "05-4345-2165-02-01",
+          code: "4345-2165-02-01",
           price: 1799
         },
         {
@@ -19256,7 +19256,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F2 POP 60/1 PIMA AZUL+BCO",
-          code: "05-4345-2165-37-01",
+          code: "4345-2165-37-01",
           price: 1799
         },
         {
@@ -19264,7 +19264,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F3 B 60/1 PIMA BLANCO+BORD",
-          code: "05-4345-2165-58-01",
+          code: "4345-2165-58-01",
           price: 1799
         },
         {
@@ -19272,7 +19272,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F3 A 60/1 PIMA VERDE+BCO",
-          code: "05-4345-2165-60-01",
+          code: "4345-2165-60-01",
           price: 1799
         },
         {
@@ -19280,7 +19280,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F5 SATEN 60/1 PIMA VIOLETA",
-          code: "05-4345-2166-15-01",
+          code: "4345-2166-15-01",
           price: 1799
         },
         {
@@ -19288,7 +19288,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS PIMA F4 SATEN 60/1 PIMA AZUL PIM",
-          code: "05-4345-2166-37-01",
+          code: "4345-2166-37-01",
           price: 1799
         },
         {
@@ -19296,7 +19296,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS BOTON SHIRT II FIL A FIL DIF CTE",
-          code: "05-4345-2167-25-01",
+          code: "4345-2167-25-01",
           price: 1699
         },
         {
@@ -19304,7 +19304,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS BOTON SHIRT I FIL A FIL DIFER AZ",
-          code: "05-4345-2167-37-01",
+          code: "4345-2167-37-01",
           price: 1699
         },
         {
@@ -19312,7 +19312,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS DENIM SHIRT M/L DENIM IDEM ORIGI",
-          code: "05-4345-2344-94-01",
+          code: "4345-2344-94-01",
           price: 1699
         },
         {
@@ -19320,7 +19320,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BUTTON DOWN CASUALS C1 PIMA AZUL+ CTE",
-          code: "05-4359-2515-37-01",
+          code: "4359-2515-37-01",
           price: 1599
         },
         {
@@ -19328,7 +19328,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BUTTON DOWN CASUALS C2 PIMA UVA+GRIS",
-          code: "05-4359-2516-16-01",
+          code: "4359-2516-16-01",
           price: 1599
         },
         {
@@ -19336,7 +19336,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BUTTON DOWN CASUALS R1 PIMA CELESTE+BCO",
-          code: "05-4359-2518-25-01",
+          code: "4359-2518-25-01",
           price: 1599
         },
         {
@@ -19344,7 +19344,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER R2 POPLIN BLANCO+ RAYA CELESTE",
-          code: "05-4363-2163-02-01",
+          code: "4363-2163-02-01",
           price: 1699
         },
         {
@@ -19352,7 +19352,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER R1 POPLIN AZUL+ RAYA BLANCO",
-          code: "05-4363-2163-37-01",
+          code: "4363-2163-37-01",
           price: 1699
         },
         {
@@ -19360,7 +19360,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER F2 POPLIN BLANCO C/FANTASIA AZUL",
-          code: "05-4363-2164-02-01",
+          code: "4363-2164-02-01",
           price: 1699
         },
         {
@@ -19368,7 +19368,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER F1 FIL A FIL PINTITAS VERDE+BCO",
-          code: "05-4363-2164-60-01",
+          code: "4363-2164-60-01",
           price: 1699
         },
         {
@@ -19376,7 +19376,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER C1 POP.50/1 MOSTAZA+AZUL+BCO",
-          code: "05-4363-2511-46-01",
+          code: "4363-2511-46-01",
           price: 1499
         },
         {
@@ -19384,7 +19384,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER C2 POPLIN 50/1 ROJO+NEGRO+GRIS",
-          code: "05-4363-2512-55-01",
+          code: "4363-2512-55-01",
           price: 1499
         },
         {
@@ -19392,7 +19392,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER C3 POPLIN 50/1 NEGRO+BLANCO",
-          code: "05-4363-2513-79-01",
+          code: "4363-2513-79-01",
           price: 1499
         },
         {
@@ -19400,7 +19400,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GUNTER C4 POPLIN 50/1 GRANATE+AZUL",
-          code: "05-4363-2514-57-01",
+          code: "4363-2514-57-01",
           price: 1499
         },
         {
@@ -19408,7 +19408,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIFAZ INDIGO SHIRT GASA BIFAZ FRANCIA",
-          code: "05-4371-5969-37-01",
+          code: "4371-5969-37-01",
           price: 1699
         },
         {
@@ -19416,7 +19416,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BIFAZ SHIRT GASA BIFAZ AZUL C/ CRUDO",
-          code: "05-4372-5969-38-01",
+          code: "4372-5969-38-01",
           price: 1699
         },
         {
@@ -19424,7 +19424,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL OVERSHIRT I VIYELA AZUL+BLANCO+ROJO",
-          code: "05-4373-4586-37-01",
+          code: "4373-4586-37-01",
           price: 1799
         },
         {
@@ -19432,7 +19432,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL OVERSHIRT II RATIER ALG AERO+ROJO",
-          code: "05-4373-4857-35-01",
+          code: "4373-4857-35-01",
           price: 1799
         },
         {
@@ -19440,7 +19440,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WESTERN GIRL (BOT)TWINK.7.5OZ.S.W.(LCT)",
-          code: "05-4410-1006-94-01",
+          code: "4410-1006-94-01",
           price: 1399
         },
         {
@@ -19448,7 +19448,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARGARET SHIRT C1 VISCOSA CRUDO+ROSA+BOR",
-          code: "05-4438-2169-01-01",
+          code: "4438-2169-01-01",
           price: 1499
         },
         {
@@ -19456,7 +19456,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARGARET SHIRT C2 VISCOSA BORD+NARANJA+A",
-          code: "05-4438-2169-58-01",
+          code: "4438-2169-58-01",
           price: 1499
         },
         {
@@ -19464,7 +19464,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARGARET SHIRT LISA VISCOSA ORQUÍDEA",
-          code: "05-4438-2170-50-01",
+          code: "4438-2170-50-01",
           price: 1599
         },
         {
@@ -19472,7 +19472,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARGARET SHIRT LISA VISCOSA NEGRO",
-          code: "05-4438-2170-79-01",
+          code: "4438-2170-79-01",
           price: 1599
         },
         {
@@ -19480,7 +19480,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW ORIGINAL DENIM STONE WASH",
-          code: "05-4467-1211-94-01",
+          code: "4467-1211-94-01",
           price: 1699
         },
         {
@@ -19488,7 +19488,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW ORIGINAL C2 POPLIN BLANCO+ROJO+AZUL",
-          code: "05-4467-2174-02-01",
+          code: "4467-2174-02-01",
           price: 1499
         },
         {
@@ -19496,7 +19496,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW ORIGINAL C1 POPLIN AZUL+ROSA",
-          code: "05-4467-2174-37-01",
+          code: "4467-2174-37-01",
           price: 1499
         },
         {
@@ -19504,7 +19504,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BLACKIE SHIRT VISCOSA C/ BORD AZUL C/BRI",
-          code: "05-4468-4816-37-01",
+          code: "4468-4816-37-01",
           price: 1699
         },
         {
@@ -19512,7 +19512,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BLACKIE SHIRT VISCOSA C/ BORD.NEGRO C/BC",
-          code: "05-4468-4816-79-01",
+          code: "4468-4816-79-01",
           price: 1699
         },
         {
@@ -19520,7 +19520,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RED BLOUSE BAMBULA C/BORD BLANCO C/ NEGR",
-          code: "05-4469-5969-02-01",
+          code: "4469-5969-02-01",
           price: 1799
         },
         {
@@ -19528,7 +19528,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RED BLOUSE BAMBULA C/BORD ROJO C/ BLANCO",
-          code: "05-4469-5969-55-01",
+          code: "4469-5969-55-01",
           price: 1799
         },
         {
@@ -19536,7 +19536,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "YOKO BLOUSE VISCOSA C/ BORD OFF WHITE",
-          code: "05-4470-5960-01-01",
+          code: "4470-5960-01-01",
           price: 1799
         },
         {
@@ -19544,7 +19544,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "YOKO BLOUSE VISCOSA C/ BORD NEGRO C/BCO",
-          code: "05-4470-5960-79-01",
+          code: "4470-5960-79-01",
           price: 1799
         },
         {
@@ -19552,7 +19552,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARION SHIRT BLUE C/ BORD OFF WHITE",
-          code: "05-4471-5960-01-01",
+          code: "4471-5960-01-01",
           price: 1699
         },
         {
@@ -19560,7 +19560,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARION SHIRT BLUE C/ BORD AZUL C/ NEGRO",
-          code: "05-4471-5960-37-01",
+          code: "4471-5960-37-01",
           price: 1699
         },
         {
@@ -19568,7 +19568,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LACE BLOUSE BAMBULA C/ ENCAJE CRUDO",
-          code: "05-4472-2951-01-01",
+          code: "4472-2951-01-01",
           price: 1799
         },
         {
@@ -19576,7 +19576,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LACE BLOUSE BAMBULA C/ ENCAJE BORDEAUX",
-          code: "05-4472-2951-58-01",
+          code: "4472-2951-58-01",
           price: 1799
         },
         {
@@ -19584,7 +19584,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PILI SHIRT GASA LUREX OFF WHITE",
-          code: "05-4473-5969-01-01",
+          code: "4473-5969-01-01",
           price: 1799
         },
         {
@@ -19592,7 +19592,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PILI SHIRT GASA LUREX ORQUIDEA",
-          code: "05-4473-5969-50-01",
+          code: "4473-5969-50-01",
           price: 1799
         },
         {
@@ -19600,7 +19600,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADE PRINTED SHIRT GASA ESTAMPADO CLARO",
-          code: "05-4474-5969-01-01",
+          code: "4474-5969-01-01",
           price: 1599
         },
         {
@@ -19608,7 +19608,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADE PRINTED SHIRT GASA ESTAMPADA OSCURO",
-          code: "05-4474-5969-99-01",
+          code: "4474-5969-99-01",
           price: 1599
         },
         {
@@ -19616,7 +19616,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MIRNA FLOWER BLOUSE ESTAMPADO CLARO FLOR",
-          code: "05-4475-4681-01-01",
+          code: "4475-4681-01-01",
           price: 1699
         },
         {
@@ -19624,7 +19624,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MIRNA FLOWER BLOUSE ESTAMPADO OSCURO FLO",
-          code: "05-4475-4681-99-01",
+          code: "4475-4681-99-01",
           price: 1699
         },
         {
@@ -19632,7 +19632,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER DENIM SHIRT DENIM STONE WASH",
-          code: "05-4476-2169-94-01",
+          code: "4476-2169-94-01",
           price: 1799
         },
         {
@@ -19640,7 +19640,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER SHIRT II ALGODON BLANCO",
-          code: "05-4476-5960-02-01",
+          code: "4476-5960-02-01",
           price: 1799
         },
         {
@@ -19648,7 +19648,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER SHIRT I ALGODON VERDE MILITAR ENZ",
-          code: "05-4476-5960-68-01",
+          code: "4476-5960-68-01",
           price: 1799
         },
         {
@@ -19656,7 +19656,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "POLI BLOUSE RAYON C/ BORDADO NEGRO",
-          code: "05-4477-2168-79-01",
+          code: "4477-2168-79-01",
           price: 1699
         },
         {
@@ -19664,7 +19664,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA BASICA LISA BLANCA",
-          code: "05-5103-0000-02-01",
+          code: "5103-0000-02-01",
           price: 169
         },
         {
@@ -19672,7 +19672,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA BASICA HIL.GRANITE AZUL",
-          code: "05-5103-0000-37-01",
+          code: "5103-0000-37-01",
           price: 169
         },
         {
@@ -19680,7 +19680,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA BASICA LISA GRIS MELANGE",
-          code: "05-5103-0000-72-01",
+          code: "5103-0000-72-01",
           price: 169
         },
         {
@@ -19688,7 +19688,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA BASICA LISA NEGRA",
-          code: "05-5103-0000-79-01",
+          code: "5103-0000-79-01",
           price: 169
         },
         {
@@ -19696,7 +19696,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA WRANGLER CASUALS TEJ. AZUL PIEDRA",
-          code: "05-5112-0001-38-01",
+          code: "5112-0001-38-01",
           price: 189
         },
         {
@@ -19704,7 +19704,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA WRANGLER CASUALS TEJIDO BORDEAUX",
-          code: "05-5112-0002-58-01",
+          code: "5112-0002-58-01",
           price: 189
         },
         {
@@ -19712,7 +19712,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MEDIA WRANGLER CASUALS TEJIDO GRIS TOPO",
-          code: "05-5112-0002-78-01",
+          code: "5112-0002-78-01",
           price: 189
         },
         {
@@ -19720,7 +19720,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "STRIPE SOCKS ALGODON PETROLEO + AZUL",
-          code: "05-5115-4800-37-01",
+          code: "5115-4800-37-01",
           price: 179
         },
         {
@@ -19728,7 +19728,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "STRIPE SOCKS ALGODON AZUL + BORDO",
-          code: "05-5115-4800-58-01",
+          code: "5115-4800-58-01",
           price: 179
         },
         {
@@ -19736,7 +19736,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FANTASY SOCKS ALGODON UVA",
-          code: "05-5116-4800-02-01",
+          code: "5116-4800-02-01",
           price: 179
         },
         {
@@ -19744,7 +19744,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FANTASY SOCKS ALGODON VERDE MILITAR",
-          code: "05-5116-4800-68-01",
+          code: "5116-4800-68-01",
           price: 179
         },
         {
@@ -19752,7 +19752,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN SOCK TEJIDO BLANCO",
-          code: "05-5125-0000-02-01",
+          code: "5125-0000-02-01",
           price: 159
         },
         {
@@ -19760,7 +19760,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN SOCK TEJIDO NEGRO",
-          code: "05-5125-0000-79-01",
+          code: "5125-0000-79-01",
           price: 159
         },
         {
@@ -19768,7 +19768,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHORT LUNAR SOCKS ALGODON GRIS MELANGE",
-          code: "05-5207-0000-71-01",
+          code: "5207-0000-71-01",
           price: 159
         },
         {
@@ -19776,7 +19776,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHORT LUNAR SOCKS ALGODON CRUDO+VDE+NEG",
-          code: "05-5207-4800-01-01",
+          code: "5207-4800-01-01",
           price: 159
         },
         {
@@ -19784,7 +19784,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-5209-0000-02-01",
+          code: "5209-0000-02-01",
           price: 165
         },
         {
@@ -19792,7 +19792,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-5209-0000-79-01",
+          code: "5209-0000-79-01",
           price: 165
         },
         {
@@ -19800,7 +19800,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN W SOCK TEJIDO BLANCO",
-          code: "05-5220-0000-02-01",
+          code: "5220-0000-02-01",
           price: 155
         },
         {
@@ -19808,7 +19808,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN W SOCK TEJIDO NEGRO",
-          code: "05-5220-0000-79-01",
+          code: "5220-0000-79-01",
           price: 155
         },
         {
@@ -19816,7 +19816,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PEACE SOCKS ALGODON CRUDO MELANGE",
-          code: "05-5233-4800-71-01",
+          code: "5233-4800-71-01",
           price: 159
         },
         {
@@ -19824,7 +19824,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PEACE SOCKS ALGODON NEGRO",
-          code: "05-5233-4800-79-01",
+          code: "5233-4800-79-01",
           price: 159
         },
         {
@@ -19832,7 +19832,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADVANCE SOCKS ALGODON GRIS + ROJO",
-          code: "05-5346-4800-70-01",
+          code: "5346-4800-70-01",
           price: 179
         },
         {
@@ -19840,7 +19840,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADVANCE SOCKS ALGODON NEGRO + AZUL FRANC",
-          code: "05-5346-4800-79-01",
+          code: "5346-4800-79-01",
           price: 179
         },
         {
@@ -19848,7 +19848,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHORT MELANGE SOCKS ALGODON AZUL",
-          code: "05-5350-4801-37-01",
+          code: "5350-4801-37-01",
           price: 179
         },
         {
@@ -19856,7 +19856,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHORT MELANGE SOCKS ALGODON NEGRO",
-          code: "05-5350-4801-79-01",
+          code: "5350-4801-79-01",
           price: 179
         },
         {
@@ -19864,7 +19864,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "INVISIBLE MOULINEX SOCKS ALG ROJO + FUCS",
-          code: "05-5433-4800-55-01",
+          code: "5433-4800-55-01",
           price: 155
         },
         {
@@ -19872,7 +19872,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "INVISIBLE MOULINEX SOCKS ALG SALMON + AZ",
-          code: "05-5433-4800-62-01",
+          code: "5433-4800-62-01",
           price: 155
         },
         {
@@ -19880,7 +19880,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DESODORANTE URBAN",
-          code: "05-6000-0000-01-01",
+          code: "6000-0000-01-01",
           price: 119
         },
         {
@@ -19888,7 +19888,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DESODORANTE WAVE",
-          code: "05-6001-0000-01-01",
+          code: "6001-0000-01-01",
           price: 119
         },
         {
@@ -19896,7 +19896,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MOCHILA ADVANCE TELA VERDE MILITAR",
-          code: "05-6100-0000-60-01",
+          code: "6100-0000-60-01",
           price: 1699
         },
         {
@@ -19904,7 +19904,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MOCHILA ADVANCE TELA NEGRO",
-          code: "05-6100-0000-79-01",
+          code: "6100-0000-79-01",
           price: 1699
         },
         {
@@ -19912,7 +19912,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "METALIC BELT CUERO MARRON",
-          code: "05-6165-9001-48-01",
+          code: "6165-9001-48-01",
           price: 669
         },
         {
@@ -19920,7 +19920,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "METALIC BELT CUERO NEGRO",
-          code: "05-6165-9001-79-01",
+          code: "6165-9001-79-01",
           price: 669
         },
         {
@@ -19928,7 +19928,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA FRAN CUERO MARRON GASTADO",
-          code: "05-6191-9000-48-01",
+          code: "6191-9000-48-01",
           price: 749
         },
         {
@@ -19936,7 +19936,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TARJETERO WILLIS CUERO SUELA",
-          code: "05-6192-9000-47-01",
+          code: "6192-9000-47-01",
           price: 429
         },
         {
@@ -19944,7 +19944,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA CAMO CUERO NEGRO",
-          code: "05-6194-9000-68-01",
+          code: "6194-9000-68-01",
           price: 749
         },
         {
@@ -19952,7 +19952,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA LUK CUERO SUELA",
-          code: "05-6392-9000-48-01",
+          code: "6392-9000-48-01",
           price: 749
         },
         {
@@ -19960,7 +19960,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA LUK CUERO NEGRO",
-          code: "05-6392-9000-79-01",
+          code: "6392-9000-79-01",
           price: 749
         },
         {
@@ -19968,7 +19968,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "EAU DE TOILETTE WRANGLER BLUE 55ML PERFU",
-          code: "05-6509-0000-01-01",
+          code: "6509-0000-01-01",
           price: 399
         },
         {
@@ -19976,7 +19976,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "EAU DE TOILETTE WRANGLER BLUE 80ML PERFU",
-          code: "05-6509-0000-02-01",
+          code: "6509-0000-02-01",
           price: 499
         },
         {
@@ -19984,7 +19984,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CASUALS REVERSIBLE BELT CUERO MARR./NGO",
-          code: "05-6591-9001-79-01",
+          code: "6591-9001-79-01",
           price: 749
         },
         {
@@ -19992,7 +19992,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "EAU DE TOILETTE WRANGLER MUJER 55ML PERF",
-          code: "05-6641-0000-01-01",
+          code: "6641-0000-01-01",
           price: 399
         },
         {
@@ -20000,7 +20000,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "EAU DE TOILETTE WRANGLER MUJER 80ML PERF",
-          code: "05-6641-0000-02-01",
+          code: "6641-0000-02-01",
           price: 499
         },
         {
@@ -20008,7 +20008,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CINTURÓN TRIPLE COSTURA CUERO MARRON",
-          code: "05-6705-9000-48-01",
+          code: "679000-48-01",
           price: 619
         },
         {
@@ -20016,7 +20016,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CINTURÓN TRIPLE COSTURA CUERO NEGRO",
-          code: "05-6705-9000-79-01",
+          code: "679000-79-01",
           price: 619
         },
         {
@@ -20024,7 +20024,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL LAMBERT BELT CUERO VERDE MILITAR",
-          code: "05-6729-9000-37-01",
+          code: "6729-9000-37-01",
           price: 669
         },
         {
@@ -20032,7 +20032,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL LAMBERT BELT CUERO MARRON",
-          code: "05-6729-9000-47-01",
+          code: "6729-9000-47-01",
           price: 669
         },
         {
@@ -20040,7 +20040,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL LAMBERT BELT CUERO NEGRO",
-          code: "05-6729-9000-79-01",
+          code: "6729-9000-79-01",
           price: 669
         },
         {
@@ -20048,7 +20048,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RUST BELT CUERO SUELA",
-          code: "05-6745-9000-47-01",
+          code: "6745-9000-47-01",
           price: 679
         },
         {
@@ -20056,7 +20056,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RUST BELT CUERO AZUL",
-          code: "05-6745-9000-79-01",
+          code: "6745-9000-79-01",
           price: 679
         },
         {
@@ -20064,7 +20064,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FRED BELT CUERO NEGRO",
-          code: "05-6746-9000-79-01",
+          code: "6746-9000-79-01",
           price: 669
         },
         {
@@ -20072,7 +20072,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILA TRANFER BELT CUERO AZUL",
-          code: "05-6802-9000-48-01",
+          code: "6802-9000-48-01",
           price: 679
         },
         {
@@ -20080,7 +20080,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILA TRANFER BELT CUERO NEGRO",
-          code: "05-6802-9000-79-01",
+          code: "6802-9000-79-01",
           price: 679
         },
         {
@@ -20088,7 +20088,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WEST PICADO BELT CUERO MARRON",
-          code: "05-6803-9000-47-01",
+          code: "6803-9000-47-01",
           price: 679
         },
         {
@@ -20096,7 +20096,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACKIE PLAIN BELT CUERO NEGRO",
-          code: "05-6805-9000-79-01",
+          code: "689000-79-01",
           price: 619
         },
         {
@@ -20104,7 +20104,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA LENON CUERO MARRON",
-          code: "05-6914-9000-48-01",
+          code: "6914-9000-48-01",
           price: 749
         },
         {
@@ -20112,7 +20112,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BILLETERA LENON CUERO NEGRO",
-          code: "05-6914-9000-79-01",
+          code: "6914-9000-79-01",
           price: 749
         },
         {
@@ -20120,7 +20120,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-6915-9000-79-01",
+          code: "6915-9000-79-01",
           price: 419
         },
         {
@@ -20128,7 +20128,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TED POLO JERSEY AZUL FRANCIA + NEGRO",
-          code: "05-7058-4861-37-01",
+          code: "7058-4861-37-01",
           price: 1399
         },
         {
@@ -20136,7 +20136,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TED POLO JERSEY AZUL MARINO+BLANCO+VERDE",
-          code: "05-7058-4861-38-01",
+          code: "7058-4861-38-01",
           price: 1399
         },
         {
@@ -20144,7 +20144,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TED POLO JERSEY NEGRO + GRANATE",
-          code: "05-7058-4861-78-01",
+          code: "7058-4861-78-01",
           price: 1399
         },
         {
@@ -20152,7 +20152,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HANS SWEATER ALGODON NEGRO",
-          code: "05-7087-4800-79-01",
+          code: "7087-4800-79-01",
           price: 1799
         },
         {
@@ -20160,7 +20160,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HANS SWEATER TEJIDO ALGODON UVA",
-          code: "05-7087-4801-16-01",
+          code: "7087-4801-16-01",
           price: 1799
         },
         {
@@ -20168,7 +20168,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HANS SWEATER TEJIDO ALGODON AZUL FRANCIA",
-          code: "05-7087-4801-38-01",
+          code: "7087-4801-38-01",
           price: 1799
         },
         {
@@ -20176,7 +20176,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HANS SWEATER TEJIDO ALGODON GRANATE",
-          code: "05-7087-4801-58-01",
+          code: "7087-4801-58-01",
           price: 1799
         },
         {
@@ -20184,7 +20184,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HANS SWEATER TEJIDO ALGODON VERDE MILITA",
-          code: "05-7087-4801-68-01",
+          code: "7087-4801-68-01",
           price: 1799
         },
         {
@@ -20192,7 +20192,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FOX BUTTON TEE JERSEY AZUL",
-          code: "05-7124-4861-37-01",
+          code: "7124-4861-37-01",
           price: 899
         },
         {
@@ -20200,7 +20200,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FOX BUTTON TEE JERSEY GRANATE",
-          code: "05-7124-4861-58-01",
+          code: "7124-4861-58-01",
           price: 899
         },
         {
@@ -20208,7 +20208,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FOX BUTTON TEE JERSEY VERDE MILITAR",
-          code: "05-7124-4861-69-01",
+          code: "7124-4861-69-01",
           price: 899
         },
         {
@@ -20216,7 +20216,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KENDALL HOODIE TEJIDO C/MICROPOLAR AZUL",
-          code: "05-7130-4491-37-01",
+          code: "7130-4491-37-01",
           price: 2899
         },
         {
@@ -20224,7 +20224,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KENDALL HOODIE TEJIDO C/MICROPOLAR GRIS",
-          code: "05-7130-4491-77-01",
+          code: "7130-4491-77-01",
           price: 2899
         },
         {
@@ -20232,7 +20232,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ALEX HOODIE POLIESTER C/MICROPOLAR GRIS",
-          code: "05-7137-4428-70-01",
+          code: "7137-4428-70-01",
           price: 2499
         },
         {
@@ -20240,7 +20240,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN POLO PIQUE BLANCO",
-          code: "05-7149-5220-01-01",
+          code: "7149-5220-01-01",
           price: 699
         },
         {
@@ -20248,7 +20248,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN POLO PIQUE AZUL",
-          code: "05-7149-5220-37-01",
+          code: "7149-5220-37-01",
           price: 699
         },
         {
@@ -20256,7 +20256,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PLAIN POLO I PIQUE GRIS MELANGE",
-          code: "05-7149-5220-70-01",
+          code: "7149-5220-70-01",
           price: 699
         },
         {
@@ -20264,7 +20264,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LAMB HOODIE FRIZA C/CORDERITO MILITAR",
-          code: "05-7169-4492-68-01",
+          code: "7169-4492-68-01",
           price: 2599
         },
         {
@@ -20272,7 +20272,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LAMB HOODIE FRIZA C/CORDERITO GRIS MGE",
-          code: "05-7169-4492-77-01",
+          code: "7169-4492-77-01",
           price: 2599
         },
         {
@@ -20280,7 +20280,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SCOTT POLO JERSEY ESMERILADO AZUL FRANCI",
-          code: "05-7171-4883-37-01",
+          code: "7171-4883-37-01",
           price: 999
         },
         {
@@ -20288,7 +20288,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SCOTT POLO JERSEY ESMERILADO AZUL MARINO",
-          code: "05-7171-4883-38-01",
+          code: "7171-4883-38-01",
           price: 999
         },
         {
@@ -20296,7 +20296,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SCOTT POLO JERSEY ESMERILADO GRANATE",
-          code: "05-7171-4883-58-01",
+          code: "7171-4883-58-01",
           price: 999
         },
         {
@@ -20304,7 +20304,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LUCAS POLO ML JERSEY NEGRO +GRIS+BCO",
-          code: "05-7172-4861-02-01",
+          code: "7172-4861-02-01",
           price: 1199
         },
         {
@@ -20312,7 +20312,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LUCAS POLO ML JERSEY AZUL MARINO + UVA",
-          code: "05-7172-4861-38-01",
+          code: "7172-4861-38-01",
           price: 1199
         },
         {
@@ -20320,7 +20320,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "THOMAS CASUALS PANEAUX POLO BLANCO+MELAN",
-          code: "05-7175-4861-02-01",
+          code: "7175-4861-02-01",
           price: 1199
         },
         {
@@ -20328,7 +20328,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "THOMAS CASUALS PANEAUX POLO AZUL+ROJO",
-          code: "05-7175-4861-37-01",
+          code: "7175-4861-37-01",
           price: 1199
         },
         {
@@ -20336,7 +20336,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ZAC POLO JERSEY BRICK + NEGRO",
-          code: "05-7177-4861-59-01",
+          code: "7177-4861-59-01",
           price: 1199
         },
         {
@@ -20344,7 +20344,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ZAC POLO JERSEY NEGRO + AZUL FRANCIA",
-          code: "05-7177-4861-79-01",
+          code: "7177-4861-79-01",
           price: 1199
         },
         {
@@ -20352,7 +20352,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WILLIS CASUALS POLO JERSEY AZUL + ROJO",
-          code: "05-7179-4861-37-01",
+          code: "7179-4861-37-01",
           price: 1199
         },
         {
@@ -20360,7 +20360,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WILLIS CASUALS POLO JERSEY BOTELLA+FRANC",
-          code: "05-7179-4861-64-01",
+          code: "7179-4861-64-01",
           price: 1199
         },
         {
@@ -20368,7 +20368,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MALLOY TEE JERSEY BLANCO",
-          code: "05-7191-4861-02-01",
+          code: "7191-4861-02-01",
           price: 769
         },
         {
@@ -20376,7 +20376,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MALLOY TEE JERSEY AZUL FRANCIA",
-          code: "05-7191-4861-38-01",
+          code: "7191-4861-38-01",
           price: 769
         },
         {
@@ -20384,7 +20384,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MALLOY TEE JERSEY GRIS TOPO",
-          code: "05-7191-4861-78-01",
+          code: "7191-4861-78-01",
           price: 769
         },
         {
@@ -20392,7 +20392,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LUK TEE JERSEY GRIS MELANGE MEDIO",
-          code: "05-7193-4861-71-01",
+          code: "7193-4861-71-01",
           price: 799
         },
         {
@@ -20400,7 +20400,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ALTON ARMY TEE JERSEY VERDE",
-          code: "05-7197-4861-60-01",
+          code: "7197-4861-60-01",
           price: 799
         },
         {
@@ -20408,7 +20408,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BARD TEE JERSEY UVA",
-          code: "05-7199-4861-16-01",
+          code: "7199-4861-16-01",
           price: 849
         },
         {
@@ -20416,7 +20416,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BARD TEE JERSEY NEGRO",
-          code: "05-7199-4861-79-01",
+          code: "7199-4861-79-01",
           price: 849
         },
         {
@@ -20424,7 +20424,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY DET TEE NGRO+ROJO",
-          code: "05-7200-4861-55-01",
+          code: "7200-4861-55-01",
           price: 699
         },
         {
@@ -20432,7 +20432,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY DET TEE GR MLNGE+ROJO",
-          code: "05-7200-4861-70-01",
+          code: "7200-4861-70-01",
           price: 699
         },
         {
@@ -20440,7 +20440,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY KISS TEE NEGRO",
-          code: "05-7200-4861-79-01",
+          code: "7200-4861-79-01",
           price: 699
         },
         {
@@ -20448,7 +20448,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KELSIE HOODIE FRIZA CON CORDERITO BEIGE",
-          code: "05-7233-5447-01-01",
+          code: "7233-5447-01-01",
           price: 2299
         },
         {
@@ -20456,7 +20456,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KELSIE HOODIE FRIZA CON CORDERITO UVA",
-          code: "05-7233-5447-16-01",
+          code: "7233-5447-16-01",
           price: 2299
         },
         {
@@ -20464,7 +20464,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CARMELA SHINE TEE JERSEY C/LENTEJ BLANCO",
-          code: "05-7238-4861-02-01",
+          code: "7238-4861-02-01",
           price: 1199
         },
         {
@@ -20472,7 +20472,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CARMELA SHINE TEE JERSEY C/LENTEJ AZUL",
-          code: "05-7238-4861-37-01",
+          code: "7238-4861-37-01",
           price: 1199
         },
         {
@@ -20480,7 +20480,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LEXI TEE ALGODON VISCOSA BLANCO",
-          code: "05-7246-4812-02-01",
+          code: "7246-4812-02-01",
           price: 829
         },
         {
@@ -20488,7 +20488,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LEXI TEE ALGODON VISCOSA ROJO",
-          code: "05-7246-4812-55-01",
+          code: "7246-4812-55-01",
           price: 829
         },
         {
@@ -20496,7 +20496,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SIDNEY TEE PUNTO CORTADO NEGRO + BLANCO",
-          code: "05-7247-4861-79-01",
+          code: "7247-4861-79-01",
           price: 799
         },
         {
@@ -20504,7 +20504,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TALA TEE JERSEY FLAME CRUDO",
-          code: "05-7248-4875-01-01",
+          code: "7248-4875-01-01",
           price: 869
         },
         {
@@ -20512,7 +20512,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TALA TEE JERSEY FLAME ROJO",
-          code: "05-7248-4875-55-01",
+          code: "7248-4875-55-01",
           price: 869
         },
         {
@@ -20520,7 +20520,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "VICKIE TEE JERSEY GRIS MELANGE",
-          code: "05-7249-4861-70-01",
+          code: "7249-4861-70-01",
           price: 1199
         },
         {
@@ -20528,7 +20528,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "VICKIE TEE JERSEY NEGRO",
-          code: "05-7249-4861-79-01",
+          code: "7249-4861-79-01",
           price: 1199
         },
         {
@@ -20536,7 +20536,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SNOW TEE JERSEY BLANCO",
-          code: "05-7251-4861-02-01",
+          code: "7251-4861-02-01",
           price: 1199
         },
         {
@@ -20544,7 +20544,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SNOW TEE JERSEY UVA",
-          code: "05-7251-4861-16-01",
+          code: "7251-4861-16-01",
           price: 1199
         },
         {
@@ -20552,7 +20552,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AMAPOLA TEE VISCOSA CON ALGODON UVA",
-          code: "05-7252-4812-16-01",
+          code: "7252-4812-16-01",
           price: 749
         },
         {
@@ -20560,7 +20560,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AMAPOLA TEE VISCOSA CON ALGODON AZUL MAR",
-          code: "05-7252-4812-38-01",
+          code: "7252-4812-38-01",
           price: 749
         },
         {
@@ -20568,7 +20568,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AMAPOLA TEE VISCOSA CON ALGODON NEGRO",
-          code: "05-7252-4812-79-01",
+          code: "7252-4812-79-01",
           price: 749
         },
         {
@@ -20576,7 +20576,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILA TEE PUNTO CORTADO NEGRO",
-          code: "05-7253-4861-79-01",
+          code: "7253-4861-79-01",
           price: 799
         },
         {
@@ -20584,7 +20584,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MARCI TEE VISCOSA CON ENCAJE NEGRO",
-          code: "05-7254-5960-79-01",
+          code: "7254-5960-79-01",
           price: 1299
         },
         {
@@ -20592,7 +20592,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MALI TEE VISCOSA GRIS MEL OSCURO",
-          code: "05-7255-5960-77-01",
+          code: "7255-5960-77-01",
           price: 769
         },
         {
@@ -20600,7 +20600,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MALI TEE VISCOSA NEGRO",
-          code: "05-7255-5960-79-01",
+          code: "7255-5960-79-01",
           price: 769
         },
         {
@@ -20608,7 +20608,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILLIE TEE A DEFINIR ROJO",
-          code: "05-7256-2169-55-01",
+          code: "7256-2169-55-01",
           price: 999
         },
         {
@@ -20616,7 +20616,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILLIE TEE A DEFINIR GRIS MELANGE",
-          code: "05-7256-2169-70-01",
+          code: "7256-2169-70-01",
           price: 999
         },
         {
@@ -20624,7 +20624,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER TEE PUNTO DIFERENCIADO BEIGE",
-          code: "05-7257-4861-01-01",
+          code: "7257-4861-01-01",
           price: 929
         },
         {
@@ -20632,7 +20632,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER TEE PUNTO DIFERENCIADO GRIS MELAN",
-          code: "05-7257-4861-70-01",
+          code: "7257-4861-70-01",
           price: 929
         },
         {
@@ -20640,7 +20640,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER TEE PUNTO DIFERENCIADO NEGRO",
-          code: "05-7257-4861-79-01",
+          code: "7257-4861-79-01",
           price: 929
         },
         {
@@ -20648,7 +20648,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SHINE SWEATER TEJIDO GRIS MELANGE",
-          code: "05-7259-4490-70-01",
+          code: "7259-4490-70-01",
           price: 2499
         },
         {
@@ -20656,7 +20656,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ADELE COAT TEJIDO C/LUREX ROJO+AZUL+DOR",
-          code: "05-7260-5985-55-01",
+          code: "7260-5985-55-01",
           price: 2699
         },
         {
@@ -20664,7 +20664,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "FLOWER COAT TEJIDO CRUDO+NEGRO+BRICK",
-          code: "05-7261-4490-01-01",
+          code: "7261-4490-01-01",
           price: 2599
         },
         {
@@ -20672,7 +20672,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ANNIE HOODIE TEJIDO DIFER C/CORD CRUDO",
-          code: "05-7262-4492-01-01",
+          code: "7262-4492-01-01",
           price: 2699
         },
         {
@@ -20680,7 +20680,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BRIA HOODIE FRIZA CON JERSEY NEGRO",
-          code: "05-7263-5447-79-01",
+          code: "7263-5447-79-01",
           price: 2499
         },
         {
@@ -20688,7 +20688,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CELINE HOODIE FRIZA ESTAMPADA AZUL+BCO",
-          code: "05-7264-5447-37-01",
+          code: "7264-5447-37-01",
           price: 1799
         },
         {
@@ -20696,7 +20696,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "CELINE HOODIE FRIZA ESTAMPADA ROJO+BCO",
-          code: "05-7264-5447-55-01",
+          code: "7264-5447-55-01",
           price: 1799
         },
         {
@@ -20704,7 +20704,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AMELIE COAT TEJIDO NEGRO + BLANCO",
-          code: "05-7265-4490-79-01",
+          code: "7265-4490-79-01",
           price: 2699
         },
         {
@@ -20712,7 +20712,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC STRAP TANK JERS/ELAS BLANCO",
-          code: "05-7267-4860-02-01",
+          code: "7267-4860-02-01",
           price: 499
         },
         {
@@ -20720,7 +20720,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC STRAP TANK JER/ELAS.NEGRO",
-          code: "05-7267-4860-79-01",
+          code: "7267-4860-79-01",
           price: 499
         },
         {
@@ -20728,7 +20728,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "STELLA TEE JERSEY PESADO AZUL",
-          code: "05-7277-4861-36-01",
+          code: "7277-4861-36-01",
           price: 1199
         },
         {
@@ -20736,7 +20736,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "STELLA TEE JERSEY PESADO NEGRO",
-          code: "05-7277-4861-79-01",
+          code: "7277-4861-79-01",
           price: 1199
         },
         {
@@ -20744,7 +20744,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "OLIVER PANEAUX TEE JERSEY AZUL+NEGRO+BCO",
-          code: "05-7308-4861-37-01",
+          code: "7308-4861-37-01",
           price: 799
         },
         {
@@ -20752,7 +20752,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "GARRY HOODIE FRIZA CON VIYELA AZUL+VERDE",
-          code: "05-7312-5447-37-01",
+          code: "7312-5447-37-01",
           price: 2399
         },
         {
@@ -20760,7 +20760,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LENON SWEATER TEJIDO GRANATE+BCO+AZUL",
-          code: "05-7314-4800-58-01",
+          code: "7314-4800-58-01",
           price: 1899
         },
         {
@@ -20768,7 +20768,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LENON SWEATER TEJIDO NEGRO+MARRON+BCO",
-          code: "05-7314-4800-79-01",
+          code: "7314-4800-79-01",
           price: 1899
         },
         {
@@ -20776,7 +20776,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "DILLON TEE JERSEY GRIS MELANGE DEGRADÉ",
-          code: "05-7327-4861-70-01",
+          code: "7327-4861-70-01",
           price: 799
         },
         {
@@ -20784,7 +20784,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEVILLE TEE JERSEY UVA",
-          code: "05-7336-4861-16-01",
+          code: "7336-4861-16-01",
           price: 849
         },
         {
@@ -20792,7 +20792,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEVILLE TEE JERSEY AZUL",
-          code: "05-7336-4861-37-01",
+          code: "7336-4861-37-01",
           price: 849
         },
         {
@@ -20800,7 +20800,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEVILLE TEE JERSEY GRIS TOPO",
-          code: "05-7336-4861-78-01",
+          code: "7336-4861-78-01",
           price: 849
         },
         {
@@ -20808,7 +20808,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RYAN TEE JERSEY GRIS MELANGE",
-          code: "05-7339-4861-70-01",
+          code: "7339-4861-70-01",
           price: 729
         },
         {
@@ -20816,7 +20816,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "REX BUTTON TEE JERSEY DIFERENCIADO MARIN",
-          code: "05-7341-4861-38-01",
+          code: "7341-4861-38-01",
           price: 899
         },
         {
@@ -20824,7 +20824,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "REX BUTTON TEE JERSEY DIFERENCIADO GRIS",
-          code: "05-7341-4861-70-01",
+          code: "7341-4861-70-01",
           price: 899
         },
         {
@@ -20832,7 +20832,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY BLANCO",
-          code: "05-7342-4861-01-01",
+          code: "7342-4861-01-01",
           price: 729
         },
         {
@@ -20840,7 +20840,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY BLANCO",
-          code: "05-7342-4861-02-01",
+          code: "7342-4861-02-01",
           price: 729
         },
         {
@@ -20848,7 +20848,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY AZUL",
-          code: "05-7342-4861-36-01",
+          code: "7342-4861-36-01",
           price: 729
         },
         {
@@ -20856,7 +20856,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY AZUL MARINO",
-          code: "05-7342-4861-38-01",
+          code: "7342-4861-38-01",
           price: 729
         },
         {
@@ -20864,7 +20864,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY VERDE BOTELLA",
-          code: "05-7342-4861-64-01",
+          code: "7342-4861-64-01",
           price: 729
         },
         {
@@ -20872,7 +20872,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY GRIS MELANG",
-          code: "05-7342-4861-71-01",
+          code: "7342-4861-71-01",
           price: 729
         },
         {
@@ -20880,7 +20880,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "WHELLER TEE JERSEY GRIS MELANGE MEDIO",
-          code: "05-7342-4861-72-01",
+          code: "7342-4861-72-01",
           price: 729
         },
         {
@@ -20888,7 +20888,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KABEL TEE JERSEY GRANATE",
-          code: "05-7345-4861-10-01",
+          code: "7345-4861-10-01",
           price: 769
         },
         {
@@ -20896,7 +20896,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KABEL TEE JERSEY AZUL MARINO",
-          code: "05-7345-4861-38-01",
+          code: "7345-4861-38-01",
           price: 769
         },
         {
@@ -20904,7 +20904,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ROLF TEE JERSEY AZUL MARINO",
-          code: "05-7351-4861-38-01",
+          code: "7351-4861-38-01",
           price: 729
         },
         {
@@ -20912,7 +20912,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "ROLF TEE JERSEY NEGRO",
-          code: "05-7351-4861-79-01",
+          code: "7351-4861-79-01",
           price: 729
         },
         {
@@ -20920,7 +20920,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RUPERT TEE JERSEY VERDE BOTELLA",
-          code: "05-7354-4861-64-01",
+          code: "7354-4861-64-01",
           price: 769
         },
         {
@@ -20928,7 +20928,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RUPERT TEE JERSEY GRIS MELANGE",
-          code: "05-7354-4861-70-01",
+          code: "7354-4861-70-01",
           price: 769
         },
         {
@@ -20936,7 +20936,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SMITH SWEATER ALGODON AZUL MARINO + UVA",
-          code: "05-7355-4800-38-01",
+          code: "7355-4800-38-01",
           price: 2399
         },
         {
@@ -20944,7 +20944,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "SMITH SWEATER ALGODÓN BOTELLA+GRIS+CELES",
-          code: "05-7355-4800-64-01",
+          code: "7355-4800-64-01",
           price: 2399
         },
         {
@@ -20952,7 +20952,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PERCY SWEATER TEJIDO NEGRO + GRIS",
-          code: "05-7360-4490-79-01",
+          code: "7360-4490-79-01",
           price: 2399
         },
         {
@@ -20960,7 +20960,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PATRICK SWEATER TEJIDO AZUL",
-          code: "05-7363-4490-37-01",
+          code: "7363-4490-37-01",
           price: 2299
         },
         {
@@ -20968,7 +20968,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PATRICK SWEATER TEJIDO BORDO + GRIS TOPO",
-          code: "05-7363-4490-58-01",
+          code: "7363-4490-58-01",
           price: 2299
         },
         {
@@ -20976,7 +20976,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "HUNTER GUARDA SWEATER ALGODON AZUL + BOR",
-          code: "05-7364-4800-37-01",
+          code: "7364-4800-37-01",
           price: 2699
         },
         {
@@ -20984,7 +20984,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KABEL CREW NECK FRIZA AZUL MARINO",
-          code: "05-7366-5447-38-01",
+          code: "7366-5447-38-01",
           price: 1599
         },
         {
@@ -20992,7 +20992,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "KABEL CREW NECK FRIZA GRIS MELANGE",
-          code: "05-7366-5447-70-01",
+          code: "7366-5447-70-01",
           price: 1599
         },
         {
@@ -21000,7 +21000,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCK CREW NECK FRIZA UVA",
-          code: "05-7367-5447-16-01",
+          code: "7367-5447-16-01",
           price: 2199
         },
         {
@@ -21008,7 +21008,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BROCK CREW NECK FRIZA VERDE BOTELLA",
-          code: "05-7367-5447-64-01",
+          code: "7367-5447-64-01",
           price: 2199
         },
         {
@@ -21016,7 +21016,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILO HOODIE FRIZA AZUL",
-          code: "05-7368-5447-37-01",
+          code: "7368-5447-37-01",
           price: 1999
         },
         {
@@ -21024,7 +21024,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILO HOODIE FRIZA ROJO",
-          code: "05-7368-5447-55-01",
+          code: "7368-5447-55-01",
           price: 1999
         },
         {
@@ -21032,7 +21032,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MILO HOODIE FRIZA GRIS MELANGE",
-          code: "05-7368-5447-70-01",
+          code: "7368-5447-70-01",
           price: 1999
         },
         {
@@ -21040,7 +21040,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MIKE TEE JERSEY AZUL IDEM ORIGINAL",
-          code: "05-7369-4861-38-01",
+          code: "7369-4861-38-01",
           price: 799
         },
         {
@@ -21048,7 +21048,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MIKE TEE JERSEY FADED BLACK IDEM ORIG.",
-          code: "05-7369-4861-79-01",
+          code: "7369-4861-79-01",
           price: 799
         },
         {
@@ -21056,7 +21056,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "PAUL STRIPE TEE JERSEY AZUL MARINO",
-          code: "05-7567-4861-38-01",
+          code: "7567-4861-38-01",
           price: 799
         },
         {
@@ -21064,7 +21064,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC TEE M/C ESCOTE REDONDO JERSEY BCO",
-          code: "05-7586-4861-02-01",
+          code: "7586-4861-02-01",
           price: 599
         },
         {
@@ -21072,7 +21072,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC TEE M/C ESCOTE REDONDO JERSEY NEG",
-          code: "05-7586-4861-79-01",
+          code: "7586-4861-79-01",
           price: 599
         },
         {
@@ -21080,7 +21080,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MORRIS TEE JERSEY GRANATE",
-          code: "05-7590-4861-58-01",
+          code: "7590-4861-58-01",
           price: 769
         },
         {
@@ -21088,7 +21088,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MORRIS TEE JERSEY GRIS MELANGE OSCURO",
-          code: "05-7590-4861-77-01",
+          code: "7590-4861-77-01",
           price: 769
         },
         {
@@ -21096,7 +21096,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "MORRIS TEE JERSEY NEGRO",
-          code: "05-7590-4861-79-01",
+          code: "7590-4861-79-01",
           price: 769
         },
         {
@@ -21104,7 +21104,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "JACK SWEATER CAMUFLADO TEJIDO NEGRO",
-          code: "05-7700-4490-79-01",
+          code: "7700-4490-79-01",
           price: 2299
         },
         {
@@ -21112,7 +21112,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "POLO BASIC MICRO PIQ.30/1 PIMA AZL MAR",
-          code: "05-7719-5220-38-01",
+          code: "7719-5220-38-01",
           price: 869
         },
         {
@@ -21120,7 +21120,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-7719-5220-55-01",
+          code: "7719-5220-55-01",
           price: 869
         },
         {
@@ -21128,7 +21128,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "POLO BASIC MICRO PIQUE 30/1 PIMA NEGRO",
-          code: "05-7719-5221-79-01",
+          code: "7719-5221-79-01",
           price: 869
         },
         {
@@ -21136,7 +21136,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BOW TEE JERSEY VERDE MILITAR",
-          code: "05-7735-4861-68-01",
+          code: "7735-4861-68-01",
           price: 849
         },
         {
@@ -21144,7 +21144,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TYLER PANEAUX POLO JERSEY AZUL+MARINO",
-          code: "05-7754-4861-37-01",
+          code: "7754-4861-37-01",
           price: 1299
         },
         {
@@ -21152,7 +21152,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TYLER PANEAUX POLO JERSEY BORDO+FRANCIA",
-          code: "05-7754-4861-58-01",
+          code: "7754-4861-58-01",
           price: 1299
         },
         {
@@ -21160,7 +21160,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICKIE SWEATER CREW NECK TEJIDO AZUL",
-          code: "05-7803-4803-37-01",
+          code: "7803-4803-37-01",
           price: 2299
         },
         {
@@ -21168,7 +21168,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NICKIE SWEATER CREW NECK TEJIDO NEGRO",
-          code: "05-7803-4803-79-01",
+          code: "7803-4803-79-01",
           price: 2299
         },
         {
@@ -21176,7 +21176,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LYLA SWEATER TEJIDO CON LUREX AZUL",
-          code: "05-7806-5985-37-01",
+          code: "7806-5985-37-01",
           price: 2299
         },
         {
@@ -21184,7 +21184,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "LYLA SWEATER TEJIDO CON LUREX ROJO",
-          code: "05-7806-5985-55-01",
+          code: "7806-5985-55-01",
           price: 2299
         },
         {
@@ -21192,7 +21192,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RICKY HOODIE JERSEY NEGRO+GRIS MGE",
-          code: "05-7914-4862-79-01",
+          code: "7914-4862-79-01",
           price: 2299
         },
         {
@@ -21200,7 +21200,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TOM SWEATER TEJIDO ALGODON",
-          code: "05-7915-4800-37-01",
+          code: "7915-4800-37-01",
           price: 1799
         },
         {
@@ -21208,7 +21208,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "TOM SWEATER TEJIDO ALGODON NEGRO",
-          code: "05-7915-4800-79-01",
+          code: "7915-4800-79-01",
           price: 1799
         },
         {
@@ -21216,7 +21216,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY KABEL TEE BNCA+AZUL",
-          code: "05-7942-4861-02-01",
+          code: "7942-4861-02-01",
           price: 679
         },
         {
@@ -21224,7 +21224,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY KABEL TEE NANJA+AZUL",
-          code: "05-7942-4861-10-01",
+          code: "7942-4861-10-01",
           price: 679
         },
         {
@@ -21232,7 +21232,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "RETRO GLORY KABEL TEE AZUL+CLSTE",
-          code: "05-7942-4861-37-01",
+          code: "7942-4861-37-01",
           price: 679
         },
         {
@@ -21240,7 +21240,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW PLAIN BOXER JERSEY C/ELAST.BLANCO",
-          code: "05-8123-4900-02-01",
+          code: "8123-4900-02-01",
           price: 379
         },
         {
@@ -21248,7 +21248,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW PLAIN BOXER JERSEY C/ ELAST.AZUL",
-          code: "05-8123-4900-38-01",
+          code: "8123-4900-38-01",
           price: 379
         },
         {
@@ -21256,7 +21256,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW PLAIN BOXER JERSEY C/ ELAST.MGE",
-          code: "05-8123-4900-70-01",
+          code: "8123-4900-70-01",
           price: 379
         },
         {
@@ -21264,7 +21264,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW PLAIN BOXER JERSEY C/ELAST.NEGRO",
-          code: "05-8123-4900-79-01",
+          code: "8123-4900-79-01",
           price: 379
         },
         {
@@ -21272,7 +21272,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW PLAIN BOXER JERSEY C/ ELAST.UVA",
-          code: "05-8123-4901-16-01",
+          code: "8123-4901-16-01",
           price: 379
         },
         {
@@ -21280,7 +21280,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW STRIPE BOXER JRSY C/ELAST.BCO/GRIS",
-          code: "05-8124-4900-02-01",
+          code: "8124-4900-02-01",
           price: 409
         },
         {
@@ -21288,7 +21288,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW STRIPE BOXER JRSY C/ELAST MARI/RJO",
-          code: "05-8124-4900-55-01",
+          code: "8124-4900-55-01",
           price: 409
         },
         {
@@ -21296,7 +21296,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "NEW STRIPE BOXER JRSY C/ELAST.NGR/GRIS",
-          code: "05-8124-4900-79-01",
+          code: "8124-4900-79-01",
           price: 409
         },
         {
@@ -21304,7 +21304,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "COMFORT BOXER JERSEY C/ ELAST.GRANATE",
-          code: "05-8128-4859-16-01",
+          code: "8128-4859-16-01",
           price: 399
         },
         {
@@ -21312,7 +21312,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "COMFORT BOXER JERSEY C/ELAST.FRANCIA",
-          code: "05-8128-4859-34-01",
+          code: "8128-4859-34-01",
           price: 399
         },
         {
@@ -21320,7 +21320,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "COMFORT BOXER JERSEY CON ELAST.GRIS",
-          code: "05-8128-4859-71-01",
+          code: "8128-4859-71-01",
           price: 399
         },
         {
@@ -21328,7 +21328,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "COMFORT BOXER JERSEY CON ELAST.NEGRO",
-          code: "05-8128-4859-79-01",
+          code: "8128-4859-79-01",
           price: 399
         },
         {
@@ -21336,7 +21336,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AUTHENTIC BOXER LISO JERSEY PETROLEO",
-          code: "05-8132-4900-34-01",
+          code: "8132-4900-34-01",
           price: 429
         },
         {
@@ -21344,7 +21344,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AUTHENTIC BOXER JERSEY AZUL",
-          code: "05-8132-4900-37-01",
+          code: "8132-4900-37-01",
           price: 429
         },
         {
@@ -21352,7 +21352,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AUTHENTIC BOXER LISO JERSEY NEGRO",
-          code: "05-8132-4900-78-01",
+          code: "8132-4900-78-01",
           price: 429
         },
         {
@@ -21360,7 +21360,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AUTHENTIC BOXER RAY.JERSEY AZUL MLG",
-          code: "05-8132-4901-37-01",
+          code: "8132-4901-37-01",
           price: 429
         },
         {
@@ -21368,7 +21368,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "AUTHENTIC BOXER RAY.GRIS MLG OSCURO",
-          code: "05-8132-4901-71-01",
+          code: "8132-4901-71-01",
           price: 429
         },
         {
@@ -21376,7 +21376,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC TEE TWIN PACK BASIC SOFT BNC/NGRO",
-          code: "05-8301-4862-02-01",
+          code: "8301-4862-02-01",
           price: 899
         },
         {
@@ -21384,7 +21384,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "BASIC TEE TWIN PACK V NECK BNC/NGRO",
-          code: "05-8301-4863-02-01",
+          code: "8301-4863-02-01",
           price: 899
         },
         {
@@ -21392,7 +21392,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-8338-4869-37-01",
+          code: "8338-4869-37-01",
           price: 409
         },
         {
@@ -21400,7 +21400,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-8338-4869-58-01",
+          code: "8338-4869-58-01",
           price: 409
         },
         {
@@ -21408,7 +21408,7 @@ export const Products : PricingList[] = [
           class: "",
           gender: "",
           name: "",
-          code: "05-8339-4869-37-01",
+          code: "8339-4869-37-01",
           price: 399
         }
       ]
@@ -24377,7 +24377,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'todas',
         code: '',
-        price: 690
+        price: 750
       }
     ]
   },
@@ -25778,7 +25778,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chomba algodon',
         code: '',
-        price: 790
+        price: 890
       },
       {
         brand: 'ojo rojo',
@@ -25855,7 +25855,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'remera m/c ray',
         code: '',
-        price: 399
+        price: 490
       },
       {
         brand: 'posto 5',
@@ -25895,7 +25895,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sudadera lisa',
         code: '',
-        price: 250
+        price: 350
       },
       {
         brand: 'posto 5',
@@ -25903,7 +25903,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sudadera est y modal',
         code: '',
-        price: 279
+        price: 350
       },
       {
         brand: 'posto 5',
@@ -28112,7 +28112,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'remera m/c lisa',
         code: '',
-        price: 290
+        price: 450
       }
     ]
   },

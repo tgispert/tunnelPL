@@ -165,7 +165,7 @@ export const Brands = [
     },
     {
         "id": "80",
-        "name": "dinaname"
+        "name": "dinamarca"
     },
     {
         "id": "79",
