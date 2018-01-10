@@ -5411,7 +5411,7 @@ export const Products : PricingList[] = [
         gender: 'unisex',
         name: 'classic',
         code: '',
-        price: 519
+        price: 618
       },
       {
         brand: 'crocs',
@@ -7273,7 +7273,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'tunnel',
-        class: 'accesorio',
+        class: 'accesorio termico',
         gender: 'hombre',
         name: 'media termica',
         code: '06a',
@@ -7281,7 +7281,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'tunnel',
-        class: 'accesorio',
+        class: 'accesorio termico',
         gender: 'hombre',
         name: 'media termica',
         code: '08a',
@@ -10377,7 +10377,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'northland',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'camiseta thermo under',
         code: '',
@@ -10385,7 +10385,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'northland',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'pant thermo under',
         code: '',
@@ -11741,7 +11741,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'zammo camiseta termica hombre bossa',
         code: '',
@@ -11749,7 +11749,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'dama',
         name: 'sussi camiseta termica dama bossa camuflada',
         code: '',
@@ -11757,7 +11757,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'dama',
         name: 'calley camiseta termica dama h/z',
         code: '',
@@ -11765,7 +11765,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'niño',
         name: 'lockie camiseta termica niño bossa',
         code: '',
@@ -12021,7 +12021,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'dama',
         name: 'remera galley termica',
         code: '',
@@ -12029,7 +12029,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'dama',
         name: 'remera zamma termica',
         code: '',
@@ -12037,7 +12037,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'surfanic',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'niño',
         name: 'remera lookiee termica',
         code: '',
@@ -13412,7 +13412,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'forest',
-        class: 'accesorio',
+        class: 'accesorio termico',
         gender: 'unisex',
         name: 'guante termico',
         code: '',
@@ -23286,7 +23286,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'emi tex',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'camiseta termica 38-44',
         code: '',
@@ -23294,7 +23294,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'emi tex',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'camiseta termica 46-48',
         code: '',
@@ -24044,7 +24044,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'hummer',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'undershirt',
         code: '',
@@ -24052,7 +24052,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'hummer',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'hombre',
         name: 'underpant',
         code: '',
@@ -24060,7 +24060,7 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'hummer',
-        class: 'accesorio',
+        class: 'termico',
         gender: 'niño',
         name: 'under junior',
         code: '',

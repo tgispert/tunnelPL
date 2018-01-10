@@ -348,6 +348,10 @@ export const Brands = [
         "name": "marasco & speciale"
     },
     {
+        "id": "157",
+        "name": "marmot"
+    },
+    {
         "id": "34",
         "name": "marsanto"
     },
