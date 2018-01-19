@@ -356,6 +356,10 @@ export const Brands = [
         "name": "marsanto"
     },
     {
+        "id": "159",
+        "name": "mayorca"
+    },
+    {
         "id": "105",
         "name": "mcgregor"
     },
@@ -608,6 +612,10 @@ export const Brands = [
         "name": "vela mayor"
     },
     {
+        "id": "158",
+        "name": "vf"
+    },
+    {
         "id": "134",
         "name": "wados"
     },
@@ -617,7 +625,7 @@ export const Brands = [
     },
     {
         "id": "156",
-        "name": "wrangler anterior"
+        "name": "wrangler no lista"
     },
     {
         "id": "145",
