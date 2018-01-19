@@ -26865,7 +26865,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'blazer corderoy',
         code: '3990',
-        price: 
+        price: 3990
       },
       {
         brand: 'vf',
