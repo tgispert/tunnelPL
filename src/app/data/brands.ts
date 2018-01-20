@@ -328,6 +328,10 @@ export const Brands = [
         "name": "lee"
     },
     {
+        "id": "160",
+        "name": "lee no lista"
+    },
+    {
         "id": "43",
         "name": "levis"
     },
@@ -594,6 +598,10 @@ export const Brands = [
     {
         "id": "1",
         "name": "ufo"
+    },
+    {
+        "id": "161",
+        "name": "ufo no lista"
     },
     {
         "id": "130",
