@@ -328,7 +328,7 @@ export const Products : PricingList[] = [
         brand: 'columbia',
         class: 'campera fija',
         gender: 'hombre',
-        name: '*antimony fija',
+        name: 'anthony fija',
         code: '',
         price: 3470
       },
@@ -338,7 +338,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'goto jkt',
         code: '',
-        price: 4100
+        price: 4800
       },
       {
         brand: 'columbia',
@@ -406,11 +406,19 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'columbia',
+        class: 'campera fija',
+        gender: 'hombre',
+        name: 'sister brock',
+        code: '',
+        price: 7700
+      },
+      {
+        brand: 'columbia',
         class: 'campera softshell',
         gender: 'hombre',
         name: '*ascender shelbys',
         code: 'wm6615',
-        price: 3300
+        price: 3600
       },
       {
         brand: 'columbia',
@@ -418,7 +426,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: '*ascender 2 alloway',
         code: 'wm6645',
-        price: 3300
+        price: 3600
       },
       {
         brand: 'columbia',
@@ -434,7 +442,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'cascade ridge',
         code: '',
-        price: 3700
+        price: 4500
       },
       {
         brand: 'columbia',
@@ -698,7 +706,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'flash forward',
         code: '',
-        price: 3700
+        price: 4210
       },
       {
         brand: 'columbia',
@@ -1034,7 +1042,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'whidbey',
         code: '',
-        price: 1290
+        price: 1340
       },
       {
         brand: 'columbia',
@@ -1154,7 +1162,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'fast trek h/z',
         code: '',
-        price: 1299
+        price: 1599
       },
       {
         brand: 'columbia',
@@ -1162,7 +1170,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'fast trek f/z',
         code: '',
-        price: 1630
+        price: 1750
       },
       {
         brand: 'columbia',
@@ -1418,7 +1426,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'silver ridge',
         code: '',
-        price: 1840
+        price: 2100
       },
       {
         brand: 'columbia',
@@ -1426,7 +1434,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'silver ridge plaid',
         code: '',
-        price: 1840
+        price: 2100
       },
       {
         brand: 'columbia',
@@ -2024,6 +2032,14 @@ export const Products : PricingList[] = [
         brand: 'columbia',
         class: 'campera desmontable',
         gender: 'dama',
+        name: 'bugaboo casual 3 en 1',
+        code: '',
+        price: 8600
+      },
+      {
+        brand: 'columbia',
+        class: 'campera desmontable',
+        gender: 'dama',
         name: 'whirlbird oh',
         code: '',
         price: 8990
@@ -2210,7 +2226,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'powder pillo tapado',
         code: '',
-        price: 4599
+        price: 5500
       },
       {
         brand: 'columbia',
@@ -2226,7 +2242,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'goto c/capucha',
         code: '',
-        price: 4300
+        price: 4900
       },
       {
         brand: 'columbia',
@@ -2267,6 +2283,22 @@ export const Products : PricingList[] = [
         name: 'flash forward parka',
         code: '',
         price: 5300
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'shelldrake tapado',
+        code: '',
+        price: 7550
+      },
+      {
+        brand: 'columbia',
+        class: 'campera fija',
+        gender: 'dama',
+        name: 'powder pillow jkt',
+        code: '',
+        price: 4900
       },
       {
         brand: 'columbia',
@@ -2614,6 +2646,14 @@ export const Products : PricingList[] = [
       },
       {
         brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'dama',
+        name: 'adventure f/z',
+        code: '',
+        price: 1350
+      },
+      {
+        brand: 'columbia',
         class: 'campera rompeviento',
         gender: 'dama',
         name: 'cougar flats',
@@ -2738,7 +2778,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'silver ridge desmontable',
         code: '',
-        price: 2490
+        price: 2700
       },
       {
         brand: 'columbia',
@@ -2746,7 +2786,7 @@ export const Products : PricingList[] = [
         gender: 'dama',
         name: 'silver ridge fijo',
         code: '',
-        price: 2190
+        price: 2400
       },
       {
         brand: 'columbia',
@@ -3187,6 +3227,14 @@ export const Products : PricingList[] = [
         name: 'benton springs c/capucha',
         code: '',
         price: 960
+      },
+      {
+        brand: 'columbia',
+        class: 'polar micropolar',
+        gender: 'niño',
+        name: 'glacial',
+        code: '',
+        price: 1000
       },
       {
         brand: 'columbia',
