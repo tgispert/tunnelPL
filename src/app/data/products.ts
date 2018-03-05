@@ -18460,7 +18460,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'camisa m/c lisa',
         code: '',
-        price: 499
+        price: 599
       }
     ]
   },
@@ -18486,7 +18486,20 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'campera duvet',
         code: '',
-        price: 2990
+        price: 3490
+      }
+    ]
+  },
+  {
+    brand: 'benetton',
+    products: [
+      {
+        brand: 'benetton',
+        class: 'sweater',
+        gender: 'hombre',
+        name: 'sweater lana cuadros',
+        code: '',
+        price: 1290
       }
     ]
   },
@@ -18533,7 +18546,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'polar h/z',
         code: '',
-        price: 790
+        price: 890
       }
     ]
   },
@@ -18546,7 +18559,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'remera s/m',
         code: '',
-        price: 290
+        price: 390
       }
     ]
   },
@@ -18559,7 +18572,7 @@ export const Products : PricingList[] = [
         gender: 'niño',
         name: 'jean niño 6-8',
         code: '',
-        price: 450
+        price: 499
       },
       {
         brand: 'bel',
@@ -18567,7 +18580,7 @@ export const Products : PricingList[] = [
         gender: 'niño',
         name: 'jean niño 10-12',
         code: '',
-        price: 490
+        price: 550
       },
       {
         brand: 'bel',
@@ -18575,7 +18588,7 @@ export const Products : PricingList[] = [
         gender: 'niño',
         name: 'jean niño 14-16',
         code: '',
-        price: 590
+        price: 650
       }
     ]
   },
@@ -18588,7 +18601,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sweater cuello v',
         code: '',
-        price: 990
+        price: 1190
       },
       {
         brand: 'area 77',
@@ -18596,7 +18609,7 @@ export const Products : PricingList[] = [
         gender: 'niño',
         name: 'buzo c/capucha',
         code: '',
-        price: 990
+        price: 1190
       }
     ]
   },
@@ -18609,7 +18622,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'camepera canelon',
         code: '',
-        price: 1690
+        price: 1890
       },
       {
         brand: 'britz',
@@ -18617,7 +18630,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'chaleco canelon',
         code: '',
-        price: 1290
+        price: 1490
       }
     ]
   },
@@ -18630,7 +18643,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'sweater',
         code: '',
-        price: 890
+        price: 1290
       }
     ]
   },
@@ -18643,7 +18656,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'gorro',
         code: '',
-        price: 490
+        price: 590
       },
       {
         brand: 'bula',
@@ -18651,7 +18664,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'cuello polar',
         code: '',
-        price: 350
+        price: 450
       }
     ]
   },
@@ -18664,7 +18677,23 @@ export const Products : PricingList[] = [
         gender: 'niño',
         name: 'polar niño',
         code: '',
-        price: 650
+        price: 790
+      },
+      {
+        brand: 'blue ridge',
+        class: 'buzo',
+        gender: 'hombre',
+        name: 'buzo h/z',
+        code: '',
+        price: 990
+      },
+      {
+        brand: 'blue ridge',
+        class: 'buzo',
+        gender: 'hombre',
+        name: 'buzo f/z',
+        code: '',
+        price: 990
       }
     ]
   },
@@ -18677,7 +18706,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'guantes',
         code: '',
-        price: 350
+        price: 390
       },
       {
         brand: 'tinsulate',
@@ -18685,7 +18714,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'gorro tejido',
         code: '',
-        price: 350
+        price: 390
       },
       {
         brand: 'tinsulate',
@@ -18693,28 +18722,7 @@ export const Products : PricingList[] = [
         gender: 'hombre',
         name: 'gorro coya tejido',
         code: '',
-        price: 390
-      }
-    ]
-  },
-  {
-    brand: 'blue ridge',
-    products: [
-      {
-        brand: 'blue ridge',
-        class: 'buzo',
-        gender: 'hombre',
-        name: 'buzo h/z',
-        code: '',
-        price: 890
-      },
-      {
-        brand: 'blue ridge',
-        class: 'buzo',
-        gender: 'hombre',
-        name: 'buzo f/z',
-        code: '',
-        price: 890
+        price: 490
       }
     ]
   },
