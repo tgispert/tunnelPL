@@ -1,0 +1,133 @@
+brand,class,gender,name,code,price
+absolut,calzado,hombre,zapatilla baja,,690
+absolut,calzado,hombre,zapatilla alta vintage lona,,690
+absolut,calzado,hombre,zapatilla alta vintage cuero,,690
+absolut,calzado,hombre,zapatilla cuero,,1290
+absolut,calzado,hombre,zapato vestir,,2490
+absolut,calzado,hombre,bota vestir,,2990
+absolut,blazer,hombre,chaleco vestir,555,1490
+absolut,blazer,hombre,saco paño,562,3990
+absolut,blazer,hombre,saco mec,601,1990
+absolut,blazer,hombre,saco mecanico,602,1990
+absolut,blazer,hombre,saco pana,603,3990
+absolut,blazer,hombre,saco fant ray,605,2590
+absolut,blazer,hombre,saco mecanico,610,1990
+absolut,blazer,hombre,saco mecanico rayado,610,2590
+absolut,blazer,hombre,saco viz ray,613,2990
+absolut,blazer,hombre,saco gabardina,617,2590
+absolut,blazer,hombre,saco fant esc gris,620,2590
+absolut,blazer,hombre,saco esc gris,621,2590
+absolut,blazer,hombre,saco esc gris cel,627,2990
+absolut,blazer,hombre,saco mecanico,630,1990
+absolut,blazer,hombre,saco mecanico ray,631,2990
+absolut,blazer,hombre,saco mecanico,632,1990
+absolut,blazer,hombre,saco pie de pool,642,3290
+absolut,blazer,hombre,saco arrazado,645,3990
+absolut,blazer,hombre,saco ray fant,646,2590
+absolut,blazer,hombre,saco pana rust aveja,647,3990
+absolut,blazer,hombre,saco mac esc,651,2590
+absolut,blazer,hombre,saco paño,654,4590
+absolut,blazer,hombre,saco paño esmer,657,3590
+absolut,blazer,hombre,saco esm boton pecho,658,3290
+absolut,blazer,hombre,saco paño largo,660,4990
+absolut,blazer,hombre,saco gab,670,2590
+absolut,blazer,hombre,saco pana rustico,682,3990
+absolut,blazer,hombre,saco viz,683,3290
+absolut,blazer,hombre,saco pana,686,3990
+absolut,blazer,hombre,saco lino,689,2990
+absolut,blazer,hombre,saco lino,690,2990
+absolut,blazer,hombre,blazer denim,789,2990
+absolut,blazer,hombre,saco esm,1611,3290
+absolut,blazer,hombre,saco paño militar,2604,3990
+absolut,blazer,hombre,saco combinado,2607,3290
+absolut,blazer,hombre,saco pana rustica,2618,3990
+absolut,blazer,hombre,saco dalmorale gris,2623,4990
+absolut,blazer,hombre,saco paño tizado,2625,4590
+absolut,blazer,hombre,saco lino,3614,2990
+absolut,blazer,hombre,saco gab rustica,3618,2590
+absolut,blazer,hombre,saco det cuero,3652,3990
+absolut,blazer,hombre,saco paño manso doble bot,4607,4990
+absolut,blazer,hombre,blazer denim,4636,2990
+absolut,blazer,hombre,saco doble abotonadura,4637,3590
+absolut,blazer,hombre,saco albert doble bot,5628,4990
+absolut,blazer,hombre,gaban take shy,6004,4990
+absolut,blazer,hombre,saco revival,6008,3990
+absolut,blazer,hombre,saco milano gab,6014,2390
+absolut,blazer,hombre,saco,6018,3990
+absolut,blazer,hombre,saco remake,6019,3990
+absolut,blazer,hombre,sobretodo vesma,6023,4990
+absolut,blazer,hombre,saco gris black,6024,3990
+absolut,blazer,hombre,blazer,6026,3990
+absolut,blazer,hombre,saco pana,6032,3990
+absolut,blazer,hombre,saco,6033,3990
+absolut,blazer,hombre,saco paso,16044,4590
+absolut,blazer,hombre,saco s/solapa,6047,4900
+absolut,blazer,hombre,claremont gaban,6003,4990
+absolut,blazer,hombre,blazer,6028,3990
+absolut,blazer,hombre,paño rivera,6059,6900
+absolut,camisa manga larga,hombre,camisa seda,,990
+absolut,camisa manga larga,hombre,camisa lisa,,1690
+absolut,camisa manga larga,hombre,camisa tablas y bord,,990
+absolut,camisa manga larga,hombre,camisa fantasias,,1690
+absolut,camisa manga larga,hombre,camisa cuadros,,1690
+absolut,camisa manga larga,hombre,camisa viyela,,1890
+absolut,camisa manga corta,hombre,todas,,990
+absolut,jacket,hombre,moto c/cierre denim loc,776,2590
+absolut,jacket,hombre,camp chinches,507,2590
+absolut,jacket,hombre,chaqueta army,514,2590
+absolut,jacket,hombre,camp corta king,512,2590
+absolut,campera,hombre,*camp imp moto,504,0
+absolut,campera,hombre,paño escoses,508,3590
+absolut,campera,hombre,saco paño,660,4990
+absolut,campera,hombre,camp aj,506,2590
+absolut,campera,hombre,camp maverick,775,2590
+absolut,campera,hombre,camp odisey teflon,513,3490
+absolut,campera,hombre,chaleco nylon,517,2590
+absolut,campera,hombre,camp denim,760,2590
+absolut,campera,hombre,campera,529,2590
+absolut,campera,hombre,camp denim,507,2990
+absolut,campera,hombre,camp,520,2990
+absolut,campera,hombre,camp,525,2990
+absolut,campera,hombre,piloto,1533,2990
+absolut,campera,hombre,pka gab,6002,3290
+absolut,campera,hombre,camp canelon,5026,3590
+absolut,campera,hombre,camp eco paño,5025,3290
+absolut,campera,hombre,jkt camuf cam,5042,3490
+absolut,campera,hombre,jkt cam nylon eng,502,4900
+absolut,campera,hombre,jkt cam nylon,502,2990
+absolut,pantalon,hombre,jean lona dura,,990
+absolut,pantalon,hombre,jean moda,,1990
+absolut,pantalon,hombre,pantalon cargo,,1590
+absolut,pantalon,hombre,*pantalon gabardina 5 pab black,,1990
+absolut,pantalon,hombre,pantalon vestir,,990
+absolut,pantalon,hombre,pantalon vestir vizc,,1290
+absolut,pantalon,hombre,jogging,,1290
+absolut,pantalon,hombre,bermuda,,990
+absolut,pantalon,hombre,short de baño,,690
+absolut,pantalon,hombre,corderoy,,1990
+absolut,buzo,hombre,campera algodon liviano,23,690
+absolut,buzo,hombre,buzo c/capucha opals,14,990
+absolut,buzo,hombre,camp algodon vizcosa,78,990
+absolut,buzo,hombre,camp algodon c/cordon,10533,2290
+absolut,buzo,hombre,buzo cuello polo c/aplique,,990
+absolut,sweater,hombre,sweater,,1290
+absolut,sweater,hombre,cardigan multicolor,,1490
+absolut,sweater,hombre,cardigan c/boton c/cierre,,1690
+absolut,sweater,hombre,poleron,,1490
+absolut,sweater,hombre,sweater c/lyrca,,990
+absolut,sweater,hombre,chaleco punto,,890
+absolut,remera,hombre,remera m/c,,790
+absolut,remera,hombre,remera m/c c/botones,,750
+absolut,remera,hombre,remera m/l,,790
+absolut,remera,hombre,musculosa,,550
+absolut,chomba,hombre,chomba algodon m/c,,750
+absolut,chomba,hombre,chomba algodon m/l,,750
+absolut,accesorio,hombre,cinturon,,590
+absolut,accesorio,hombre,corbata,,490
+absolut,accesorio,hombre,boxer,,390
+absolut,accesorio,hombre,slip,,390
+absolut,accesorio,hombre,gorra,,529
+absolut,accesorio,hombre,chalina,,599
+absolut,accesorio,hombre,billetera,,529
+absolut,accesorio,hombre,media simple,,170
+absolut,accesorio,hombre,media x2,,320

@@ -1,0 +1,140 @@
+brand,class,gender,name,code,price
+tunnel,calzado,hombre,sandalia cuero entero,4,1690
+tunnel,calzado,hombre,sandalia entera c/pres,5,1690
+tunnel,calzado,hombre,sandalia cuero cruzado abierto,6,1690
+tunnel,calzado,hombre,mocasin hebilla black,104,1690
+tunnel,calzado,hombre,mocasin pespuente,121,1690
+tunnel,calzado,hombre,,160,1690
+tunnel,calzado,hombre,trackers,165,1690
+tunnel,calzado,hombre,nautico clasico c/cordon gamuza,331,1690
+tunnel,calzado,hombre,mocasin clasico gamuza c/traba,338,1690
+tunnel,calzado,hombre,mocasin clasico gamuza c/traba,339,1690
+tunnel,calzado,hombre,suela,552,1690
+tunnel,calzado,hombre,mocasin gamuzado suela tapo,738,1690
+tunnel,calzado,hombre,mocasin gamuzado suela tapo,740,1690
+tunnel,calzado,hombre,trackers,801,1690
+tunnel,calzado,hombre,nautico engrasado,1053,1690
+tunnel,calzado,hombre,tipo confort,1606,1690
+tunnel,calzado,hombre,zapatilla,6508,1690
+tunnel,calzado,hombre,khaky brown trek,hk004,1690
+tunnel,calzado,hombre,brown trek,hk008,1690
+tunnel,calzado,hombre,borsegui negro,,2290
+tunnel,calzado,hombre,,330,2290
+tunnel,calzado,hombre,bota gamuza,1076,2290
+tunnel,calzado,hombre,bota c/cordon,7083,2290
+tunnel,calzado,hombre,bota cuero velcro,5008,2290
+tunnel,calzado,hombre,zapato c/cordon,7005,1990
+tunnel,calzado,hombre,bowling c/cordon,440,1690
+tunnel,calzado,hombre,bowling,6508,1690
+tunnel,calzado,hombre,bowling,322,1690
+tunnel,calzado,hombre,*predator blue,1012,1690
+tunnel,calzado,hombre,bota,11002,2590
+tunnel,calzado,hombre,zapato vestir,,2290
+tunnel,accesorio,unisex,bicapa,08,299
+tunnel,accesorio,unisex,media simple,06,299
+tunnel,pantalon,hombre,jean,,799
+tunnel,pantalon,hombre,corderoy,,990
+tunnel,pantalon,hombre,gab canvas,,890
+tunnel,pantalon,hombre,coder,,890
+tunnel,pantalon,hombre,chupin denim y color,,990
+tunnel,pantalon,hombre,chupin corderoy y elast,,1190
+tunnel,pantalon,dama,jean dama,,890
+tunnel,pantalon,dama,jean corderoy dama,,990
+tunnel,pantalon,hombre,jogging,,690
+tunnel,camisa,hombre,camisa m/l lino,,890
+tunnel,camisa,hombre,camis m/l resto,,690
+tunnel,camisa,hombre,camisa m/c,,590
+tunnel,camisa,hombre,camisa viyela y flor,,890
+tunnel,sweater,hombre,*lamswlt,,1190
+tunnel,sweater,hombre,lana h/z,,990
+tunnel,sweater,hombre,lana sht,,990
+tunnel,sweater,hombre,hilo rombo,,890
+tunnel,sweater,hombre,hilo,,990
+tunnel,sweater,hombre,card hilo,,1190
+tunnel,sweater,hombre,card lana,,1290
+tunnel,sweater,hombre,chaleco hilo,,790
+tunnel,sweater,hombre,sw lana pesada,,1290
+tunnel,sweater,dama,sw lana dama / hilo,,890
+tunnel,sweater,dama,poncho hilo dama,,990
+tunnel,sweater,dama,saco punto dama,,1490
+tunnel,sweater,hombre,montgomery lana,,2290
+tunnel,chomba,hombre,chomba lisa pique,,590
+tunnel,chomba,hombre,chomba ray pique,,690
+tunnel,chomba,hombre,chomba comb y ray alg,,690
+tunnel,chomba,hombre,chomba lisa alg,,590
+tunnel,remera,hombre,remera m/c lisa,,250
+tunnel,remera,hombre,remera m/c est,,290
+tunnel,remera,hombre,remera m/c pigmentada,,250
+tunnel,remera,hombre,polera alg,,590
+tunnel,remera,hombre,sudadera,,250
+tunnel,blazer,hombre,ambo,,4900
+tunnel,blazer,hombre,blazer,,2990
+tunnel,accesorio,hombre,billetera,,390
+tunnel,accesorio,hombre,cinto s/tachas,,450
+tunnel,accesorio,hombre,cinto c/tachas,,490
+tunnel,accesorio termico,hombre,media termica,06a,299
+tunnel,accesorio termico,hombre,media termica,08a,299
+tunnel,accesorio,hombre,slip 1-4,,89
+tunnel,accesorio,hombre,slip 5-10,,99
+tunnel,vestido,dama,vestido largo lani,,2290
+tunnel,vestido,dama,vestido alg,,690
+tunnel,falda,hombre,falda,,690
+tunnel,buzo,hombre,buzo bossa combi,,790
+tunnel,buzo,hombre,buzo cuello polo,,990
+tunnel,buzo,hombre,buzo c/polar liviano,,890
+tunnel,buzo,hombre,buzo polar,,890
+tunnel,buzo,hombre,buzo c/cap,,890
+tunnel,buzo,hombre,buzo h/z cuello polera,,990
+tunnel,buzo,hombre,camp alg c/cap,,990
+tunnel,buzo,hombre,camp alg c/capucha c/cierre pecho,,1490
+tunnel,campera cuero,hombre,camp cabra antilopada,,7990
+tunnel,campera cuero,hombre,camp mango 2 c/2 traba,,6990
+tunnel,campera cuero,hombre,camp nobuck c/botones,,6990
+tunnel,campera cuero,hombre,camp cuero sherif jean,,6990
+tunnel,campera cuero,hombre,camp cuero sherif desc,,5990
+tunnel,campera cuero,hombre,camp cuero napa lisa,,6990
+tunnel,campera cuero,hombre,camp campo napa pespunteada,,6990
+tunnel,campera cuero,hombre,chaqueta cruzada cuero c/boton tipo gaban,,6990
+tunnel,campera cuero,hombre,chaqueta pecari c/botones,,6990
+tunnel,campera cuero,hombre,napalan c/piel,,7990
+tunnel,campera cuero,hombre,napalan c/piel bca,,7990
+tunnel,campera cuero,hombre,camp campo eng 570,,6990
+tunnel,campera cuero,hombre,chaqueta c/botones de cuero 532,,7990
+tunnel,campera cuero,hombre,camp campo desc,,5990
+tunnel,campera cuero,hombre,camp c/cierre en bols y traba atras 585,,6990
+tunnel,campera cuero,hombre,camp desc c/piel botones,,6990
+tunnel,campera cuero,hombre,chaqueta cierre 188,,7990
+tunnel,campera cuero,dama,camp 1/2 pka napa c/cint matelaseada,,6500
+tunnel,campera cuero,dama,camp 1/2 pka cuero engrasado c/lazo,,6500
+tunnel,campera cuero,dama,camp corta cuero liviano 185,,6500
+tunnel,campera cuero,dama,napalan corto c/cierre rec cuero,,6990
+tunnel,campera cuero,dama,napalan semi largo nobuck y piel adi adenro,,6990
+tunnel,campera cuero,dama,semi parka c/piel en solapa negra y lazo,,6990
+tunnel,campera cuero,dama,camp c/cierre napa corta,,6990
+tunnel,campera cuero,dama,camp napa c/cierre 173,,6990
+tunnel,campera cuero,dama,chaqueta napa corta 164,,6990
+tunnel,campera,dama,campera nylon dama,,2490
+tunnel,campera,dama,montgomery paño dama,,3490
+tunnel,campera,dama,saco paño dama,,2990
+tunnel,campera,dama,camp simil cuero dama,,2390
+tunnel,campera,dama,camo gab c/cap dama,,2490
+tunnel,campera,dama,camp univ paño dama,,2290
+tunnel,chaleco,dama,chaleco nylon dama,,990
+tunnel,campera,hombre,camp gab liviana,,2290
+tunnel,campera,hombre,camp gab inv,,2990
+tunnel,campera,hombre,camp nylon liv,,1990
+tunnel,campera,hombre,camp nylon pesada,,2790
+tunnel,campera,hombre,camp cord o kanvas c/cord corta,,2290
+tunnel,campera,hombre,camo cord o kanvas c/cord larga,,2590
+tunnel,campera,hombre,camp denim c/cord corta,,2290
+tunnel,campera,hombre,camo denim c/cord larga,,2590
+tunnel,campera,hombre,camp microkanvas c/cierre,,2290
+tunnel,campera,hombre,camp tipo oxford,,2290
+tunnel,campera,hombre,jkt denim,,1990
+tunnel,campera,hombre,camp paño c/cierre,,2990
+tunnel,campera,hombre,rompeviento,,890
+tunnel,campera,hombre,saco paño naval,,3990
+tunnel,campera,hombre,montgomery paño,,3490
+tunnel,campera,hombre,jkt simil cuero,,2490
+tunnel,chaleco,hombre,chaleco nylon,,990
+tunnel,blazer,hombre,blazer y chaquetas gab,,1990

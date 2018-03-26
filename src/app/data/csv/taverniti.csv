@@ -1,0 +1,166 @@
+brand,class,gender,name,code,price
+taverniti,calzado,hombre,todos,,990
+taverniti,pantalon,hombre,pantalon cargo,,1890
+taverniti,pantalon,hombre,jean ant,,799
+taverniti,pantalon,hombre,jean color gab ant,,999
+taverniti,pantalon,hombre,jean clasico intermedio,,990
+taverniti,pantalon,hombre,jean gab nuevo,,1490
+taverniti,pantalon,hombre,jean nuevo,,1490
+taverniti,pantalon,hombre,jean corderoy,,1590
+taverniti,pantalon,hombre,jogging c/puño,,990
+taverniti,blazer,hombre,blazer denim blue,3310,2690
+taverniti,blazer,hombre,blazer corderoy,3312,2890
+taverniti,campera,hombre,jkt denim,,2490
+taverniti,campera,hombre,jkt denim c/cord,,2490
+taverniti,campera,hombre,jkt nylon liv,,2390
+taverniti,campera,hombre,jkt nylon inv,,2990
+taverniti,campera,hombre,jkt canelon,,2990
+taverniti,campera,hombre,jkt gab liv,,2290
+taverniti,campera,hombre,jkt gab inv,,2990
+taverniti,campera,hombre,piloto,,2990
+taverniti,campera,hombre,montgomery paño,,3990
+taverniti,campera,hombre,jkt softhshell,,2690
+taverniti,campera,hombre,jkt simil cuero,,2990
+taverniti,campera,hombre,montgomery alg,,3290
+taverniti,campera,hombre,jkt corderoy,,2290
+taverniti,campera,hombre,jkt paño bomber,,2490
+taverniti,campera,hombre,jkt corderoy inv,,2790
+taverniti,campera,hombre,chaleco nylon,,1890
+taverniti,campera,hombre,chaleco reversible canelon,,2290
+taverniti,buzo,hombre,camp alg c/corderito,,2290
+taverniti,buzo,hombre,buzo h/z,,1290
+taverniti,buzo,hombre,buzo bossa liso,,899
+taverniti,buzo,hombre,buzo bossa rayado,,999
+taverniti,buzo,hombre,buzo c/cap,,1290
+taverniti,buzo,hombre,buzo c/estampa,,990
+taverniti,buzo,hombre,buzo cuello polo c/boton o cierre,,1290
+taverniti,buzo,hombre,buzo polar y camp anteriores,,1190
+taverniti,buzo,hombre,buzo rustico,,899
+taverniti,buzo,hombre,camp alg liviana,,899
+taverniti,buzo,hombre,camp c/capucha o s/capucha,,1490
+taverniti,buzo,hombre,chaleco polar nuevo diseño,,899
+taverniti,buzo,hombre,chaleco polar combinado,,899
+taverniti,buzo,hombre,buzo cuello polo liviano,,999
+taverniti,buzo,hombre,chaleco algodon,,799
+taverniti,buzo,hombre,camp polar tecnica c/nylon,14038,1690
+taverniti,buzo,hombre,buzo c/capucha y lana,,1690
+taverniti,buzo,hombre,camp alg/nylon rever,,2590
+taverniti,remera,hombre,remera s/m lisa,,390
+taverniti,remera,hombre,remera s/m comb,,450
+taverniti,remera,hombre,musculosa dry fit,,690
+taverniti,remera,hombre,remera m/c lisa,,490
+taverniti,remera,hombre,remera m/c est,,690
+taverniti,remera,hombre,remera m/c cuello ray,,690
+taverniti,remera,hombre,remera m/c cuello v est,,750
+taverniti,remera,hombre,remera m/c dry fit,,890
+taverniti,remera,hombre,remera cuello v pique,,690
+taverniti,remera,hombre,remera m/l lisa,,650
+taverniti,remera,hombre,remera m/l est,,790
+taverniti,remera,hombre,remera m/l est,,790
+taverniti,remera,hombre,remera m/l ray,,790
+taverniti,remera,hombre,polera alg,,690
+taverniti,chomba,hombre,chomba alg m/c lisa,,790
+taverniti,chomba,hombre,chomba alg m/c ray,,790
+taverniti,chomba,hombre,chomba dry fit m/c,,890
+taverniti,chomba,hombre,chomba m/c pique lisa,,699
+taverniti,chomba,hombre,chomba pique m/c c/bols,,790
+taverniti,chomba,hombre,chomba pique m/c ray,,790
+taverniti,chomba,hombre,chomba alg m/c liv ray,,890
+taverniti,chomba,hombre,chomba pique m/l,,790
+taverniti,chomba,hombre,chomba talle especial,,990
+taverniti,camisa manga corta,hombre,camisa cuadros/ray/fant m/c,,999
+taverniti,camisa manga corta,hombre,camisa lisa m/c,,899
+taverniti,camisa manga corta,hombre,camisa denim m/c,,1090
+taverniti,camisa manga larga,hombre,camisa cuadros/fantasia m/l,,1190
+taverniti,camisa manga larga,hombre,camisa denim m/l,,1390
+taverniti,camisa manga larga,hombre,camisa lisa m/l,,999
+taverniti,camisa manga larga,hombre,camisa viyela m/l,,1290
+taverniti,bermuda,hombre,bermuda denim c/cinto,,990
+taverniti,bermuda,hombre,bermuda denim c/cinto talle especial 42,,1060
+taverniti,bermuda,hombre,bermuda denim,,990
+taverniti,bermuda,hombre,bermuda denim talle especial 42,,1060
+taverniti,bermuda,hombre,bermuda cargo,,990
+taverniti,bermuda,hombre,bermuda cargo talle especial 42,,1060
+taverniti,bermuda,hombre,bermuda esc y resto,,990
+taverniti,bermuda,hombre,bermuda esc y resto talle especial 42,,1060
+taverniti,bermuda,hombre,bermuda de baño,,890
+taverniti,bermuda,hombre,short dryfit,,890
+taverniti,bermuda,hombre,bermuda micropolar,,1190
+taverniti,bermuda,hombre,bermuda cargo c/cinto,,1190
+taverniti,pantalon,dama,jean color,,1490
+taverniti,pantalon,dama,jean denim ant,,999
+taverniti,pantalon,dama,jean denim,,1490
+taverniti,pantalon,dama,jean corderoy,,1590
+taverniti,pantalon,dama,pantalon vestir y arrazado,,1690
+taverniti,pantalon,dama,jean caja,,1690
+taverniti,pantalon,dama,jean jard y/o bretel,,1690
+taverniti,buzo,dama,camp alg c/corderito,,2290
+taverniti,buzo,dama,buzo alg c/cap,,1290
+taverniti,buzo,dama,camp alg c/cap o s/cap,,1290
+taverniti,buzo,dama,camo plush,,1290
+taverniti,buzo,dama,montgomery,,2290
+taverniti,buzo,dama,buzo m/c promo,,890
+taverniti,buzo,dama,buzo plush promo energy,,890
+taverniti,buzo,dama,buzo alg bossa c/estampa,,890
+taverniti,buzo,dama,buzo m/c,,890
+taverniti,remera camisa,dama,musculosa y m/c alg,,390
+taverniti,remera camisa,dama,rem m/l alg,,590
+taverniti,remera camisa,dama,musc mod,,490
+taverniti,remera camisa,dama,musc modal est,,490
+taverniti,remera camisa,dama,rem m/c modal basica,,590
+taverniti,remera camisa,dama,rem m/c modal c/aplique,,590
+taverniti,remera camisa,dama,rem m/c modal est,,590
+taverniti,remera camisa,dama,rem m/l modal,,690
+taverniti,remera camisa,dama,rem m/c gasa,,590
+taverniti,remera camisa,dama,shirt m/c,,890
+taverniti,remera camisa,dama,shirt m/c denim,,990
+taverniti,remera camisa,dama,shirt s/m denim,,890
+taverniti,remera camisa,dama,shirt m/3/4,,890
+taverniti,remera camisa,dama,shirt m/l lisa,,950
+taverniti,remera camisa,dama,shirt m/l esc y denim,,1590
+taverniti,remera camisa,dama,rem m/c nueva,,490
+taverniti,campera,dama,jkt denim,,1790
+taverniti,campera,dama,blazer denim,,1890
+taverniti,campera,dama,blazer corderoy,,1990
+taverniti,campera,dama,blazer blue c/viz,,1990
+taverniti,campera,dama,jkt simil cuero,,2990
+taverniti,campera,dama,jkt simil gamulan,,2990
+taverniti,campera,dama,jkt softshell,,2690
+taverniti,campera,dama,jkt nylon corta inv,,2990
+taverniti,campera,dama,jkt nylon larga inv,,2990
+taverniti,campera,dama,saco paño,,3590
+taverniti,campera,dama,trench gab inv,,3490
+taverniti,campera,dama,trench gab liv,,2490
+taverniti,campera,dama,chaleco nylon,,1790
+taverniti,campera,dama,chaleco denim,,1490
+taverniti,campera,dama,jkt nylon liv,,1990
+taverniti,campera,dama,montgomery nylon,3027,3990
+taverniti,falda short,dama,short gab,,590
+taverniti,falda short,dama,short denim,,899
+taverniti,falda short,dama,bermuda gab,,790
+taverniti,falda short,dama,bermuda denim,,899
+taverniti,falda short,dama,capri gab,,690
+taverniti,falda short,dama,capri denim,,790
+taverniti,falda short,dama,falda denim,,990
+taverniti,falda short,dama,vest m/c,1972,1390
+taverniti,falda short,dama,vest modal,,890
+taverniti,falda short,dama,vestido,1073,890
+taverniti,falda short,dama,bermuda c/cinto,11027,790
+taverniti,falda short,dama,vestido modal,19051,890
+taverniti,falda short,dama,pantalon plush,,990
+taverniti,falda short,dama,jardinero corto denim,,1290
+taverniti,accesorio,hombre,boxer x2,,790
+taverniti,accesorio,hombre,boxer alg liso,,350
+taverniti,accesorio,hombre,boxer rebote,,390
+taverniti,accesorio,hombre,boxer tela,,390
+taverniti,accesorio,hombre,boxer est,,390
+taverniti,accesorio,hombre,slip alg c/elast,,350
+taverniti,accesorio,unisex,bufanda,,690
+taverniti,accesorio,unisex,perfume,,590
+taverniti,accesorio,unisex,billetera,,550
+taverniti,accesorio,unisex,cup militar,,529
+taverniti,accesorio,unisex,media rombo,,95
+taverniti,accesorio,unisex,media rayas,,95
+taverniti,accesorio,unisex,media lisa,,95
+taverniti,accesorio,unisex,media pack x2,,185
+taverniti,accesorio,unisex,cinturon,,450
