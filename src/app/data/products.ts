@@ -19859,6 +19859,14 @@ export const Products : PricingList[] = [
       },
       {
         brand: "surfanic",
+        class: "accesorios",
+        gender: "unisex",
+        name: "media alta x 3",
+        code: "",
+        price: 790
+      },
+      {
+        brand: "surfanic",
         class: "buzo",
         gender: "dama",
         name: "kelli camp alg f/z",
@@ -19901,6 +19909,14 @@ export const Products : PricingList[] = [
         brand: "surfanic",
         class: "campera",
         gender: "dama",
+        name: "faro",
+        code: "",
+        price: 6490
+      },
+      {
+        brand: "surfanic",
+        class: "campera",
+        gender: "dama",
         name: "luna jkt",
         code: "",
         price: 8040
@@ -19911,7 +19927,7 @@ export const Products : PricingList[] = [
         gender: "dama",
         name: "lynx jkt",
         code: "",
-        price: 3990
+        price: 4290
       },
       {
         brand: "surfanic",
@@ -19965,9 +19981,25 @@ export const Products : PricingList[] = [
         brand: "surfanic",
         class: "campera",
         gender: "hombre",
+        name: "flex pluma",
+        code: "",
+        price: 4390
+      },
+      {
+        brand: "surfanic",
+        class: "campera",
+        gender: "hombre",
         name: "inferno jkt",
         code: "",
         price: 9000
+      },
+      {
+        brand: "surfanic",
+        class: "campera",
+        gender: "hombre",
+        name: "polar",
+        code: "",
+        price: 4590
       },
       {
         brand: "surfanic",
@@ -20093,25 +20125,33 @@ export const Products : PricingList[] = [
         brand: "surfanic",
         class: "termico",
         gender: "dama",
-        name: "calley camiseta termica dama h/z",
+        name: "calley camiseta termica h/z",
         code: "",
-        price: 930
+        price: 990
       },
       {
         brand: "surfanic",
         class: "termico",
         gender: "dama",
-        name: "sussi camiseta termica dama bossa camuflada",
+        name: "sussi camiseta termica bossa camuflada",
         code: "",
-        price: 870
+        price: 960
       },
       {
         brand: "surfanic",
         class: "termico",
         gender: "hombre",
-        name: "zammo camiseta termica hombre bossa",
+        name: "jonah camiseta termica bossa",
         code: "",
-        price: 950
+        price: 990
+      },
+      {
+        brand: "surfanic",
+        class: "termico",
+        gender: "hombre",
+        name: "zammo camiseta termica bossa",
+        code: "",
+        price: 990
       },
       {
         brand: "surfanic",
