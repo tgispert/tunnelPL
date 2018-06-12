@@ -628,6 +628,10 @@ export const Brands = [
         "name": "wados"
     },
     {
+        "id": "134",
+        "name": "worren"
+    },
+    {
         "id": "5",
         "name": "wrangler"
     },
