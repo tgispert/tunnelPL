@@ -48,6 +48,10 @@ export const Brands = [
         "name": "blend"
     },
     {
+        "id": "162",
+        "name": "bless"
+    },
+    {
         "id": "61",
         "name": "blue ridge"
     },

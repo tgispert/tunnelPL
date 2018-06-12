@@ -1474,6 +1474,27 @@ export const Products : PricingList[] = [
     ]
   },
   {
+    brand: 'bless',
+    products: [
+      {
+        brand: "bless",
+        class: "campera",
+        gender: "dama",
+        name: "jkt denim",
+        code: "",
+        price: 2190
+      },
+      {
+        brand: "bless",
+        class: "pantalon`",
+        gender: "dama",
+        name: "jean denim",
+        code: "",
+        price: 2190
+      }
+    ]
+  },
+  {
     brand: 'blue ridge',
     products: [
       {
