@@ -10904,1676 +10904,1684 @@ export const Products : PricingList[] = [
     brand: 'lee',
     products: [
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN JEANS VI (TRAVIS) MAGMA DARK SHADE",
-        code: "1112-1788-79-01",
-        price: 1899
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHINO PANT I STRETCH TWILL TOASTED",
-        code: "1122-1818-44-01",
-        price: 1599
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHINO PANT II STRETCH TWILL BLACK",
-        code: "1122-1819-79-01",
-        price: 1799
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLICKER STRETCH DENIM INDIGO",
-        code: "1125-1103-85-01",
-        price: 1599
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLICKER III STRETCH DENIM DARK BLUE",
-        code: "1125-1816-84-01",
-        price: 1599
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MARK I STRETCH DENIM INDIGO MID SW",
-        code: "1155-1810-96-01",
-        price: 1499
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MARK JOGG II JOGG DENIM MID BLUE W",
-        code: "1155-1811-95-01",
-        price: 1999
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY STRETCH DENIM IND.MID BLUE WASH",
-        code: "1164-1213-94-01",
-        price: 1799
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY STRETCH DENIM RAW WASH",
-        code: "1164-1403-84-01",
-        price: 1499
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY STRETCH DENIM INDIGO",
-        code: "1164-1760-84-01",
-        price: 1299
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY STRETCH DENIM INDIGO",
-        code: "1164-1761-85-01",
-        price: 1299
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY III STRETCH BLACK SOLID BLACK W",
-        code: "1164-1812-79-01",
-        price: 1499
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY IV STRETCH DENIM INDIGO BLUE BLACK",
-        code: "1164-1813-79-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN JEANS VI (TRAVIS) MAGMA DARK SHADE",
+        "code": "1112-1788-79-01",
+        "price": 1999
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT I STRETCH TWILL TOASTED",
+        "code": "1122-1818-44-01",
+        "price": 1799
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT II STRETCH TWILL BLACK",
+        "code": "1122-1819-79-01",
+        "price": 1799
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLICKER STRETCH DENIM INDIGO",
+        "code": "1125-1103-85-01",
+        "price": 1699
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLICKER III STRETCH DENIM DARK BLUE",
+        "code": "1125-1816-84-01",
+        "price": 1799
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MARK I STRETCH DENIM INDIGO MID SW",
+        "code": "1155-1810-96-01",
+        "price": 1599
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MARK JOGG II JOGG DENIM MID BLUE W",
+        "code": "1155-1811-95-01",
+        "price": 2099
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY STRETCH DENIM IND.MID BLUE WASH",
+        "code": "1164-1213-94-01",
+        "price": 1899
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY STRETCH DENIM RAW WASH",
+        "code": "1164-1403-84-01",
+        "price": 1599
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY STRETCH DENIM INDIGO",
+        "code": "1164-1760-84-01",
+        "price": 1399
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY STRETCH DENIM INDIGO",
+        "code": "1164-1761-85-01",
+        "price": 1399
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY III STRETCH BLACK SOLID BLACK W",
+        "code": "1164-1812-79-01",
+        "price": 1699
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY IV STRETCH DENIM INDIGO BLUE BLACK",
+        "code": "1164-1813-79-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY JOGG I JOGG DENIM BLACK DARK STONE",
-        code: "1164-1815-79-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY JOGG I JOGG DENIM BLACK DARK STONE",
+        "code": "1164-1815-79-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MACKY JOGG II JOGG DENIM DARK BLUE",
-        code: "1164-1817-92-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MACKY JOGG II JOGG DENIM DARK BLUE",
+        "code": "1164-1817-92-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHASE DENIM INDIGO SUPER DARK STONE WASH",
-        code: "1166-1143-96-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHASE DENIM INDIGO SUPER DARK STONE WASH",
+        "code": "1166-1143-96-01",
+        "price": 1849
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHASE DENIM INDIGO LIGHT STONE WASH",
-        code: "1166-1187-86-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHASE DENIM INDIGO LIGHT STONE WASH",
+        "code": "1166-1187-86-01",
+        "price": 1849
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHASE I STRETCH TWILL BLACK SUAVIZADO",
-        code: "1166-1817-79-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHASE I STRETCH TWILL BLACK SUAVIZADO",
+        "code": "1166-1817-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CHASE STRETCH DENIM HEAVY DISTRESSED",
-        code: "1166-1835-96-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CHASE STRETCH DENIM HEAVY DISTRESSED",
+        "code": "1166-1835-96-01",
+        "price": 2199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN CROPPED PANTS III TWILL KHAKI",
-        code: "1170-1790-42-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN CROPPED PANTS III TWILL KHAKI",
+        "code": "1170-1790-42-01",
+        "price": 1999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "101-S STRETCH DENIM NEGRO",
-        code: "1180-1020-79-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "101-S STRETCH DENIM NEGRO",
+        "code": "1180-1020-79-01",
+        "price": 1549
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "101-S STRETCH DENIM INDIGO",
-        code: "1180-1144-85-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "101-S STRETCH DENIM INDIGO",
+        "code": "1180-1144-85-01",
+        "price": 1649
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "101-S I STRETCH DENIM INDIGO RAW WASH",
-        code: "1180-1808-80-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "101-S I STRETCH DENIM INDIGO RAW WASH",
+        "code": "1180-1808-80-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN CROPPED JEANS II (LUKE) MID SHADE",
-        code: "1191-1786-85-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN CROPPED JEANS II (LUKE) MID SHADE",
+        "code": "1191-1786-85-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN CROPPED JEANS I (RAMONE) BLACK DARK",
-        code: "1194-1782-79-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN CROPPED JEANS I (RAMONE) BLACK DARK",
+        "code": "1194-1782-79-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "ANNETTA I STRETCH DENIM RAW WASH",
-        code: "1212-1215-80-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "ANNETTA I STRETCH DENIM RAW WASH",
+        "code": "1212-1215-80-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "ANNETTA II STRETCH DENIM NEGRO SUAV",
-        code: "1212-1216-80-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "ANNETTA II STRETCH DENIM NEGRO SUAV",
+        "code": "1212-1216-80-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN CROPPED JEANS I STRETCH DARK SHADE",
-        code: "1216-1797-95-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN CROPPED JEANS I STRETCH DARK SHADE",
+        "code": "1216-1797-95-01",
+        "price": 2299
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN CROPPED JEANS III STRETCH DARK WAS",
-        code: "1216-1801-94-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN CROPPED JEANS III STRETCH DARK WAS",
+        "code": "1216-1801-94-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JOLIET STRETCH DENIM LIGHT STONE WASH",
-        code: "1231-1214-86-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JOLIET STRETCH DENIM LIGHT STONE WASH",
+        "code": "1231-1214-86-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JOLIET I STRETCH VINTAGE DARK WASH",
-        code: "1231-1825-84-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JOLIET I STRETCH VINTAGE DARK WASH",
+        "code": "1231-1825-84-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JADE STRETCH DENIM INDIGO MID STONE WASH",
-        code: "1242-1821-86-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JADE STRETCH DENIM INDIGO MID STONE WASH",
+        "code": "1242-1821-86-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JADE STRETCH DENIM INDIGO LIGHT STONE WA",
-        code: "1242-1838-86-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JADE STRETCH DENIM INDIGO LIGHT STONE WA",
+        "code": "1242-1838-86-01",
+        "price": 1599
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "AMY LEGGING STRETCH DENIM INDIGO SUAV",
-        code: "1262-1204-80-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "AMY LEGGING STRETCH DENIM INDIGO SUAV",
+        "code": "1262-1204-80-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "AMY LEGGING I STRETCH DENIM MID STONE",
-        code: "1262-1824-85-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "AMY LEGGING I STRETCH DENIM MID STONE",
+        "code": "1262-1824-85-01",
+        "price": 1649
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "AMY LEGGING III STRETCH TWILL SOLID BLAC",
-        code: "1262-1840-79-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "AMY LEGGING III STRETCH TWILL SOLID BLAC",
+        "code": "1262-1840-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "",
-        code: "1287-1035-85-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "1287-1035-85-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SCARLETT STRETCH DENIM INDIGO MID STONE",
-        code: "1287-1823-85-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SCARLETT STRETCH DENIM INDIGO MID STONE",
+        "code": "1287-1823-85-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "101-N STRETCH DENIM INDIGO SUPER MID ST",
-        code: "1290-1820-86-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "101-N STRETCH DENIM INDIGO SUPER MID ST",
+        "code": "1290-1820-86-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN JEANS VII (EDDIE) DARK SHADE",
-        code: "1306-1789-95-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN JEANS VII (EDDIE) DARK SHADE",
+        "code": "1306-1789-95-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN JEANS XI INDIGO KNIT INDIGO MID SHAD",
-        code: "1307-1794-38-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN JEANS XI INDIGO KNIT INDIGO MID SHAD",
+        "code": "1307-1794-38-01",
+        "price": 1999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN CAPRI STRETCH DENIM MID SHADE",
-        code: "1418-1796-85-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN CAPRI STRETCH DENIM MID SHADE",
+        "code": "1418-1796-85-01",
+        "price": 1749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN JEANS I STRETCH BLACK DARK SHADE",
-        code: "1419-1799-79-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN JEANS I STRETCH BLACK DARK SHADE",
+        "code": "1419-1799-79-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN JEANS II STRETCH MAGMA MID WASH",
-        code: "1419-1800-95-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN JEANS II STRETCH MAGMA MID WASH",
+        "code": "1419-1800-95-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN JEANS III STRETCH DARK SHADE",
-        code: "1419-1802-84-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN JEANS III STRETCH DARK SHADE",
+        "code": "1419-1802-84-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN JEANS IV STRETCH MAGMA DARK SHADE",
-        code: "1419-1803-84-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN JEANS IV STRETCH MAGMA DARK SHADE",
+        "code": "1419-1803-84-01",
+        "price": 2099
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CALZA JAV LYCRA+CUERO NEGRO NO WASH",
-        code: "1420-1826-79-01",
-        price: 1299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CALZA JAV LYCRA+CUERO NEGRO NO WASH",
+        "code": "1420-1826-79-01",
+        "price": 1399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "101-OVERALL DENIM INDI MID S.W",
-        code: "2144-1284-85-01",
-        price: 2799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "101-OVERALL DENIM INDI MID S.W",
+        "code": "2144-1284-85-01",
+        "price": 2899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN SKIRTS DENIM INDIGO LIGHT SHADE",
-        code: "2461-1834-86-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN SKIRTS DENIM INDIGO LIGHT SHADE",
+        "code": "2461-1834-86-01",
+        "price": 1599
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HELENA DRESS FRANELLA AZUL/NEGRO/PURPURA",
-        code: "2462-4917-37-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HELENA DRESS FRANELLA AZUL/NEGRO/PURPURA",
+        "code": "2462-4917-37-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE W DENIM JACKET STRETCH SW",
-        code: "3278-1754-96-01",
-        price: 2499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE W DENIM JACKET STRETCH SW",
+        "code": "3278-1754-96-01",
+        "price": 2999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN PADDED JACKET I POLYESTER BLACK",
-        code: "3291-4428-79-01",
-        price: 4299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN PADDED JACKET I POLYESTER BLACK",
+        "code": "3291-4428-79-01",
+        "price": 4399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN DOWN JACKET IV POLYESTER BLACK",
-        code: "3292-4428-79-01",
-        price: 4499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN DOWN JACKET IV POLYESTER BLACK",
+        "code": "3292-4428-79-01",
+        "price": 4599
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN DOWN JACKET V CIRE NEGRO",
-        code: "3292-4429-79-01",
-        price: 3999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN DOWN JACKET V CIRE NEGRO",
+        "code": "3292-4429-79-01",
+        "price": 4199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE MAN SHERPA JACKET BLACK LIGHT SW",
-        code: "3300-1830-79-01",
-        price: 3599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE MAN SHERPA JACKET BLACK LIGHT SW",
+        "code": "3300-1830-79-01",
+        "price": 3899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN PADDED JACKET I NYLON NAVY NO WASH",
-        code: "3310-4423-38-01",
-        price: 2799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN PADDED JACKET I NYLON NAVY NO WASH",
+        "code": "3310-4423-38-01",
+        "price": 2949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN PADDED JACKET II NYLON LYONS BLUE",
-        code: "3310-4423-69-01",
-        price: 2899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN PADDED JACKET II NYLON LYONS BLUE",
+        "code": "3310-4423-69-01",
+        "price": 2949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN DOWN JACKET VII POLYESTER BLACK",
-        code: "3311-4428-79-01",
-        price: 3899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN DOWN JACKET VII POLYESTER BLACK",
+        "code": "3311-4428-79-01",
+        "price": 3999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN DOWN JACKET II WATER REPELLENT GREY",
-        code: "3311-4440-70-01",
-        price: 3999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN DOWN JACKET II WATER REPELLENT GREY",
+        "code": "3311-4440-70-01",
+        "price": 4199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN DOWN JACKET V WATER REP IRONGATE",
-        code: "3311-4440-72-01",
-        price: 3499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN DOWN JACKET V WATER REP IRONGATE",
+        "code": "3311-4440-72-01",
+        "price": 3899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN DOWN JACKET III WATER REP NYL BLACK",
-        code: "3311-4440-78-01",
-        price: 4199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN DOWN JACKET III WATER REP NYL BLACK",
+        "code": "3311-4440-78-01",
+        "price": 4299
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "BRANSON JACKET POLIESTER VERDE",
-        code: "3312-4428-62-01",
-        price: 2599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "BRANSON JACKET POLIESTER VERDE",
+        "code": "3312-4428-62-01",
+        "price": 2499
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "TROY- INFLADA POLIESTER AZUL/NARANJA",
-        code: "3313-4428-10-01",
-        price: 3999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "TROY- INFLADA POLIESTER AZUL/NARANJA",
+        "code": "3313-4428-10-01",
+        "price": 4199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MILITARY PARKA GABARDINA NEGRO HEAVY W",
-        code: "3314-1455-79-01",
-        price: 4799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MILITARY PARKA GABARDINA NEGRO HEAVY W",
+        "code": "3314-1455-79-01",
+        "price": 4899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN PADDED VEST II NYLON LYONS BLUE",
-        code: "3315-4423-69-01",
-        price: 2299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN PADDED VEST II NYLON LYONS BLUE",
+        "code": "3315-4423-69-01",
+        "price": 2399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN PADDED VEST I NYLON BLACK",
-        code: "3315-4423-79-01",
-        price: 2299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN PADDED VEST I NYLON BLACK",
+        "code": "3315-4423-79-01",
+        "price": 2399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE M DENIM JACKET STRETCH DENIM INDIGO",
-        code: "3341-1753-94-01",
-        price: 2499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE M DENIM JACKET STRETCH DENIM INDIGO",
+        "code": "3341-1753-94-01",
+        "price": 2999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JANNET REVERSIBLE JACKET NYL NEGRO/PLATA",
-        code: "3410-4423-79-01",
-        price: 3999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JANNET REVERSIBLE JACKET NYL NEGRO/PLATA",
+        "code": "3410-4423-79-01",
+        "price": 4199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN DENIM L/S JACKET MAGMA DARK SHADE",
-        code: "3506-1827-84-01",
-        price: 2999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN DENIM L/S JACKET MAGMA DARK SHADE",
+        "code": "3506-1827-84-01",
+        "price": 2799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S JACKET VIII WOOL BLUE DEPTH",
-        code: "3507-4009-38-01",
-        price: 4399
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S JACKET VIII WOOL BLUE DEPTH",
+        "code": "3507-4009-38-01",
+        "price": 4499
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S JACKET V ANTI DUST BONDED NEGRO",
-        code: "3507-4425-79-01",
-        price: 4199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S JACKET V ANTI DUST BONDED NEGRO",
+        "code": "3507-4425-79-01",
+        "price": 4199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S JACKET VII WATER REPELLENT BLUE",
-        code: "3507-4440-38-01",
-        price: 3299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S JACKET VII WATER REPELLENT BLUE",
+        "code": "3507-4440-38-01",
+        "price": 3699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM WESTERN SHIRT DENIM RAW WASH",
-        code: "4115-2506-80-01",
-        price: 1999
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM WESTERN SHIRT DENIM RAW WASH",
+        "code": "4115-2506-80-01",
+        "price": 1999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM WESTERN SHIRT DENIM STONE WASH",
-        code: "4115-2506-94-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM WESTERN SHIRT DENIM STONE WASH",
+        "code": "4115-2506-94-01",
+        "price": 1999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM WESTERN SHIRT CUA NEGRO/GRIS/VERDE",
-        code: "4115-4917-79-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM WESTERN SHIRT CUA NEGRO/GRIS/VERDE",
+        "code": "4115-4917-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WESTERN DENIM SHIRT LS DENIM INDIGO",
-        code: "4201-2257-85-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN DENIM SHIRT LS DENIM INDIGO",
+        "code": "4201-2257-85-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WADE WESTERN DENIM SHIRT LS INDIGO",
-        code: "4301-1118-93-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WADE WESTERN DENIM SHIRT LS INDIGO",
+        "code": "4301-1118-93-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WADE WESTERN DENIM SHIRT LS RAW WASH",
-        code: "4301-1836-80-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WADE WESTERN DENIM SHIRT LS RAW WASH",
+        "code": "4301-1836-80-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WADE WESTERN DENIM SHIRT LS NEGRO PW",
-        code: "4301-1837-79-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WADE WESTERN DENIM SHIRT LS NEGRO PW",
+        "code": "4301-1837-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT III PIMA FULL PRINT FLORAL",
-        code: "4371-1838-36-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT III PIMA FULL PRINT FLORAL",
+        "code": "4371-1838-36-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT IV PIMA HERRINGBONE NAVY/WHIT",
-        code: "4371-1839-02-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT IV PIMA HERRINGBONE NAVY/WHIT",
+        "code": "4371-1839-02-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT V PIMA PIED DE PULL NAVY/GREE",
-        code: "4371-1840-62-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT V PIMA PIED DE PULL NAVY/GREE",
+        "code": "4371-1840-62-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT I PIMA FULL PRINT NAVY/BORD",
-        code: "4371-1841-58-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT I PIMA FULL PRINT NAVY/BORD",
+        "code": "4371-1841-58-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT II POPLIN PIMA BORDEAUX/NAVY",
-        code: "4371-1842-38-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT II POPLIN PIMA BORDEAUX/NAVY",
+        "code": "4371-1842-38-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT VIII POPLIN PIMA BOEDEAUX",
-        code: "4371-1845-58-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT VIII POPLIN PIMA BOEDEAUX",
+        "code": "4371-1845-58-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT VI LS POPLIN BLANCO",
-        code: "4371-2285-02-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT VI LS POPLIN BLANCO",
+        "code": "4371-2285-02-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SLIM SHIRT VII LS POPLIN NEGRO",
-        code: "4371-2317-79-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SLIM SHIRT VII LS POPLIN NEGRO",
+        "code": "4371-2317-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "BUTTON DOWN SHIRT II CUADROS AZUL/NEGRO",
-        code: "4372-4917-37-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "BUTTON DOWN SHIRT II CUADROS AZUL/NEGRO",
+        "code": "4372-4917-37-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEA SHIRT II FRANELLA CUADROS ROJO/NEGRO",
-        code: "4419-4917-55-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEA SHIRT II FRANELLA CUADROS ROJO/NEGRO",
+        "code": "4419-4917-55-01",
+        "price": 1599
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "DESTROY DENIM SHIRT DENIM DESTROY WASH",
-        code: "4447-1118-95-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "DESTROY DENIM SHIRT DENIM DESTROY WASH",
+        "code": "4447-1118-95-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN DENIM SHIRT I DENIM LIGHT WASH",
-        code: "4448-1219-86-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN DENIM SHIRT I DENIM LIGHT WASH",
+        "code": "4448-1219-86-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN DENIM SHIRT II DENIM STONE WASH",
-        code: "4448-1220-94-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN DENIM SHIRT II DENIM STONE WASH",
+        "code": "4448-1220-94-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LILY SHIRT II POPLIN BLANCO+BORDADO PUñO",
-        code: "4449-1853-02-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LILY SHIRT II POPLIN BLANCO+BORDADO PU�O",
+        "code": "4449-1853-02-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "GUGU SHIRT II CUADROS NEGRO/GRIS/VERDE",
-        code: "4450-4917-79-01",
-        price: 1399
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "GUGU SHIRT II CUADROS NEGRO/GRIS/VERDE",
+        "code": "4450-4917-79-01",
+        "price": 1449
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SOPHIE SHIRT GASA NEGRO GARMENT WASH",
-        code: "4451-5969-79-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SOPHIE SHIRT GASA NEGRO GARMENT WASH",
+        "code": "4451-5969-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "NIGHT SHIRT SEDA LAVADA ROJO",
-        code: "4453-5963-55-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "NIGHT SHIRT SEDA LAVADA ROJO",
+        "code": "4453-5963-55-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "EWAN SHIRT I VOILE CUADRO NEGRO/ROJO",
-        code: "4503-1850-79-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "EWAN SHIRT I VOILE CUADRO NEGRO/ROJO",
+        "code": "4503-1850-79-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "EWAN SHIRT II VOILE CUADRO AZUL/NEGRO",
-        code: "4503-1851-37-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "EWAN SHIRT II VOILE CUADRO AZUL/NEGRO",
+        "code": "4503-1851-37-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "EWAN SHIRT III VOILE CUAD AZUL/NEGRO/VDE",
-        code: "4503-1852-62-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "EWAN SHIRT III VOILE CUAD AZUL/NEGRO/VDE",
+        "code": "4503-1852-62-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MAX SHIRT II FRANELLA CUAD ROJO/NEGRO",
-        code: "4523-4917-55-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MAX SHIRT II FRANELLA CUAD ROJO/NEGRO",
+        "code": "4523-4917-55-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MAX SHIRT I FRANELLA CUAD NEGRO/AZUL",
-        code: "4523-4917-79-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MAX SHIRT I FRANELLA CUAD NEGRO/AZUL",
+        "code": "4523-4917-79-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "URBAN SHIRT III PIMA MINI CHECK GREY/BLA",
-        code: "4538-1846-71-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "URBAN SHIRT III PIMA MINI CHECK GREY/BLA",
+        "code": "4538-1846-71-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "URBAN SHIRT IV PIMA BOTONñ BORDEAUX",
-        code: "4538-1847-58-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "URBAN SHIRT IV PIMA BOTON� BORDEAUX",
+        "code": "4538-1847-58-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "URBAN SHIRT V POPLIN PIMA BOTONE NAVY",
-        code: "4538-1848-38-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "URBAN SHIRT V POPLIN PIMA BOTONE NAVY",
+        "code": "4538-1848-38-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "URBAN SHIRT VI PIMA MINI CHECK RED/ORANG",
-        code: "4538-1849-55-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "URBAN SHIRT VI PIMA MINI CHECK RED/ORANG",
+        "code": "4538-1849-55-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SAM SHIRT LS POPLIN PAPERTOUCH BLACK",
-        code: "4539-2640-79-01",
-        price: 1299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SAM SHIRT LS POPLIN PAPERTOUCH BLACK",
+        "code": "4539-2640-79-01",
+        "price": 1399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JAMIE BASIC SOCK KNIT GREY",
-        code: "5138-0000-71-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JAMIE BASIC SOCK KNIT GREY",
+        "code": "5138-0000-71-01",
+        "price": 165
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JAMIE BASIC SOCK KNIT BLACK",
-        code: "5138-0000-79-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JAMIE BASIC SOCK KNIT BLACK",
+        "code": "5138-0000-79-01",
+        "price": 165
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WILLIE SOCK TEJIDO CRUDO/ROJO",
-        code: "5141-0000-01-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WILLIE SOCK TEJIDO CRUDO/ROJO",
+        "code": "5141-0000-01-01",
+        "price": 165
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WILLIE SOCK KNIT GREY",
-        code: "5141-0001-71-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WILLIE SOCK KNIT GREY",
+        "code": "5141-0001-71-01",
+        "price": 165
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WILLIE SOCK KNIT BLACK",
-        code: "5141-0001-79-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WILLIE SOCK KNIT BLACK",
+        "code": "5141-0001-79-01",
+        "price": 165
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "BUTCH SOCKS TEJIDO BLANCO/NEGRO",
-        code: "5173-0001-02-01",
-        price: 169
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "BUTCH SOCKS TEJIDO BLANCO/NEGRO",
+        "code": "5173-0001-02-01",
+        "price": 175
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SPORTY SOCKS TEJIDO ROJO/BLANCO",
-        code: "5174-0001-02-01",
-        price: 169
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SPORTY SOCKS TEJIDO ROJO/BLANCO",
+        "code": "5174-0001-02-01",
+        "price": 175
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN SOCKS TEJIDO GREY MELANGE",
-        code: "5203-0006-70-01",
-        price: 299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN SOCKS TEJIDO GREY MELANGE",
+        "code": "5203-0006-70-01",
+        "price": 309
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CLHOE SOCK TEJIDO BLANCO/ROJO",
-        code: "5208-0001-02-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CLHOE SOCK TEJIDO BLANCO/ROJO",
+        "code": "5208-0001-02-01",
+        "price": 175
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCK I TEJIDO WHITE+GREY MELANGE",
-        code: "5504-0000-02-01",
-        price: 299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCK I TEJIDO WHITE+GREY MELANGE",
+        "code": "5504-0000-02-01",
+        "price": 309
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCKS II TEJIDO BLACK + GREY MELANGE",
-        code: "5504-0001-79-01",
-        price: 299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCKS II TEJIDO BLACK + GREY MELANGE",
+        "code": "5504-0001-79-01",
+        "price": 309
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCKS III TEJIDO TIBETAN RED",
-        code: "5504-0002-55-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCKS III TEJIDO TIBETAN RED",
+        "code": "5504-0002-55-01",
+        "price": 155
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCKS IV TEJIDO BLACK",
-        code: "5504-0003-79-01",
-        price: 149
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCKS IV TEJIDO BLACK",
+        "code": "5504-0003-79-01",
+        "price": 155
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCKS V TEJIDO BLACK",
-        code: "5504-0004-79-01",
-        price: 259
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCKS V TEJIDO BLACK",
+        "code": "5504-0004-79-01",
+        "price": 269
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN SOCKS VI TEJIDO GREY MELANG",
-        code: "5504-0005-70-01",
-        price: 259
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN SOCKS VI TEJIDO GREY MELANG",
+        "code": "5504-0005-70-01",
+        "price": 269
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "BELT I CUERO NEGRO NO WASH",
-        code: "6208-9000-79-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "BELT I CUERO NEGRO NO WASH",
+        "code": "6208-9000-79-01",
+        "price": 829
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "ROSKILDE BELT LEATHER BLACK NO WASH",
-        code: "6302-9000-79-01",
-        price: 929
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "ROSKILDE BELT LEATHER BLACK NO WASH",
+        "code": "6302-9000-79-01",
+        "price": 949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "JEREMY BELT LEATHER BLACK",
-        code: "6316-9000-79-01",
-        price: 859
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "JEREMY BELT LEATHER BLACK",
+        "code": "6316-9000-79-01",
+        "price": 899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SCHOOL POLO JERSEY AZUL/BORDO/BLANCO SUA",
-        code: "7009-4876-38-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SCHOOL POLO JERSEY AZUL/BORDO/BLANCO SUA",
+        "code": "7009-4876-38-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KANSAS TEE SS JERSEY 30/1 BLANCO",
-        code: "7072-4862-02-01",
-        price: 629
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS TEE SS JERSEY 30/1 BLANCO",
+        "code": "7072-4862-02-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KANSAS TEE SS JERSEY 30/1 BORDO",
-        code: "7072-4862-58-01",
-        price: 629
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS TEE SS JERSEY 30/1 BORDO",
+        "code": "7072-4862-58-01",
+        "price": 649
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KANSAS TEE SS JERSEY 30/1 NEGRO",
-        code: "7072-4862-79-01",
-        price: 629
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS TEE SS JERSEY 30/1 NEGRO",
+        "code": "7072-4862-79-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 1 SS JERSEY 40/1 GRIS AL 25%",
-        code: "7078-4860-71-01",
-        price: 719
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 1 SS JERSEY 40/1 GRIS AL 25%",
+        "code": "7078-4860-71-01",
+        "price": 749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 4 SS JERSEY 30/1 AZUL/BORDO",
-        code: "7078-4861-36-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 4 SS JERSEY 30/1 AZUL/BORDO",
+        "code": "7078-4861-36-01",
+        "price": 749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 6 SS JERSEY 30/1 NEGRO",
-        code: "7078-4862-78-01",
-        price: 719
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 6 SS JERSEY 30/1 NEGRO",
+        "code": "7078-4862-78-01",
+        "price": 749
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 5 SS JERSEY 40/1 GRIS AL 30%",
-        code: "7078-4863-71-01",
-        price: 849
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 5 SS JERSEY 40/1 GRIS AL 30%",
+        "code": "7078-4863-71-01",
+        "price": 869
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 23 SS JERSEY 30/1 BORDO",
-        code: "7078-4864-58-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 23 SS JERSEY 30/1 BORDO",
+        "code": "7078-4864-58-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 7 SS JERSEY 30/1 GRIS AL 25%",
-        code: "7078-4864-71-01",
-        price: 849
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 7 SS JERSEY 30/1 GRIS AL 25%",
+        "code": "7078-4864-71-01",
+        "price": 869
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 22 SS JERSEY 30/1 GRIS",
-        code: "7078-4865-70-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 22 SS JERSEY 30/1 GRIS",
+        "code": "7078-4865-70-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FLYNN TEE 10 SS JERSEY 30/1 NEGRO",
-        code: "7078-4866-79-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FLYNN TEE 10 SS JERSEY 30/1 NEGRO",
+        "code": "7078-4866-79-01",
+        "price": 869
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "OHIO TEE 1 SS JERSEY 30/1 NEGRO",
-        code: "7079-4860-71-01",
-        price: 809
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "OHIO TEE 1 SS JERSEY 30/1 NEGRO",
+        "code": "7079-4860-71-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "OHIO TEE 2 SS JERSEY 30/1 BLANCO",
-        code: "7079-4864-02-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "OHIO TEE 2 SS JERSEY 30/1 BLANCO",
+        "code": "7079-4864-02-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "OHIO TEE 6 SS JERSEY 40/1 BORDO",
-        code: "7079-4864-58-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "OHIO TEE 6 SS JERSEY 40/1 BORDO",
+        "code": "7079-4864-58-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "OHIO TEE 7 SS JERSEY 30/1 RAYADO",
-        code: "7079-4865-02-01",
-        price: 769
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "OHIO TEE 7 SS JERSEY 30/1 RAYADO",
+        "code": "7079-4865-02-01",
+        "price": 799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 1 SS JERSEY 30/1 BLANCO SUAV",
-        code: "7081-4860-01-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 1 SS JERSEY 30/1 BLANCO SUAV",
+        "code": "7081-4860-01-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 2 SS JERSEY 30/1 BORDO SUAV",
-        code: "7081-4861-58-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 2 SS JERSEY 30/1 BORDO SUAV",
+        "code": "7081-4861-58-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 4 SS JERSEY 30/1 NEGRO SUAV",
-        code: "7081-4862-78-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 4 SS JERSEY 30/1 NEGRO SUAV",
+        "code": "7081-4862-78-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 6 SS JERSEY 30/1 VERDE SUAV",
-        code: "7081-4864-61-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 6 SS JERSEY 30/1 VERDE SUAV",
+        "code": "7081-4864-61-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 7 SS JERSEY 30/1 ROJO SUAVI",
-        code: "7081-4865-55-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 7 SS JERSEY 30/1 ROJO SUAVI",
+        "code": "7081-4865-55-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 10 SS JERSEY 30/1 GRIS AL 25%",
-        code: "7081-4867-71-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 10 SS JERSEY 30/1 GRIS AL 25%",
+        "code": "7081-4867-71-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 12 SS JERSEY 30/1 AZUL SUAVI",
-        code: "7081-4869-25-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 12 SS JERSEY 30/1 AZUL SUAVI",
+        "code": "7081-4869-25-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 15 SS JERSEY 30/1 NEGRO SUAVIZ",
-        code: "7081-4871-25-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 15 SS JERSEY 30/1 NEGRO SUAVIZ",
+        "code": "7081-4871-25-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 16 SS JERSEY 30/1 BLANCO SUAVI",
-        code: "7081-4872-01-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 16 SS JERSEY 30/1 BLANCO SUAVI",
+        "code": "7081-4872-01-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 17 SS JERSEY 30/1 ROJO SUAVIZ",
-        code: "7081-4873-55-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 17 SS JERSEY 30/1 ROJO SUAVIZ",
+        "code": "7081-4873-55-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 18 SS JERSEY 30/1 AZUL SUAVIZ",
-        code: "7081-4874-25-01",
-        price: 659
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 18 SS JERSEY 30/1 AZUL SUAVIZ",
+        "code": "7081-4874-25-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HENRI TEE 20 SS JERSEY 30/1 VERDE",
-        code: "7081-4875-62-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HENRI TEE 20 SS JERSEY 30/1 VERDE",
+        "code": "7081-4875-62-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "OUTSIDE POLO JERSEY GRIS SUAVIZADO",
-        code: "7094-4876-71-01",
-        price: 1099
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "OUTSIDE POLO JERSEY GRIS SUAVIZADO",
+        "code": "7094-4876-71-01",
+        "price": 1119
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S TEE III JERSEY BLACK",
-        code: "7098-4862-79-01",
-        price: 1099
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S TEE III JERSEY BLACK",
+        "code": "7098-4862-79-01",
+        "price": 999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "CLASSY POLO PIQUE NEGRO SUAVIZADO",
-        code: "7099-5220-79-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "CLASSY POLO PIQUE NEGRO SUAVIZADO",
+        "code": "7099-5220-79-01",
+        "price": 899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "DAMON SWEATER TEJIDO DARK NAVY GAR WASH",
-        code: "7101-4490-38-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "DAMON SWEATER TEJIDO DARK NAVY GAR WASH",
+        "code": "7101-4490-38-01",
+        "price": 1949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "DAMON SWEATER TEJIDO NEGRO GARMENT WASH",
-        code: "7101-4803-79-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "DAMON SWEATER TEJIDO NEGRO GARMENT WASH",
+        "code": "7101-4803-79-01",
+        "price": 2199
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN S/S TEE III JERSEY BLACK GARMNET WAS",
-        code: "7108-4860-78-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN S/S TEE III JERSEY BLACK GARMNET WAS",
+        "code": "7108-4860-78-01",
+        "price": 829
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN S/S TEE IV JERSEY BLACK",
-        code: "7108-4860-79-01",
-        price: 1199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN S/S TEE IV JERSEY BLACK",
+        "code": "7108-4860-79-01",
+        "price": 1249
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN S/S TEE I STRETCH JERSEY WHITE",
-        code: "7108-4891-02-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN S/S TEE I STRETCH JERSEY WHITE",
+        "code": "7108-4891-02-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN S/S TEE II STRETCH JERSEY BLACK",
-        code: "7108-4891-79-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN S/S TEE II STRETCH JERSEY BLACK",
+        "code": "7108-4891-79-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER CLASSIC ACRILICO BORDO SUAVIZADO",
-        code: "7109-4433-58-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER CLASSIC ACRILICO BORDO SUAVIZADO",
+        "code": "7109-4433-58-01",
+        "price": 2299
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE TEE 3 JERSEY 30/1 BLANCO NO WASH",
-        code: "7113-4862-37-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE TEE 3 JERSEY 30/1 BLANCO NO WASH",
+        "code": "7113-4862-37-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE TEE 1 JERSEY 30/1 GRIS NO WASH",
-        code: "7113-4862-71-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE TEE 1 JERSEY 30/1 GRIS NO WASH",
+        "code": "7113-4862-71-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE TEE 2 JERSEY 30/1 NEGRO NO WASH",
-        code: "7113-4862-79-01",
-        price: 799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE TEE 2 JERSEY 30/1 NEGRO NO WASH",
+        "code": "7113-4862-79-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER CLASSIC ACRILICO VERDE",
-        code: "7114-4433-60-01",
-        price: 2199
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER CLASSIC ACRILICO VERDE",
+        "code": "7114-4433-60-01",
+        "price": 2299
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "ETERNAL SWEATSHIRT RUSTICO ESMERILADO GR",
-        code: "7115-5944-71-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "ETERNAL SWEATSHIRT RUSTICO ESMERILADO GR",
+        "code": "7115-5944-71-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE HODDIE SWEATSHIRT II FRIZA MEL G.W",
-        code: "7117-5448-70-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE HODDIE SWEATSHIRT II FRIZA MEL G.W",
+        "code": "7117-5448-70-01",
+        "price": 1949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE HODDIE SWEATSHIRT I FRIZA NEG G.W",
-        code: "7117-5448-79-01",
-        price: 1899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE HODDIE SWEATSHIRT I FRIZA NEG G.W",
+        "code": "7117-5448-79-01",
+        "price": 1949
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "LEE SWEATSHIRT FRISA VERDE",
-        code: "7119-5447-62-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "LEE SWEATSHIRT FRISA VERDE",
+        "code": "7119-5447-62-01",
+        "price": 1599
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S SWEATSHIRT V POLI COTTON GREY",
-        code: "7124-4430-70-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S SWEATSHIRT V POLI COTTON GREY",
+        "code": "7124-4430-70-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S SWEATSHIRT VIII POLI COTTON GREY",
-        code: "7124-4431-70-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S SWEATSHIRT VIII POLI COTTON GREY",
+        "code": "7124-4431-70-01",
+        "price": 1699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S SWEATSHIRT VI POLI COTTON BLACK",
-        code: "7124-4432-79-01",
-        price: 1799
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S SWEATSHIRT VI POLI COTTON BLACK",
+        "code": "7124-4432-79-01",
+        "price": 1899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S SWEATSHIRT I FRENCH TERRY BLACK",
-        code: "7124-4911-79-01",
-        price: 2299
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S SWEATSHIRT I FRENCH TERRY BLACK",
+        "code": "7124-4911-79-01",
+        "price": 2399
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MEN L/S SWEATSHIRT VII FLEECE TIBETAN RE",
-        code: "7124-4915-55-01",
-        price: 1699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MEN L/S SWEATSHIRT VII FLEECE TIBETAN RE",
+        "code": "7124-4915-55-01",
+        "price": 1799
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "STRIPE POLO JERSEY NAVY/ACERO SUAVIZADO",
-        code: "7127-4876-72-01",
-        price: 829
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "STRIPE POLO JERSEY NAVY/ACERO SUAVIZADO",
+        "code": "7127-4876-72-01",
+        "price": 899
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "TWIN PACK M/C BASIC SOFT JER.BCO/NEG.",
-        code: "7180-4846-02-01",
-        price: 949
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "TWIN PACK M/C BASIC SOFT JER.BCO/NEG.",
+        "code": "7180-4846-02-01",
+        "price": 999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "HOODIE TEENAGE RUSTICO ESMERILADO GRIS",
-        code: "725944-71-01",
-        price: 1599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "HOODIE TEENAGE RUSTICO ESMERILADO GRIS",
+        "code": "7210-5944-71-01",
+        "price": 1649
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN S/S TEE I STRIPE JERSEY BLACK",
-        code: "7218-4869-79-01",
-        price: 899
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN S/S TEE I STRIPE JERSEY BLACK",
+        "code": "7218-4869-79-01",
+        "price": 929
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FIRTH SHINY JERSEY 30/1 BLANCO",
-        code: "7226-4863-02-01",
-        price: 749
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FIRTH SHINY JERSEY 30/1 BLANCO",
+        "code": "7226-4863-02-01",
+        "price": 779
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "RUFFLE TEE NEGRO",
-        code: "7231-4862-71-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "RUFFLE TEE NEGRO",
+        "code": "7231-4862-71-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "FIRTH SCHOOL JERSEY 30/1 BLANCO",
-        code: "7234-4862-02-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "FIRTH SCHOOL JERSEY 30/1 BLANCO",
+        "code": "7234-4862-02-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "NUDO TEE LS JERSEY GRIS OSCURO",
-        code: "7243-4860-71-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "NUDO TEE LS JERSEY GRIS OSCURO",
+        "code": "7243-4860-71-01",
+        "price": 719
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SEDATED TEE LS INTERLOCK NEGRO",
-        code: "7249-4850-79-01",
-        price: 1099
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SEDATED TEE LS INTERLOCK NEGRO",
+        "code": "7249-4850-79-01",
+        "price": 1119
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "",
-        code: "7300-4846-02-01",
-        price: 949
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "7300-4846-02-01",
+        "price": 999
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KANSAS V NECK TEE SS JERSEY 30/1 VERDE",
-        code: "7802-4862-62-01",
-        price: 629
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS V NECK TEE SS JERSEY 30/1 BLANCO",
+        "code": "7802-4862-02-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KANSAS V NECK TEE SS JERSEY 30/1 NEGRO",
-        code: "7802-4862-79-01",
-        price: 629
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS V NECK TEE SS JERSEY 30/1 VERDE",
+        "code": "7802-4862-62-01",
+        "price": 649
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SUSAN TEE SS JERSEY DEVORE BLANCA G.W",
-        code: "7829-4874-02-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KANSAS V NECK TEE SS JERSEY 30/1 NEGRO",
+        "code": "7802-4862-79-01",
+        "price": 689
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SUSAN TEE SS JERSEY DEVORE 30/1 NEG G.W",
-        code: "7829-4874-79-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SUSAN TEE SS JERSEY DEVORE BLANCA G.W",
+        "code": "7829-4874-02-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO ROCKET JERSEY 30/1 AZUL",
-        code: "7873-4863-37-01",
-        price: 749
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SUSAN TEE SS JERSEY DEVORE 30/1 NEG G.W",
+        "code": "7829-4874-79-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO CUT TEE JERSEY 30/1 ROJO",
-        code: "7873-4863-55-01",
-        price: 849
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO ROCKET JERSEY 30/1 AZUL",
+        "code": "7873-4863-37-01",
+        "price": 779
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO LOST JERSEY 30/1 BORDO",
-        code: "7873-4863-58-01",
-        price: 699
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO CUT TEE JERSEY 30/1 ROJO",
+        "code": "7873-4863-55-01",
+        "price": 869
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO RIDE JERSEY 30/1 GRIS AL 25%",
-        code: "7873-4863-71-01",
-        price: 599
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO LOST JERSEY 30/1 BORDO",
+        "code": "7873-4863-58-01",
+        "price": 729
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO TEE SS I JERSEY 40/1 BLANCO",
-        code: "7873-4865-02-01",
-        price: 669
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO RIDE JERSEY 30/1 GRIS AL 25%",
+        "code": "7873-4863-71-01",
+        "price": 629
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "COCO TEE SS II JERSEY 40/1 NEGRO",
-        code: "7873-4865-79-01",
-        price: 669
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO TEE SS I JERSEY 40/1 BLANCO",
+        "code": "7873-4865-02-01",
+        "price": 699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN L/S SWEATSHIRT I FRENCH TERRY GREY",
-        code: "7895-4911-70-01",
-        price: 1499
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "COCO TEE SS II JERSEY 40/1 NEGRO",
+        "code": "7873-4865-79-01",
+        "price": 699
       },
       {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN L/S SWEATSHIRT III FLEECE GREY",
-        code: "7895-4915-70-01",
-        price: 1499
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "WOMEN L/S SWEATSHIRT II FLEECE BLACK",
-        code: "7895-4915-79-01",
-        price: 1499
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER 72ST HILADO JACINTA GRIS",
-        code: "7896-5231-71-01",
-        price: 1999
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER GROW UP HILADO YARRñ VERDE",
-        code: "7897-5231-62-01",
-        price: 1899
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER PINHEAD A DEFINIR ROJO",
-        code: "7898-5246-55-01",
-        price: 1899
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "SWEATER BURTON MOHAIR NEGRO",
-        code: "7899-5938-79-01",
-        price: 1899
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "STRIPED BOXER ALGODñN/LYCRA BLANCO/NEGRO",
-        code: "8103-5496-02-01",
-        price: 469
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "STRIPED BOXER ALGODON/LYCRA MARINO/ROJO",
-        code: "8103-5496-38-01",
-        price: 469
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "NEW SIDNEY BOXER ALGODñN/LYCRA WHITE",
-        code: "8104-5496-03-01",
-        price: 409
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "NEW SIDNEY BOXER ALGODON/LYCRA BLACK",
-        code: "8104-5496-72-01",
-        price: 409
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "NEW SIDNEY BOXER ALGODON/LYCRA GREY",
-        code: "8104-5496-80-01",
-        price: 409
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "KURT BOXER ALG/LYCRA PRINTED WHITE/BLACK",
-        code: "8108-5496-02-01",
-        price: 469
-      },
-      {
-        brand: "lee",
-        class: "",
-        gender: "",
-        name: "MATT BOXER ALG/LYCRA PRINTED GREY/BORD/N",
-        code: "8109-5496-70-01",
-        price: 469
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN L/S SWEATSHIRT I FRENCH TERRY GREY",
+        "code": "7895-4911-70-01",
+        "price": 1599
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN L/S SWEATSHIRT III FLEECE GREY",
+        "code": "7895-4915-70-01",
+        "price": 1599
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "WOMEN L/S SWEATSHIRT II FLEECE BLACK",
+        "code": "7895-4915-79-01",
+        "price": 1599
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER 72ST HILADO JACINTA GRIS",
+        "code": "7896-5231-71-01",
+        "price": 2099
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER GROW UP HILADO YARR� VERDE",
+        "code": "7897-5231-62-01",
+        "price": 1949
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER PINHEAD A DEFINIR ROJO",
+        "code": "7898-5246-55-01",
+        "price": 1949
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "SWEATER BURTON MOHAIR NEGRO",
+        "code": "7899-5938-79-01",
+        "price": 1949
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "STRIPED BOXER ALGOD�N/LYCRA BLANCO/NEGRO",
+        "code": "8103-5496-02-01",
+        "price": 489
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "STRIPED BOXER ALGODON/LYCRA MARINO/ROJO",
+        "code": "8103-5496-38-01",
+        "price": 489
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "NEW SIDNEY BOXER ALGOD�N/LYCRA WHITE",
+        "code": "8104-5496-03-01",
+        "price": 449
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "NEW SIDNEY BOXER ALGODON/LYCRA BLACK",
+        "code": "8104-5496-72-01",
+        "price": 449
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "NEW SIDNEY BOXER ALGODON/LYCRA GREY",
+        "code": "8104-5496-80-01",
+        "price": 449
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "KURT BOXER ALG/LYCRA PRINTED WHITE/BLACK",
+        "code": "8108-5496-02-01",
+        "price": 489
+      },
+      {
+        "brand": "lee",
+        "class": "",
+        "gender": "",
+        "name": "MATT BOXER ALG/LYCRA PRINTED GREY/BORD/N",
+        "code": "8109-5496-70-01",
+        "price": 489
       }
     ]
   },
@@ -19571,204 +19579,356 @@ export const Products : PricingList[] = [
     brand: 'sox',
     products: [
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "dama",
-        name: "media dama",
-        code: "da125b",
-        price: 198
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "dama",
+        "name": "media dama",
+        "code": "da125b",
+        "price": 198
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media",
-        code: "de93a",
-        price: 144
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "dama",
+        "name": "pantu",
+        "code": "",
+        "price": 349
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media",
-        code: "de140b",
-        price: 120
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "pantu",
+        "code": "",
+        "price": 329
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media caña corta",
-        code: "de132c",
-        price: 120
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media pack x2",
+        "code": "da120c",
+        "price": 330
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media dep",
-        code: "de133c",
-        price: 144
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media tripack",
+        "code": "de01c",
+        "price": 250
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media deportiva",
-        code: "de07a",
-        price: 120
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media deportiva",
+        "code": "de07a",
+        "price": 120
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media jean",
-        code: "je122c",
-        price: 198
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de107c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media jean",
-        code: "je123c",
-        price: 144
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "dama",
+        "code": "de108c",
+        "price": 290
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media jean",
-        code: "je91c",
-        price: 144
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "hombre",
+        "code": "de108c",
+        "price": 290
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media jean",
-        code: "je113c",
-        price: 198
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de130c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media jean",
-        code: "je120c",
-        price: 198
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de131c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media outdoor",
-        code: "te01 a 06a",
-        price: 360
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media caña corta",
+        "code": "de132c",
+        "price": 120
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media pack x2",
-        code: "da120c",
-        price: 330
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media dep",
+        "code": "de133c",
+        "price": 144
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media simple lisa",
-        code: "",
-        price: 110
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de136",
+        "price": 190
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media ski larga",
-        code: "te17a",
-        price: 360
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de139a",
+        "price": 290
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media tripack",
-        code: "de01c",
-        price: 330
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media",
+        "code": "de140b",
+        "price": 120
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "soquete",
-        code: "de73a",
-        price: 120
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de144c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "te124",
-        price: 260
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de145c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "je126",
-        price: 240
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de146c",
+        "price": 189
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "de136",
-        price: 190
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de151c",
+        "price": 220
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "sky",
-        code: "te53",
-        price: 320
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de158c",
+        "price": 129
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "te0107c",
-        price: 270
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de159c",
+        "price": 189
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "te56A",
-        price: 270
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de165c",
+        "price": 119
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "la07",
-        price: 220
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de170c",
+        "price": 99
       },
       {
-        brand: "sox",
-        class: "accesorio",
-        gender: "unisex",
-        name: "",
-        code: "te55A",
-        price: 320
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "de69c",
+        "price": 119
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "soquete",
+        "code": "de73a",
+        "price": 120
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media",
+        "code": "de93a",
+        "price": 144
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "je08c",
+        "price": 129
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media jean",
+        "code": "je113c",
+        "price": 198
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media jean",
+        "code": "je120c",
+        "price": 198
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media jean",
+        "code": "je122c",
+        "price": 198
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media jean",
+        "code": "je123c",
+        "price": 144
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "je126",
+        "price": 240
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "je61c",
+        "price": 129
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media jean",
+        "code": "je91c",
+        "price": 144
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "la07",
+        "price": 220
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media outdoor",
+        "code": "te01 a 06a",
+        "price": 360
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "te0107c",
+        "price": 270
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "te124",
+        "price": 260
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media ski larga",
+        "code": "te17a",
+        "price": 360
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "sky",
+        "code": "te53",
+        "price": 320
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "te55A",
+        "price": 320
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "",
+        "code": "te56A",
+        "price": 270
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media simple lisa",
+        "code": "",
+        "price": 110
       }
     ]
   },
@@ -24448,3492 +24608,3492 @@ export const Products : PricingList[] = [
     brand: 'wrangler',
     products: [
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA O.15 DESTROYED",
-        code: "1102-0765-86-01",
-        price: 1099
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA O.D 15 SW",
-        code: "1102-0765-94-01",
-        price: 1099
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA DENIM BLACK NEGRO",
-        code: "1102-1012-96-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA ADVANCED EXTRA COMFORT DENIM C/",
-        code: "1102-1030-80-01",
-        price: 1499
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONT BLU.BL.S.W",
-        code: "1102-1042-94-01",
-        price: 1099
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA COAL BLACK PREWASHED",
-        code: "1102-1057-79-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA OVERFIXED DIRTY S.W.LOCALIZADO",
-        code: "1102-1059-95-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA DENIM INTENSE BLUE INDIGO",
-        code: "1102-1088-95-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA NEW CAST NEW CAST KHAKY",
-        code: "1102-1123-43-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA NEW CAST NEW CAST VERDE MUSGO",
-        code: "1102-1123-63-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA NEW CAST NEW CAST GRIS PLOMO",
-        code: "1102-1123-77-01",
-        price: 1299
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA ADVANCED EXTRA COMF.ULTRA DIRTY",
-        code: "1102-1138-84-01",
-        price: 1599
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA ADV. EXTRA COMF.BLACK SUAV.",
-        code: "1102-1209-80-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA O.15 DESTROYED",
+        "code": "1102-0765-86-01",
+        "price": 1299
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA O.D 15 SW",
+        "code": "1102-0765-94-01",
+        "price": 1299
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA DENIM BLACK NEGRO",
+        "code": "1102-1012-96-01",
+        "price": 1499
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA ADVANCED EXTRA COMFORT DENIM C/",
+        "code": "1102-1030-80-01",
+        "price": 1699
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONT BLU.BL.S.W",
+        "code": "1102-1042-94-01",
+        "price": 1499
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA COAL BLACK PREWASHED",
+        "code": "1102-1057-79-01",
+        "price": 1499
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA OVERFIXED DIRTY S.W.LOCALIZADO",
+        "code": "1102-1059-95-01",
+        "price": 1499
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA DENIM INTENSE BLUE INDIGO",
+        "code": "1102-1088-95-01",
+        "price": 1699
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA NEW CAST NEW CAST KHAKY",
+        "code": "1102-1123-43-01",
+        "price": 1599
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA NEW CAST NEW CAST VERDE MUSGO",
+        "code": "1102-1123-63-01",
+        "price": 1599
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA NEW CAST NEW CAST GRIS PLOMO",
+        "code": "1102-1123-77-01",
+        "price": 1599
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA ADVANCED EXTRA COMF.ULTRA DIRTY",
+        "code": "1102-1138-84-01",
+        "price": 1749
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA ADV. EXTRA COMF.BLACK SUAV.",
+        "code": "1102-1209-80-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA COMFORT DENIM LIGHT BLUE GREY",
-        code: "1102-1210-90-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA COMFORT DENIM LIGHT BLUE GREY",
+        "code": "1102-1210-90-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA COMFORT DENIM LIGHT STONE WASH",
-        code: "1102-1215-86-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA COMFORT DENIM LIGHT STONE WASH",
+        "code": "1102-1215-86-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MONTANA COMFORT DENIM DARK BLUE WASH",
-        code: "1102-1264-84-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MONTANA COMFORT DENIM DARK BLUE WASH",
+        "code": "1102-1264-84-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SPENCER LS DENIM LIGHT STONE WASH",
-        code: "1106-1157-94-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SPENCER LS DENIM LIGHT STONE WASH",
+        "code": "1106-1157-94-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SPENCER GABARD.C/ELAST.NEGRO SUAVIZADO",
-        code: "1106-1169-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SPENCER GABARD.C/ELAST.NEGRO SUAVIZADO",
+        "code": "1106-1169-79-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SPENCER DV DENIM DIRTY VINTAGE BLUE",
-        code: "1106-1210-95-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SPENCER DV DENIM DIRTY VINTAGE BLUE",
+        "code": "1106-1210-95-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SPENCER DS DENIM DARK STONE WASH",
-        code: "1106-1215-95-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SPENCER DS DENIM DARK STONE WASH",
+        "code": "1106-1215-95-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY COMFORT DENIM MID BLUE WASH",
-        code: "1108-1142-80-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY COMFORT DENIM MID BLUE WASH",
+        "code": "1108-1142-80-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY ADVANCED EXTRA COMF.BLUE BLACK LOC.",
-        code: "1108-1155-84-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY ADVANCED EXTRA COMF.BLUE BLACK LOC.",
+        "code": "1108-1155-84-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY CORDEROY NEGRO ENZIMATICO",
-        code: "1108-1269-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY CORDEROY NEGRO ENZIMATICO",
+        "code": "1108-1269-79-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY CORDEROY BEIGE ENZIMATICO",
-        code: "1108-1270-01-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY CORDEROY BEIGE ENZIMATICO",
+        "code": "1108-1270-01-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY CORDEROY AZUL MARINO ENZIMATICO",
-        code: "1108-1273-38-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY CORDEROY AZUL MARINO ENZIMATICO",
+        "code": "1108-1273-38-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY COMFORT DENIM LIGHT BLUE WASH",
-        code: "1108-1291-90-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY COMFORT DENIM LIGHT BLUE WASH",
+        "code": "1108-1291-90-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CODY COMFORT DENIM DARK STONE WASH",
-        code: "1108-1293-84-01",
-        price: 1749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CODY COMFORT DENIM DARK STONE WASH",
+        "code": "1108-1293-84-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON COLOR GAB.MARENGO HEAVY SW",
-        code: "1140-1020-70-01",
-        price: 1349
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON COLOR GAB.MARENGO HEAVY SW",
+        "code": "1140-1020-70-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 DENIM 11OZ.BLUE VINTAGE",
-        code: "1140-1108-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 DENIM 11OZ.BLUE VINTAGE",
+        "code": "1140-1108-37-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 BLUE DENIM 10OZ BLUE WASH",
-        code: "1140-1108-89-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 BLUE DENIM 10OZ BLUE WASH",
+        "code": "1140-1108-89-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 DNO COMFORT DIRTY NEGRO",
-        code: "1140-1180-87-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 DNO COMFORT DIRTY NEGRO",
+        "code": "1140-1180-87-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 GB COMFORT GREY BLUE",
-        code: "1140-1180-91-01",
-        price: 1549
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 GB COMFORT GREY BLUE",
+        "code": "1140-1180-91-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKT COMFORT C/ELASTANO ULTRA BLACK",
-        code: "1140-1496-79-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKT COMFORT C/ELASTANO ULTRA BLACK",
+        "code": "1140-1496-79-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 DS COMFORT DENIM C/ ELASTA",
-        code: "1140-1701-84-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 DS COMFORT DENIM C/ ELASTA",
+        "code": "1140-1701-84-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON 1947 MS COMFORT DENIM C/ ELASTA",
-        code: "1140-1701-94-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON 1947 MS COMFORT DENIM C/ ELASTA",
+        "code": "1140-1701-94-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON MEDIUM BLUE DENIM ELASTANO STL",
-        code: "1140-1740-85-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON MEDIUM BLUE DENIM ELASTANO STL",
+        "code": "1140-1740-85-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON LIGHT DENIM ELASTANO LTL",
-        code: "1140-1740-86-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON LIGHT DENIM ELASTANO LTL",
+        "code": "1140-1740-86-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCKTON DIRTY BLUE DENIM ELASTANO UW",
-        code: "1140-1740-96-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCKTON DIRTY BLUE DENIM ELASTANO UW",
+        "code": "1140-1740-96-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUAL DNM PANT DNM INDI DARK LOC",
-        code: "1183-1562-84-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUAL DNM PANT DNM INDI DARK LOC",
+        "code": "1183-1562-84-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUAL DENIM PANT ELASTANO TBD",
-        code: "1183-1755-94-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUAL DENIM PANT ELASTANO TBD",
+        "code": "1183-1755-94-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICOLE ACTIVE STRECH C/ELAST MEDIUM",
-        code: "1200-1199-86-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICOLE ACTIVE STRECH C/ELAST MEDIUM",
+        "code": "1200-1199-86-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICOLE SHAPE KEEPER DEN C/ELASTANO DARK",
-        code: "1200-1201-95-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICOLE SHAPE KEEPER DEN C/ELASTANO DARK",
+        "code": "1200-1201-95-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICOLE SHAPE KEEPER DEN C/ELASTANO BLACK",
-        code: "1200-1201-96-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICOLE SHAPE KEEPER DEN C/ELASTANO BLACK",
+        "code": "1200-1201-96-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICOLE DENIM INDIGO RAW WASH",
-        code: "1200-1701-80-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICOLE DENIM INDIGO RAW WASH",
+        "code": "1200-1701-80-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIANCA CROPPED DENIM ULTRA STONE",
-        code: "1212-1294-85-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIANCA CROPPED DENIM ULTRA STONE",
+        "code": "1212-1294-85-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIANCA DOBLADILLO DENIM DARK BLUE",
-        code: "1212-1295-84-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIANCA DOBLADILLO DENIM DARK BLUE",
+        "code": "1212-1295-84-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIANCA ROTURAS DENIM DESTROYED",
-        code: "1212-1296-93-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIANCA ROTURAS DENIM DESTROYED",
+        "code": "1212-1296-93-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIANCA CROPPED DENIM BLUE",
-        code: "1212-1297-86-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIANCA CROPPED DENIM BLUE",
+        "code": "1212-1297-86-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SALLIE OXFORD DENIM NEGRO LIGHT S.W+LOC",
-        code: "1228-1119-86-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SALLIE OXFORD DENIM NEGRO LIGHT S.W+LOC",
+        "code": "1228-1119-86-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SALLY OXFORD DENIM CON ELAST INDI RAW W.",
-        code: "1228-1568-80-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SALLY OXFORD DENIM CON ELAST INDI RAW W.",
+        "code": "1228-1568-80-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LIA EXTRA COMFORT JERSEY DENIM DIRTY OSC",
-        code: "1242-1196-85-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LIA EXTRA COMFORT JERSEY DENIM DIRTY OSC",
+        "code": "1242-1196-85-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LIA EXTRA COMFORT JERSEY DENIM MED LOC",
-        code: "1242-1196-95-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LIA EXTRA COMFORT JERSEY DENIM MED LOC",
+        "code": "1242-1196-95-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEGAN BOOTCUT DENIM C/ ELAST.DARK S.W",
-        code: "1243-1293-84-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEGAN BOOTCUT DENIM C/ ELAST.DARK S.W",
+        "code": "1243-1293-84-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEGAN BOOTCUT DEN C/ELAST.MED.S.W.",
-        code: "1243-1298-95-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEGAN BOOTCUT DEN C/ELAST.MED.S.W.",
+        "code": "1243-1298-95-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW LEGGING DENIM NEGRO SUAV",
-        code: "1247-1017-80-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW LEGGING DENIM NEGRO SUAV",
+        "code": "1247-1017-80-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW LEGGING DENIM SW LOC",
-        code: "1247-1116-95-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW LEGGING DENIM SW LOC",
+        "code": "1247-1116-95-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LEGGING POWER PUNTO ROMA PIACENZA NEGRO",
-        code: "1247-2171-79-01",
-        price: 1099
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LEGGING POWER PUNTO ROMA PIACENZA NEGRO",
+        "code": "1247-2171-79-01",
+        "price": 1199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER RELAXED DEN C/ELAS MED BLUE",
-        code: "1253-1291-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER RELAXED DEN C/ELAS MED BLUE",
+        "code": "1253-1205-91-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MISSOURI DENIM INTENSE INDIGO",
-        code: "1257-1043-80-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MISSOURI DENIM INTENSE INDIGO",
+        "code": "1257-1043-80-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MISSOURI DENIM LINET MEGA BLACK BLACK",
-        code: "1257-1143-79-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MISSOURI DENIM LINET MEGA BLACK BLACK",
+        "code": "1257-1143-79-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MISSOURI DENIM C/ELAST.DARK WASH LOC",
-        code: "1257-1403-84-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MISSOURI DENIM C/ELAST.DARK WASH LOC",
+        "code": "1257-1403-84-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MANDY GABARDINA NEGRO SUAVIZADO",
-        code: "1278-1004-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MANDY GABARDINA NEGRO SUAVIZADO",
+        "code": "1278-1004-79-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MANDY DENIM INTENSE INDIGO",
-        code: "1278-1043-80-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MANDY DENIM INTENSE INDIGO",
+        "code": "1278-1043-80-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MANDY DENIM C/ELAST.DARK STONE WASH",
-        code: "1278-1141-84-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MANDY DENIM C/ELAST.DARK STONE WASH",
+        "code": "1278-1141-84-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MANDY DENIM C/ELAST.LIGHT BLUE WASH",
-        code: "1278-1206-88-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MANDY DENIM C/ELAST.LIGHT BLUE WASH",
+        "code": "1278-1206-88-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY JEAN C/ELAST.LIGHT S.W.",
-        code: "1285-1076-86-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY JEAN C/ELAST.LIGHT S.W.",
+        "code": "1285-1076-86-01",
+        "price": 1849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON - NB DEN C/ELASTANO NIGHT BLUE",
-        code: "1301-1185-84-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON - NB DEN C/ELASTANO NIGHT BLUE",
+        "code": "1301-1185-84-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON - DG DEN C/ELASTANO DIRTY GREY",
-        code: "1301-1185-89-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON - DG DEN C/ELASTANO DIRTY GREY",
+        "code": "1301-1185-89-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON ADV ACTIVE STRECH -RAW VINTAGE",
-        code: "1301-1186-80-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON ADV ACTIVE STRECH -RAW VINTAGE",
+        "code": "1301-1186-80-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON ADV ACTIVE STRECH - BLACK",
-        code: "1301-1186-84-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON ADV ACTIVE STRECH - BLACK",
+        "code": "1301-1186-84-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON ADV ACTIVE STRECH -MED VTG",
-        code: "1301-1186-95-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON ADV ACTIVE STRECH -MED VTG",
+        "code": "1301-1186-95-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON MBL R DENIM BLUE MEDIO LOC",
-        code: "1301-1187-85-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON MBL R DENIM BLUE MEDIO LOC",
+        "code": "1301-1187-85-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON DENIM C/ELAST.BLUE MEDIUM WASH",
-        code: "1301-1208-94-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON DENIM C/ELAST.BLUE MEDIUM WASH",
+        "code": "1301-1208-94-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DEYTON DENIM C/ELAST.VINTAGE WASH",
-        code: "1301-1209-97-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DEYTON DENIM C/ELAST.VINTAGE WASH",
+        "code": "1301-1209-97-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUAL FLAP PANT NUEVO D.6,9OZ AZUL MAR.",
-        code: "1308-1138-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUAL FLAP PANT NUEVO D.6,9OZ AZUL MAR.",
+        "code": "1308-1105-38-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUAL FLAP PANT GABARDINA KHAKY",
-        code: "1308-1142-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUAL FLAP PANT GABARDINA KHAKY",
+        "code": "1308-1105-42-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUAL FLAP PANT GABARDINA NOUGAT",
-        code: "1308-1147-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUAL FLAP PANT GABARDINA NOUGAT",
+        "code": "1308-1105-47-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LUCAS PANT FRENCH MOULINEX GRIS TOPO",
-        code: "1312-4911-37-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LUCAS PANT FRENCH MOULINEX GRIS TOPO",
+        "code": "1312-4911-37-01",
+        "price": 1449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON COLOR GAB.C/ELASTANO AZUL",
-        code: "1337-1128-38-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON COLOR GAB.C/ELASTANO AZUL",
+        "code": "1337-1128-38-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON COLOR GAB.C/ELASTANO CHOCOLATE",
-        code: "1337-1128-48-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON COLOR GAB.C/ELASTANO CHOCOLATE",
+        "code": "1337-1128-48-01",
+        "price": 1649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON ADVANCE EXTRA COMFORT- USED W",
-        code: "1337-1190-95-01",
-        price: 2099
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON ADVANCE EXTRA COMFORT- USED W",
+        "code": "1337-1190-95-01",
+        "price": 2199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON BS DENIM BLUE STONE WASH",
-        code: "1337-1192-95-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON BS DENIM BLUE STONE WASH",
+        "code": "1337-1192-95-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON MS DENIM MEDIUM STONE WASH",
-        code: "1337-1193-85-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON MS DENIM MEDIUM STONE WASH",
+        "code": "1337-1193-85-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON B DENIM BLACK STONE WASH",
-        code: "1337-1193-89-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON B DENIM BLACK STONE WASH",
+        "code": "1337-1193-89-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON VB R DENIM VINTAGE BLUE",
-        code: "1337-1193-95-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON VB R DENIM VINTAGE BLUE",
+        "code": "1337-1193-95-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON ADVAN XTRA COM DNM FLEE DARK LOC",
-        code: "1337-1643-84-01",
-        price: 2099
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON ADVAN XTRA COM DNM FLEE DARK LOC",
+        "code": "1337-1643-84-01",
+        "price": 2199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON ADVANCED EXTRA COMF-MS DNM FLEE",
-        code: "1337-1653-86-01",
-        price: 2099
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON ADVANCED EXTRA COMF-MS DNM FLEE",
+        "code": "1337-1653-86-01",
+        "price": 2199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON ADVANCED EXTRA COMF-DNM FLE DIRT",
-        code: "1337-1653-96-01",
-        price: 2099
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON ADVANCED EXTRA COMF-DNM FLE DIRT",
+        "code": "1337-1653-96-01",
+        "price": 2199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON - DK DENIM DK DARK WASH",
-        code: "1337-1655-84-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON - DK DENIM DK DARK WASH",
+        "code": "1337-1655-84-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LARSTON - UW DENIM UW USED WASH",
-        code: "1337-1655-95-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LARSTON - UW DENIM UW USED WASH",
+        "code": "1337-1655-95-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CHINO PANT GABARDINA NEGRO ENZIMATICO",
-        code: "1339-1455-79-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT GABARDINA NEGRO ENZIMATICO",
+        "code": "1339-1455-79-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CHINO PANT GABARDINA C/ ELASTANO VISON",
-        code: "1339-1496-60-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT GABARDINA C/ ELASTANO VISON",
+        "code": "1339-1496-60-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CHINO PANT GABARDINA C/ ELASTANO VERDE L",
-        code: "1339-1497-63-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT GABARDINA C/ ELASTANO VERDE L",
+        "code": "1339-1497-63-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CHINO PANT GABARDINA C/ ELASTANO AZUL",
-        code: "1339-1497-69-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CHINO PANT GABARDINA C/ ELASTANO AZUL",
+        "code": "1339-1497-69-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACKSVILLE ADVANCED ACTIVE STRECH -DARK",
-        code: "1341-1188-84-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACKSVILLE ADVANCED ACTIVE STRECH -DARK",
+        "code": "1341-1188-84-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACKSVILLE ADVANCED ACTIVE STRECH -USED",
-        code: "1341-1188-94-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACKSVILLE ADVANCED ACTIVE STRECH -USED",
+        "code": "1341-1188-94-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACKSVILLE LST R DENIM LIGHT LOC",
-        code: "1341-1189-85-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACKSVILLE LST R DENIM LIGHT LOC",
+        "code": "1341-1189-85-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACKSVILLE - DBL DENIM DBL DARK BLUE",
-        code: "1341-1657-84-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACKSVILLE - DBL DENIM DBL DARK BLUE",
+        "code": "1341-1657-84-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SUMMER CARGO TWILL SOFT M.GRE.ENZYME WS",
-        code: "1503-1076-68-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SUMMER CARGO TWILL SOFT M.GRE.ENZYME WS",
+        "code": "1503-1076-68-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SUMMER CARGO TWILL SOFT D.GRE.ENZYME WS",
-        code: "1503-1076-77-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SUMMER CARGO TWILL SOFT D.GRE.ENZYME WS",
+        "code": "1503-1076-77-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILITARY CARGO TWILL BLACK ENZYME WASH",
-        code: "1503-1076-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILITARY CARGO TWILL BLACK ENZYME WASH",
+        "code": "1503-1076-79-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FRANKIE SKIRT DENIM ENGOMADO BLACK",
-        code: "2200-1211-97-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FRANKIE SKIRT DENIM ENGOMADO BLACK",
+        "code": "2200-1211-97-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AMELIE DRESS IDEM OR NEGRO",
-        code: "2407-2170-79-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AMELIE DRESS IDEM OR NEGRO",
+        "code": "2407-2170-79-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NELLY BASIC SKIRT DENIM S.W.+SILI",
-        code: "2438-1298-94-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NELLY BASIC SKIRT DENIM S.W.+SILI",
+        "code": "2438-1298-94-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO LAMB JACKET DENIM ELASTANO S.W LOC",
-        code: "301184-94-01",
-        price: 3699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO LAMB JACKET DENIM ELASTANO S.W LOC",
+        "code": "3005-1184-94-01",
+        "price": 3799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "VINCENT ADVANCED JACKET NYLON INDIGO",
-        code: "3103-4423-36-01",
-        price: 4699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "VINCENT ADVANCED JACKET NYLON INDIGO",
+        "code": "3103-4423-36-01",
+        "price": 4799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "VINCENT ADVANCED JACKET NYLON ROJO",
-        code: "3103-4423-55-01",
-        price: 4699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "VINCENT ADVANCED JACKET NYLON ROJO",
+        "code": "3103-4423-55-01",
+        "price": 4799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY JACKET DEN ACTIVE READY DIRT",
-        code: "3139-1183-36-01",
-        price: 3299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY JACKET DEN ACTIVE READY DIRT",
+        "code": "3139-1183-36-01",
+        "price": 3399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PHOEBE ADVANCED PARKA MICRO C/ COR VERDE",
-        code: "3202-4408-42-01",
-        price: 4699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PHOEBE ADVANCED PARKA MICRO C/ COR VERDE",
+        "code": "3202-4408-42-01",
+        "price": 4799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RACHEL ADVANCED NYLON C/ PIEL BEIGE",
-        code: "324423-01-01",
-        price: 3999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RACHEL ADVANCED NYLON C/ PIEL BEIGE",
+        "code": "3205-4423-01-01",
+        "price": 4099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RACHEL ADVANCED NYLON C/ PIEL BORD",
-        code: "324423-58-01",
-        price: 3999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RACHEL ADVANCED NYLON C/ PIEL BORD",
+        "code": "3205-4423-58-01",
+        "price": 4099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FRIDA ADVANCED NYLON AERO C/ NEGRO",
-        code: "3259-4423-35-01",
-        price: 3999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FRIDA ADVANCED NYLON AERO C/ NEGRO",
+        "code": "3259-4423-35-01",
+        "price": 4099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FRIDA ADVANCED NYLON NEGRO C/ ROSA COCID",
-        code: "3259-4423-79-01",
-        price: 3999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FRIDA ADVANCED NYLON NEGRO C/ ROSA COCID",
+        "code": "3259-4423-79-01",
+        "price": 4099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PETER ADVANCED JACKET NYLON ROJO GRANATE",
-        code: "3339-4427-55-01",
-        price: 3999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PETER ADVANCED JACKET NYLON ROJO GRANATE",
+        "code": "3339-4427-55-01",
+        "price": 4299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PETER ADVANCED JACKET NYLON NEGRO",
-        code: "3339-4427-79-01",
-        price: 4299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PETER ADVANCED JACKET NYLON NEGRO",
+        "code": "3339-4427-79-01",
+        "price": 4399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GORDON ADVANCED NYLON AZUL PETROLEO",
-        code: "3340-4423-38-01",
-        price: 3799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GORDON ADVANCED NYLON AZUL PETROLEO",
+        "code": "3340-4423-38-01",
+        "price": 3999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WILSON ADVANCED NYLON CAMUFLADA VERDE MI",
-        code: "3340-4423-63-01",
-        price: 3899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WILSON ADVANCED NYLON CAMUFLADA VERDE MI",
+        "code": "3340-4423-63-01",
+        "price": 4299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADVANCED EXTRA COMFORT JACKET BLACK LOC",
-        code: "3345-4900-79-01",
-        price: 3499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADVANCED EXTRA COMFORT JACKET BLACK LOC",
+        "code": "3345-4900-79-01",
+        "price": 3899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MORRISON ADVANCED PARKA MICROFIBRA AZUL",
-        code: "3369-4408-38-01",
-        price: 5199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MORRISON ADVANCED PARKA MICROFIBRA AZUL",
+        "code": "3369-4408-38-01",
+        "price": 5199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACK JACKET NYLON RUSSET BROWN",
-        code: "3370-4423-58-01",
-        price: 2999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACK JACKET NYLON RUSSET BROWN",
+        "code": "3370-4423-58-01",
+        "price": 3499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACK JACKET NYLON VERDE MILITAR",
-        code: "3370-4423-63-01",
-        price: 2999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACK JACKET NYLON VERDE MILITAR",
+        "code": "3370-4423-63-01",
+        "price": 3499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACK JACKET NYLON NEGRO GARMENT",
-        code: "3370-4423-79-01",
-        price: 3299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACK JACKET NYLON NEGRO GARMENT",
+        "code": "3370-4423-79-01",
+        "price": 3499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOYD ADVANCED VEST NYLON AZUL",
-        code: "3371-4423-37-01",
-        price: 2799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOYD ADVANCED VEST NYLON AZUL",
+        "code": "3371-4423-37-01",
+        "price": 2999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOYD ADVANCED VEST NYLON NEGRO",
-        code: "3371-4423-79-01",
-        price: 2999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOYD ADVANCED VEST NYLON NEGRO",
+        "code": "3371-4423-79-01",
+        "price": 2999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BRANCO JACKET ENGOMADO NEGRO",
-        code: "3372-4425-79-01",
-        price: 2999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BRANCO JACKET ENGOMADO NEGRO",
+        "code": "3372-4425-79-01",
+        "price": 3299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHARON VEST NYLON NEGRO C/ ROSA",
-        code: "344408-79-01",
-        price: 2399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHARON VEST NYLON NEGRO C/ ROSA",
+        "code": "3405-4408-79-01",
+        "price": 2499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MIA ADVANCED EXTRA COMFORT JACKET JOG SW",
-        code: "3406-1184-36-01",
-        price: 3299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MIA ADVANCED EXTRA COMFORT JACKET JOG SW",
+        "code": "3406-1184-36-01",
+        "price": 3399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MAY SHERPA COAT TEJIDO C/CORDERITO NEGRO",
-        code: "3408-4492-79-01",
-        price: 3299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MAY SHERPA COAT TEJIDO C/CORDERITO NEGRO",
+        "code": "3408-4492-79-01",
+        "price": 3399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L (BOT.PASTA) TWINKLE RE",
-        code: "4100-1006-94-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L (BOT.PASTA) TWINKLE RE",
+        "code": "4100-1006-94-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L TWINKLE RELOADED CELES",
-        code: "4101-1006-86-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L TWINKLE RELOADED CELES",
+        "code": "4101-1006-86-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L TWINKLE RELOADED INDIG",
-        code: "4101-1006-95-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L TWINKLE RELOADED INDIG",
+        "code": "4101-1006-95-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L TWINKLE RELOADED BROWN",
-        code: "4101-1062-95-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L TWINKLE RELOADED BROWN",
+        "code": "4101-1062-95-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L POPLIN 40/1 BLANCO",
-        code: "4101-1457-02-01",
-        price: 1449
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L POPLIN 40/1 BLANCO",
+        "code": "4101-1457-02-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT M/L POPLIN 40/1 NEGRO",
-        code: "4101-1457-79-01",
-        price: 1449
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT M/L POPLIN 40/1 NEGRO",
+        "code": "4101-1457-79-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT C4 POPLIN 40/1 AZUL+ROJO",
-        code: "4101-2173-37-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT C4 POPLIN 40/1 AZUL+ROJO",
+        "code": "4101-2173-37-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT C1 40/1 NEG+TURQ+BCO",
-        code: "4101-2425-78-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT C1 40/1 NEG+TURQ+BCO",
+        "code": "4101-2425-78-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT C5 40/1 VERDE+FRAN+AMARI",
-        code: "4101-2427-61-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT C5 40/1 VERDE+FRAN+AMARI",
+        "code": "4101-2427-61-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN SHIRT C2 40/1 MILIT+CDO+MAIZ",
-        code: "4101-2434-68-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN SHIRT C2 40/1 MILIT+CDO+MAIZ",
+        "code": "4101-2434-68-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW WESTERN M/L POPLIN 40/1 BLANCO",
-        code: "4121-1806-02-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW WESTERN M/L POPLIN 40/1 BLANCO",
+        "code": "4121-1806-02-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW WESTERN M/L POPLIN 40/1 NEGRO",
-        code: "4121-1807-79-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW WESTERN M/L POPLIN 40/1 NEGRO",
+        "code": "4121-1807-79-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW WESTERN SHIRT C1 A ROJO+BCO+NEGRO",
-        code: "4121-2507-55-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW WESTERN SHIRT C1 A ROJO+BCO+NEGRO",
+        "code": "4121-2507-55-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW WESTERN SHIRT C1 B AZUL+ROJO+NEGRO",
-        code: "4121-2508-37-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW WESTERN SHIRT C1 B AZUL+ROJO+NEGRO",
+        "code": "4121-2508-37-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW WESTERN SHIRT C2 VIYELA MILITAR+NAR",
-        code: "4121-4586-68-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW WESTERN SHIRT C2 VIYELA MILITAR+NAR",
+        "code": "4121-4586-68-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ORIGINAL WRANGLER SHIRT M/L DENIM INDIGO",
-        code: "4130-2155-86-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ORIGINAL WRANGLER SHIRT M/L DENIM INDIGO",
+        "code": "4130-2155-86-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ORIGINAL WRANGLER SHIRT M/L DEN GREY SW",
-        code: "4130-2174-89-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ORIGINAL WRANGLER SHIRT M/L DEN GREY SW",
+        "code": "4130-2174-89-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C5 POPLIN 40/1 AZUL+CELESTE+BLANC",
-        code: "4141-2164-25-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C5 POPLIN 40/1 AZUL+CELESTE+BLANC",
+        "code": "4141-2164-25-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C1 POPLIN 40/1 AZUL+ ROJO+ CRUDO",
-        code: "4141-2164-37-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C1 POPLIN 40/1 AZUL+ ROJO+ CRUDO",
+        "code": "4141-2164-37-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C2 POPLIN 40/1 AZUL+ VERDE+ BLANC",
-        code: "4141-2164-38-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C2 POPLIN 40/1 AZUL+ VERDE+ BLANC",
+        "code": "4141-2164-38-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C3B POPLIN 40/1 AZUL+BLANCO",
-        code: "4141-2431-37-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C3B POPLIN 40/1 AZUL+BLANCO",
+        "code": "4141-2431-37-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C3A POPLIN 40/1 STOCK ROJO+AZUL",
-        code: "4141-2432-55-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C3A POPLIN 40/1 STOCK ROJO+AZUL",
+        "code": "4141-2432-55-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GOSPEL C6 POPLIN 40/1 TURQ+AZUL+CRUDO",
-        code: "4141-2435-26-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GOSPEL C6 POPLIN 40/1 TURQ+AZUL+CRUDO",
+        "code": "4141-2435-26-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HERITAGE C3 POPLIN 40/1 NARANJA+AZUL",
-        code: "4300-2162-10-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HERITAGE C3 POPLIN 40/1 NARANJA+AZUL",
+        "code": "4300-2162-10-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HERITAGE C5 POPLIN 40/1 BORD+BCO+MAIZ",
-        code: "4300-2426-58-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HERITAGE C5 POPLIN 40/1 BORD+BCO+MAIZ",
+        "code": "4300-2426-58-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HERITAGE C1 VIYELA LIV.VDE.PINO+AZUL",
-        code: "4300-2509-60-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HERITAGE C1 VIYELA LIV.VDE.PINO+AZUL",
+        "code": "4300-2509-60-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HERITAGE C2 VIYELA LIVIANA AZUL+CSTE",
-        code: "4300-2510-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HERITAGE C2 VIYELA LIVIANA AZUL+CSTE",
+        "code": "4300-2510-37-01",
+        "price": 1749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HERITAGE INDIGO C4 VERDE GRISACEO H.W.",
-        code: "4300-4800-36-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HERITAGE INDIGO C4 VERDE GRISACEO H.W.",
+        "code": "4300-4800-36-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILITARY SHIRT GAB.LIV.MILITAR H.S.W.",
-        code: "4320-2358-68-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILITARY SHIRT GAB.LIV.MILITAR H.S.W.",
+        "code": "4320-2358-68-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
-        code: "4345-2109-02-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
+        "code": "4345-2109-02-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
-        code: "4345-2119-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
+        "code": "4345-2119-79-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT C1 POPLIN NARANJA",
-        code: "4345-2160-10-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT C1 POPLIN NARANJA",
+        "code": "4345-2160-10-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT C3 POPLIN DIF AZUL",
-        code: "4345-2160-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT C3 POPLIN DIF AZUL",
+        "code": "4345-2160-37-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT C2 MINI CHECK MAR",
-        code: "4345-2160-38-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT C2 MINI CHECK MAR",
+        "code": "4345-2160-38-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT C4A DIFEREN BORD",
-        code: "4345-2160-58-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT C4A DIFEREN BORD",
+        "code": "4345-2160-58-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT C4B DIFEREN VERDE",
-        code: "4345-2160-60-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT C4B DIFEREN VERDE",
+        "code": "4345-2160-60-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REGULAR SHIRT R1 DIFEREN VIOLETA",
-        code: "4345-2161-15-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REGULAR SHIRT R1 DIFEREN VIOLETA",
+        "code": "4345-2161-15-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F1 POP 60/1 PIMA BLANCO+AZU",
-        code: "4345-2165-02-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F1 POP 60/1 PIMA BLANCO+AZU",
+        "code": "4345-2165-02-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F2 POP 60/1 PIMA AZUL+BCO",
-        code: "4345-2165-37-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F2 POP 60/1 PIMA AZUL+BCO",
+        "code": "4345-2165-37-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F3 B 60/1 PIMA BLANCO+BORD",
-        code: "4345-2165-58-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F3 B 60/1 PIMA BLANCO+BORD",
+        "code": "4345-2165-58-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F3 A 60/1 PIMA VERDE+BCO",
-        code: "4345-2165-60-01",
-        price: 1649
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F3 A 60/1 PIMA VERDE+BCO",
+        "code": "4345-2165-60-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F5 SATEN 60/1 PIMA VIOLETA",
-        code: "4345-2166-15-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F5 SATEN 60/1 PIMA VIOLETA",
+        "code": "4345-2166-15-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS PIMA F4 SATEN 60/1 PIMA AZUL PIM",
-        code: "4345-2166-37-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS PIMA F4 SATEN 60/1 PIMA AZUL PIM",
+        "code": "4345-2166-37-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS BOTON SHIRT II FIL A FIL DIF CTE",
-        code: "4345-2167-25-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS BOTON SHIRT II FIL A FIL DIF CTE",
+        "code": "4345-2167-25-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS BOTON SHIRT I FIL A FIL DIFER AZ",
-        code: "4345-2167-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS BOTON SHIRT I FIL A FIL DIFER AZ",
+        "code": "4345-2167-37-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS DENIM SHIRT M/L DENIM IDEM ORIGI",
-        code: "4345-2344-94-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS DENIM SHIRT M/L DENIM IDEM ORIGI",
+        "code": "4345-2344-94-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BUTTON DOWN CASUALS C1 PIMA AZUL+ CTE",
-        code: "4359-2515-37-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BUTTON DOWN CASUALS C1 PIMA AZUL+ CTE",
+        "code": "4359-2515-37-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BUTTON DOWN CASUALS C2 PIMA UVA+GRIS",
-        code: "4359-2516-16-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BUTTON DOWN CASUALS C2 PIMA UVA+GRIS",
+        "code": "4359-2516-16-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BUTTON DOWN CASUALS R1 PIMA CELESTE+BCO",
-        code: "4359-2518-25-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BUTTON DOWN CASUALS R1 PIMA CELESTE+BCO",
+        "code": "4359-2518-25-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER R2 POPLIN BLANCO+ RAYA CELESTE",
-        code: "4363-2163-02-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER R2 POPLIN BLANCO+ RAYA CELESTE",
+        "code": "4363-2163-02-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER R1 POPLIN AZUL+ RAYA BLANCO",
-        code: "4363-2163-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER R1 POPLIN AZUL+ RAYA BLANCO",
+        "code": "4363-2163-37-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER F2 POPLIN BLANCO C/FANTASIA AZUL",
-        code: "4363-2164-02-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER F2 POPLIN BLANCO C/FANTASIA AZUL",
+        "code": "4363-2164-02-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER F1 FIL A FIL PINTITAS VERDE+BCO",
-        code: "4363-2164-60-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER F1 FIL A FIL PINTITAS VERDE+BCO",
+        "code": "4363-2164-60-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER C1 POP.50/1 MOSTAZA+AZUL+BCO",
-        code: "4363-2511-46-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER C1 POP.50/1 MOSTAZA+AZUL+BCO",
+        "code": "4363-2511-46-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER C2 POPLIN 50/1 ROJO+NEGRO+GRIS",
-        code: "4363-2512-55-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER C2 POPLIN 50/1 ROJO+NEGRO+GRIS",
+        "code": "4363-2512-55-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER C3 POPLIN 50/1 NEGRO+BLANCO",
-        code: "4363-2513-79-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER C3 POPLIN 50/1 NEGRO+BLANCO",
+        "code": "4363-2513-79-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GUNTER C4 POPLIN 50/1 GRANATE+AZUL",
-        code: "4363-2514-57-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GUNTER C4 POPLIN 50/1 GRANATE+AZUL",
+        "code": "4363-2514-57-01",
+        "price": 1499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIFAZ INDIGO SHIRT GASA BIFAZ FRANCIA",
-        code: "4371-5969-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIFAZ INDIGO SHIRT GASA BIFAZ FRANCIA",
+        "code": "4371-5969-37-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BIFAZ SHIRT GASA BIFAZ AZUL C/ CRUDO",
-        code: "4372-5969-38-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BIFAZ SHIRT GASA BIFAZ AZUL C/ CRUDO",
+        "code": "4372-5969-38-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL OVERSHIRT I VIYELA AZUL+BLANCO+ROJO",
-        code: "4373-4586-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL OVERSHIRT I VIYELA AZUL+BLANCO+ROJO",
+        "code": "4373-4586-37-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL OVERSHIRT II RATIER ALG AERO+ROJO",
-        code: "4373-4857-35-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL OVERSHIRT II RATIER ALG AERO+ROJO",
+        "code": "4373-4857-35-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WESTERN GIRL (BOT)TWINK.7.5OZ.S.W.(LCT)",
-        code: "4410-1006-94-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WESTERN GIRL (BOT)TWINK.7.5OZ.S.W.(LCT)",
+        "code": "4410-1006-94-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARGARET SHIRT C1 VISCOSA CRUDO+ROSA+BOR",
-        code: "4438-2169-01-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARGARET SHIRT C1 VISCOSA CRUDO+ROSA+BOR",
+        "code": "4438-2169-01-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARGARET SHIRT C2 VISCOSA BORD+NARANJA+A",
-        code: "4438-2169-58-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARGARET SHIRT C2 VISCOSA BORD+NARANJA+A",
+        "code": "4438-2169-58-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARGARET SHIRT LISA VISCOSA ORQUñDEA",
-        code: "4438-2170-50-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARGARET SHIRT LISA VISCOSA ORQU�DEA",
+        "code": "4438-2170-50-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARGARET SHIRT LISA VISCOSA NEGRO",
-        code: "4438-2170-79-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARGARET SHIRT LISA VISCOSA NEGRO",
+        "code": "4438-2170-79-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW ORIGINAL DENIM STONE WASH",
-        code: "4467-1211-94-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW ORIGINAL DENIM STONE WASH",
+        "code": "4467-1211-94-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW ORIGINAL C2 POPLIN BLANCO+ROJO+AZUL",
-        code: "4467-2174-02-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW ORIGINAL C2 POPLIN BLANCO+ROJO+AZUL",
+        "code": "4467-2174-02-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW ORIGINAL C1 POPLIN AZUL+ROSA",
-        code: "4467-2174-37-01",
-        price: 1499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW ORIGINAL C1 POPLIN AZUL+ROSA",
+        "code": "4467-2174-37-01",
+        "price": 1599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BLACKIE SHIRT VISCOSA C/ BORD AZUL C/BRI",
-        code: "4468-4816-37-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BLACKIE SHIRT VISCOSA C/ BORD AZUL C/BRI",
+        "code": "4468-4816-37-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BLACKIE SHIRT VISCOSA C/ BORD.NEGRO C/BC",
-        code: "4468-4816-79-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BLACKIE SHIRT VISCOSA C/ BORD.NEGRO C/BC",
+        "code": "4468-4816-79-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RED BLOUSE BAMBULA C/BORD BLANCO C/ NEGR",
-        code: "4469-5969-02-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RED BLOUSE BAMBULA C/BORD BLANCO C/ NEGR",
+        "code": "4469-5969-02-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RED BLOUSE BAMBULA C/BORD ROJO C/ BLANCO",
-        code: "4469-5969-55-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RED BLOUSE BAMBULA C/BORD ROJO C/ BLANCO",
+        "code": "4469-5969-55-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "YOKO BLOUSE VISCOSA C/ BORD OFF WHITE",
-        code: "4470-5960-01-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "YOKO BLOUSE VISCOSA C/ BORD OFF WHITE",
+        "code": "4470-5960-01-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "YOKO BLOUSE VISCOSA C/ BORD NEGRO C/BCO",
-        code: "4470-5960-79-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "YOKO BLOUSE VISCOSA C/ BORD NEGRO C/BCO",
+        "code": "4470-5960-79-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARION SHIRT BLUE C/ BORD OFF WHITE",
-        code: "4471-5960-01-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARION SHIRT BLUE C/ BORD OFF WHITE",
+        "code": "4471-5960-01-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARION SHIRT BLUE C/ BORD AZUL C/ NEGRO",
-        code: "4471-5960-37-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARION SHIRT BLUE C/ BORD AZUL C/ NEGRO",
+        "code": "4471-5960-37-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LACE BLOUSE BAMBULA C/ ENCAJE CRUDO",
-        code: "4472-2951-01-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LACE BLOUSE BAMBULA C/ ENCAJE CRUDO",
+        "code": "4472-2951-01-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LACE BLOUSE BAMBULA C/ ENCAJE BORDEAUX",
-        code: "4472-2951-58-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LACE BLOUSE BAMBULA C/ ENCAJE BORDEAUX",
+        "code": "4472-2951-58-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PILI SHIRT GASA LUREX OFF WHITE",
-        code: "4473-5969-01-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PILI SHIRT GASA LUREX OFF WHITE",
+        "code": "4473-5969-01-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PILI SHIRT GASA LUREX ORQUIDEA",
-        code: "4473-5969-50-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PILI SHIRT GASA LUREX ORQUIDEA",
+        "code": "4473-5969-50-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADE PRINTED SHIRT GASA ESTAMPADO CLARO",
-        code: "4474-5969-01-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADE PRINTED SHIRT GASA ESTAMPADO CLARO",
+        "code": "4474-5969-01-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADE PRINTED SHIRT GASA ESTAMPADA OSCURO",
-        code: "4474-5969-99-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADE PRINTED SHIRT GASA ESTAMPADA OSCURO",
+        "code": "4474-5969-99-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MIRNA FLOWER BLOUSE ESTAMPADO CLARO FLOR",
-        code: "4475-4681-01-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MIRNA FLOWER BLOUSE ESTAMPADO CLARO FLOR",
+        "code": "4475-4681-01-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MIRNA FLOWER BLOUSE ESTAMPADO OSCURO FLO",
-        code: "4475-4681-99-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MIRNA FLOWER BLOUSE ESTAMPADO OSCURO FLO",
+        "code": "4475-4681-99-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER DENIM SHIRT DENIM STONE WASH",
-        code: "4476-2169-94-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER DENIM SHIRT DENIM STONE WASH",
+        "code": "4476-2169-94-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER SHIRT II ALGODON BLANCO",
-        code: "4476-5960-02-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER SHIRT II ALGODON BLANCO",
+        "code": "4476-5960-02-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER SHIRT I ALGODON VERDE MILITAR ENZ",
-        code: "4476-5960-68-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER SHIRT I ALGODON VERDE MILITAR ENZ",
+        "code": "4476-5960-68-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "POLI BLOUSE RAYON C/ BORDADO NEGRO",
-        code: "4477-2168-79-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "POLI BLOUSE RAYON C/ BORDADO NEGRO",
+        "code": "4477-2168-79-01",
+        "price": 1799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA BASICA LISA BLANCA",
-        code: "5103-0000-02-01",
-        price: 169
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA BASICA LISA BLANCA",
+        "code": "5103-0000-02-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA BASICA HIL.GRANITE AZUL",
-        code: "5103-0000-37-01",
-        price: 169
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA BASICA HIL.GRANITE AZUL",
+        "code": "5103-0000-37-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA BASICA LISA GRIS MELANGE",
-        code: "5103-0000-72-01",
-        price: 169
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA BASICA LISA GRIS MELANGE",
+        "code": "5103-0000-72-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA BASICA LISA NEGRA",
-        code: "5103-0000-79-01",
-        price: 169
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA BASICA LISA NEGRA",
+        "code": "5103-0000-79-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA WRANGLER CASUALS TEJ. AZUL PIEDRA",
-        code: "5112-0001-38-01",
-        price: 189
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA WRANGLER CASUALS TEJ. AZUL PIEDRA",
+        "code": "5112-0001-38-01",
+        "price": 199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA WRANGLER CASUALS TEJIDO BORDEAUX",
-        code: "5112-0002-58-01",
-        price: 189
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA WRANGLER CASUALS TEJIDO BORDEAUX",
+        "code": "5112-0002-58-01",
+        "price": 199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MEDIA WRANGLER CASUALS TEJIDO GRIS TOPO",
-        code: "5112-0002-78-01",
-        price: 189
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MEDIA WRANGLER CASUALS TEJIDO GRIS TOPO",
+        "code": "5112-0002-78-01",
+        "price": 199
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "STRIPE SOCKS ALGODON PETROLEO + AZUL",
-        code: "5115-4800-37-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "STRIPE SOCKS ALGODON PETROLEO + AZUL",
+        "code": "5115-4800-37-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "STRIPE SOCKS ALGODON AZUL + BORDO",
-        code: "5115-4800-58-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "STRIPE SOCKS ALGODON AZUL + BORDO",
+        "code": "5115-4800-58-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FANTASY SOCKS ALGODON UVA",
-        code: "5116-4800-02-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FANTASY SOCKS ALGODON UVA",
+        "code": "5116-4800-02-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FANTASY SOCKS ALGODON VERDE MILITAR",
-        code: "5116-4800-68-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FANTASY SOCKS ALGODON VERDE MILITAR",
+        "code": "5116-4800-68-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN SOCK TEJIDO BLANCO",
-        code: "5125-0000-02-01",
-        price: 159
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN SOCK TEJIDO BLANCO",
+        "code": "5125-0000-02-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN SOCK TEJIDO NEGRO",
-        code: "5125-0000-79-01",
-        price: 159
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN SOCK TEJIDO NEGRO",
+        "code": "5125-0000-79-01",
+        "price": 189
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHORT LUNAR SOCKS ALGODON GRIS MELANGE",
-        code: "5207-0000-71-01",
-        price: 159
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHORT LUNAR SOCKS ALGODON GRIS MELANGE",
+        "code": "5207-0000-71-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHORT LUNAR SOCKS ALGODON CRUDO+VDE+NEG",
-        code: "5207-4800-01-01",
-        price: 159
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHORT LUNAR SOCKS ALGODON CRUDO+VDE+NEG",
+        "code": "5207-4800-01-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "5209-0000-02-01",
-        price: 165
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "5209-0000-02-01",
+        "price": 179
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "5209-0000-79-01",
-        price: 165
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "5209-0000-79-01",
+        "price": 179
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN W SOCK TEJIDO BLANCO",
-        code: "5220-0000-02-01",
-        price: 155
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN W SOCK TEJIDO BLANCO",
+        "code": "5220-0000-02-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN W SOCK TEJIDO NEGRO",
-        code: "5220-0000-79-01",
-        price: 155
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN W SOCK TEJIDO NEGRO",
+        "code": "5220-0000-79-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PEACE SOCKS ALGODON CRUDO MELANGE",
-        code: "5233-4800-71-01",
-        price: 229
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PEACE SOCKS ALGODON CRUDO MELANGE",
+        "code": "5233-4800-71-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PEACE SOCKS ALGODON NEGRO",
-        code: "5233-4800-79-01",
-        price: 229
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PEACE SOCKS ALGODON NEGRO",
+        "code": "5233-4800-79-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADVANCE SOCKS ALGODON GRIS + ROJO",
-        code: "5346-4800-70-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADVANCE SOCKS ALGODON GRIS + ROJO",
+        "code": "5346-4800-70-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADVANCE SOCKS ALGODON NEGRO + AZUL FRANC",
-        code: "5346-4800-79-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADVANCE SOCKS ALGODON NEGRO + AZUL FRANC",
+        "code": "5346-4800-79-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHORT MELANGE SOCKS ALGODON AZUL",
-        code: "5350-4801-37-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHORT MELANGE SOCKS ALGODON AZUL",
+        "code": "5350-4801-37-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHORT MELANGE SOCKS ALGODON NEGRO",
-        code: "5350-4801-79-01",
-        price: 179
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHORT MELANGE SOCKS ALGODON NEGRO",
+        "code": "5350-4801-79-01",
+        "price": 209
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "INVISIBLE MOULINEX SOCKS ALG ROJO + FUCS",
-        code: "5433-4800-55-01",
-        price: 155
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "INVISIBLE MOULINEX SOCKS ALG ROJO + FUCS",
+        "code": "5433-4800-55-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "INVISIBLE MOULINEX SOCKS ALG SALMON + AZ",
-        code: "5433-4800-62-01",
-        price: 155
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "INVISIBLE MOULINEX SOCKS ALG SALMON + AZ",
+        "code": "5433-4800-62-01",
+        "price": 165
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DESODORANTE URBAN",
-        code: "6000-0000-01-01",
-        price: 119
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DESODORANTE URBAN",
+        "code": "6000-0000-01-01",
+        "price": 139
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DESODORANTE WAVE",
-        code: "6001-0000-01-01",
-        price: 119
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DESODORANTE WAVE",
+        "code": "6001-0000-01-01",
+        "price": 139
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MOCHILA ADVANCE TELA VERDE MILITAR",
-        code: "6100-0000-60-01",
-        price: 1699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MOCHILA ADVANCE TELA VERDE MILITAR",
+        "code": "6100-0000-60-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MOCHILA ADVANCE TELA NEGRO",
-        code: "6100-0000-79-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MOCHILA ADVANCE TELA NEGRO",
+        "code": "6100-0000-79-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "METALIC BELT CUERO MARRON",
-        code: "6165-9001-48-01",
-        price: 669
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "METALIC BELT CUERO MARRON",
+        "code": "6165-9001-48-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "METALIC BELT CUERO NEGRO",
-        code: "6165-9001-79-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "METALIC BELT CUERO NEGRO",
+        "code": "6165-9001-79-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA FRAN CUERO MARRON GASTADO",
-        code: "6191-9000-48-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA FRAN CUERO MARRON GASTADO",
+        "code": "6191-9000-48-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TARJETERO WILLIS CUERO SUELA",
-        code: "6192-9000-47-01",
-        price: 399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TARJETERO WILLIS CUERO SUELA",
+        "code": "6192-9000-47-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA CAMO CUERO NEGRO",
-        code: "6194-9000-68-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA CAMO CUERO NEGRO",
+        "code": "6194-9000-68-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA LUK CUERO SUELA",
-        code: "6392-9000-48-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA LUK CUERO SUELA",
+        "code": "6392-9000-48-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA LUK CUERO NEGRO",
-        code: "6392-9000-79-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA LUK CUERO NEGRO",
+        "code": "6392-9000-79-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "EAU DE TOILETTE WRANGLER BLUE 55ML PERFU",
-        code: "6509-0000-01-01",
-        price: 399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "EAU DE TOILETTE WRANGLER BLUE 55ML PERFU",
+        "code": "6509-0000-01-01",
+        "price": 449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "EAU DE TOILETTE WRANGLER BLUE 80ML PERFU",
-        code: "6509-0000-02-01",
-        price: 499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "EAU DE TOILETTE WRANGLER BLUE 80ML PERFU",
+        "code": "6509-0000-02-01",
+        "price": 599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CASUALS REVERSIBLE BELT CUERO MARR./NGO",
-        code: "6591-9001-79-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CASUALS REVERSIBLE BELT CUERO MARR./NGO",
+        "code": "6591-9001-79-01",
+        "price": 899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "EAU DE TOILETTE WRANGLER MUJER 55ML PERF",
-        code: "6641-0000-01-01",
-        price: 399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "EAU DE TOILETTE WRANGLER MUJER 55ML PERF",
+        "code": "6641-0000-01-01",
+        "price": 449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "EAU DE TOILETTE WRANGLER MUJER 80ML PERF",
-        code: "6641-0000-02-01",
-        price: 499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "EAU DE TOILETTE WRANGLER MUJER 80ML PERF",
+        "code": "6641-0000-02-01",
+        "price": 599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CINTURñN TRIPLE COSTURA CUERO MARRON",
-        code: "679000-48-01",
-        price: 619
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CINTUR�N TRIPLE COSTURA CUERO MARRON",
+        "code": "6705-9000-48-01",
+        "price": 749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CINTURñN TRIPLE COSTURA CUERO NEGRO",
-        code: "679000-79-01",
-        price: 619
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CINTUR�N TRIPLE COSTURA CUERO NEGRO",
+        "code": "6705-9000-79-01",
+        "price": 749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL LAMBERT BELT CUERO VERDE MILITAR",
-        code: "6729-9000-37-01",
-        price: 599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL LAMBERT BELT CUERO VERDE MILITAR",
+        "code": "6729-9000-37-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL LAMBERT BELT CUERO MARRON",
-        code: "6729-9000-47-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL LAMBERT BELT CUERO MARRON",
+        "code": "6729-9000-47-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL LAMBERT BELT CUERO NEGRO",
-        code: "6729-9000-79-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL LAMBERT BELT CUERO NEGRO",
+        "code": "6729-9000-79-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RUST BELT CUERO SUELA",
-        code: "6745-9000-47-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RUST BELT CUERO SUELA",
+        "code": "6745-9000-47-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RUST BELT CUERO AZUL",
-        code: "6745-9000-79-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RUST BELT CUERO AZUL",
+        "code": "6745-9000-79-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FRED BELT CUERO NEGRO",
-        code: "6746-9000-79-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FRED BELT CUERO NEGRO",
+        "code": "6746-9000-79-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILA TRANFER BELT CUERO AZUL",
-        code: "6802-9000-48-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILA TRANFER BELT CUERO AZUL",
+        "code": "6802-9000-48-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILA TRANFER BELT CUERO NEGRO",
-        code: "6802-9000-79-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILA TRANFER BELT CUERO NEGRO",
+        "code": "6802-9000-79-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WEST PICADO BELT CUERO MARRON",
-        code: "6803-9000-47-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WEST PICADO BELT CUERO MARRON",
+        "code": "6803-9000-47-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACKIE PLAIN BELT CUERO NEGRO",
-        code: "689000-79-01",
-        price: 619
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACKIE PLAIN BELT CUERO NEGRO",
+        "code": "6805-9000-79-01",
+        "price": 649
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA LENON CUERO MARRON",
-        code: "6914-9000-48-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA LENON CUERO MARRON",
+        "code": "6914-9000-48-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BILLETERA LENON CUERO NEGRO",
-        code: "6914-9000-79-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BILLETERA LENON CUERO NEGRO",
+        "code": "6914-9000-79-01",
+        "price": 779
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "6915-9000-79-01",
-        price: 369
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "6915-9000-79-01",
+        "price": 499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TED POLO JERSEY AZUL FRANCIA + NEGRO",
-        code: "7058-4861-37-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TED POLO JERSEY AZUL FRANCIA + NEGRO",
+        "code": "7058-4861-37-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TED POLO JERSEY AZUL MARINO+BLANCO+VERDE",
-        code: "7058-4861-38-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TED POLO JERSEY AZUL MARINO+BLANCO+VERDE",
+        "code": "7058-4861-38-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TED POLO JERSEY NEGRO + GRANATE",
-        code: "7058-4861-78-01",
-        price: 1599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TED POLO JERSEY NEGRO + GRANATE",
+        "code": "7058-4861-78-01",
+        "price": 1699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HANS SWEATER ALGODON NEGRO",
-        code: "7087-4800-79-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HANS SWEATER ALGODON NEGRO",
+        "code": "7087-4800-79-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HANS SWEATER TEJIDO ALGODON UVA",
-        code: "7087-4801-16-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HANS SWEATER TEJIDO ALGODON UVA",
+        "code": "7087-4801-16-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HANS SWEATER TEJIDO ALGODON AZUL FRANCIA",
-        code: "7087-4801-38-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HANS SWEATER TEJIDO ALGODON AZUL FRANCIA",
+        "code": "7087-4801-38-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HANS SWEATER TEJIDO ALGODON GRANATE",
-        code: "7087-4801-58-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HANS SWEATER TEJIDO ALGODON GRANATE",
+        "code": "7087-4801-58-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HANS SWEATER TEJIDO ALGODON VERDE MILITA",
-        code: "7087-4801-68-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HANS SWEATER TEJIDO ALGODON VERDE MILITA",
+        "code": "7087-4801-68-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FOX BUTTON TEE JERSEY AZUL",
-        code: "7124-4861-37-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FOX BUTTON TEE JERSEY AZUL",
+        "code": "7124-4861-37-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FOX BUTTON TEE JERSEY GRANATE",
-        code: "7124-4861-58-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FOX BUTTON TEE JERSEY GRANATE",
+        "code": "7124-4861-58-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FOX BUTTON TEE JERSEY VERDE MILITAR",
-        code: "7124-4861-69-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FOX BUTTON TEE JERSEY VERDE MILITAR",
+        "code": "7124-4861-69-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KENDALL HOODIE TEJIDO C/MICROPOLAR AZUL",
-        code: "7130-4491-37-01",
-        price: 2899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KENDALL HOODIE TEJIDO C/MICROPOLAR AZUL",
+        "code": "7130-4491-37-01",
+        "price": 3149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KENDALL HOODIE TEJIDO C/MICROPOLAR GRIS",
-        code: "7130-4491-77-01",
-        price: 3199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KENDALL HOODIE TEJIDO C/MICROPOLAR GRIS",
+        "code": "7130-4491-77-01",
+        "price": 3149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ALEX HOODIE POLIESTER C/MICROPOLAR GRIS",
-        code: "7137-4428-70-01",
-        price: 2699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ALEX HOODIE POLIESTER C/MICROPOLAR GRIS",
+        "code": "7137-4428-70-01",
+        "price": 2799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN POLO PIQUE BLANCO",
-        code: "7149-5220-01-01",
-        price: 699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN POLO PIQUE BLANCO",
+        "code": "7149-5220-01-01",
+        "price": 749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN POLO PIQUE AZUL",
-        code: "7149-5220-37-01",
-        price: 699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN POLO PIQUE AZUL",
+        "code": "7149-5220-37-01",
+        "price": 749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PLAIN POLO I PIQUE GRIS MELANGE",
-        code: "7149-5220-70-01",
-        price: 699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PLAIN POLO I PIQUE GRIS MELANGE",
+        "code": "7149-5220-70-01",
+        "price": 749
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LAMB HOODIE FRIZA C/CORDERITO MILITAR",
-        code: "7169-4492-68-01",
-        price: 2799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LAMB HOODIE FRIZA C/CORDERITO MILITAR",
+        "code": "7169-4492-68-01",
+        "price": 2899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LAMB HOODIE FRIZA C/CORDERITO GRIS MGE",
-        code: "7169-4492-77-01",
-        price: 2799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LAMB HOODIE FRIZA C/CORDERITO GRIS MGE",
+        "code": "7169-4492-77-01",
+        "price": 2899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SCOTT POLO JERSEY ESMERILADO AZUL FRANCI",
-        code: "7171-4883-37-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SCOTT POLO JERSEY ESMERILADO AZUL FRANCI",
+        "code": "7171-4883-37-01",
+        "price": 1229
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SCOTT POLO JERSEY ESMERILADO AZUL MARINO",
-        code: "7171-4883-38-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SCOTT POLO JERSEY ESMERILADO AZUL MARINO",
+        "code": "7171-4883-38-01",
+        "price": 1229
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SCOTT POLO JERSEY ESMERILADO GRANATE",
-        code: "7171-4883-58-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SCOTT POLO JERSEY ESMERILADO GRANATE",
+        "code": "7171-4883-58-01",
+        "price": 1229
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LUCAS POLO ML JERSEY NEGRO +GRIS+BCO",
-        code: "7172-4861-02-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LUCAS POLO ML JERSEY NEGRO +GRIS+BCO",
+        "code": "7172-4861-02-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LUCAS POLO ML JERSEY AZUL MARINO + UVA",
-        code: "7172-4861-38-01",
-        price: 1399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LUCAS POLO ML JERSEY AZUL MARINO + UVA",
+        "code": "7172-4861-38-01",
+        "price": 1399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "THOMAS CASUALS PANEAUX POLO BLANCO+MELAN",
-        code: "7175-4861-02-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "THOMAS CASUALS PANEAUX POLO BLANCO+MELAN",
+        "code": "7175-4861-02-01",
+        "price": 1299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "THOMAS CASUALS PANEAUX POLO AZUL+ROJO",
-        code: "7175-4861-37-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "THOMAS CASUALS PANEAUX POLO AZUL+ROJO",
+        "code": "7175-4861-37-01",
+        "price": 1299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ZAC POLO JERSEY BRICK + NEGRO",
-        code: "7177-4861-59-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ZAC POLO JERSEY BRICK + NEGRO",
+        "code": "7177-4861-59-01",
+        "price": 1149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ZAC POLO JERSEY NEGRO + AZUL FRANCIA",
-        code: "7177-4861-79-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ZAC POLO JERSEY NEGRO + AZUL FRANCIA",
+        "code": "7177-4861-79-01",
+        "price": 1149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WILLIS CASUALS POLO JERSEY AZUL + ROJO",
-        code: "7179-4861-37-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WILLIS CASUALS POLO JERSEY AZUL + ROJO",
+        "code": "7179-4861-37-01",
+        "price": 1149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WILLIS CASUALS POLO JERSEY BOTELLA+FRANC",
-        code: "7179-4861-64-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WILLIS CASUALS POLO JERSEY BOTELLA+FRANC",
+        "code": "7179-4861-64-01",
+        "price": 1149
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MALLOY TEE JERSEY BLANCO",
-        code: "7191-4861-02-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MALLOY TEE JERSEY BLANCO",
+        "code": "7191-4861-02-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MALLOY TEE JERSEY AZUL FRANCIA",
-        code: "7191-4861-38-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MALLOY TEE JERSEY AZUL FRANCIA",
+        "code": "7191-4861-38-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MALLOY TEE JERSEY GRIS TOPO",
-        code: "7191-4861-78-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MALLOY TEE JERSEY GRIS TOPO",
+        "code": "7191-4861-78-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LUK TEE JERSEY GRIS MELANGE MEDIO",
-        code: "7193-4861-71-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LUK TEE JERSEY GRIS MELANGE MEDIO",
+        "code": "7193-4861-71-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ALTON ARMY TEE JERSEY VERDE",
-        code: "7197-4861-60-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ALTON ARMY TEE JERSEY VERDE",
+        "code": "7197-4861-60-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BARD TEE JERSEY UVA",
-        code: "7199-4861-16-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BARD TEE JERSEY UVA",
+        "code": "7199-4861-16-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BARD TEE JERSEY NEGRO",
-        code: "7199-4861-79-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BARD TEE JERSEY NEGRO",
+        "code": "7199-4861-79-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY DET TEE NGRO+ROJO",
-        code: "7200-4861-55-01",
-        price: 699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY DET TEE NGRO+ROJO",
+        "code": "7200-4861-55-01",
+        "price": 739
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY DET TEE GR MLNGE+ROJO",
-        code: "7200-4861-70-01",
-        price: 699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY DET TEE GR MLNGE+ROJO",
+        "code": "7200-4861-70-01",
+        "price": 739
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY KISS TEE NEGRO",
-        code: "7200-4861-79-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY KISS TEE NEGRO",
+        "code": "7200-4861-79-01",
+        "price": 739
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KELSIE HOODIE FRIZA CON CORDERITO BEIGE",
-        code: "7233-5447-01-01",
-        price: 2499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KELSIE HOODIE FRIZA CON CORDERITO BEIGE",
+        "code": "7233-5447-01-01",
+        "price": 2549
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KELSIE HOODIE FRIZA CON CORDERITO UVA",
-        code: "7233-5447-16-01",
-        price: 2499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KELSIE HOODIE FRIZA CON CORDERITO UVA",
+        "code": "7233-5447-16-01",
+        "price": 2549
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CARMELA SHINE TEE JERSEY C/LENTEJ BLANCO",
-        code: "7238-4861-02-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CARMELA SHINE TEE JERSEY C/LENTEJ BLANCO",
+        "code": "7238-4861-02-01",
+        "price": 1249
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CARMELA SHINE TEE JERSEY C/LENTEJ AZUL",
-        code: "7238-4861-37-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CARMELA SHINE TEE JERSEY C/LENTEJ AZUL",
+        "code": "7238-4861-37-01",
+        "price": 1249
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LEXI TEE ALGODON VISCOSA BLANCO",
-        code: "7246-4812-02-01",
-        price: 829
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LEXI TEE ALGODON VISCOSA BLANCO",
+        "code": "7246-4812-02-01",
+        "price": 849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LEXI TEE ALGODON VISCOSA ROJO",
-        code: "7246-4812-55-01",
-        price: 829
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LEXI TEE ALGODON VISCOSA ROJO",
+        "code": "7246-4812-55-01",
+        "price": 849
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SIDNEY TEE PUNTO CORTADO NEGRO + BLANCO",
-        code: "7247-4861-79-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SIDNEY TEE PUNTO CORTADO NEGRO + BLANCO",
+        "code": "7247-4861-79-01",
+        "price": 919
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TALA TEE JERSEY FLAME CRUDO",
-        code: "7248-4875-01-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TALA TEE JERSEY FLAME CRUDO",
+        "code": "7248-4875-01-01",
+        "price": 899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TALA TEE JERSEY FLAME ROJO",
-        code: "7248-4875-55-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TALA TEE JERSEY FLAME ROJO",
+        "code": "7248-4875-55-01",
+        "price": 899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "VICKIE TEE JERSEY GRIS MELANGE",
-        code: "7249-4861-70-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "VICKIE TEE JERSEY GRIS MELANGE",
+        "code": "7249-4861-70-01",
+        "price": 1229
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "VICKIE TEE JERSEY NEGRO",
-        code: "7249-4861-79-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "VICKIE TEE JERSEY NEGRO",
+        "code": "7249-4861-79-01",
+        "price": 1229
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SNOW TEE JERSEY BLANCO",
-        code: "7251-4861-02-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SNOW TEE JERSEY BLANCO",
+        "code": "7251-4861-02-01",
+        "price": 1349
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SNOW TEE JERSEY UVA",
-        code: "7251-4861-16-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SNOW TEE JERSEY UVA",
+        "code": "7251-4861-16-01",
+        "price": 1349
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AMAPOLA TEE VISCOSA CON ALGODON UVA",
-        code: "7252-4812-16-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AMAPOLA TEE VISCOSA CON ALGODON UVA",
+        "code": "7252-4812-16-01",
+        "price": 769
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AMAPOLA TEE VISCOSA CON ALGODON AZUL MAR",
-        code: "7252-4812-38-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AMAPOLA TEE VISCOSA CON ALGODON AZUL MAR",
+        "code": "7252-4812-38-01",
+        "price": 769
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AMAPOLA TEE VISCOSA CON ALGODON NEGRO",
-        code: "7252-4812-79-01",
-        price: 749
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AMAPOLA TEE VISCOSA CON ALGODON NEGRO",
+        "code": "7252-4812-79-01",
+        "price": 769
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILA TEE PUNTO CORTADO NEGRO",
-        code: "7253-4861-79-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILA TEE PUNTO CORTADO NEGRO",
+        "code": "7253-4861-79-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MARCI TEE VISCOSA CON ENCAJE NEGRO",
-        code: "7254-5960-79-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MARCI TEE VISCOSA CON ENCAJE NEGRO",
+        "code": "7254-5960-79-01",
+        "price": 1249
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MALI TEE VISCOSA GRIS MEL OSCURO",
-        code: "7255-5960-77-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MALI TEE VISCOSA GRIS MEL OSCURO",
+        "code": "7255-5960-77-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MALI TEE VISCOSA NEGRO",
-        code: "7255-5960-79-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MALI TEE VISCOSA NEGRO",
+        "code": "7255-5960-79-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILLIE TEE A DEFINIR ROJO",
-        code: "7256-2169-55-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILLIE TEE A DEFINIR ROJO",
+        "code": "7256-2169-55-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILLIE TEE A DEFINIR GRIS MELANGE",
-        code: "7256-2169-70-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILLIE TEE A DEFINIR GRIS MELANGE",
+        "code": "7256-2169-70-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER TEE PUNTO DIFERENCIADO BEIGE",
-        code: "7257-4861-01-01",
-        price: 929
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER TEE PUNTO DIFERENCIADO BEIGE",
+        "code": "7257-4861-01-01",
+        "price": 949
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER TEE PUNTO DIFERENCIADO GRIS MELAN",
-        code: "7257-4861-70-01",
-        price: 929
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER TEE PUNTO DIFERENCIADO GRIS MELAN",
+        "code": "7257-4861-70-01",
+        "price": 949
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER TEE PUNTO DIFERENCIADO NEGRO",
-        code: "7257-4861-79-01",
-        price: 929
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER TEE PUNTO DIFERENCIADO NEGRO",
+        "code": "7257-4861-79-01",
+        "price": 949
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SHINE SWEATER TEJIDO GRIS MELANGE",
-        code: "7259-4490-70-01",
-        price: 2599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SHINE SWEATER TEJIDO GRIS MELANGE",
+        "code": "7259-4490-70-01",
+        "price": 2699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ADELE COAT TEJIDO C/LUREX ROJO+AZUL+DOR",
-        code: "7260-5985-55-01",
-        price: 2699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ADELE COAT TEJIDO C/LUREX ROJO+AZUL+DOR",
+        "code": "7260-5985-55-01",
+        "price": 2799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "FLOWER COAT TEJIDO CRUDO+NEGRO+BRICK",
-        code: "7261-4490-01-01",
-        price: 2599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "FLOWER COAT TEJIDO CRUDO+NEGRO+BRICK",
+        "code": "7261-4490-01-01",
+        "price": 2699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ANNIE HOODIE TEJIDO DIFER C/CORD CRUDO",
-        code: "7262-4492-01-01",
-        price: 2699
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ANNIE HOODIE TEJIDO DIFER C/CORD CRUDO",
+        "code": "7262-4492-01-01",
+        "price": 2699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BRIA HOODIE FRIZA CON JERSEY NEGRO",
-        code: "7263-5447-79-01",
-        price: 2499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BRIA HOODIE FRIZA CON JERSEY NEGRO",
+        "code": "7263-5447-79-01",
+        "price": 2599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CELINE HOODIE FRIZA ESTAMPADA AZUL+BCO",
-        code: "7264-5447-37-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CELINE HOODIE FRIZA ESTAMPADA AZUL+BCO",
+        "code": "7264-5447-37-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "CELINE HOODIE FRIZA ESTAMPADA ROJO+BCO",
-        code: "7264-5447-55-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "CELINE HOODIE FRIZA ESTAMPADA ROJO+BCO",
+        "code": "7264-5447-55-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AMELIE COAT TEJIDO NEGRO + BLANCO",
-        code: "7265-4490-79-01",
-        price: 2799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AMELIE COAT TEJIDO NEGRO + BLANCO",
+        "code": "7265-4490-79-01",
+        "price": 2899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC STRAP TANK JERS/ELAS BLANCO",
-        code: "7267-4860-02-01",
-        price: 499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC STRAP TANK JERS/ELAS BLANCO",
+        "code": "7267-4860-02-01",
+        "price": 529
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC STRAP TANK JER/ELAS.NEGRO",
-        code: "7267-4860-79-01",
-        price: 499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC STRAP TANK JER/ELAS.NEGRO",
+        "code": "7267-4860-79-01",
+        "price": 529
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "STELLA TEE JERSEY PESADO AZUL",
-        code: "7277-4861-36-01",
-        price: 1199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "STELLA TEE JERSEY PESADO AZUL",
+        "code": "7277-4861-36-01",
+        "price": 1349
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "STELLA TEE JERSEY PESADO NEGRO",
-        code: "7277-4861-79-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "STELLA TEE JERSEY PESADO NEGRO",
+        "code": "7277-4861-79-01",
+        "price": 1349
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "OLIVER PANEAUX TEE JERSEY AZUL+NEGRO+BCO",
-        code: "7308-4861-37-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "OLIVER PANEAUX TEE JERSEY AZUL+NEGRO+BCO",
+        "code": "7308-4861-37-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "GARRY HOODIE FRIZA CON VIYELA AZUL+VERDE",
-        code: "7312-5447-37-01",
-        price: 2399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "GARRY HOODIE FRIZA CON VIYELA AZUL+VERDE",
+        "code": "7312-5447-37-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LENON SWEATER TEJIDO GRANATE+BCO+AZUL",
-        code: "7314-4800-58-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LENON SWEATER TEJIDO GRANATE+BCO+AZUL",
+        "code": "7314-4800-58-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LENON SWEATER TEJIDO NEGRO+MARRON+BCO",
-        code: "7314-4800-79-01",
-        price: 1899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LENON SWEATER TEJIDO NEGRO+MARRON+BCO",
+        "code": "7314-4800-79-01",
+        "price": 1999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "DILLON TEE JERSEY GRIS MELANGE DEGRADñ",
-        code: "7327-4861-70-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "DILLON TEE JERSEY GRIS MELANGE DEGRAD�",
+        "code": "7327-4861-70-01",
+        "price": 899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEVILLE TEE JERSEY UVA",
-        code: "7336-4861-16-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEVILLE TEE JERSEY UVA",
+        "code": "7336-4861-16-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEVILLE TEE JERSEY AZUL",
-        code: "7336-4861-37-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEVILLE TEE JERSEY AZUL",
+        "code": "7336-4861-37-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEVILLE TEE JERSEY GRIS TOPO",
-        code: "7336-4861-78-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEVILLE TEE JERSEY GRIS TOPO",
+        "code": "7336-4861-78-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RYAN TEE JERSEY GRIS MELANGE",
-        code: "7339-4861-70-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RYAN TEE JERSEY GRIS MELANGE",
+        "code": "7339-4861-70-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "REX BUTTON TEE JERSEY DIFERENCIADO MARIN",
-        code: "7341-4861-38-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "REX BUTTON TEE JERSEY DIFERENCIADO MARIN",
+        "code": "7341-4861-38-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "REX BUTTON TEE JERSEY DIFERENCIADO GRIS",
-        code: "7341-4861-70-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "REX BUTTON TEE JERSEY DIFERENCIADO GRIS",
+        "code": "7341-4861-70-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY BLANCO",
-        code: "7342-4861-01-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY BLANCO",
+        "code": "7342-4861-01-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY BLANCO",
-        code: "7342-4861-02-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY BLANCO",
+        "code": "7342-4861-02-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY AZUL",
-        code: "7342-4861-36-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY AZUL",
+        "code": "7342-4861-36-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY AZUL MARINO",
-        code: "7342-4861-38-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY AZUL MARINO",
+        "code": "7342-4861-38-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY VERDE BOTELLA",
-        code: "7342-4861-64-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY VERDE BOTELLA",
+        "code": "7342-4861-64-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY GRIS MELANG",
-        code: "7342-4861-71-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY GRIS MELANG",
+        "code": "7342-4861-71-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "WHELLER TEE JERSEY GRIS MELANGE MEDIO",
-        code: "7342-4861-72-01",
-        price: 729
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "WHELLER TEE JERSEY GRIS MELANGE MEDIO",
+        "code": "7342-4861-72-01",
+        "price": 759
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KABEL TEE JERSEY GRANATE",
-        code: "7345-4861-10-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KABEL TEE JERSEY GRANATE",
+        "code": "7345-4861-10-01",
+        "price": 869
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KABEL TEE JERSEY AZUL MARINO",
-        code: "7345-4861-38-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KABEL TEE JERSEY AZUL MARINO",
+        "code": "7345-4861-38-01",
+        "price": 869
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ROLF TEE JERSEY AZUL MARINO",
-        code: "7351-4861-38-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ROLF TEE JERSEY AZUL MARINO",
+        "code": "7351-4861-38-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "ROLF TEE JERSEY NEGRO",
-        code: "7351-4861-79-01",
-        price: 899
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "ROLF TEE JERSEY NEGRO",
+        "code": "7351-4861-79-01",
+        "price": 929
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RUPERT TEE JERSEY VERDE BOTELLA",
-        code: "7354-4861-64-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RUPERT TEE JERSEY VERDE BOTELLA",
+        "code": "7354-4861-64-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RUPERT TEE JERSEY GRIS MELANGE",
-        code: "7354-4861-70-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RUPERT TEE JERSEY GRIS MELANGE",
+        "code": "7354-4861-70-01",
+        "price": 799
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SMITH SWEATER ALGODON AZUL MARINO + UVA",
-        code: "7355-4800-38-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SMITH SWEATER ALGODON AZUL MARINO + UVA",
+        "code": "7355-4800-38-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "SMITH SWEATER ALGODñN BOTELLA+GRIS+CELES",
-        code: "7355-4800-64-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "SMITH SWEATER ALGOD�N BOTELLA+GRIS+CELES",
+        "code": "7355-4800-64-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PERCY SWEATER TEJIDO NEGRO + GRIS",
-        code: "7360-4490-79-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PERCY SWEATER TEJIDO NEGRO + GRIS",
+        "code": "7360-4490-79-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PATRICK SWEATER TEJIDO AZUL",
-        code: "7363-4490-37-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PATRICK SWEATER TEJIDO AZUL",
+        "code": "7363-4490-37-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PATRICK SWEATER TEJIDO BORDO + GRIS TOPO",
-        code: "7363-4490-58-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PATRICK SWEATER TEJIDO BORDO + GRIS TOPO",
+        "code": "7363-4490-58-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "HUNTER GUARDA SWEATER ALGODON AZUL + BOR",
-        code: "7364-4800-37-01",
-        price: 2599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "HUNTER GUARDA SWEATER ALGODON AZUL + BOR",
+        "code": "7364-4800-37-01",
+        "price": 2699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KABEL CREW NECK FRIZA AZUL MARINO",
-        code: "7366-5447-38-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KABEL CREW NECK FRIZA AZUL MARINO",
+        "code": "7366-5447-38-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "KABEL CREW NECK FRIZA GRIS MELANGE",
-        code: "7366-5447-70-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "KABEL CREW NECK FRIZA GRIS MELANGE",
+        "code": "7366-5447-70-01",
+        "price": 1899
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCK CREW NECK FRIZA UVA",
-        code: "7367-5447-16-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCK CREW NECK FRIZA UVA",
+        "code": "7367-5447-16-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BROCK CREW NECK FRIZA VERDE BOTELLA",
-        code: "7367-5447-64-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BROCK CREW NECK FRIZA VERDE BOTELLA",
+        "code": "7367-5447-64-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILO HOODIE FRIZA AZUL",
-        code: "7368-5447-37-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILO HOODIE FRIZA AZUL",
+        "code": "7368-5447-37-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILO HOODIE FRIZA ROJO",
-        code: "7368-5447-55-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILO HOODIE FRIZA ROJO",
+        "code": "7368-5447-55-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MILO HOODIE FRIZA GRIS MELANGE",
-        code: "7368-5447-70-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MILO HOODIE FRIZA GRIS MELANGE",
+        "code": "7368-5447-70-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MIKE TEE JERSEY AZUL IDEM ORIGINAL",
-        code: "7369-4861-38-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MIKE TEE JERSEY AZUL IDEM ORIGINAL",
+        "code": "7369-4861-38-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MIKE TEE JERSEY FADED BLACK IDEM ORIG.",
-        code: "7369-4861-79-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MIKE TEE JERSEY FADED BLACK IDEM ORIG.",
+        "code": "7369-4861-79-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "PAUL STRIPE TEE JERSEY AZUL MARINO",
-        code: "7567-4861-38-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "PAUL STRIPE TEE JERSEY AZUL MARINO",
+        "code": "7567-4861-38-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC TEE M/C ESCOTE REDONDO JERSEY BCO",
-        code: "7586-4861-02-01",
-        price: 599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC TEE M/C ESCOTE REDONDO JERSEY BCO",
+        "code": "7586-4861-02-01",
+        "price": 669
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC TEE M/C ESCOTE REDONDO JERSEY NEG",
-        code: "7586-4861-79-01",
-        price: 599
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC TEE M/C ESCOTE REDONDO JERSEY NEG",
+        "code": "7586-4861-79-01",
+        "price": 669
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MORRIS TEE JERSEY GRANATE",
-        code: "7590-4861-58-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MORRIS TEE JERSEY GRANATE",
+        "code": "7590-4861-58-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MORRIS TEE JERSEY GRIS MELANGE OSCURO",
-        code: "7590-4861-77-01",
-        price: 799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MORRIS TEE JERSEY GRIS MELANGE OSCURO",
+        "code": "7590-4861-77-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "MORRIS TEE JERSEY NEGRO",
-        code: "7590-4861-79-01",
-        price: 769
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "MORRIS TEE JERSEY NEGRO",
+        "code": "7590-4861-79-01",
+        "price": 829
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "JACK SWEATER CAMUFLADO TEJIDO NEGRO",
-        code: "7700-4490-79-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "JACK SWEATER CAMUFLADO TEJIDO NEGRO",
+        "code": "7700-4490-79-01",
+        "price": 2499
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "POLO BASIC MICRO PIQ.30/1 PIMA AZL MAR",
-        code: "7719-5220-38-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "POLO BASIC MICRO PIQ.30/1 PIMA AZL MAR",
+        "code": "7719-5220-38-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "7719-5220-55-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "7719-5220-55-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "POLO BASIC MICRO PIQUE 30/1 PIMA NEGRO",
-        code: "7719-5221-79-01",
-        price: 869
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "POLO BASIC MICRO PIQUE 30/1 PIMA NEGRO",
+        "code": "7719-5221-79-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BOW TEE JERSEY VERDE MILITAR",
-        code: "7735-4861-68-01",
-        price: 999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BOW TEE JERSEY VERDE MILITAR",
+        "code": "7735-4861-68-01",
+        "price": 999
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TYLER PANEAUX POLO JERSEY AZUL+MARINO",
-        code: "7754-4861-37-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TYLER PANEAUX POLO JERSEY AZUL+MARINO",
+        "code": "7754-4861-37-01",
+        "price": 1299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TYLER PANEAUX POLO JERSEY BORDO+FRANCIA",
-        code: "7754-4861-58-01",
-        price: 1299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TYLER PANEAUX POLO JERSEY BORDO+FRANCIA",
+        "code": "7754-4861-58-01",
+        "price": 1299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICKIE SWEATER CREW NECK TEJIDO AZUL",
-        code: "7803-4803-37-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICKIE SWEATER CREW NECK TEJIDO AZUL",
+        "code": "7803-4803-37-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NICKIE SWEATER CREW NECK TEJIDO NEGRO",
-        code: "7803-4803-79-01",
-        price: 2199
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NICKIE SWEATER CREW NECK TEJIDO NEGRO",
+        "code": "7803-4803-79-01",
+        "price": 2299
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LYLA SWEATER TEJIDO CON LUREX AZUL",
-        code: "7806-5985-37-01",
-        price: 2499
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LYLA SWEATER TEJIDO CON LUREX AZUL",
+        "code": "7806-5985-37-01",
+        "price": 2599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "LYLA SWEATER TEJIDO CON LUREX ROJO",
-        code: "7806-5985-55-01",
-        price: 2399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "LYLA SWEATER TEJIDO CON LUREX ROJO",
+        "code": "7806-5985-55-01",
+        "price": 2599
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RICKY HOODIE JERSEY NEGRO+GRIS MGE",
-        code: "7914-4862-79-01",
-        price: 2299
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RICKY HOODIE JERSEY NEGRO+GRIS MGE",
+        "code": "7914-4862-79-01",
+        "price": 2399
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TOM SWEATER TEJIDO ALGODON",
-        code: "7915-4800-37-01",
-        price: 1999
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TOM SWEATER TEJIDO ALGODON",
+        "code": "7915-4800-37-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "TOM SWEATER TEJIDO ALGODON NEGRO",
-        code: "7915-4800-79-01",
-        price: 1799
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "TOM SWEATER TEJIDO ALGODON NEGRO",
+        "code": "7915-4800-79-01",
+        "price": 2099
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY KABEL TEE BNCA+AZUL",
-        code: "7942-4861-02-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY KABEL TEE BNCA+AZUL",
+        "code": "7942-4861-02-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY KABEL TEE NANJA+AZUL",
-        code: "7942-4861-10-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY KABEL TEE NANJA+AZUL",
+        "code": "7942-4861-10-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "RETRO GLORY KABEL TEE AZUL+CLSTE",
-        code: "7942-4861-37-01",
-        price: 679
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "RETRO GLORY KABEL TEE AZUL+CLSTE",
+        "code": "7942-4861-37-01",
+        "price": 699
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW PLAIN BOXER JERSEY C/ELAST.BLANCO",
-        code: "8123-4900-02-01",
-        price: 379
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW PLAIN BOXER JERSEY C/ELAST.BLANCO",
+        "code": "8123-4900-02-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW PLAIN BOXER JERSEY C/ ELAST.AZUL",
-        code: "8123-4900-38-01",
-        price: 379
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW PLAIN BOXER JERSEY C/ ELAST.AZUL",
+        "code": "8123-4900-38-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW PLAIN BOXER JERSEY C/ ELAST.MGE",
-        code: "8123-4900-70-01",
-        price: 379
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW PLAIN BOXER JERSEY C/ ELAST.MGE",
+        "code": "8123-4900-70-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW PLAIN BOXER JERSEY C/ELAST.NEGRO",
-        code: "8123-4900-79-01",
-        price: 379
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW PLAIN BOXER JERSEY C/ELAST.NEGRO",
+        "code": "8123-4900-79-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW PLAIN BOXER JERSEY C/ ELAST.UVA",
-        code: "8123-4901-16-01",
-        price: 379
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW PLAIN BOXER JERSEY C/ ELAST.UVA",
+        "code": "8123-4901-16-01",
+        "price": 419
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW STRIPE BOXER JRSY C/ELAST.BCO/GRIS",
-        code: "8124-4900-02-01",
-        price: 409
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW STRIPE BOXER JRSY C/ELAST.BCO/GRIS",
+        "code": "8124-4900-02-01",
+        "price": 449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW STRIPE BOXER JRSY C/ELAST MARI/RJO",
-        code: "8124-4900-55-01",
-        price: 409
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW STRIPE BOXER JRSY C/ELAST MARI/RJO",
+        "code": "8124-4900-55-01",
+        "price": 449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "NEW STRIPE BOXER JRSY C/ELAST.NGR/GRIS",
-        code: "8124-4900-79-01",
-        price: 409
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "NEW STRIPE BOXER JRSY C/ELAST.NGR/GRIS",
+        "code": "8124-4900-79-01",
+        "price": 449
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "COMFORT BOXER JERSEY C/ ELAST.GRANATE",
-        code: "8128-4859-16-01",
-        price: 399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "COMFORT BOXER JERSEY C/ ELAST.GRANATE",
+        "code": "8128-4859-16-01",
+        "price": 409
       },
       {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "COMFORT BOXER JERSEY C/ELAST.FRANCIA",
-        code: "8128-4859-34-01",
-        price: 399
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "COMFORT BOXER JERSEY CON ELAST.GRIS",
-        code: "8128-4859-71-01",
-        price: 399
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "COMFORT BOXER JERSEY CON ELAST.NEGRO",
-        code: "8128-4859-79-01",
-        price: 399
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AUTHENTIC BOXER LISO JERSEY PETROLEO",
-        code: "8132-4900-34-01",
-        price: 429
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AUTHENTIC BOXER JERSEY AZUL",
-        code: "8132-4900-37-01",
-        price: 429
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AUTHENTIC BOXER LISO JERSEY NEGRO",
-        code: "8132-4900-78-01",
-        price: 429
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AUTHENTIC BOXER RAY.JERSEY AZUL MLG",
-        code: "8132-4901-37-01",
-        price: 429
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "AUTHENTIC BOXER RAY.GRIS MLG OSCURO",
-        code: "8132-4901-71-01",
-        price: 429
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC TEE TWIN PACK BASIC SOFT BNC/NGRO",
-        code: "8301-4862-02-01",
-        price: 749
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "BASIC TEE TWIN PACK V NECK BNC/NGRO",
-        code: "8301-4863-02-01",
-        price: 749
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "8338-4869-37-01",
-        price: 409
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "8338-4869-58-01",
-        price: 409
-      },
-      {
-        brand: "wrangler",
-        class: "",
-        gender: "",
-        name: "",
-        code: "8339-4869-37-01",
-        price: 399
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "COMFORT BOXER JERSEY C/ELAST.FRANCIA",
+        "code": "8128-4859-34-01",
+        "price": 409
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "COMFORT BOXER JERSEY CON ELAST.GRIS",
+        "code": "8128-4859-71-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "COMFORT BOXER JERSEY CON ELAST.NEGRO",
+        "code": "8128-4859-79-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AUTHENTIC BOXER LISO JERSEY PETROLEO",
+        "code": "8132-4900-34-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AUTHENTIC BOXER JERSEY AZUL",
+        "code": "8132-4900-37-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AUTHENTIC BOXER LISO JERSEY NEGRO",
+        "code": "8132-4900-78-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AUTHENTIC BOXER RAY.JERSEY AZUL MLG",
+        "code": "8132-4901-37-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "AUTHENTIC BOXER RAY.GRIS MLG OSCURO",
+        "code": "8132-4901-71-01",
+        "price": 449
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC TEE TWIN PACK BASIC SOFT BNC/NGRO",
+        "code": "8301-4862-02-01",
+        "price": 949
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "BASIC TEE TWIN PACK V NECK BNC/NGRO",
+        "code": "8301-4863-02-01",
+        "price": 949
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "8338-4869-37-01",
+        "price": 429
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "8338-4869-58-01",
+        "price": 429
+      },
+      {
+        "brand": "wrangler",
+        "class": "",
+        "gender": "",
+        "name": "",
+        "code": "8339-4869-37-01",
+        "price": 419
       }
     ]
   },
