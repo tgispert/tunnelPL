@@ -18655,205 +18655,218 @@ export const Products : PricingList[] = [
     brand: 'priscia',
     products: [
       {
-        "brand": "puebla",
-        "class": "buzo",
+        "brand": "priscia",
+        "class": "sweater",
         "gender": "hombre",
-        "name": "buzo bossa combi",
+        "name": "sweater tejido",
         "code": "",
-        "price": 850
-      },
-      {
-        "brand": "puebla",
-        "class": "buzo",
-        "gender": "hombre",
-        "name": "buzo c/capucha",
-        "code": "",
-        "price": 1490
-      },
-      {
-        "brand": "puebla",
-        "class": "buzo",
-        "gender": "hombre",
-        "name": "buzo cuello polo ray",
-        "code": "",
-        "price": 950
-      },
-      {
-        "brand": "puebla",
-        "class": "buzo",
-        "gender": "hombre",
-        "name": "camp alg liv",
-        "code": "",
-        "price": 850
-      },
-      {
-        "brand": "puebla",
-        "class": "buzo",
-        "gender": "hombre",
-        "name": "camp alg liv vf",
-        "code": "",
-        "price": 950
-      },
-      {
-        "brand": "puebla",
-        "class": "buzo",
-        "gender": "hombre",
-        "name": "campera algodon",
-        "code": "",
-        "price": 1690
-      },
-      {
-        "brand": "puebla",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "chomba m/c alg",
-        "code": "",
-        "price": 850
-      },
-      {
-        "brand": "puebla",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "chomba m/c ray",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "chomba m/l alg c/bolsillo",
-        "code": "",
-        "price": 990
-      },
-      {
-        "brand": "puebla",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "chomba m/l alg lisa",
-        "code": "",
-        "price": 828
-      },
-      {
-        "brand": "puebla",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "chomba m/l ray",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "pantalon",
-        "gender": "hombre",
-        "name": "pantalon camuflado",
-        "code": "",
-        "price": 1450
-      },
-      {
-        "brand": "puebla",
-        "class": "pantalon",
-        "gender": "hombre",
-        "name": "pantalon jogging",
-        "code": "",
-        "price": 990
-      },
-      {
-        "brand": "puebla",
-        "class": "polar micropolar",
-        "gender": "hombre",
-        "name": "micropolar f/z combi",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "polar micropolar",
-        "gender": "hombre",
-        "name": "micropolar f/z liso",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "polar micropolar",
-        "gender": "hombre",
-        "name": "micropolar h/z",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "polera alg",
-        "code": "",
-        "price": 948
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/c est y flor y spandex",
-        "code": "",
-        "price": 708
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/c lisa bossa",
-        "code": "",
-        "price": 540
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/c lisa v",
-        "code": "",
-        "price": 540
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/c ray",
-        "code": "",
-        "price": 828
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/l est y ray",
-        "code": "",
-        "price": 650
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "remera m/l lisa",
-        "code": "",
-        "price": 650
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "sudadera est y ray",
-        "code": "",
-        "price": 540
-      },
-      {
-        "brand": "puebla",
-        "class": "remera",
-        "gender": "hombre",
-        "name": "sudadera lisa",
-        "code": "",
-        "price": 468
+        "price": 1990
       }
+    ]
+  },
+  {
+    brand: 'puebla',
+    products: [
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "buzo bossa combi",
+          "code": "",
+          "price": 850
+        },
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "buzo c/capucha",
+          "code": "",
+          "price": 1490
+        },
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "buzo cuello polo ray",
+          "code": "",
+          "price": 950
+        },
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "camp alg liv",
+          "code": "",
+          "price": 850
+        },
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "camp alg liv vf",
+          "code": "",
+          "price": 950
+        },
+        {
+          "brand": "puebla",
+          "class": "buzo",
+          "gender": "hombre",
+          "name": "campera algodon",
+          "code": "",
+          "price": 1690
+        },
+        {
+          "brand": "puebla",
+          "class": "chomba",
+          "gender": "hombre",
+          "name": "chomba m/c alg",
+          "code": "",
+          "price": 850
+        },
+        {
+          "brand": "puebla",
+          "class": "chomba",
+          "gender": "hombre",
+          "name": "chomba m/c ray",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "chomba",
+          "gender": "hombre",
+          "name": "chomba m/l alg c/bolsillo",
+          "code": "",
+          "price": 990
+        },
+        {
+          "brand": "puebla",
+          "class": "chomba",
+          "gender": "hombre",
+          "name": "chomba m/l alg lisa",
+          "code": "",
+          "price": 828
+        },
+        {
+          "brand": "puebla",
+          "class": "chomba",
+          "gender": "hombre",
+          "name": "chomba m/l ray",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "pantalon",
+          "gender": "hombre",
+          "name": "pantalon camuflado",
+          "code": "",
+          "price": 1450
+        },
+        {
+          "brand": "puebla",
+          "class": "pantalon",
+          "gender": "hombre",
+          "name": "pantalon jogging",
+          "code": "",
+          "price": 990
+        },
+        {
+          "brand": "puebla",
+          "class": "polar micropolar",
+          "gender": "hombre",
+          "name": "micropolar f/z combi",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "polar micropolar",
+          "gender": "hombre",
+          "name": "micropolar f/z liso",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "polar micropolar",
+          "gender": "hombre",
+          "name": "micropolar h/z",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "polera alg",
+          "code": "",
+          "price": 948
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/c est y flor y spandex",
+          "code": "",
+          "price": 708
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/c lisa bossa",
+          "code": "",
+          "price": 540
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/c lisa v",
+          "code": "",
+          "price": 540
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/c ray",
+          "code": "",
+          "price": 828
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/l est y ray",
+          "code": "",
+          "price": 650
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "remera m/l lisa",
+          "code": "",
+          "price": 650
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "sudadera est y ray",
+          "code": "",
+          "price": 540
+        },
+        {
+          "brand": "puebla",
+          "class": "remera",
+          "gender": "hombre",
+          "name": "sudadera lisa",
+          "code": "",
+          "price": 468
+        }
     ]
   },
   {
@@ -24464,7 +24477,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "denim clasico",
         code: "1102",
-        price: 1199
+        price: 1299
       },
       {
         brand: "wrangler no lista",
