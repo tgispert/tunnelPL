@@ -184,6 +184,10 @@ export const Brands = [
         "name": "dunond"
     },
     {
+        "id": "163",
+        "name": "emi tex"
+    },
+    {
         "id": "76",
         "name": "energy"
     },
