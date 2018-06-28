@@ -11651,7 +11651,7 @@ export const Products : PricingList[] = [
         "brand": "lee",
         "class": "",
         "gender": "",
-        "name": "LILY SHIRT II POPLIN BLANCO+BORDADO PU�O",
+        "name": "LILY SHIRT II POPLIN BLANCO+BORDADO PUñO",
         "code": "4449-1853-02-01",
         "price": 1799
       },
@@ -11731,7 +11731,7 @@ export const Products : PricingList[] = [
         "brand": "lee",
         "class": "",
         "gender": "",
-        "name": "URBAN SHIRT IV PIMA BOTON� BORDEAUX",
+        "name": "URBAN SHIRT IV PIMA BOTONñ BORDEAUX",
         "code": "4538-1847-58-01",
         "price": 1899
       },
@@ -12515,7 +12515,7 @@ export const Products : PricingList[] = [
         "brand": "lee",
         "class": "",
         "gender": "",
-        "name": "SWEATER GROW UP HILADO YARR� VERDE",
+        "name": "SWEATER GROW UP HILADO YARRñ VERDE",
         "code": "7897-5231-62-01",
         "price": 1949
       },
@@ -12539,7 +12539,7 @@ export const Products : PricingList[] = [
         "brand": "lee",
         "class": "",
         "gender": "",
-        "name": "STRIPED BOXER ALGOD�N/LYCRA BLANCO/NEGRO",
+        "name": "STRIPED BOXER ALGODñN/LYCRA BLANCO/NEGRO",
         "code": "8103-5496-02-01",
         "price": 489
       },
@@ -12555,7 +12555,7 @@ export const Products : PricingList[] = [
         "brand": "lee",
         "class": "",
         "gender": "",
-        "name": "NEW SIDNEY BOXER ALGOD�N/LYCRA WHITE",
+        "name": "NEW SIDNEY BOXER ALGODñN/LYCRA WHITE",
         "code": "8104-5496-03-01",
         "price": 449
       },
@@ -14841,7 +14841,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exo streech yanna",
         "code": "",
-        "price": 0
+        "price": 8490
       },
       {
         "brand": "northland",
@@ -15705,15 +15705,15 @@ export const Products : PricingList[] = [
         "gender": "homre",
         "name": "errol xeno",
         "code": "",
-        "price": 0
+        "price": 7250
       },
       {
         "brand": "northland",
         "class": "campera",
-        "gender": "marlene",
+        "gender": "dama",
         "name": "marlene",
         "code": "",
-        "price": 0
+        "price": 8490
       },
       {
         "brand": "northland",
@@ -18155,7 +18155,7 @@ export const Products : PricingList[] = [
         "brand": "posto 5",
         "class": "bermuda short",
         "gender": "hombre",
-        "name": "short de ba�o",
+        "name": "short de baño",
         "code": "",
         "price": 1100
       },
@@ -18197,7 +18197,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "buzo y camp rayada",
         "code": "",
-        "price": 1788
+        "price": 1690
       },
       {
         "brand": "posto 5",
@@ -18213,7 +18213,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "camp alg c/capucha",
         "code": "",
-        "price": 2028
+        "price": 1690
       },
       {
         "brand": "posto 5",
@@ -18229,13 +18229,13 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "campera alg",
         "code": "",
-        "price": 1790
+        "price": 1690
       },
       {
         "brand": "posto 5",
         "class": "buzo",
-        "gender": "ni�o",
-        "name": "camp alg ni�o",
+        "gender": "niño",
+        "name": "camp alg niño",
         "code": "",
         "price": 828
       },
@@ -18315,7 +18315,7 @@ export const Products : PricingList[] = [
         "brand": "posto 5",
         "class": "campera",
         "gender": "hombre",
-        "name": "montgomery pa�o",
+        "name": "montgomery paño",
         "code": "",
         "price": 4548
       },
@@ -18330,16 +18330,16 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "campera",
-        "gender": "ni�o",
-        "name": "camp acetato ni�o",
+        "gender": "niño",
+        "name": "camp acetato niño",
         "code": "",
         "price": 708
       },
       {
         "brand": "posto 5",
         "class": "campera",
-        "gender": "ni�o",
-        "name": "campera ray ni�o",
+        "gender": "niño",
+        "name": "campera ray niño",
         "code": "",
         "price": 780
       },
@@ -18370,8 +18370,8 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "chaleco",
-        "gender": "ni�o",
-        "name": "chaleco ni�o",
+        "gender": "niño",
+        "name": "chaleco niño",
         "code": "",
         "price": 828
       },
@@ -18410,7 +18410,7 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "chomba",
-        "gender": "ni�o",
+        "gender": "niño",
         "name": "chomba m/l alg",
         "code": "",
         "price": 650
@@ -18418,7 +18418,7 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "chomba",
-        "gender": "ni�o",
+        "gender": "niño",
         "name": "comba m/c alg ray",
         "code": "",
         "price": 540
@@ -18474,16 +18474,16 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "polar micropolar",
-        "gender": "ni�o",
-        "name": "buzo polar ni�o",
+        "gender": "niño",
+        "name": "buzo polar niño",
         "code": "",
         "price": 780
       },
       {
         "brand": "posto 5",
         "class": "polar micropolar",
-        "gender": "ni�o",
-        "name": "camp polar ni�o",
+        "gender": "niño",
+        "name": "camp polar niño",
         "code": "",
         "price": 780
       },
@@ -18546,7 +18546,7 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "remera",
-        "gender": "ni�o",
+        "gender": "niño",
         "name": "musculosa",
         "code": "",
         "price": 300
@@ -18554,16 +18554,16 @@ export const Products : PricingList[] = [
       {
         "brand": "posto 5",
         "class": "remera",
-        "gender": "ni�o",
-        "name": "remera m/c ni�o",
+        "gender": "niño",
+        "name": "remera m/c niño",
         "code": "",
         "price": 300
       },
       {
         "brand": "posto 5",
         "class": "remera",
-        "gender": "ni�o",
-        "name": "remera m/l ray ni�o",
+        "gender": "niño",
+        "name": "remera m/l ray niño",
         "code": "",
         "price": 420
       },
@@ -20833,7 +20833,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "bermuda",
         "gender": "hombre",
-        "name": "bermuda de ba�o",
+        "name": "bermuda de baño",
         "code": "",
         "price": 1068
       },
@@ -21129,7 +21129,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "buzo",
         "gender": "hombre",
-        "name": "chaleco polar nuevo dise�o",
+        "name": "chaleco polar nuevo diseño",
         "code": "",
         "price": 1100
       },
@@ -21297,7 +21297,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "campera",
         "gender": "dama",
-        "name": "saco pa�o",
+        "name": "saco paño",
         "code": "",
         "price": 4308
       },
@@ -21441,7 +21441,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "campera",
         "gender": "hombre",
-        "name": "jkt pa�o bomber",
+        "name": "jkt paño bomber",
         "code": "",
         "price": 2988
       },
@@ -21473,7 +21473,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "campera",
         "gender": "hombre",
-        "name": "montgomery pa�o",
+        "name": "montgomery paño",
         "code": "",
         "price": 4788
       },
@@ -21785,7 +21785,7 @@ export const Products : PricingList[] = [
         "brand": "taverniti",
         "class": "pantalon",
         "gender": "hombre",
-        "name": "jogging c/pu�o",
+        "name": "jogging c/puño",
         "code": "",
         "price": 1188
       },
@@ -22910,7 +22910,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "dama",
-        "name": "camp univ pa�o dama",
+        "name": "camp univ paño dama",
         "code": "",
         "price": 2750
       },
@@ -22926,7 +22926,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "dama",
-        "name": "montgomery pa�o dama",
+        "name": "montgomery paño dama",
         "code": "",
         "price": 4200
       },
@@ -22934,7 +22934,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "dama",
-        "name": "saco pa�o dama",
+        "name": "saco paño dama",
         "code": "",
         "price": 3590
       },
@@ -23014,7 +23014,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "hombre",
-        "name": "camp pa�o c/cierre",
+        "name": "camp paño c/cierre",
         "code": "",
         "price": 3588
       },
@@ -23046,7 +23046,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "hombre",
-        "name": "montgomery pa�o",
+        "name": "montgomery paño",
         "code": "",
         "price": 4188
       },
@@ -23062,7 +23062,7 @@ export const Products : PricingList[] = [
         "brand": "tunnel",
         "class": "campera",
         "gender": "hombre",
-        "name": "saco pa�o naval",
+        "name": "saco paño naval",
         "code": "",
         "price": 4788
       },
@@ -26272,7 +26272,7 @@ export const Products : PricingList[] = [
         "brand": "wrangler",
         "class": "",
         "gender": "",
-        "name": "MARGARET SHIRT LISA VISCOSA ORQU�DEA",
+        "name": "MARGARET SHIRT LISA VISCOSA ORQUñDEA",
         "code": "4438-2170-50-01",
         "price": 1699
       },
@@ -26816,7 +26816,7 @@ export const Products : PricingList[] = [
         "brand": "wrangler",
         "class": "",
         "gender": "",
-        "name": "CINTUR�N TRIPLE COSTURA CUERO MARRON",
+        "name": "CINTURñN TRIPLE COSTURA CUERO MARRON",
         "code": "6705-9000-48-01",
         "price": 749
       },
@@ -26824,7 +26824,7 @@ export const Products : PricingList[] = [
         "brand": "wrangler",
         "class": "",
         "gender": "",
-        "name": "CINTUR�N TRIPLE COSTURA CUERO NEGRO",
+        "name": "CINTURñN TRIPLE COSTURA CUERO NEGRO",
         "code": "6705-9000-79-01",
         "price": 749
       },
@@ -27584,7 +27584,7 @@ export const Products : PricingList[] = [
         "brand": "wrangler",
         "class": "",
         "gender": "",
-        "name": "DILLON TEE JERSEY GRIS MELANGE DEGRAD�",
+        "name": "DILLON TEE JERSEY GRIS MELANGE DEGRADñ",
         "code": "7327-4861-70-01",
         "price": 899
       },
@@ -27752,7 +27752,7 @@ export const Products : PricingList[] = [
         "brand": "wrangler",
         "class": "",
         "gender": "",
-        "name": "SMITH SWEATER ALGOD�N BOTELLA+GRIS+CELES",
+        "name": "SMITH SWEATER ALGODñN BOTELLA+GRIS+CELES",
         "code": "7355-4800-64-01",
         "price": 2299
       },
