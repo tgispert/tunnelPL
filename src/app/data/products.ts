@@ -2255,7 +2255,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "gorro parallel",
         "code": "",
-        "price": 708
+        "price": 860
       },
       {
         "brand": "columbia",
@@ -2276,26 +2276,18 @@ export const Products : PricingList[] = [
       {
         "brand": "columbia",
         "class": "accesorio",
-        "gender": "unisex",
-        "name": "*guante north softhshell",
+        "gender": "niño",
+        "name": "gorro urbanization jr",
         "code": "",
-        "price": 1890
+        "price": 590
       },
       {
         "brand": "columbia",
         "class": "accesorio",
-        "gender": "unisex",
-        "name": "*media corta trail mini crem",
+        "gender": "niño",
+        "name": "gorro winter jr",
         "code": "",
-        "price": 300
-      },
-      {
-        "brand": "columbia",
-        "class": "accesorio",
-        "gender": "unisex",
-        "name": "*mochila grandel",
-        "code": "",
-        "price": 948
+        "price": 675
       },
       {
         "brand": "columbia",
@@ -2359,7 +2351,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "gorro cup coolhead",
         "code": "",
-        "price": 540
+        "price": 770
       },
       {
         "brand": "columbia",
@@ -2373,17 +2365,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
-        "name": "gorro cup silver ridge dama",
+        "name": "gorro cup silver ridge",
         "code": "",
-        "price": 648
-      },
-      {
-        "brand": "columbia",
-        "class": "accesorio",
-        "gender": "unisex",
-        "name": "gorro cup silver ridge hombre",
-        "code": "",
-        "price": 629
+        "price": 900
       },
       {
         "brand": "columbia",
@@ -2405,6 +2389,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
+        "name": "gorro fast trek",
+        "code": "",
+        "price": 450
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
         "name": "gorro glacial jr",
         "code": "",
         "price": 408
@@ -2421,6 +2413,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
+        "name": "gorro paralell",
+        "code": "",
+        "price": 990
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
         "name": "gorro trail summit",
         "code": "",
         "price": 624
@@ -2431,15 +2431,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "gorro urbanization",
         "code": "",
-        "price": 708
-      },
-      {
-        "brand": "columbia",
-        "class": "accesorio",
-        "gender": "unisex",
-        "name": "gorro urbanization jr",
-        "code": "",
-        "price": 708
+        "price": 750
       },
       {
         "brand": "columbia",
@@ -2461,17 +2453,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
-        "name": "gorro winter jr",
-        "code": "",
-        "price": 810
-      },
-      {
-        "brand": "columbia",
-        "class": "accesorio",
-        "gender": "unisex",
         "name": "guante ascender softshell",
         "code": "",
-        "price": 1620
+        "price": 1450
       },
       {
         "brand": "columbia",
@@ -2480,6 +2464,14 @@ export const Products : PricingList[] = [
         "name": "guante blazer glove",
         "code": "",
         "price": 1620
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante north softhshell",
+        "code": "",
+        "price": 1600
       },
       {
         "brand": "columbia",
@@ -2495,7 +2487,15 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "guante touch glove",
         "code": "",
-        "price": 1104
+        "price": 1050
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media corta trail mini crem",
+        "code": "",
+        "price": 300
       },
       {
         "brand": "columbia",
@@ -2512,6 +2512,14 @@ export const Products : PricingList[] = [
         "name": "medias x3",
         "code": "",
         "price": 384
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "mochila grandel",
+        "code": "",
+        "price": 948
       },
       {
         "brand": "columbia",
@@ -2581,14 +2589,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "bermuda",
         "gender": "hombre",
-        "name": "*blood apg guts 2",
-        "code": "",
-        "price": 1740
-      },
-      {
-        "brand": "columbia",
-        "class": "bermuda",
-        "gender": "hombre",
         "name": "armitage",
         "code": "",
         "price": 1548
@@ -2616,6 +2616,14 @@ export const Products : PricingList[] = [
         "name": "barracuda killer",
         "code": "",
         "price": 1560
+      },
+      {
+        "brand": "columbia",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "blood apg guts 2",
+        "code": "",
+        "price": 1740
       },
       {
         "brand": "columbia",
@@ -3173,22 +3181,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "calzado",
         "gender": "hombre",
-        "name": "*lif top",
-        "code": "bm1525",
-        "price": 4560
-      },
-      {
-        "brand": "columbia",
-        "class": "calzado",
-        "gender": "hombre",
-        "name": "*sandalia weather shot",
-        "code": "",
-        "price": 1920
-      },
-      {
-        "brand": "columbia",
-        "class": "calzado",
-        "gender": "hombre",
         "name": "big cedar mid",
         "code": "",
         "price": 3102
@@ -3264,6 +3256,14 @@ export const Products : PricingList[] = [
         "name": "kaibab plus",
         "code": "bm3662",
         "price": 1650
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "lift top",
+        "code": "bm1525",
+        "price": 4560
       },
       {
         "brand": "columbia",
@@ -3464,6 +3464,14 @@ export const Products : PricingList[] = [
         "name": "walla walla mid",
         "code": "bm3637",
         "price": 2060
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "weather shot sandalia",
+        "code": "",
+        "price": 1920
       },
       {
         "brand": "columbia",
@@ -3981,7 +3989,7 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera",
         "gender": "niño",
-        "name": "*boar beauty",
+        "name": "boar beauty",
         "code": "",
         "price": 3588
       },
@@ -4173,22 +4181,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera fija",
         "gender": "dama",
-        "name": "*hillfire tapado",
-        "code": "",
-        "price": 8040
-      },
-      {
-        "brand": "columbia",
-        "class": "campera fija",
-        "gender": "dama",
-        "name": "*mighty lite tapado",
-        "code": "",
-        "price": 6864
-      },
-      {
-        "brand": "columbia",
-        "class": "campera fija",
-        "gender": "dama",
         "name": "alpin action",
         "code": "",
         "price": 6468
@@ -4293,6 +4285,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera fija",
         "gender": "dama",
+        "name": "hillfire tapado",
+        "code": "",
+        "price": 8040
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "dama",
         "name": "jkt duvet voodo c/c",
         "code": "",
         "price": 8500
@@ -4352,6 +4352,14 @@ export const Products : PricingList[] = [
         "name": "mighty lite jkt",
         "code": "",
         "price": 4920
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "dama",
+        "name": "mighty lite tapado",
+        "code": "",
+        "price": 6864
       },
       {
         "brand": "columbia",
@@ -4456,30 +4464,6 @@ export const Products : PricingList[] = [
         "name": "vista e",
         "code": "",
         "price": 4680
-      },
-      {
-        "brand": "columbia",
-        "class": "campera fija",
-        "gender": "hombre",
-        "name": "*northern",
-        "code": "",
-        "price": 4320
-      },
-      {
-        "brand": "columbia",
-        "class": "campera fija",
-        "gender": "hombre",
-        "name": "*ru thermal jkt",
-        "code": "",
-        "price": 5148
-      },
-      {
-        "brand": "columbia",
-        "class": "campera fija",
-        "gender": "hombre",
-        "name": "*tapado thermal see ker",
-        "code": "",
-        "price": 5748
       },
       {
         "brand": "columbia",
@@ -4677,6 +4661,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera fija",
         "gender": "hombre",
+        "name": "northern",
+        "code": "",
+        "price": 4320
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "hombre",
         "name": "northern trek",
         "code": "wm5364",
         "price": 4320
@@ -4725,6 +4717,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera fija",
         "gender": "hombre",
+        "name": "ru thermal jkt",
+        "code": "",
+        "price": 5148
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "hombre",
         "name": "saddle ho",
         "code": "",
         "price": 5100
@@ -4768,6 +4768,14 @@ export const Products : PricingList[] = [
         "name": "tanghi",
         "code": "",
         "price": 3828
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "hombre",
+        "name": "tapado thermal see ker",
+        "code": "",
+        "price": 5748
       },
       {
         "brand": "columbia",
@@ -4853,22 +4861,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera rompeviento",
         "gender": "hombre",
-        "name": "*glenmaker lake",
-        "code": "",
-        "price": 2460
-      },
-      {
-        "brand": "columbia",
-        "class": "campera rompeviento",
-        "gender": "hombre",
-        "name": "*pardor trench",
-        "code": "",
-        "price": 3780
-      },
-      {
-        "brand": "columbia",
-        "class": "campera rompeviento",
-        "gender": "hombre",
         "name": "cougar flats",
         "code": "rl3007",
         "price": 1680
@@ -4917,9 +4909,25 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera rompeviento",
         "gender": "hombre",
+        "name": "glenmaker lake",
+        "code": "",
+        "price": 2460
+      },
+      {
+        "brand": "columbia",
+        "class": "campera rompeviento",
+        "gender": "hombre",
         "name": "ibex engomada",
         "code": "",
         "price": 1920
+      },
+      {
+        "brand": "columbia",
+        "class": "campera rompeviento",
+        "gender": "hombre",
+        "name": "pardor trench",
+        "code": "",
+        "price": 3780
       },
       {
         "brand": "columbia",
@@ -5053,22 +5061,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera softshell",
         "gender": "hombre",
-        "name": "*strata",
-        "code": "",
-        "price": 4740
-      },
-      {
-        "brand": "columbia",
-        "class": "campera softshell",
-        "gender": "hombre",
-        "name": "*strata d",
-        "code": "",
-        "price": 4680
-      },
-      {
-        "brand": "columbia",
-        "class": "campera softshell",
-        "gender": "hombre",
         "name": "ascender 2 alloway",
         "code": "wm6645",
         "price": 4390
@@ -5144,6 +5136,22 @@ export const Products : PricingList[] = [
         "name": "racers",
         "code": "",
         "price": 6600
+      },
+      {
+        "brand": "columbia",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "strata",
+        "code": "",
+        "price": 4740
+      },
+      {
+        "brand": "columbia",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "strata d",
+        "code": "",
+        "price": 4680
       },
       {
         "brand": "columbia",
@@ -5373,25 +5381,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "chomba",
         "gender": "hombre",
-        "name": "*chek dam",
+        "name": "chek dam",
         "code": "em6463",
         "price": 1164
-      },
-      {
-        "brand": "columbia",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "*sweat thresat",
-        "code": "",
-        "price": 1380
-      },
-      {
-        "brand": "columbia",
-        "class": "chomba",
-        "gender": "hombre",
-        "name": "*windi point rayada",
-        "code": "",
-        "price": 1380
       },
       {
         "brand": "columbia",
@@ -5437,6 +5429,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "chomba",
         "gender": "hombre",
+        "name": "sweat thresat",
+        "code": "",
+        "price": 1380
+      },
+      {
+        "brand": "columbia",
+        "class": "chomba",
+        "gender": "hombre",
         "name": "thisteltown lisa",
         "code": "am6284",
         "price": 1164
@@ -5455,6 +5455,14 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "trail detector",
         "code": "tm6703",
+        "price": 1380
+      },
+      {
+        "brand": "columbia",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "windi point rayada",
+        "code": "",
         "price": 1380
       },
       {
@@ -5597,14 +5605,6 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "pantalon",
         "gender": "hombre",
-        "name": "*matter h",
-        "code": "",
-        "price": 2388
-      },
-      {
-        "brand": "columbia",
-        "class": "pantalon",
-        "gender": "hombre",
         "name": "armitage",
         "code": "",
         "price": 2388
@@ -5680,6 +5680,14 @@ export const Products : PricingList[] = [
         "name": "loose roc",
         "code": "",
         "price": 1920
+      },
+      {
+        "brand": "columbia",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "matter h",
+        "code": "",
+        "price": 2388
       },
       {
         "brand": "columbia",
@@ -5800,14 +5808,6 @@ export const Products : PricingList[] = [
         "name": "snow slope",
         "code": "",
         "price": 2748
-      },
-      {
-        "brand": "columbia",
-        "class": "polar micropolar",
-        "gender": "dama",
-        "name": "*shapphire sky vest",
-        "code": "wl1017",
-        "price": 1620
       },
       {
         "brand": "columbia",
@@ -5941,6 +5941,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "polar micropolar",
         "gender": "dama",
+        "name": "shapphire sky vest",
+        "code": "wl1017",
+        "price": 1620
+      },
+      {
+        "brand": "columbia",
+        "class": "polar micropolar",
+        "gender": "dama",
         "name": "titan pass",
         "code": "",
         "price": 2880
@@ -5952,14 +5960,6 @@ export const Products : PricingList[] = [
         "name": "twilight c/capucha",
         "code": "wl3155",
         "price": 1188
-      },
-      {
-        "brand": "columbia",
-        "class": "polar micropolar",
-        "gender": "hombre",
-        "name": "*lost reck",
-        "code": "",
-        "price": 1799
       },
       {
         "brand": "columbia",
@@ -6120,6 +6120,14 @@ export const Products : PricingList[] = [
         "name": "lost peak full",
         "code": "",
         "price": 1800
+      },
+      {
+        "brand": "columbia",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "lost reck",
+        "code": "",
+        "price": 1799
       },
       {
         "brand": "columbia",
