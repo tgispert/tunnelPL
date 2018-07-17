@@ -412,6 +412,10 @@ export const Brands = [
         "name": "nexxt"
     },
     {
+        "id": "164",
+        "name": "niquel"
+    },
+    {
         "id": "115",
         "name": "north bermich"
     },

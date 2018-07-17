@@ -1363,100 +1363,92 @@ export const Products : PricingList[] = [
     brand: 'black rock',
     products: [
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "niño",
-        name: "media ski",
-        code: "",
-        price: 340
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "media ski jr",
+        "code": "",
+        "price": 340
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "niño",
-        name: "media ski jr",
-        code: "",
-        price: 340
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "media trk jr",
+        "code": "",
+        "price": 300
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "niño",
-        name: "media trk jr",
-        code: "",
-        price: 300
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "gorro",
+        "code": "",
+        "price": 600
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "gorro",
-        code: "",
-        price: 600
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante primera piel",
+        "code": "",
+        "price": 696
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "guante primera piel",
-        code: "",
-        price: 696
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante softshell",
+        "code": "",
+        "price": 888
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "guante softshell",
-        code: "",
-        price: 888
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante softshell des",
+        "code": "",
+        "price": 1068
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "guante softshell des",
-        code: "",
-        price: 1068
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media run",
+        "code": "",
+        "price": 276
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media run",
-        code: "",
-        price: 276
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media ski",
+        "code": "",
+        "price": 360
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media ski",
-        code: "",
-        price: 360
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media trail",
+        "code": "",
+        "price": 312
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media trail",
-        code: "",
-        price: 312
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media trk",
+        "code": "",
+        "price": 336
       },
       {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media trk",
-        code: "",
-        price: 336
-      },
-      {
-        brand: "black rock",
-        class: "accesorio",
-        gender: "unisex",
-        name: "pantorrilera compresion",
-        code: "",
-        price: 708
+        "brand": "black rock",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "pantorrilera compresion",
+        "code": "",
+        "price": 708
       }
     ]
   },
@@ -2301,9 +2293,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
-        "name": "cuello mag",
+        "name": "cuello mag doble",
         "code": "",
-        "price": 300
+        "price": 299
       },
       {
         "brand": "columbia",
@@ -3221,6 +3213,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "calzado",
         "gender": "hombre",
+        "name": "fire camp 2",
+        "code": "",
+        "price": 3290
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
         "name": "granite pass mid",
         "code": "",
         "price": 3300
@@ -3304,6 +3304,14 @@ export const Products : PricingList[] = [
         "name": "newton ridge mid",
         "code": "",
         "price": 4500
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "north plains",
+        "code": "",
+        "price": 3600
       },
       {
         "brand": "columbia",
@@ -3605,9 +3613,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "camisa manga corta",
         "gender": "hombre",
-        "name": "bahama",
+        "name": "bonehead",
         "code": "",
-        "price": 2028
+        "price": 1608
       },
       {
         "brand": "columbia",
@@ -3821,9 +3829,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "camisa manga larga",
         "gender": "hombre",
-        "name": "bonehead",
+        "name": "bahama",
         "code": "",
-        "price": 1608
+        "price": 2028
       },
       {
         "brand": "columbia",
@@ -3976,14 +3984,6 @@ export const Products : PricingList[] = [
         "name": "weston pass",
         "code": "am7554",
         "price": 1788
-      },
-      {
-        "brand": "columbia",
-        "class": "campera",
-        "gender": "dama",
-        "name": "gold pka turbo 650",
-        "code": "",
-        "price": 8600
       },
       {
         "brand": "columbia",
@@ -4261,6 +4261,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "campera fija",
         "gender": "dama",
+        "name": "gold pka turbo 650",
+        "code": "",
+        "price": 8600
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "dama",
         "name": "gotcha grooving",
         "code": "sl5464",
         "price": 3720
@@ -4487,7 +4495,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bristol pass",
         "code": "",
-        "price": 5676
+        "price": 5690
       },
       {
         "brand": "columbia",
@@ -4615,7 +4623,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "hexi heights",
         "code": "",
-        "price": 3480
+        "price": 3980
       },
       {
         "brand": "columbia",
@@ -4792,14 +4800,6 @@ export const Products : PricingList[] = [
         "name": "arcadia 2 jkt",
         "code": "rl2436",
         "price": 3700
-      },
-      {
-        "brand": "columbia",
-        "class": "campera rompeviento",
-        "gender": "dama",
-        "name": "power paces",
-        "code": "wl3002",
-        "price": 2028
       },
       {
         "brand": "columbia",
@@ -5343,7 +5343,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "powder lite",
         "code": "",
-        "price": 5900
+        "price": 5990
       },
       {
         "brand": "columbia",
@@ -5765,6 +5765,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "pantalon",
         "gender": "hombre",
+        "name": "steens mountain pant polar",
+        "code": "",
+        "price": 1690
+      },
+      {
+        "brand": "columbia",
+        "class": "pantalon",
+        "gender": "hombre",
         "name": "sturge rock",
         "code": "",
         "price": 1716
@@ -5964,6 +5972,14 @@ export const Products : PricingList[] = [
       {
         "brand": "columbia",
         "class": "polar micropolar",
+        "gender": "dama",
+        "name": "western ridge f/z",
+        "code": "",
+        "price": 1750
+      },
+      {
+        "brand": "columbia",
+        "class": "polar micropolar",
         "gender": "hombre",
         "name": "cast vest",
         "code": "",
@@ -6015,7 +6031,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "forest peak full z",
         "code": "",
-        "price": 3300
+        "price": 3650
       },
       {
         "brand": "columbia",
@@ -6181,7 +6197,7 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "polar micropolar",
         "gender": "hombre",
-        "name": "steen mountain",
+        "name": "steens mountain",
         "code": "",
         "price": 1668
       },
@@ -12723,7 +12739,7 @@ export const Products : PricingList[] = [
         gender: "dama",
         name: "jena jkt duvet",
         code: "",
-        price: 8100
+        price: 7900
       },
       {
         brand: "marmot",
@@ -14839,7 +14855,7 @@ export const Products : PricingList[] = [
         "brand": "northland",
         "class": "campera",
         "gender": "dama",
-        "name": "exo lxt stretc energetic",
+        "name": "exo streech energetic",
         "code": "",
         "price": 4896
       },
@@ -19659,7 +19675,7 @@ export const Products : PricingList[] = [
         gender: "unisex",
         name: "cuello com",
         code: "",
-        price: 290
+        price: 299
       },
       {
         brand: "skala",
@@ -19667,7 +19683,7 @@ export const Products : PricingList[] = [
         gender: "unisex",
         name: "mag",
         code: "",
-        price: 190
+        price: 199
       },
       {
         brand: "skala",
