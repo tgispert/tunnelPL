@@ -9295,7 +9295,7 @@ export const Products : PricingList[] = [
     ]
   },
   {
-    brand: 'gloria vandervielle',
+    brand: 'gloria vanderville',
     products: [
       {
         brand: "gloria vanderville",
@@ -12676,7 +12676,7 @@ export const Products : PricingList[] = [
     ]
   },
   {
-    brand: 'matiesi',
+    brand: 'maitesi',
     products: [
       {
         brand: "maitesi",
@@ -12702,10 +12702,10 @@ export const Products : PricingList[] = [
     ]
   },
   {
-    brand: 'marasco y espeziale',
+    brand: 'marasco & speciale',
     products: [
       {
-        brand: "marasco y espeziale",
+        brand: "marasco & speciale",
         class: "calzado",
         gender: "hombre",
         name: "bota trek coco",
@@ -12713,7 +12713,7 @@ export const Products : PricingList[] = [
         price: 3490
       },
       {
-        brand: "marasco y espeziale",
+        brand: "marasco & speciale",
         class: "calzado",
         gender: "hombre",
         name: "bota engrasada",
@@ -12721,7 +12721,7 @@ export const Products : PricingList[] = [
         price: 3490
       },
       {
-        brand: "marasco y espeziale",
+        brand: "marasco & speciale",
         class: "calzado",
         gender: "hombre",
         name: "bota engrasada c/corderito",
@@ -13574,6 +13574,27 @@ export const Products : PricingList[] = [
         name: "sw card c/boton",
         code: "",
         price: 990
+      }
+    ]
+  },
+  {
+    brand: 'newport',
+    products: [
+      {
+        "brand": "newport",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/c",
+        "code": "",
+        "price": 499
+      },
+      {
+        "brand": "newport",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/l",
+        "code": "",
+        "price": 499
       }
     ]
   },
@@ -14914,6 +14935,14 @@ export const Products : PricingList[] = [
         "name": "irena tapado",
         "code": "",
         "price": 6072
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jana black snoword",
+        "code": "",
+        "price": 6990
       },
       {
         "brand": "northland",
@@ -16901,7 +16930,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jkt nylon canelon",
         "code": "437",
-        "price": 4990
+        "price": 3990
       },
       {
         "brand": "ojo rojo",
@@ -17062,6 +17091,14 @@ export const Products : PricingList[] = [
         "name": "camp gab c/abrigo",
         "code": "",
         "price": 4590
+      },
+      {
+        "brand": "ojo rojo",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp negra gab c/abrigo efectivo 2990",
+        "code": "11-106",
+        "price": 3490
       },
       {
         "brand": "ojo rojo",
@@ -21331,7 +21368,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "trench gab inv",
         "code": "",
-        "price": 4188
+        "price": 4900
       },
       {
         "brand": "taverniti",

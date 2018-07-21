@@ -65,7 +65,7 @@ export const Brands = [
     },
     {
         "id": "90",
-        "name": "brit z"
+        "name": "britz"
     },
     {
         "id": "54",
@@ -260,10 +260,6 @@ export const Brands = [
         "name": "henry sacks"
     },
     {
-        "id": "37",
-        "name": "hi extreme"
-    },
-    {
         "id": "9",
         "name": "hi tec"
     },
@@ -401,7 +397,7 @@ export const Brands = [
     },
     {
         "id": "114",
-        "name": "new man"
+        "name": "newman"
     },
     {
         "id": "113",
@@ -418,10 +414,6 @@ export const Brands = [
     {
         "id": "115",
         "name": "north bermich"
-    },
-    {
-        "id": "150",
-        "name": "north face"
     },
     {
         "id": "12",
@@ -454,10 +446,6 @@ export const Brands = [
     {
         "id": "118",
         "name": "one goodly"
-    },
-    {
-        "id": "46",
-        "name": "only one"
     },
     {
         "id": "119",
