@@ -7614,41 +7614,17 @@ export const Products : PricingList[] = [
         "brand": "eyelit",
         "class": "accesorio",
         "gender": "hombre",
-        "name": "slip",
-        "code": "304",
-        "price": 288
+        "name": "boxer",
+        "code": "395",
+        "price": 299
       },
       {
         "brand": "eyelit",
         "class": "accesorio",
         "gender": "hombre",
-        "name": "slip",
-        "code": "311",
-        "price": 234
-      },
-      {
-        "brand": "eyelit",
-        "class": "accesorio",
-        "gender": "hombre",
-        "name": "slip",
-        "code": "328",
-        "price": 234
-      },
-      {
-        "brand": "eyelit",
-        "class": "accesorio",
-        "gender": "hombre",
-        "name": "slip",
-        "code": "329",
-        "price": 265
-      },
-      {
-        "brand": "eyelit",
-        "class": "accesorio",
-        "gender": "hombre",
-        "name": "slip",
-        "code": "374",
-        "price": 288
+        "name": "boxer",
+        "code": "414",
+        "price": 349
       },
       {
         "brand": "eyelit",
@@ -7656,7 +7632,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "521",
-        "price": 330
+        "price": 279
       },
       {
         "brand": "eyelit",
@@ -7664,7 +7640,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "522",
-        "price": 300
+        "price": 279
       },
       {
         "brand": "eyelit",
@@ -7680,7 +7656,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "541",
-        "price": 199
+        "price": 249
       },
       {
         "brand": "eyelit",
@@ -7688,7 +7664,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "567",
-        "price": 380
+        "price": 329
       },
       {
         "brand": "eyelit",
@@ -7696,7 +7672,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "588",
-        "price": 380
+        "price": 249
       },
       {
         "brand": "eyelit",
@@ -7720,7 +7696,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "boxer",
         "code": "4619",
-        "price": 330
+        "price": 229
       },
       {
         "brand": "eyelit",
@@ -7729,6 +7705,62 @@ export const Products : PricingList[] = [
         "name": "boxer",
         "code": "4624",
         "price": 199
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "304",
+        "price": 229
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "311",
+        "price": 229
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "315",
+        "price": 249
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "328",
+        "price": 229
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "329",
+        "price": 249
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "330",
+        "price": 249
+      },
+      {
+        "brand": "eyelit",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "374",
+        "price": 269
       }
     ]
   },
