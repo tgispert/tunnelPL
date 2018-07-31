@@ -19810,7 +19810,15 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pantu",
         "code": "",
-        "price": 349
+        "price": 419
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "pantu",
+        "code": "",
+        "price": 449
       },
       {
         "brand": "sox",
@@ -19818,7 +19826,39 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pantu",
         "code": "",
-        "price": 329
+        "price": 379
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "pantu caminante",
+        "code": "",
+        "price": 339
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "pantu escarpin",
+        "code": "",
+        "price": 319
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "tripack escarpin",
+        "code": "",
+        "price": 259
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "tripack niño",
+        "code": "",
+        "price": 269
       },
       {
         "brand": "sox",
@@ -19827,6 +19867,22 @@ export const Products : PricingList[] = [
         "name": "media pack x2",
         "code": "da120c",
         "price": 330
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media",
+        "code": "da165c",
+        "price": 119
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media",
+        "code": "da170c",
+        "price": 99
       },
       {
         "brand": "sox",
@@ -20080,6 +20136,14 @@ export const Products : PricingList[] = [
         "brand": "sox",
         "class": "accesorio",
         "gender": "unisex",
+        "name": "media rayada",
+        "code": "Jk126",
+        "price": 240
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
         "name": "",
         "code": "la07",
         "price": 220
@@ -20144,9 +20208,41 @@ export const Products : PricingList[] = [
         "brand": "sox",
         "class": "accesorio",
         "gender": "unisex",
+        "name": "bipack outdoor p",
+        "code": "",
+        "price": 360
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "manguitas",
+        "code": "",
+        "price": 499
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
         "name": "media simple lisa",
         "code": "",
         "price": 110
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "polaina nordica",
+        "code": "",
+        "price": 419
+      },
+      {
+        "brand": "sox",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "primera piel",
+        "code": "",
+        "price": 149
       }
     ]
   },
