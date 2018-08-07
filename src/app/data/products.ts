@@ -17667,7 +17667,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "burley",
         code: "",
-        price: 5500
+        price: 6900
       },
       {
         brand: "oxford",
@@ -17683,7 +17683,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "chelsea iron saco paño largo",
         code: "",
-        price: 4668
+        price: 5900
       },
       {
         brand: "oxford",
@@ -17691,7 +17691,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "country rider",
         code: "",
-        price: 5050
+        price: 5900
       },
       {
         brand: "oxford",
@@ -17707,7 +17707,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "harrow",
         code: "",
-        price: 2900
+        price: 3900
       },
       {
         brand: "oxford",
@@ -17723,7 +17723,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "newbury",
         code: "",
-        price: 4700
+        price: 5900
       },
       {
         brand: "oxford",
@@ -17731,7 +17731,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "newbury chera",
         code: "",
-        price: 4700
+        price: 5900
       },
       {
         brand: "oxford",
@@ -17739,7 +17739,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "newbury kingston",
         code: "",
-        price: 4700
+        price: 5900
       },
       {
         brand: "oxford",
