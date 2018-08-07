@@ -2437,6 +2437,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "accesorio",
         "gender": "unisex",
+        "name": "gorro watch cup",
+        "code": "",
+        "price": 599
+      },
+      {
+        "brand": "columbia",
+        "class": "accesorio",
+        "gender": "unisex",
         "name": "gorro whirlbird",
         "code": "",
         "price": 600
