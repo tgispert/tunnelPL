@@ -19543,7 +19543,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "piel",
         "code": "",
-        "price": 399
+        "price": 450
       },
       {
         "brand": "seawalk",
@@ -19575,7 +19575,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "piel",
         "code": "",
-        "price": 440
+        "price": 450
       },
       {
         "brand": "seawalk",
