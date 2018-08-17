@@ -2957,6 +2957,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "calzado",
         "gender": "dama",
+        "name": "camp ll zapatilla wp firme",
+        "code": "",
+        "price": 3200
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "dama",
         "name": "coremic ridge",
         "code": "bl3620",
         "price": 2160
@@ -3200,6 +3208,22 @@ export const Products : PricingList[] = [
         "name": "bugated lite",
         "code": "bm1443",
         "price": 3840
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "crest wood",
+        "code": "",
+        "price": 3350
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "crest wood mid",
+        "code": "",
+        "price": 3650
       },
       {
         "brand": "columbia",
@@ -3488,6 +3512,14 @@ export const Products : PricingList[] = [
         "name": "weather shot sandalia",
         "code": "",
         "price": 1920
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "wood burn zapatilla",
+        "code": "",
+        "price": 4170
       },
       {
         "brand": "columbia",
@@ -3992,6 +4024,30 @@ export const Products : PricingList[] = [
         "name": "weston pass",
         "code": "am7554",
         "price": 1788
+      },
+      {
+        "brand": "columbia",
+        "class": "campera",
+        "gender": "dama",
+        "name": "charter jkt hood",
+        "code": "",
+        "price": 8100
+      },
+      {
+        "brand": "columbia",
+        "class": "campera",
+        "gender": "dama",
+        "name": "charter jkt s/ c",
+        "code": "",
+        "price": 7450
+      },
+      {
+        "brand": "columbia",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "charter s/ c",
+        "code": "",
+        "price": 8990
       },
       {
         "brand": "columbia",
@@ -9963,7 +10019,7 @@ export const Products : PricingList[] = [
         gender: "dama",
         name: "dubois mid",
         code: "",
-        price: 3828
+        price: 4200
       },
       {
         brand: "hi tec",
@@ -20412,364 +20468,420 @@ export const Products : PricingList[] = [
     brand: 'surfanic',
     products: [
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "dama",
-        name: "gorro shelpa trek",
-        code: "",
-        price: 708
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "dama",
+        "name": "gorro shelpa trek",
+        "code": "",
+        "price": 708
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "niño",
-        name: "guante cusay",
-        code: "",
-        price: 1188
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "guante cusay",
+        "code": "",
+        "price": 1188
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "niño",
-        name: "guante ferrer",
-        code: "",
-        price: 1320
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "guante ferrer",
+        "code": "",
+        "price": 1320
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "niño",
-        name: "guante snapper",
-        code: "",
-        price: 1188
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "guante snapper",
+        "code": "",
+        "price": 1188
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "niño",
-        name: "guante snua",
-        code: "",
-        price: 1188
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "guante snua",
+        "code": "",
+        "price": 1188
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "niño",
-        name: "guante swagger",
-        code: "",
-        price: 1188
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "niño",
+        "name": "guante swagger",
+        "code": "",
+        "price": 1188
       },
       {
-        brand: "surfanic",
-        class: "accesorio",
-        gender: "unisex",
-        name: "guante force",
-        code: "",
-        price: 1668
+        "brand": "surfanic",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante force",
+        "code": "",
+        "price": 1668
       },
       {
-        brand: "surfanic",
-        class: "accesorios",
-        gender: "unisex",
-        name: "media alta x 3",
-        code: "",
-        price: 790
+        "brand": "surfanic",
+        "class": "accesorios",
+        "gender": "unisex",
+        "name": "media alta x 3",
+        "code": "",
+        "price": 790
       },
       {
-        brand: "surfanic",
-        class: "buzo",
-        gender: "dama",
-        name: "kelli camp alg f/z",
-        code: "",
-        price: 2148
+        "brand": "surfanic",
+        "class": "buzo",
+        "gender": "dama",
+        "name": "kelli camp alg f/z",
+        "code": "",
+        "price": 2148
       },
       {
-        brand: "surfanic",
-        class: "buzo",
-        gender: "hombre",
-        name: "saints camp alg f/z",
-        code: "",
-        price: 2388
+        "brand": "surfanic",
+        "class": "buzo",
+        "gender": "hombre",
+        "name": "saints camp alg f/z",
+        "code": "",
+        "price": 2388
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "asara jkt sky",
-        code: "",
-        price: 6000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "asara jkt sky",
+        "code": "",
+        "price": 6000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "ashima jkt",
-        code: "",
-        price: 9000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "ashima jkt",
+        "code": "",
+        "price": 9000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "aurora jkt",
-        code: "",
-        price: 6600
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "aurora jkt",
+        "code": "",
+        "price": 6600
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "faro",
-        code: "",
-        price: 6490
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "faro",
+        "code": "",
+        "price": 6490
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "luna jkt",
-        code: "",
-        price: 8040
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "luna jkt",
+        "code": "",
+        "price": 8040
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "lynx jkt",
-        code: "",
-        price: 4290
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "lynx jkt",
+        "code": "",
+        "price": 4290
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "dama",
-        name: "widow",
-        code: "",
-        price: 9480
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "nova",
+        "code": "",
+        "price": 7800
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "airwave jkt sky",
-        code: "",
-        price: 6000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "palace",
+        "code": "",
+        "price": 7800
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "arma jkt",
-        code: "",
-        price: 9000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "sugar",
+        "code": "",
+        "price": 6300
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "baccus jkt",
-        code: "",
-        price: 6708
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "dama",
+        "name": "widow",
+        "code": "",
+        "price": 9480
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "clark jkt duvet",
-        code: "",
-        price: 5400
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "airwave jkt sky",
+        "code": "",
+        "price": 6000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "dakota jkt",
-        code: "",
-        price: 9000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "arma jkt",
+        "code": "",
+        "price": 9000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "flex pluma",
-        code: "",
-        price: 4390
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "baccus jkt",
+        "code": "",
+        "price": 6708
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "inferno jkt",
-        code: "",
-        price: 9000
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "clark jkt duvet",
+        "code": "",
+        "price": 5400
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "hombre",
-        name: "polar",
-        code: "",
-        price: 4590
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "dakota jkt",
+        "code": "",
+        "price": 9000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "ada jkt jr +14",
-        code: "",
-        price: 4320
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "flex pluma",
+        "code": "",
+        "price": 4390
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "ada jkt jr hasta 14",
-        code: "",
-        price: 3960
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "inferno jkt",
+        "code": "",
+        "price": 9000
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "ariel jkt",
-        code: "",
-        price: 5880
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "polar",
+        "code": "",
+        "price": 4590
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "baldo jkt",
-        code: "",
-        price: 6588
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "viper",
+        "code": "",
+        "price": 7200
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "barker down jr",
-        code: "",
-        price: 3588
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "ada jkt jr +14",
+        "code": "",
+        "price": 4320
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "bazooka jr +14",
-        code: "",
-        price: 4320
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "ada jkt jr hasta 14",
+        "code": "",
+        "price": 3960
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "bazooka jr hasta 14",
-        code: "",
-        price: 3960
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "ariel jkt",
+        "code": "",
+        "price": 5880
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "cassim jkt",
-        code: "",
-        price: 6588
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "baher",
+        "code": "",
+        "price": 4400
       },
       {
-        brand: "surfanic",
-        class: "campera",
-        gender: "niño",
-        name: "drake jkt",
-        code: "",
-        price: 6588
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "baldo jkt",
+        "code": "",
+        "price": 6588
       },
       {
-        brand: "surfanic",
-        class: "campera softshell",
-        gender: "dama",
-        name: "atria",
-        code: "",
-        price: 4428
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "barker down jr",
+        "code": "",
+        "price": 3588
       },
       {
-        brand: "surfanic",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "attrack jkt softshell",
-        code: "",
-        price: 3840
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "bazooka jr +14",
+        "code": "",
+        "price": 4320
       },
       {
-        brand: "surfanic",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "challenger softshell jkt",
-        code: "",
-        price: 4320
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "bazooka jr hasta 14",
+        "code": "",
+        "price": 3960
       },
       {
-        brand: "surfanic",
-        class: "pantalon",
-        gender: "niño",
-        name: "pant ella",
-        code: "",
-        price: 3480
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "cassim jkt",
+        "code": "",
+        "price": 6588
       },
       {
-        brand: "surfanic",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "micropolar dill h/z",
-        code: "",
-        price: 1188
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "drake jkt",
+        "code": "",
+        "price": 6588
       },
       {
-        brand: "surfanic",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "micropolar tucker h/z",
-        code: "",
-        price: 1380
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "shores",
+        "code": "",
+        "price": 4400
       },
       {
-        brand: "surfanic",
-        class: "termico",
-        gender: "dama",
-        name: "calley camiseta termica h/z",
-        code: "",
-        price: 990
+        "brand": "surfanic",
+        "class": "campera",
+        "gender": "niño",
+        "name": "stubby",
+        "code": "",
+        "price": 4200
       },
       {
-        brand: "surfanic",
-        class: "termico",
-        gender: "dama",
-        name: "sussi camiseta termica bossa camuflada",
-        code: "",
-        price: 960
+        "brand": "surfanic",
+        "class": "campera softshell",
+        "gender": "dama",
+        "name": "atria",
+        "code": "",
+        "price": 4428
       },
       {
-        brand: "surfanic",
-        class: "termico",
-        gender: "hombre",
-        name: "jonah camiseta termica bossa",
-        code: "",
-        price: 990
+        "brand": "surfanic",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "attrack jkt softshell",
+        "code": "",
+        "price": 3840
       },
       {
-        brand: "surfanic",
-        class: "termico",
-        gender: "hombre",
-        name: "zammo camiseta termica bossa",
-        code: "",
-        price: 990
+        "brand": "surfanic",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "challenger softshell jkt",
+        "code": "",
+        "price": 4320
       },
       {
-        brand: "surfanic",
-        class: "termico",
-        gender: "niño",
-        name: "lockie camiseta termica niño bossa",
-        code: "",
-        price: 684
+        "brand": "surfanic",
+        "class": "pantalon",
+        "gender": "niño",
+        "name": "pant ella",
+        "code": "",
+        "price": 3480
+      },
+      {
+        "brand": "surfanic",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "micropolar dill h/z",
+        "code": "",
+        "price": 1188
+      },
+      {
+        "brand": "surfanic",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "micropolar tucker h/z",
+        "code": "",
+        "price": 1380
+      },
+      {
+        "brand": "surfanic",
+        "class": "termico",
+        "gender": "dama",
+        "name": "calley camiseta termica h/z",
+        "code": "",
+        "price": 990
+      },
+      {
+        "brand": "surfanic",
+        "class": "termico",
+        "gender": "dama",
+        "name": "sussi camiseta termica bossa camuflada",
+        "code": "",
+        "price": 960
+      },
+      {
+        "brand": "surfanic",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "jonah camiseta termica bossa",
+        "code": "",
+        "price": 990
+      },
+      {
+        "brand": "surfanic",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "zammo camiseta termica bossa",
+        "code": "",
+        "price": 990
+      },
+      {
+        "brand": "surfanic",
+        "class": "termico",
+        "gender": "niño",
+        "name": "lockie camiseta termica niño bossa",
+        "code": "",
+        "price": 684
       }
     ]
   },
