@@ -1647,6 +1647,19 @@ export const Products : PricingList[] = [
     ]
   },
   {
+    brand: 'campinox',
+    products: [
+      {
+        "brand": "campinox",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camuflada efectivo 3590",
+        "code": "",
+        "price": 3990
+      }
+    ]
+  },
+  {
     brand: 'cartujano',
     products: [
       {
@@ -2981,9 +2994,9 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "calzado",
         "gender": "dama",
-        "name": "firecamp II wp",
+        "name": "fire camp II wp",
         "code": "",
-        "price": 3200
+        "price": 3900
       },
       {
         "brand": "columbia",
@@ -3247,7 +3260,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "fire camp 2",
         "code": "",
-        "price": 3900
+        "price": 3400
       },
       {
         "brand": "columbia",
@@ -4100,30 +4113,6 @@ export const Products : PricingList[] = [
       {
         "brand": "columbia",
         "class": "campera",
-        "gender": "dama",
-        "name": "charter jkt hood",
-        "code": "",
-        "price": 8100
-      },
-      {
-        "brand": "columbia",
-        "class": "campera",
-        "gender": "dama",
-        "name": "charter jkt s/ c",
-        "code": "",
-        "price": 7450
-      },
-      {
-        "brand": "columbia",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "charter s/ c",
-        "code": "",
-        "price": 8990
-      },
-      {
-        "brand": "columbia",
-        "class": "campera",
         "gender": "niño",
         "name": "boar beauty",
         "code": "",
@@ -4352,6 +4341,22 @@ export const Products : PricingList[] = [
         "name": "carrson pass trench",
         "code": "",
         "price": 8990
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "dama",
+        "name": "charter jkt hood",
+        "code": "",
+        "price": 8100
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "dama",
+        "name": "charter jkt s/ c",
+        "code": "",
+        "price": 7450
       },
       {
         "brand": "columbia",
@@ -4632,6 +4637,14 @@ export const Products : PricingList[] = [
         "name": "bristol pass",
         "code": "",
         "price": 5690
+      },
+      {
+        "brand": "columbia",
+        "class": "campera fija",
+        "gender": "hombre",
+        "name": "charter s/ c",
+        "code": "",
+        "price": 8990
       },
       {
         "brand": "columbia",
@@ -5196,6 +5209,14 @@ export const Products : PricingList[] = [
       {
         "brand": "columbia",
         "class": "campera softshell",
+        "gender": "dama",
+        "name": "winter ace",
+        "code": "wl6375",
+        "price": 2772
+      },
+      {
+        "brand": "columbia",
+        "class": "campera softshell",
         "gender": "hombre",
         "name": "ascender 2 alloway",
         "code": "wm6645",
@@ -5360,14 +5381,6 @@ export const Products : PricingList[] = [
         "name": "zona field",
         "code": "",
         "price": 8500
-      },
-      {
-        "brand": "columbia",
-        "class": "campera sport",
-        "gender": "dama",
-        "name": "winter ace",
-        "code": "wl6375",
-        "price": 2772
       },
       {
         "brand": "columbia",
@@ -7599,36 +7612,36 @@ export const Products : PricingList[] = [
     brand: 'emi tex',
     products: [
       {
-        brand: "emi tex",
-        class: "accesorio",
-        gender: "hombre",
-        name: "calzoncillo largo 38-44",
-        code: "",
-        price: 240
+        "brand": "emi tex",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "calzoncillo largo 38-44",
+        "code": "",
+        "price": 299
       },
       {
-        brand: "emi tex",
-        class: "accesorio",
-        gender: "hombre",
-        name: "calzoncillo largo 46-48",
-        code: "",
-        price: 280
+        "brand": "emi tex",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "calzoncillo largo 46-48",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "emi tex",
-        class: "termico",
-        gender: "hombre",
-        name: "camiseta termica 38-44",
-        code: "",
-        price: 240
+        "brand": "emi tex",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "camiseta termica 38-44",
+        "code": "",
+        "price": 299
       },
       {
-        brand: "emi tex",
-        class: "termico",
-        gender: "hombre",
-        name: "camiseta termica 46-48",
-        code: "",
-        price: 280
+        "brand": "emi tex",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "camiseta termica 46-48",
+        "code": "",
+        "price": 350
       }
     ]
   },
@@ -8055,1060 +8068,1060 @@ export const Products : PricingList[] = [
     brand: 'forest',
     products: [
       {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cuello",
-        code: "",
-        price: 240
-      },
-      {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "gorro",
-        code: "",
-        price: 240
-      },
-      {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "guante polar",
-        code: "",
-        price: 360
-      },
-      {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media ski",
-        code: "",
-        price: 330
-      },
-      {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "media trekking",
-        code: "",
-        price: 330
-      },
-      {
-        brand: "forest",
-        class: "accesorio",
-        gender: "unisex",
-        name: "pasamontaña",
-        code: "",
-        price: 264
-      },
-      {
-        brand: "forest",
-        class: "accesorio termico",
-        gender: "unisex",
-        name: "guante termico",
-        code: "",
-        price: 360
-      },
-      {
-        brand: "forest",
-        class: "camisa",
-        gender: "dama",
-        name: "camisa",
-        code: "20019",
-        price: 948
-      },
-      {
-        brand: "forest",
-        class: "camisa",
-        gender: "dama",
-        name: "camisa m/c",
-        code: "30203",
-        price: 948
-      },
-      {
-        brand: "forest",
-        class: "camisa",
-        gender: "dama",
-        name: "camisa m/c",
-        code: "30206",
-        price: 948
-      },
-      {
-        brand: "forest",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/c lisa",
-        code: "",
-        price: 1428
-      },
-      {
-        brand: "forest",
-        class: "camisa remera",
-        gender: "hombre",
-        name: "camisa 2XL 3XL",
-        code: "",
-        price: 1788
-      },
-      {
-        brand: "forest",
-        class: "camisa remera",
-        gender: "hombre",
-        name: "camisa m/c esc",
-        code: "",
-        price: 1548
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cuello",
+        "code": "",
+        "price": 289
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "gorro",
+        "code": "",
+        "price": 289
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "guante polar",
+        "code": "",
+        "price": 439
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media ski",
+        "code": "",
+        "price": 399
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "media trekking",
+        "code": "",
+        "price": 399
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "pasamontaña",
+        "code": "",
+        "price": 319
+      },
+      {
+        "brand": "forest",
+        "class": "accesorio termico",
+        "gender": "unisex",
+        "name": "guante termico",
+        "code": "",
+        "price": 439
+      },
+      {
+        "brand": "forest",
+        "class": "camisa",
+        "gender": "dama",
+        "name": "camisa",
+        "code": "20019.",
+        "price": 1139
+      },
+      {
+        "brand": "forest",
+        "class": "camisa",
+        "gender": "dama",
+        "name": "camisa m/c",
+        "code": "30203.",
+        "price": 1139
+      },
+      {
+        "brand": "forest",
+        "class": "camisa",
+        "gender": "dama",
+        "name": "camisa m/c",
+        "code": "30206.",
+        "price": 1139
+      },
+      {
+        "brand": "forest",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/c lisa",
+        "code": "",
+        "price": 1719
+      },
+      {
+        "brand": "forest",
+        "class": "camisa remera",
+        "gender": "hombre",
+        "name": "camisa 2XL 3XL",
+        "code": "",
+        "price": 2149
+      },
+      {
+        "brand": "forest",
+        "class": "camisa remera",
+        "gender": "hombre",
+        "name": "camisa m/c esc",
+        "code": "",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "camisa remera",
-        gender: "hombre",
-        name: "camisa m/l esc",
-        code: "",
-        price: 1668
+        "brand": "forest",
+        "class": "camisa remera",
+        "gender": "hombre",
+        "name": "camisa m/l esc",
+        "code": "",
+        "price": 2009
       },
       {
-        brand: "forest",
-        class: "camisa remera",
-        gender: "hombre",
-        name: "camisa m/l lisa",
-        code: "",
-        price: 1548
+        "brand": "forest",
+        "class": "camisa remera",
+        "gender": "hombre",
+        "name": "camisa m/l lisa",
+        "code": "",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "camp",
-        code: "5323",
-        price: 2508
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "camp",
+        "code": "5323.",
+        "price": 3009
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt desmontable",
-        code: "5329",
-        price: 4356
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt desmontable",
+        "code": "5329.",
+        "price": 5229
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt atuel",
-        code: "5333",
-        price: 3300
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt atuel",
+        "code": "5333.",
+        "price": 3959
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "tapado",
-        code: "5334",
-        price: 3036
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "tapado",
+        "code": "5334.",
+        "price": 3649
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "camp rosa rio",
-        code: "5442",
-        price: 4884
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "camp rosa rio",
+        "code": "5442.",
+        "price": 5869
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "trench softshell",
-        code: "5803",
-        price: 3948
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "trench softshell",
+        "code": "5803.",
+        "price": 4739
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt softshell",
-        code: "5804",
-        price: 2748
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt softshell",
+        "code": "5804.",
+        "price": 3299
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "",
-        code: "5815",
-        price: 2676
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "",
+        "code": "5815.",
+        "price": 3219
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt softshell",
-        code: "5822",
-        price: 2904
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt softshell",
+        "code": "5822.",
+        "price": 3489
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt softshell",
-        code: "5824",
-        price: 2856
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt softshell",
+        "code": "5824.",
+        "price": 3429
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt softshell cans",
-        code: "5826",
-        price: 2904
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt softshell cans",
+        "code": "5826.",
+        "price": 3489
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt softshell",
-        code: "5830",
-        price: 2340
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt softshell",
+        "code": "5830.",
+        "price": 2809
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "jkt",
-        code: "6019",
-        price: 4158
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt",
+        "code": "6019.",
+        "price": 4989
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "camp hood",
-        code: "9428",
-        price: 2508
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "camp hood",
+        "code": "9428.",
+        "price": 3009
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "camp",
-        code: "9446",
-        price: 2676
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "camp",
+        "code": "9446.",
+        "price": 3219
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "dama",
-        name: "romp",
-        code: "9460",
-        price: 1968
+        "brand": "forest",
+        "class": "campera",
+        "gender": "dama",
+        "name": "romp",
+        "code": "9460.",
+        "price": 2369
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "3345",
-        price: 3720
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "3345.",
+        "price": 4469
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt traful",
-        code: "5416",
-        price: 2800
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt traful",
+        "code": "5416.",
+        "price": 3359
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp madrin",
-        code: "5430",
-        price: 3468
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp madrin",
+        "code": "5430.",
+        "price": 4169
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp madrin",
-        code: "5431",
-        price: 3468
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp madrin",
+        "code": "5431.",
+        "price": 4169
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt cuyo",
-        code: "5447",
-        price: 4980
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt cuyo",
+        "code": "5447.",
+        "price": 5979
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp gab bom",
-        code: "5451",
-        price: 3468
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp gab bom",
+        "code": "5451.",
+        "price": 4169
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp nylon",
-        code: "5461",
-        price: 2748
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp nylon",
+        "code": "5461.",
+        "price": 3299
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp softshell",
-        code: "5801",
-        price: 3228
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp softshell",
+        "code": "5801.",
+        "price": 3879
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5802",
-        price: 2940
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5802.",
+        "price": 3529
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt ot",
-        code: "5805",
-        price: 3468
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt ot",
+        "code": "5805.",
+        "price": 4169
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5814",
-        price: 3588
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5814.",
+        "price": 4309
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5828",
-        price: 3588
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5828.",
+        "price": 4309
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5829",
-        price: 2748
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5829.",
+        "price": 3299
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp softshell",
-        code: "5831",
-        price: 3480
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp softshell",
+        "code": "5831.",
+        "price": 4179
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp softshell",
-        code: "5832",
-        price: 3588
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp softshell",
+        "code": "5832.",
+        "price": 4309
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5835",
-        price: 3228
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5835.",
+        "price": 3879
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt softshell",
-        code: "5838",
-        price: 3348
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt softshell",
+        "code": "5838.",
+        "price": 4019
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp",
-        code: "6025",
-        price: 4200
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp",
+        "code": "6025.",
+        "price": 5039
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "kuyen",
-        code: "6041",
-        price: 4740
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "kuyen",
+        "code": "6041.",
+        "price": 5689
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "camp trampa",
-        code: "6050",
-        price: 4740
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "camp trampa",
+        "code": "6050.",
+        "price": 5689
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "rompevientos",
-        code: "9455",
-        price: 2500
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "rompevientos",
+        "code": "9455.",
+        "price": 2999
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "hombre",
-        name: "rompevientos",
-        code: "9456",
-        price: 2500
+        "brand": "forest",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "rompevientos",
+        "code": "9456.",
+        "price": 2999
       },
       {
-        brand: "forest",
-        class: "campera",
-        gender: "niño",
-        name: "ceres jkt jr",
-        code: "5338",
-        price: 2100
+        "brand": "forest",
+        "class": "campera",
+        "gender": "niño",
+        "name": "ceres jkt jr",
+        "code": "5338.",
+        "price": 2519
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "dama",
-        name: "chaleco softshell",
-        code: "5833",
-        price: 2028
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "dama",
+        "name": "chaleco softshell",
+        "code": "5833.",
+        "price": 2439
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "dama",
-        name: "chaleco softshell",
-        code: "5836",
-        price: 2028
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "dama",
+        "name": "chaleco softshell",
+        "code": "5836.",
+        "price": 2439
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "dama",
-        name: "chaleco",
-        code: "20216",
-        price: 1668
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "dama",
+        "name": "chaleco",
+        "code": "20216.",
+        "price": 2009
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco bravo",
-        code: "5404",
-        price: 3228
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco bravo",
+        "code": "5404.",
+        "price": 3879
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco softshell",
-        code: "5817",
-        price: 2988
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco softshell",
+        "code": "5817.",
+        "price": 3589
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco softshell",
-        code: "5836",
-        price: 2988
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco softshell",
+        "code": "5836.",
+        "price": 3589
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco",
-        code: "5837",
-        price: 2988
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco",
+        "code": "5837.",
+        "price": 3589
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco nylon chaiten",
-        code: "8049",
-        price: 3588
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco nylon chaiten",
+        "code": "8049.",
+        "price": 4309
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco inka",
-        code: "8057",
-        price: 2508
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco inka",
+        "code": "8057.",
+        "price": 3009
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco gab alg",
-        code: "9409",
-        price: 2268
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco gab alg",
+        "code": "9409.",
+        "price": 2729
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco",
-        code: "9410",
-        price: 2388
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco",
+        "code": "9410.",
+        "price": 2869
       },
       {
-        brand: "forest",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco",
-        code: "20217",
-        price: 2388
+        "brand": "forest",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco",
+        "code": "20217.",
+        "price": 2869
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "pant desmontable",
-        code: "20027",
-        price: 1782
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "pant desmontable",
+        "code": "20027.",
+        "price": 2139
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "pantalon",
-        code: "20029",
-        price: 1716
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "pantalon",
+        "code": "20029.",
+        "price": 2059
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "pantalon",
-        code: "20032",
-        price: 1788
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "pantalon",
+        "code": "20032.",
+        "price": 2149
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "pantalon yehuin uv50",
-        code: "20034",
-        price: 1848
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "pantalon yehuin uv50",
+        "code": "20034.",
+        "price": 2219
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "pantalon",
-        code: "20090",
-        price: 2160
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "pantalon",
+        "code": "20090.",
+        "price": 2599
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "dama",
-        name: "",
-        code: "30206",
-        price: 948
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "",
+        "code": "30206.",
+        "price": 1139
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "3301",
-        price: 1308
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "3301.",
+        "price": 1569
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "3314",
-        price: 1548
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "3314.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "camuflado",
-        code: "3331",
-        price: 2400
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "camuflado",
+        "code": "3331.",
+        "price": 2879
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "6027",
-        price: 2640
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "6027.",
+        "price": 3169
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "6036",
-        price: 1140
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "6036.",
+        "price": 1369
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "8977",
-        price: 1392
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "8977.",
+        "price": 1679
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "8991",
-        price: 1782
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "8991.",
+        "price": 2139
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "9000",
-        price: 1848
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "9000.",
+        "price": 2219
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "9041",
-        price: 1344
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "9041.",
+        "price": 1619
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "10092",
-        price: 1680
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "10092.",
+        "price": 2019
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20015",
-        price: 1188
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20015.",
+        "price": 1429
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20018",
-        price: 1344
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20018.",
+        "price": 1619
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20032",
-        price: 1782
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20032.",
+        "price": 2139
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20052",
-        price: 1440
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20052.",
+        "price": 1729
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20053",
-        price: 1782
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20053.",
+        "price": 2139
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20055",
-        price: 2352
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20055.",
+        "price": 2829
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20057",
-        price: 2352
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20057.",
+        "price": 2829
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20058",
-        price: 2160
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20058.",
+        "price": 2599
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20065",
-        price: 2028
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20065.",
+        "price": 2439
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20091",
-        price: 2400
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20091.",
+        "price": 2879
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "20353",
-        price: 1650
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "20353.",
+        "price": 1979
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "30066",
-        price: 1308
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "30066.",
+        "price": 1569
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "30067",
-        price: 1668
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "30067.",
+        "price": 2009
       },
       {
-        brand: "forest",
-        class: "pantalon",
-        gender: "hombre",
-        name: "",
-        code: "30071",
-        price: 2244
+        "brand": "forest",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "",
+        "code": "30071.",
+        "price": 2699
       },
       {
-        brand: "forest",
-        class: "pantalon bermuda",
-        gender: "dama",
-        name: "bermuda",
-        code: "20019",
-        price: 948
+        "brand": "forest",
+        "class": "pantalon bermuda",
+        "gender": "dama",
+        "name": "bermuda",
+        "code": "20019.",
+        "price": 1139
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "polar h/z",
-        code: "5528",
-        price: 1428
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "polar h/z",
+        "code": "5528.",
+        "price": 1719
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "h/z",
-        code: "5530",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "h/z",
+        "code": "5530.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "jkt lujan",
-        code: "5590",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "jkt lujan",
+        "code": "5590.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "chaleco polar",
-        code: "5594",
-        price: 1188
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "chaleco polar",
+        "code": "5594.",
+        "price": 1429
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "jkt polar",
-        code: "5595",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "jkt polar",
+        "code": "5595.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "dama",
-        name: "jkt polar piel",
-        code: "5597",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "dama",
+        "name": "jkt polar piel",
+        "code": "5597.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "chaleco polar",
-        code: "5546",
-        price: 1308
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "chaleco polar",
+        "code": "5546.",
+        "price": 1569
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "",
-        code: "5584",
-        price: 1200
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "",
+        "code": "5584.",
+        "price": 1439
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "camp polar",
-        code: "5586",
-        price: 1668
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "camp polar",
+        "code": "5586.",
+        "price": 2009
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "chaleco polar",
-        code: "5588",
-        price: 1428
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "chaleco polar",
+        "code": "5588.",
+        "price": 1719
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "camp junin",
-        code: "5589",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "camp junin",
+        "code": "5589.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "jkt huanel",
-        code: "5591",
-        price: 1668
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "jkt huanel",
+        "code": "5591.",
+        "price": 2009
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "chaleco pehuen",
-        code: "5592",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "chaleco pehuen",
+        "code": "5592.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "buzo limay",
-        code: "5596",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "buzo limay",
+        "code": "5596.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "micropolar h/z",
-        code: "5598",
-        price: 1548
+        "brand": "forest",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "micropolar h/z",
+        "code": "5598.",
+        "price": 1859
       },
       {
-        brand: "forest",
-        class: "remera",
-        gender: "hombre",
-        name: "remera m/c",
-        code: "",
-        price: 1068
+        "brand": "forest",
+        "class": "remera",
+        "gender": "hombre",
+        "name": "remera m/c",
+        "code": "",
+        "price": 1289
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "under shirt",
-        code: "5533",
-        price: 564
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "under shirt",
+        "code": "5533.",
+        "price": 679
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "camiseta m/l",
-        code: "5603",
-        price: 528
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "camiseta m/l",
+        "code": "5603.",
+        "price": 639
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "pantalon",
-        code: "5604",
-        price: 594
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "pantalon",
+        "code": "5604.",
+        "price": 719
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "rem m/l",
-        code: "5610",
-        price: 636
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "rem m/l",
+        "code": "5610.",
+        "price": 769
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "calza",
-        code: "5636",
-        price: 552
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "calza",
+        "code": "5636.",
+        "price": 669
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "musc",
-        code: "5638",
-        price: 360
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "musc",
+        "code": "5638.",
+        "price": 439
       },
       {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "boxer",
-        code: "5641",
-        price: 320
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "polera",
-        code: "5643",
-        price: 636
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "dama",
-        name: "polera h/z",
-        code: "5646",
-        price: 636
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "camiseta",
-        code: "5601",
-        price: 594
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "pantalon",
-        code: "5602",
-        price: 594
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "camiseta",
-        code: "5630",
-        price: 760
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "camiseta m/l uni",
-        code: "5630",
-        price: 760
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "pantalon",
-        code: "5631",
-        price: 702
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "polera",
-        code: "5642",
-        price: 702
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "polera",
-        code: "5644",
-        price: 708
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "hombre",
-        name: "boxer",
-        code: "5941",
-        price: 320
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "niño",
-        name: "kids",
-        code: "5680",
-        price: 520
-      },
-      {
-        brand: "forest",
-        class: "termico",
-        gender: "niño",
-        name: "kids",
-        code: "5681",
-        price: 520
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "boxer",
+        "code": "5641.",
+        "price": 389
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "polera",
+        "code": "5643.",
+        "price": 769
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "dama",
+        "name": "polera h/z",
+        "code": "5646.",
+        "price": 769
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "camiseta",
+        "code": "5601.",
+        "price": 719
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "pantalon",
+        "code": "5602.",
+        "price": 719
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "camiseta",
+        "code": "5630.",
+        "price": 919
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "camiseta m/l uni",
+        "code": "5630.",
+        "price": 919
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "pantalon",
+        "code": "5631.",
+        "price": 849
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "polera",
+        "code": "5642.",
+        "price": 849
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "polera",
+        "code": "5644.",
+        "price": 849
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "boxer",
+        "code": "5941.",
+        "price": 389
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "niño",
+        "name": "kids",
+        "code": "5680.",
+        "price": 629
+      },
+      {
+        "brand": "forest",
+        "class": "termico",
+        "gender": "niño",
+        "name": "kids",
+        "code": "5681.",
+        "price": 629
       }
     ]
   },
@@ -10094,324 +10107,324 @@ export const Products : PricingList[] = [
     brand: 'hi tec',
     products: [
       {
-        brand: "hi tec",
-        class: "accesorio",
-        gender: "unisex",
-        name: "bolso",
-        code: "a11790",
-        price: 3588
+        "brand": "hi tec",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "bolso",
+        "code": "a11790",
+        "price": 4669
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "altitud",
-        code: "",
-        price: 4200
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "altitud",
+        "code": "",
+        "price": 5459
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "apolo ws",
-        code: "",
-        price: 2160
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "apolo ws",
+        "code": "",
+        "price": 2809
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "dubois mid",
-        code: "",
-        price: 4200
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "dubois mid",
+        "code": "",
+        "price": 5459
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "estratos mid",
-        code: "",
-        price: 3120
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "estratos mid",
+        "code": "",
+        "price": 4059
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "ezzez",
-        code: "",
-        price: 1788
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "ezzez",
+        "code": "",
+        "price": 2329
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "kite mid",
-        code: "",
-        price: 2640
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "kite mid",
+        "code": "",
+        "price": 3439
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "lima mid",
-        code: "",
-        price: 3000
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "lima mid",
+        "code": "",
+        "price": 3899
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "montevideo",
-        code: "",
-        price: 3180
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "montevideo",
+        "code": "",
+        "price": 4139
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "sequoia mid",
-        code: "",
-        price: 3828
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "sequoia mid",
+        "code": "",
+        "price": 4979
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "santiago mid",
-        code: "",
-        price: 3110
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "santiago mid",
+        "code": "",
+        "price": 4049
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "sierra lite ws",
-        code: "",
-        price: 2760
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "sierra lite ws",
+        "code": "",
+        "price": 3589
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "dama",
-        name: "wolf river",
-        code: "",
-        price: 1740
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "dama",
+        "name": "wolf river",
+        "code": "",
+        "price": 2269
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "altitud 4",
-        code: "",
-        price: 4788
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "altitud 4",
+        "code": "",
+        "price": 6229
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "bahama sport",
-        code: "",
-        price: 2400
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "bahama sport",
+        "code": "",
+        "price": 3119
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "estratos mid",
-        code: "",
-        price: 3120
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "estratos mid",
+        "code": "",
+        "price": 4059
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "ezzez",
-        code: "",
-        price: 2028
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "ezzez",
+        "code": "",
+        "price": 2639
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "figaro",
-        code: "",
-        price: 2160
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "figaro",
+        "code": "",
+        "price": 2809
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "forza mid",
-        code: "",
-        price: 3600
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "forza mid",
+        "code": "",
+        "price": 4679
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "lima mid",
-        code: "",
-        price: 3000
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "lima mid",
+        "code": "",
+        "price": 3899
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "logan mid",
-        code: "",
-        price: 3300
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "logan mid",
+        "code": "",
+        "price": 4289
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "sensor",
-        code: "",
-        price: 2268
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "sensor",
+        "code": "",
+        "price": 2949
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "sentimellow",
-        code: "",
-        price: 2388
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "sentimellow",
+        "code": "",
+        "price": 3109
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "sentinel mid",
-        code: "",
-        price: 2700
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "sentinel mid",
+        "code": "",
+        "price": 3509
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "sierra lace",
-        code: "",
-        price: 2280
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "sierra lace",
+        "code": "",
+        "price": 2969
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "snow peak mid",
-        code: "",
-        price: 4428
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "snow peak mid",
+        "code": "",
+        "price": 5759
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "sonoma mid",
-        code: "",
-        price: 4000
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "sonoma mid",
+        "code": "",
+        "price": 5199
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "tortola",
-        code: "",
-        price: 2340
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "tortola",
+        "code": "",
+        "price": 3049
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "hombre",
-        name: "wolf river",
-        code: "",
-        price: 1788
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "wolf river",
+        "code": "",
+        "price": 2329
       },
       {
-        brand: "hi tec",
-        class: "calzado",
-        gender: "niño",
-        name: "fast high jr mid",
-        code: "",
-        price: 2748
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "fast high jr mid",
+        "code": "",
+        "price": 3579
       },
       {
-        brand: "hi tec",
-        class: "campera",
-        gender: "dama",
-        name: "swindon",
-        code: "",
-        price: 5628
+        "brand": "hi tec",
+        "class": "campera",
+        "gender": "dama",
+        "name": "swindon",
+        "code": "",
+        "price": 7319
       },
       {
-        brand: "hi tec",
-        class: "campera",
-        gender: "dama",
-        name: "thermo tex jkt",
-        code: "",
-        price: 1740
+        "brand": "hi tec",
+        "class": "campera",
+        "gender": "dama",
+        "name": "thermo tex jkt",
+        "code": "",
+        "price": 2269
       },
       {
-        brand: "hi tec",
-        class: "campera",
-        gender: "hombre",
-        name: "birminghan",
-        code: "",
-        price: 5880
+        "brand": "hi tec",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "birminghan",
+        "code": "",
+        "price": 7649
       },
       {
-        brand: "hi tec",
-        class: "campera",
-        gender: "hombre",
-        name: "chester",
-        code: "",
-        price: 5988
+        "brand": "hi tec",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "chester",
+        "code": "",
+        "price": 7789
       },
       {
-        brand: "hi tec",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "duke jkt softshell",
-        code: "",
-        price: 2880
+        "brand": "hi tec",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "duke jkt softshell",
+        "code": "",
+        "price": 3749
       },
       {
-        brand: "hi tec",
-        class: "mochila",
-        gender: "unisex",
-        name: "aconcagua",
-        code: "",
-        price: 3780
+        "brand": "hi tec",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "aconcagua",
+        "code": "",
+        "price": 4919
       },
       {
-        brand: "hi tec",
-        class: "mochila",
-        gender: "unisex",
-        name: "modena",
-        code: "",
-        price: 2028
+        "brand": "hi tec",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "modena",
+        "code": "",
+        "price": 2639
       },
       {
-        brand: "hi tec",
-        class: "mochila",
-        gender: "unisex",
-        name: "ohio",
-        code: "",
-        price: 1548
+        "brand": "hi tec",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "ohio",
+        "code": "",
+        "price": 2019
       },
       {
-        brand: "hi tec",
-        class: "mochila",
-        gender: "unisex",
-        name: "voyager pro 75l",
-        code: "",
-        price: 8028
+        "brand": "hi tec",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "voyager pro 75l",
+        "code": "",
+        "price": 10439
       },
       {
-        brand: "hi tec",
-        class: "pantalon",
-        gender: "hombre",
-        name: "pantalon exeter",
-        code: "",
-        price: 3588
+        "brand": "hi tec",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "pantalon exeter",
+        "code": "",
+        "price": 4669
       }
     ]
   },
@@ -10419,76 +10432,76 @@ export const Products : PricingList[] = [
     brand: 'high sierra',
     products: [
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "appalachian 75l",
-        code: "",
-        price: 8028
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "appalachian 75l",
+        "code": "",
+        "price": 9990
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "mochila",
-        code: "53639",
-        price: 2160
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "curve",
+        "code": "",
+        "price": 1590
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "mochila",
-        code: "53632",
-        price: 1788
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "mochila",
+        "code": "53632.",
+        "price": 2290
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "mochila",
-        code: "55021",
-        price: 2868
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "mochila",
+        "code": "53639.",
+        "price": 2790
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "mochila",
-        code: "58413",
-        price: 3108
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "mochila",
+        "code": "55021.",
+        "price": 3700
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "sentinel 65l",
-        code: "",
-        price: 7440
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "mochila",
+        "code": "58413.",
+        "price": 3990
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "tank pack morral",
-        code: "",
-        price: 2760
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "pathway",
+        "code": "",
+        "price": 3900
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "pathway",
-        code: "",
-        price: 3000
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "sentinel 65l",
+        "code": "",
+        "price": 9650
       },
       {
-        brand: "high sierra",
-        class: "mochila",
-        gender: "unisex",
-        name: "curve",
-        code: "",
-        price: 1200
+        "brand": "high sierra",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "tank pack morral",
+        "code": "",
+        "price": 3590
       }
     ]
   },
@@ -10549,52 +10562,52 @@ export const Products : PricingList[] = [
     brand: 'hummer',
     products: [
       {
-        brand: "hummer",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "buzo f/z polar",
-        code: "",
-        price: 948
+        "brand": "hummer",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "buzo f/z polar",
+        "code": "",
+        "price": 1190
       },
       {
-        brand: "hummer",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "buzo h/z polar",
-        code: "",
-        price: 948
+        "brand": "hummer",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "buzo h/z polar",
+        "code": "",
+        "price": 1190
       },
       {
-        brand: "hummer",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "chaleco polar",
-        code: "",
-        price: 948
+        "brand": "hummer",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "chaleco polar",
+        "code": "",
+        "price": 1190
       },
       {
-        brand: "hummer",
-        class: "termico",
-        gender: "hombre",
-        name: "underpant",
-        code: "",
-        price: 588
+        "brand": "hummer",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "underpant",
+        "code": "",
+        "price": 790
       },
       {
-        brand: "hummer",
-        class: "termico",
-        gender: "hombre",
-        name: "undershirt",
-        code: "",
-        price: 588
+        "brand": "hummer",
+        "class": "termico",
+        "gender": "hombre",
+        "name": "undershirt",
+        "code": "",
+        "price": 790
       },
       {
-        brand: "hummer",
-        class: "termico",
-        gender: "niño",
-        name: "under junior",
-        code: "",
-        price: 540
+        "brand": "hummer",
+        "class": "termico",
+        "gender": "niño",
+        "name": "under junior",
+        "code": "",
+        "price": 690
       }
     ]
   },
@@ -12934,76 +12947,76 @@ export const Products : PricingList[] = [
     brand: 'marmot',
     products: [
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "dama",
-        name: "jena jkt duvet",
-        code: "",
-        price: 7900
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jena jkt duvet",
+        "code": "",
+        "price": 10269
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "dama",
-        name: "kitzbuhel jkt fibra hueca",
-        code: "",
-        price: 5160
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "dama",
+        "name": "kitzbuhel jkt fibra hueca",
+        "code": "",
+        "price": 6709
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "dama",
-        name: "rompevientos precip",
-        code: "",
-        price: 4380
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "dama",
+        "name": "rompevientos precip",
+        "code": "",
+        "price": 5699
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "calen jkt fibra hueca",
-        code: "",
-        price: 6240
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "calen jkt fibra hueca",
+        "code": "",
+        "price": 8119
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt esces respirable",
-        code: "",
-        price: 3960
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt esces respirable",
+        "code": "",
+        "price": 5149
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "rompevientos precip",
-        code: "",
-        price: 4380
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "rompevientos precip",
+        "code": "",
+        "price": 5699
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "rompevientos super mica",
-        code: "",
-        price: 7200
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "rompevientos super mica",
+        "code": "",
+        "price": 9359
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "trench duvet sonya",
-        code: "",
-        price: 9000
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "trench duvet sonya",
+        "code": "",
+        "price": 11699
       },
       {
-        brand: "marmot",
-        class: "campera",
-        gender: "hombre",
-        name: "zeus jkt duvet",
-        code: "",
-        price: 8520
+        "brand": "marmot",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "zeus jkt duvet",
+        "code": "",
+        "price": 11079
       }
     ]
   },
@@ -13370,260 +13383,260 @@ export const Products : PricingList[] = [
     brand: 'montagne',
     products: [
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "hombre",
-        name: "guante polar",
-        code: "",
-        price: 588
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "guante polar",
+        "code": "",
+        "price": 739
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cup dry fit",
-        code: "",
-        price: 468
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cup dry fit",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cup dry fit c/red",
-        code: "",
-        price: 540
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cup dry fit c/red",
+        "code": "",
+        "price": 679
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cup dry fit c/orej",
-        code: "",
-        price: 240
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cup dry fit c/orej",
+        "code": "",
+        "price": 299
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "vincha c/orej",
-        code: "",
-        price: 348
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "vincha c/orej",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cup pana c/visera",
-        code: "",
-        price: 468
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cup pana c/visera",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "gorro polar",
-        code: "",
-        price: 120
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "gorro polar",
+        "code": "",
+        "price": 149
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "gorro tinsulate negro c/piel",
-        code: "",
-        price: 468
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "gorro tinsulate negro c/piel",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "gorro reversible",
-        code: "",
-        price: 300
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "gorro reversible",
+        "code": "",
+        "price": 379
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "piluso",
-        code: "",
-        price: 300
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "piluso",
+        "code": "",
+        "price": 379
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "pasamontaña",
-        code: "",
-        price: 468
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "pasamontaña",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cup polar",
-        code: "",
-        price: 590
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cup polar",
+        "code": "",
+        "price": 739
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "unisex",
-        name: "continental mochila red",
-        code: "",
-        price: 420
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "continental mochila red",
+        "code": "",
+        "price": 529
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "hombre",
-        name: "bufanda polar",
-        code: "",
-        price: 420
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "bufanda polar",
+        "code": "",
+        "price": 529
       },
       {
-        brand: "montagne",
-        class: "accesorio",
-        gender: "hombre",
-        name: "guante polar c/refuerzo",
-        code: "",
-        price: 360
+        "brand": "montagne",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "guante polar c/refuerzo",
+        "code": "",
+        "price": 449
       },
       {
-        brand: "montagne",
-        class: "accesrio",
-        gender: "unisex",
-        name: "cup algodon",
-        code: "",
-        price: 468
+        "brand": "montagne",
+        "class": "accesrio",
+        "gender": "unisex",
+        "name": "cup algodon",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "montagne",
-        class: "bermuda",
-        gender: "hombre",
-        name: "bermuda",
-        code: "",
-        price: 948
+        "brand": "montagne",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "bermuda",
+        "code": "",
+        "price": 1189
       },
       {
-        brand: "montagne",
-        class: "campera",
-        gender: "hombre",
-        name: "campera inv combi",
-        code: "",
-        price: 3588
+        "brand": "montagne",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera inv combi",
+        "code": "",
+        "price": 4489
       },
       {
-        brand: "montagne",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba dry fit",
-        code: "",
-        price: 1188
+        "brand": "montagne",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba dry fit",
+        "code": "",
+        "price": 1489
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "azules ant",
-        code: "",
-        price: 948
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "azules ant",
+        "code": "",
+        "price": 1189
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "neo 17l",
-        code: "",
-        price: 1068
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "neo 17l",
+        "code": "",
+        "price": 1339
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "udine",
-        code: "",
-        price: 780
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "udine",
+        "code": "",
+        "price": 979
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "alforja",
-        code: "",
-        price: 708
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "alforja",
+        "code": "",
+        "price": 889
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "urban trooper riñonera",
-        code: "",
-        price: 900
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "urban trooper riñonera",
+        "code": "",
+        "price": 1129
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "neo riñonera",
-        code: "",
-        price: 828
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "neo riñonera",
+        "code": "",
+        "price": 1039
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "ciclista rap",
-        code: "",
-        price: 828
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "ciclista rap",
+        "code": "",
+        "price": 1039
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "altitude 34l",
-        code: "",
-        price: 2100
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "altitude 34l",
+        "code": "",
+        "price": 2629
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "adventure 30l",
-        code: "",
-        price: 1800
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "adventure 30l",
+        "code": "",
+        "price": 2249
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "hiker",
-        code: "",
-        price: 1428
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "hiker",
+        "code": "",
+        "price": 1789
       },
       {
-        brand: "montagne",
-        class: "mochila",
-        gender: "unisex",
-        name: "cyclo",
-        code: "",
-        price: 1428
+        "brand": "montagne",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "cyclo",
+        "code": "",
+        "price": 1789
       },
       {
-        brand: "montagne",
-        class: "polar micropolar",
-        gender: "hombre",
-        name: "chaleco polar",
-        code: "",
-        price: 828
+        "brand": "montagne",
+        "class": "polar micropolar",
+        "gender": "hombre",
+        "name": "chaleco polar",
+        "code": "",
+        "price": 1039
       },
       {
-        brand: "montagne",
-        class: "remera",
-        gender: "hombre",
-        name: "remera dry fit",
-        code: "",
-        price: 1068
+        "brand": "montagne",
+        "class": "remera",
+        "gender": "hombre",
+        "name": "remera dry fit",
+        "code": "",
+        "price": 1339
       }
     ]
   },
@@ -13699,60 +13712,60 @@ export const Products : PricingList[] = [
     brand: 'mt buller',
     products: [
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "dama",
-        name: "adelaide sshell",
-        code: "",
-        price: 3360
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "dama",
+        "name": "adelaide sshell",
+        "code": "",
+        "price": 4290
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "dama",
-        name: "nowra sshell",
-        code: "",
-        price: 3060
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "dama",
+        "name": "nowra sshell",
+        "code": "",
+        "price": 3950
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "dama",
-        name: "victoria sshell",
-        code: "",
-        price: 3120
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "dama",
+        "name": "victoria sshell",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "camberra sshell",
-        code: "",
-        price: 3120
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "camberra sshell",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "hobart sshell",
-        code: "",
-        price: 3240
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "hobart sshell",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "new castle sshell",
-        code: "",
-        price: 3480
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "new castle sshell",
+        "code": "",
+        "price": 4390
       },
       {
-        brand: "mt buller",
-        class: "campera softshell",
-        gender: "hombre",
-        name: "sydney sshell",
-        code: "",
-        price: 3240
+        "brand": "mt buller",
+        "class": "campera softshell",
+        "gender": "hombre",
+        "name": "sydney sshell",
+        "code": "",
+        "price": 4290
       }
     ]
   },
@@ -13807,7 +13820,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante miller jr",
         "code": "",
-        "price": 820
+        "price": 1069
       },
       {
         "brand": "nexxt",
@@ -13815,7 +13828,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "cuello mag",
         "code": "",
-        "price": 300
+        "price": 389
       },
       {
         "brand": "nexxt",
@@ -13823,7 +13836,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "guante miller",
         "code": "",
-        "price": 984
+        "price": 1279
       },
       {
         "brand": "nexxt",
@@ -13831,7 +13844,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "guante retro",
         "code": "",
-        "price": 984
+        "price": 1279
       },
       {
         "brand": "nexxt",
@@ -13839,7 +13852,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "guante roi desm",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "nexxt",
@@ -13847,7 +13860,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "palo x2 trekking",
         "code": "",
-        "price": 864
+        "price": 1129
       },
       {
         "brand": "nexxt",
@@ -13855,7 +13868,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "adventure zapa",
         "code": "",
-        "price": 1790
+        "price": 2329
       },
       {
         "brand": "nexxt",
@@ -13863,7 +13876,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance pro zapa",
         "code": "",
-        "price": 1790
+        "price": 2329
       },
       {
         "brand": "nexxt",
@@ -13871,7 +13884,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance zapa",
         "code": "",
-        "price": 1790
+        "price": 2329
       },
       {
         "brand": "nexxt",
@@ -13879,7 +13892,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "kang mid",
         "code": "",
-        "price": 2520
+        "price": 3279
       },
       {
         "brand": "nexxt",
@@ -13887,7 +13900,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "khumbu",
         "code": "",
-        "price": 1890
+        "price": 2459
       },
       {
         "brand": "nexxt",
@@ -13895,7 +13908,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pro shell zapa",
         "code": "",
-        "price": 1990
+        "price": 2589
       },
       {
         "brand": "nexxt",
@@ -13903,7 +13916,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "terrain pro zapa",
         "code": "",
-        "price": 1890
+        "price": 2459
       },
       {
         "brand": "nexxt",
@@ -13911,7 +13924,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "adventure zapa",
         "code": "",
-        "price": 1890
+        "price": 2459
       },
       {
         "brand": "nexxt",
@@ -13919,7 +13932,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "broad xt mid",
         "code": "",
-        "price": 3200
+        "price": 4159
       },
       {
         "brand": "nexxt",
@@ -13927,7 +13940,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "endurance zapa",
         "code": "",
-        "price": 1800
+        "price": 2339
       },
       {
         "brand": "nexxt",
@@ -13935,7 +13948,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "huapi mid",
         "code": "",
-        "price": 2500
+        "price": 3249
       },
       {
         "brand": "nexxt",
@@ -13943,7 +13956,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "kang mid",
         "code": "",
-        "price": 2580
+        "price": 3359
       },
       {
         "brand": "nexxt",
@@ -13951,7 +13964,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "manaslu xt mid",
         "code": "",
-        "price": 2990
+        "price": 3889
       },
       {
         "brand": "nexxt",
@@ -13959,7 +13972,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro shell zapa",
         "code": "",
-        "price": 1990
+        "price": 2589
       },
       {
         "brand": "nexxt",
@@ -13967,7 +13980,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "terrain pro zapa",
         "code": "",
-        "price": 1990
+        "price": 2589
       },
       {
         "brand": "nexxt",
@@ -13975,7 +13988,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tron xt mid",
         "code": "",
-        "price": 2500
+        "price": 3249
       },
       {
         "brand": "nexxt",
@@ -13983,7 +13996,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "xtrail 1/2 mid",
         "code": "",
-        "price": 2120
+        "price": 2759
       },
       {
         "brand": "nexxt",
@@ -13991,7 +14004,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "todas",
         "code": "",
-        "price": 1380
+        "price": 1799
       },
       {
         "brand": "nexxt",
@@ -13999,7 +14012,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "todas",
         "code": "",
-        "price": 1380
+        "price": 1799
       },
       {
         "brand": "nexxt",
@@ -14007,7 +14020,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "cinnamon duvet c/mangas desm",
         "code": "",
-        "price": 5079
+        "price": 6609
       },
       {
         "brand": "nexxt",
@@ -14015,7 +14028,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "cora",
         "code": "",
-        "price": 3720
+        "price": 4839
       },
       {
         "brand": "nexxt",
@@ -14023,7 +14036,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "curly piel",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "nexxt",
@@ -14031,7 +14044,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "freestyle fija",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14039,7 +14052,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "halfmoon desmontable",
         "code": "",
-        "price": 5232
+        "price": 6809
       },
       {
         "brand": "nexxt",
@@ -14047,7 +14060,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "hangover desmontable",
         "code": "",
-        "price": 5080
+        "price": 6609
       },
       {
         "brand": "nexxt",
@@ -14055,7 +14068,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "icebreaker desmontable",
         "code": "",
-        "price": 5080
+        "price": 6609
       },
       {
         "brand": "nexxt",
@@ -14063,7 +14076,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "offslope fija",
         "code": "",
-        "price": 3804
+        "price": 4949
       },
       {
         "brand": "nexxt",
@@ -14071,7 +14084,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "robbin desmontable",
         "code": "",
-        "price": 6180
+        "price": 8039
       },
       {
         "brand": "nexxt",
@@ -14079,7 +14092,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "victory",
         "code": "",
-        "price": 4428
+        "price": 5759
       },
       {
         "brand": "nexxt",
@@ -14087,7 +14100,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "ying fija",
         "code": "",
-        "price": 3804
+        "price": 4949
       },
       {
         "brand": "nexxt",
@@ -14095,7 +14108,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "zenit fija",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14103,7 +14116,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "altitud 2 2x1 desmontable espigada",
         "code": "",
-        "price": 5232
+        "price": 6809
       },
       {
         "brand": "nexxt",
@@ -14111,7 +14124,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "altitud 2x1 jkt desmontable",
         "code": "",
-        "price": 5232
+        "price": 6809
       },
       {
         "brand": "nexxt",
@@ -14119,7 +14132,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "downlite",
         "code": "",
-        "price": 5076
+        "price": 6599
       },
       {
         "brand": "nexxt",
@@ -14127,7 +14140,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "fire and ice",
         "code": "",
-        "price": 3360
+        "price": 4369
       },
       {
         "brand": "nexxt",
@@ -14135,7 +14148,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "glimmer",
         "code": "",
-        "price": 6504
+        "price": 8459
       },
       {
         "brand": "nexxt",
@@ -14143,7 +14156,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "hangover 2x1 jkt desmontable",
         "code": "",
-        "price": 5232
+        "price": 6809
       },
       {
         "brand": "nexxt",
@@ -14151,7 +14164,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mandarin 3l",
         "code": "",
-        "price": 5076
+        "price": 6599
       },
       {
         "brand": "nexxt",
@@ -14159,7 +14172,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mood",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "nexxt",
@@ -14167,7 +14180,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mountain",
         "code": "",
-        "price": 5076
+        "price": 6599
       },
       {
         "brand": "nexxt",
@@ -14175,7 +14188,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "offslope",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "nexxt",
@@ -14183,7 +14196,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "speed 2x1 jkt desmontable",
         "code": "",
-        "price": 5700
+        "price": 7409
       },
       {
         "brand": "nexxt",
@@ -14191,7 +14204,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm 3x1 capucha fija",
         "code": "",
-        "price": 5700
+        "price": 7409
       },
       {
         "brand": "nexxt",
@@ -14199,7 +14212,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "trim",
         "code": "",
-        "price": 5076
+        "price": 6599
       },
       {
         "brand": "nexxt",
@@ -14207,7 +14220,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "vito campera espigada corta",
         "code": "",
-        "price": 5076
+        "price": 6599
       },
       {
         "brand": "nexxt",
@@ -14215,7 +14228,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "walkhome rompeviento",
         "code": "",
-        "price": 2148
+        "price": 2799
       },
       {
         "brand": "nexxt",
@@ -14223,7 +14236,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "yang",
         "code": "",
-        "price": 4068
+        "price": 5289
       },
       {
         "brand": "nexxt",
@@ -14231,7 +14244,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zenit",
         "code": "",
-        "price": 3828
+        "price": 4979
       },
       {
         "brand": "nexxt",
@@ -14239,7 +14252,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "asteroid jkt c/trampa",
         "code": "",
-        "price": 3900
+        "price": 5069
       },
       {
         "brand": "nexxt",
@@ -14247,7 +14260,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "lullaby jkt",
         "code": "",
-        "price": 2388
+        "price": 3109
       },
       {
         "brand": "nexxt",
@@ -14255,7 +14268,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "moondanger parka",
         "code": "",
-        "price": 3000
+        "price": 3899
       },
       {
         "brand": "nexxt",
@@ -14263,7 +14276,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "storm jr",
         "code": "",
-        "price": 4380
+        "price": 5699
       },
       {
         "brand": "nexxt",
@@ -14271,7 +14284,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "zephyr jkt",
         "code": "",
-        "price": 2268
+        "price": 2949
       },
       {
         "brand": "nexxt",
@@ -14279,7 +14292,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "dolphin softshell 8000mm wp",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14287,7 +14300,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "downunder softshell peludo",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14295,7 +14308,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jkt respirable",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14303,7 +14316,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "nelli softshell",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14311,7 +14324,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "upsidedown softshell 1500mm",
         "code": "",
-        "price": 3000
+        "price": 3899
       },
       {
         "brand": "nexxt",
@@ -14319,7 +14332,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "neill softshell",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "nexxt",
@@ -14327,7 +14340,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "nevermind softshell 1500mm",
         "code": "",
-        "price": 2844
+        "price": 3699
       },
       {
         "brand": "nexxt",
@@ -14335,7 +14348,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "protector softshell sin abrigo",
         "code": "",
-        "price": 2844
+        "price": 3699
       },
       {
         "brand": "nexxt",
@@ -14343,7 +14356,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "shark softshell 8000mm wp",
         "code": "",
-        "price": 4380
+        "price": 5699
       },
       {
         "brand": "nexxt",
@@ -14351,7 +14364,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "gilant jkt softshell c/trampa",
         "code": "",
-        "price": 2508
+        "price": 3269
       },
       {
         "brand": "nexxt",
@@ -14359,7 +14372,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "icy chaleco sintetico",
         "code": "",
-        "price": 2268
+        "price": 2949
       },
       {
         "brand": "nexxt",
@@ -14367,7 +14380,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "puffball chaleco duvet",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14375,7 +14388,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "upsidedown chaleco",
         "code": "",
-        "price": 2148
+        "price": 2799
       },
       {
         "brand": "nexxt",
@@ -14383,7 +14396,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "windy chaleco fotografo",
         "code": "",
-        "price": 1788
+        "price": 2329
       },
       {
         "brand": "nexxt",
@@ -14391,7 +14404,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "chamaleon chaleco duvet",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "nexxt",
@@ -14399,7 +14412,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mood chaleco nylon polar",
         "code": "",
-        "price": 2064
+        "price": 2689
       },
       {
         "brand": "nexxt",
@@ -14407,7 +14420,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "motion chaleco deportivo elast",
         "code": "",
-        "price": 2064
+        "price": 2689
       },
       {
         "brand": "nexxt",
@@ -14415,7 +14428,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "myto chaleco sintetico",
         "code": "",
-        "price": 2628
+        "price": 3419
       },
       {
         "brand": "nexxt",
@@ -14423,7 +14436,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "photo chaleco c/bolsillos liviano",
         "code": "",
-        "price": 2064
+        "price": 2689
       },
       {
         "brand": "nexxt",
@@ -14431,7 +14444,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "boarder pro 45l",
         "code": "",
-        "price": 6300
+        "price": 8189
       },
       {
         "brand": "nexxt",
@@ -14439,7 +14452,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bolso carrier",
         "code": "",
-        "price": 4308
+        "price": 5609
       },
       {
         "brand": "nexxt",
@@ -14447,7 +14460,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "smart 15l",
         "code": "",
-        "price": 1020
+        "price": 1329
       },
       {
         "brand": "nexxt",
@@ -14455,7 +14468,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "voyager 75l",
         "code": "",
-        "price": 7990
+        "price": 10389
       },
       {
         "brand": "nexxt",
@@ -14463,7 +14476,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "breakthrough ski nylon",
         "code": "",
-        "price": 3108
+        "price": 4049
       },
       {
         "brand": "nexxt",
@@ -14471,7 +14484,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "capri subway",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "nexxt",
@@ -14479,7 +14492,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "earl ski softshell 8000mm wp",
         "code": "",
-        "price": 3108
+        "price": 4049
       },
       {
         "brand": "nexxt",
@@ -14487,7 +14500,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance ski nylon",
         "code": "",
-        "price": 3108
+        "price": 4049
       },
       {
         "brand": "nexxt",
@@ -14495,7 +14508,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "milestone",
         "code": "",
-        "price": 2028
+        "price": 2639
       },
       {
         "brand": "nexxt",
@@ -14503,7 +14516,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "railway",
         "code": "",
-        "price": 2028
+        "price": 2639
       },
       {
         "brand": "nexxt",
@@ -14511,7 +14524,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "short railway capri",
         "code": "",
-        "price": 1548
+        "price": 2019
       },
       {
         "brand": "nexxt",
@@ -14519,7 +14532,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "short rock",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14527,7 +14540,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "warmtrek",
         "code": "",
-        "price": 3108
+        "price": 4049
       },
       {
         "brand": "nexxt",
@@ -14535,7 +14548,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "carb ski softshell",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14543,7 +14556,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "henry 2 en 1",
         "code": "",
-        "price": 2028
+        "price": 2639
       },
       {
         "brand": "nexxt",
@@ -14551,7 +14564,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mercury",
         "code": "",
-        "price": 2028
+        "price": 2639
       },
       {
         "brand": "nexxt",
@@ -14559,7 +14572,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "short amphibious",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14567,7 +14580,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "short brighton",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14575,7 +14588,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "short lewis",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14583,7 +14596,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "short move",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14591,7 +14604,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "short one way",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "nexxt",
@@ -14599,7 +14612,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "subway",
         "code": "",
-        "price": 2028
+        "price": 2639
       },
       {
         "brand": "nexxt",
@@ -14607,7 +14620,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ultimate snowboard nylon",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14615,7 +14628,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "universe ski nylon",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14623,7 +14636,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "walkhome overpant liviano",
         "code": "",
-        "price": 1428
+        "price": 1859
       },
       {
         "brand": "nexxt",
@@ -14631,7 +14644,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "warmtrek secado rapido con abrigo",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "nexxt",
@@ -14639,7 +14652,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "universe pant ski",
         "code": "",
-        "price": 2580
+        "price": 3359
       },
       {
         "brand": "nexxt",
@@ -14647,7 +14660,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "glimmer nive c/cierres",
         "code": "",
-        "price": 4380
+        "price": 5699
       },
       {
         "brand": "nexxt",
@@ -14655,7 +14668,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "basico f/z",
         "code": "",
-        "price": 1350
+        "price": 1759
       },
       {
         "brand": "nexxt",
@@ -14663,7 +14676,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "buzo edge micropolar",
         "code": "",
-        "price": 1428
+        "price": 1859
       },
       {
         "brand": "nexxt",
@@ -14671,7 +14684,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "lin chaleco polar",
         "code": "",
-        "price": 936
+        "price": 1219
       },
       {
         "brand": "nexxt",
@@ -14679,7 +14692,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "lin jkt",
         "code": "",
-        "price": 1428
+        "price": 1859
       },
       {
         "brand": "nexxt",
@@ -14687,7 +14700,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "myo h/z",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14695,7 +14708,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "myo jkt",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14703,7 +14716,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "palos ski x2",
         "code": "",
-        "price": 948
+        "price": 1239
       },
       {
         "brand": "nexxt",
@@ -14711,7 +14724,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "rim h/z",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "nexxt",
@@ -14719,7 +14732,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "rim jkt",
         "code": "",
-        "price": 1344
+        "price": 1749
       },
       {
         "brand": "nexxt",
@@ -14727,7 +14740,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zen jkt",
         "code": "",
-        "price": 1344
+        "price": 1749
       },
       {
         "brand": "nexxt",
@@ -14735,7 +14748,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "todas",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "nexxt",
@@ -14743,7 +14756,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "todas",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "nexxt",
@@ -14751,7 +14764,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pantalon jr",
         "code": "",
-        "price": 504
+        "price": 659
       },
       {
         "brand": "nexxt",
@@ -14759,7 +14772,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "remera jr",
         "code": "",
-        "price": 504
+        "price": 659
       },
       {
         "brand": "nexxt",
@@ -14767,7 +14780,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "pantalon micro dry",
         "code": "",
-        "price": 864
+        "price": 1129
       },
       {
         "brand": "nexxt",
@@ -14775,7 +14788,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "pantalon protherm",
         "code": "",
-        "price": 624
+        "price": 819
       },
       {
         "brand": "nexxt",
@@ -14783,7 +14796,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "remera micro dry",
         "code": "",
-        "price": 792
+        "price": 1029
       },
       {
         "brand": "nexxt",
@@ -14791,7 +14804,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "remera protherm",
         "code": "",
-        "price": 624
+        "price": 819
       }
     ]
   },
@@ -14804,7 +14817,7 @@ export const Products : PricingList[] = [
         gender: "unisex",
         name: "toalla grande",
         code: "",
-        price: 450
+        price: 590
       },
       {
         brand: "niquel",
@@ -14812,7 +14825,7 @@ export const Products : PricingList[] = [
         gender: "unisex",
         name: "toalla chica",
         code: "",
-        price: 250
+        price: 350
       }
     ]
   },
@@ -14854,7 +14867,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "camiseta climate control",
         "code": "",
-        "price": 960
+        "price": 1249
       },
       {
         "brand": "northland",
@@ -14862,7 +14875,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cup logo ln",
         "code": "",
-        "price": 564
+        "price": 739
       },
       {
         "brand": "northland",
@@ -14870,7 +14883,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "guante ferrata kevlar",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "northland",
@@ -14878,7 +14891,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "guante function softhsell",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "northland",
@@ -14886,7 +14899,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "guante ski alpine",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "northland",
@@ -14894,7 +14907,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "media trek jr",
         "code": "",
-        "price": 204
+        "price": 269
       },
       {
         "brand": "northland",
@@ -14902,7 +14915,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "media trekking jr",
         "code": "",
-        "price": 390
+        "price": 509
       },
       {
         "brand": "northland",
@@ -14910,7 +14923,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "*cup pro dry desert",
         "code": "",
-        "price": 648
+        "price": 849
       },
       {
         "brand": "northland",
@@ -14918,7 +14931,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "cuello mag",
         "code": "",
-        "price": 240
+        "price": 319
       },
       {
         "brand": "northland",
@@ -14926,7 +14939,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "cup pro dry",
         "code": "",
-        "price": 594
+        "price": 779
       },
       {
         "brand": "northland",
@@ -14934,7 +14947,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "gorro lana",
         "code": "",
-        "price": 564
+        "price": 739
       },
       {
         "brand": "northland",
@@ -14942,7 +14955,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media running",
         "code": "",
-        "price": 330
+        "price": 429
       },
       {
         "brand": "northland",
@@ -14950,7 +14963,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media ski",
         "code": "",
-        "price": 432
+        "price": 569
       },
       {
         "brand": "northland",
@@ -14958,7 +14971,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media trekking",
         "code": "",
-        "price": 390
+        "price": 509
       },
       {
         "brand": "northland",
@@ -14966,7 +14979,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "ada jkt ultra light",
         "code": "",
-        "price": 4200
+        "price": 5459
       },
       {
         "brand": "northland",
@@ -14974,7 +14987,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "alplust jkt",
         "code": "",
-        "price": 7080
+        "price": 9209
       },
       {
         "brand": "northland",
@@ -14982,7 +14995,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "arosa chaleco down vest pluma",
         "code": "",
-        "price": 3732
+        "price": 4859
       },
       {
         "brand": "northland",
@@ -14990,7 +15003,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "athena jkt",
         "code": "",
-        "price": 5880
+        "price": 7649
       },
       {
         "brand": "northland",
@@ -14998,7 +15011,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "belinda tapado largo c/piel en capucha",
         "code": "",
-        "price": 7500
+        "price": 9749
       },
       {
         "brand": "northland",
@@ -15006,7 +15019,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "benita tapado semilargo c/cinto",
         "code": "",
-        "price": 5550
+        "price": 7219
       },
       {
         "brand": "northland",
@@ -15014,7 +15027,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "calla storm shell jkt",
         "code": "",
-        "price": 7986
+        "price": 10389
       },
       {
         "brand": "northland",
@@ -15022,7 +15035,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "carol nueva",
         "code": "",
-        "price": 4890
+        "price": 6359
       },
       {
         "brand": "northland",
@@ -15030,7 +15043,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "carola jkt mirocopolar",
         "code": "",
-        "price": 4980
+        "price": 6479
       },
       {
         "brand": "northland",
@@ -15038,7 +15051,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "carrie jkt",
         "code": "",
-        "price": 5880
+        "price": 7649
       },
       {
         "brand": "northland",
@@ -15046,7 +15059,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "celia tapado",
         "code": "",
-        "price": 10032
+        "price": 13049
       },
       {
         "brand": "northland",
@@ -15054,7 +15067,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "cyber jkt",
         "code": "",
-        "price": 6970
+        "price": 9069
       },
       {
         "brand": "northland",
@@ -15062,7 +15075,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "daniele jkt down",
         "code": "",
-        "price": 6430
+        "price": 8359
       },
       {
         "brand": "northland",
@@ -15070,7 +15083,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "downhill",
         "code": "",
-        "price": 3114
+        "price": 4049
       },
       {
         "brand": "northland",
@@ -15078,7 +15091,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exo streech energetic",
         "code": "",
-        "price": 4896
+        "price": 6369
       },
       {
         "brand": "northland",
@@ -15086,7 +15099,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exo streech yanna",
         "code": "",
-        "price": 8490
+        "price": 11039
       },
       {
         "brand": "northland",
@@ -15094,7 +15107,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exotherm lxt stretch echo",
         "code": "",
-        "price": 6870
+        "price": 8939
       },
       {
         "brand": "northland",
@@ -15102,7 +15115,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exotherm meribel c/micropolar",
         "code": "",
-        "price": 6590
+        "price": 8569
       },
       {
         "brand": "northland",
@@ -15110,7 +15123,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "exotherm meribel c/softshell",
         "code": "",
-        "price": 7850
+        "price": 10209
       },
       {
         "brand": "northland",
@@ -15118,7 +15131,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "garmisch jkt",
         "code": "",
-        "price": 9588
+        "price": 12469
       },
       {
         "brand": "northland",
@@ -15126,7 +15139,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "helski jkt",
         "code": "",
-        "price": 5200
+        "price": 6759
       },
       {
         "brand": "northland",
@@ -15134,7 +15147,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "irena tapado",
         "code": "",
-        "price": 6072
+        "price": 7899
       },
       {
         "brand": "northland",
@@ -15142,7 +15155,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jana black snoword",
         "code": "",
-        "price": 6990
+        "price": 9089
       },
       {
         "brand": "northland",
@@ -15150,7 +15163,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jana jkt hood ultra light",
         "code": "",
-        "price": 4140
+        "price": 5389
       },
       {
         "brand": "northland",
@@ -15158,7 +15171,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jana jkt ultra light",
         "code": "",
-        "price": 3780
+        "price": 4919
       },
       {
         "brand": "northland",
@@ -15166,7 +15179,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jenny tapado sintetico",
         "code": "",
-        "price": 5988
+        "price": 7789
       },
       {
         "brand": "northland",
@@ -15174,7 +15187,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "jessie 3 en 1 duvet",
         "code": "",
-        "price": 8280
+        "price": 10769
       },
       {
         "brand": "northland",
@@ -15182,7 +15195,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "korfu",
         "code": "",
-        "price": 2280
+        "price": 2969
       },
       {
         "brand": "northland",
@@ -15190,7 +15203,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lenals canvas gabardina lisa",
         "code": "",
-        "price": 2454
+        "price": 3199
       },
       {
         "brand": "northland",
@@ -15198,7 +15211,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lina exo sport",
         "code": "",
-        "price": 8300
+        "price": 10789
       },
       {
         "brand": "northland",
@@ -15206,7 +15219,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lisa jkt hibrido fibra",
         "code": "",
-        "price": 3720
+        "price": 4839
       },
       {
         "brand": "northland",
@@ -15214,7 +15227,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "liza tapado storm shell c/capucha",
         "code": "",
-        "price": 7650
+        "price": 9949
       },
       {
         "brand": "northland",
@@ -15222,7 +15235,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lory jkt duvet hood",
         "code": "",
-        "price": 5100
+        "price": 6629
       },
       {
         "brand": "northland",
@@ -15230,735 +15243,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lydia fleece",
         "code": "",
-        "price": 1960
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "natali jkt 3x1",
-        "code": "",
-        "price": 8580
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "nicky jkt blanca c/cinto",
-        "code": "",
-        "price": 3860
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "nora jkt",
-        "code": "",
-        "price": 3828
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "paola jkt piloto",
-        "code": "",
-        "price": 4250
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "penelope jkt",
-        "code": "",
-        "price": 4750
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "pro dry jkt",
-        "code": "",
-        "price": 3840
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "pro dry trail",
-        "code": "",
-        "price": 3840
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "random canvas c/piel",
-        "code": "",
-        "price": 3114
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "roberta",
-        "code": "",
-        "price": 2450
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "robertine romp",
-        "code": "",
-        "price": 2450
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "sheer jkt parka",
-        "code": "",
-        "price": 4550
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "sigrid rompeviento resistente",
-        "code": "",
-        "price": 1960
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "skibase",
-        "code": "",
-        "price": 7200
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "snowboard escosesa",
-        "code": "",
-        "price": 6690
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "spartika",
-        "code": "",
-        "price": 7650
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "speed running",
-        "code": "",
-        "price": 2450
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "summer shell bahiti",
-        "code": "",
-        "price": 3250
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "susan exotherm c/trampa desmontable",
-        "code": "",
-        "price": 3350
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "synthia rompeviento impermeable",
-        "code": "",
-        "price": 2690
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "tapado taja duvet",
-        "code": "",
-        "price": 7458
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "tapado taz duvet",
-        "code": "",
-        "price": 8280
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "tara 3x1 desmontable c/softshell",
-        "code": "",
-        "price": 6250
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "travel belt jkt",
-        "code": "",
-        "price": 4116
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "travel gina",
-        "code": "",
-        "price": 2844
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "vanja tapado",
-        "code": "",
-        "price": 9588
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "wenda combinada tejido c/softshell",
-        "code": "",
-        "price": 2950
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "xenotex down jkt pluma",
-        "code": "",
-        "price": 3370
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "xenotex downhill c/trampa",
-        "code": "",
-        "price": 4896
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "dama",
-        "name": "zoja ktv down",
-        "code": "",
-        "price": 7320
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "*aro down jkt",
-        "code": "",
-        "price": 9588
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "*corti",
-        "code": "",
-        "price": 4788
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "*danie jkt duvet",
-        "code": "",
-        "price": 6390
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "archie duvet",
-        "code": "",
-        "price": 4320
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "athos jkt",
-        "code": "",
-        "price": 5880
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "aviator jkt",
-        "code": "",
-        "price": 3768
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "baltoro down jkt pluma",
-        "code": "",
-        "price": 9588
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "burt parka",
-        "code": "",
-        "price": 5760
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "calley",
-        "code": "",
-        "price": 4990
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "campera gravity windstopper",
-        "code": "",
-        "price": 3912
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "cas roy rev vest chaleco",
-        "code": "",
-        "price": 3912
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "caspar jkt",
-        "code": "",
-        "price": 5220
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "chaleco gravity windstopper",
-        "code": "",
-        "price": 3168
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "cimone con micropolar desmontable",
-        "code": "",
-        "price": 7260
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "cimone con softshell desmontable",
-        "code": "",
-        "price": 7980
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "competition xenotex anorak",
-        "code": "",
-        "price": 9480
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo 10k lxdan desm exhotherm laminada c/softshell",
-        "code": "",
-        "price": 8076
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo 5k kite ski jkt",
-        "code": "",
-        "price": 5604
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo 5k ski jkt",
-        "code": "",
-        "price": 5604
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo sepia jkt",
-        "code": "",
-        "price": 6108
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo simon 3x1 c/softshell desm",
-        "code": "",
-        "price": 9108
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exo tweed parka con piel en capucha",
-        "code": "",
-        "price": 5808
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "exotherm echo lxt stretch",
-        "code": "",
-        "price": 5736
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "james 3x1",
-        "code": "",
-        "price": 8880
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "jan hood",
-        "code": "",
-        "price": 4680
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "jan jkt",
-        "code": "",
-        "price": 4440
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "jkt duvet iso",
-        "code": "",
-        "price": 4800
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "jkt duvet iso c/cap",
-        "code": "",
-        "price": 5400
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "kane ski jkt",
-        "code": "",
-        "price": 5796
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "leonardo rompeviento waterproof",
-        "code": "",
-        "price": 2460
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "lorio duvet hood jkt",
-        "code": "",
-        "price": 5280
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "marco exo jkt",
-        "code": "",
-        "price": 6240
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "merril 3x1 desm c/polar",
-        "code": "",
-        "price": 7404
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "microloft chaleco",
-        "code": "",
-        "price": 3264
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "ogre",
-        "code": "",
-        "price": 5300
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "oliver canvas jkt",
-        "code": "",
-        "price": 2316
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "olympic rompeviento resistente al agua",
-        "code": "",
-        "price": 1812
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "pelle jkt imp",
-        "code": "",
-        "price": 4920
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "pro dry jkt",
-        "code": "",
-        "price": 3200
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "pro dry mountain jkt desm dryfit",
-        "code": "",
-        "price": 3168
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "pro dry vest",
-        "code": "",
-        "price": 2988
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "pro-ski race xenotex jkt",
-        "code": "",
-        "price": 4860
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "quentin blossom",
-        "code": "",
-        "price": 3948
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "ralph jacket",
-        "code": "",
-        "price": 2616
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "rex jkt trench tipo gab con desm peludito",
-        "code": "",
-        "price": 7080
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "ricco rain jkt print",
-        "code": "",
-        "price": 2580
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "robby rain jkt",
-        "code": "",
-        "price": 2640
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "roberto",
-        "code": "",
-        "price": 2400
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "roy down chaleco pluma",
-        "code": "",
-        "price": 3912
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "roy jkt",
-        "code": "",
-        "price": 7836
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "skibase",
-        "code": "",
-        "price": 6540
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "snow shirt xenotex anorak",
-        "code": "",
-        "price": 4860
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "snowboard print jkt",
-        "code": "",
-        "price": 7056
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "sparta c/micropolar desm",
-        "code": "",
-        "price": 7980
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "squall jkt",
-        "code": "",
-        "price": 5148
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "travel gene jacket",
-        "code": "",
-        "price": 3084
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "travel vest chaleco",
-        "code": "",
-        "price": 2100
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "vest duvet iso",
-        "code": "",
-        "price": 3240
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "vest jan",
-        "code": "",
-        "price": 3240
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "xenotex naranja",
-        "code": "",
-        "price": 4500
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "hombre",
-        "name": "yam 3x1",
-        "code": "",
-        "price": 10080
-      },
-      {
-        "brand": "northland",
-        "class": "campera",
-        "gender": "homre",
-        "name": "errol xeno",
-        "code": "",
-        "price": 7250
+        "price": 2549
       },
       {
         "brand": "northland",
@@ -15966,7 +15251,735 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "marlene",
         "code": "",
-        "price": 8490
+        "price": 11039
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "natali jkt 3x1",
+        "code": "",
+        "price": 11159
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "nicky jkt blanca c/cinto",
+        "code": "",
+        "price": 5019
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "nora jkt",
+        "code": "",
+        "price": 4979
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "paola jkt piloto",
+        "code": "",
+        "price": 5529
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "penelope jkt",
+        "code": "",
+        "price": 6179
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "pro dry jkt",
+        "code": "",
+        "price": 4999
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "pro dry trail",
+        "code": "",
+        "price": 4999
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "random canvas c/piel",
+        "code": "",
+        "price": 4049
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "roberta",
+        "code": "",
+        "price": 3189
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "robertine romp",
+        "code": "",
+        "price": 3189
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "sheer jkt parka",
+        "code": "",
+        "price": 5919
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "sigrid rompeviento resistente",
+        "code": "",
+        "price": 2549
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "skibase",
+        "code": "",
+        "price": 9359
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "snowboard escosesa",
+        "code": "",
+        "price": 8699
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "spartika",
+        "code": "",
+        "price": 9949
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "speed running",
+        "code": "",
+        "price": 3189
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "summer shell bahiti",
+        "code": "",
+        "price": 4229
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "susan exotherm c/trampa desmontable",
+        "code": "",
+        "price": 4359
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "synthia rompeviento impermeable",
+        "code": "",
+        "price": 3499
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "tapado taja duvet",
+        "code": "",
+        "price": 9699
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "tapado taz duvet",
+        "code": "",
+        "price": 10769
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "tara 3x1 desmontable c/softshell",
+        "code": "",
+        "price": 8129
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "travel belt jkt",
+        "code": "",
+        "price": 5359
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "travel gina",
+        "code": "",
+        "price": 3699
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "vanja tapado",
+        "code": "",
+        "price": 12469
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "wenda combinada tejido c/softshell",
+        "code": "",
+        "price": 3839
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "xenotex down jkt pluma",
+        "code": "",
+        "price": 4389
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "xenotex downhill c/trampa",
+        "code": "",
+        "price": 6369
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "dama",
+        "name": "zoja ktv down",
+        "code": "",
+        "price": 9519
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "*aro down jkt",
+        "code": "",
+        "price": 12469
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "*corti",
+        "code": "",
+        "price": 6229
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "*danie jkt duvet",
+        "code": "",
+        "price": 8309
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "archie duvet",
+        "code": "",
+        "price": 5619
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "athos jkt",
+        "code": "",
+        "price": 7649
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "aviator jkt",
+        "code": "",
+        "price": 4899
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "baltoro down jkt pluma",
+        "code": "",
+        "price": 12469
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "burt parka",
+        "code": "",
+        "price": 7489
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "calley",
+        "code": "",
+        "price": 6489
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera gravity windstopper",
+        "code": "",
+        "price": 5089
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "cas roy rev vest chaleco",
+        "code": "",
+        "price": 5089
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "caspar jkt",
+        "code": "",
+        "price": 6789
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "chaleco gravity windstopper",
+        "code": "",
+        "price": 4119
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "cimone con micropolar desmontable",
+        "code": "",
+        "price": 9439
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "cimone con softshell desmontable",
+        "code": "",
+        "price": 10379
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "competition xenotex anorak",
+        "code": "",
+        "price": 12329
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo 10k lxdan desm exhotherm laminada c/softshell",
+        "code": "",
+        "price": 10499
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo 5k kite ski jkt",
+        "code": "",
+        "price": 7289
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo 5k ski jkt",
+        "code": "",
+        "price": 7289
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo sepia jkt",
+        "code": "",
+        "price": 7949
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo simon 3x1 c/softshell desm",
+        "code": "",
+        "price": 11849
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exo tweed parka con piel en capucha",
+        "code": "",
+        "price": 7559
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "exotherm echo lxt stretch",
+        "code": "",
+        "price": 7459
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "james 3x1",
+        "code": "",
+        "price": 11549
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jan hood",
+        "code": "",
+        "price": 6089
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jan jkt",
+        "code": "",
+        "price": 5779
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt duvet iso",
+        "code": "",
+        "price": 6239
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt duvet iso c/cap",
+        "code": "",
+        "price": 7019
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "kane ski jkt",
+        "code": "",
+        "price": 7539
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "leonardo rompeviento waterproof",
+        "code": "",
+        "price": 3199
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "lorio duvet hood jkt",
+        "code": "",
+        "price": 6869
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "marco exo jkt",
+        "code": "",
+        "price": 8119
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "merril 3x1 desm c/polar",
+        "code": "",
+        "price": 9629
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "microloft chaleco",
+        "code": "",
+        "price": 4249
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "ogre",
+        "code": "",
+        "price": 6889
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "oliver canvas jkt",
+        "code": "",
+        "price": 3019
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "olympic rompeviento resistente al agua",
+        "code": "",
+        "price": 2359
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "pelle jkt imp",
+        "code": "",
+        "price": 6399
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "pro dry jkt",
+        "code": "",
+        "price": 4159
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "pro dry mountain jkt desm dryfit",
+        "code": "",
+        "price": 4119
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "pro dry vest",
+        "code": "",
+        "price": 3889
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "pro-ski race xenotex jkt",
+        "code": "",
+        "price": 6319
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "quentin blossom",
+        "code": "",
+        "price": 5139
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "ralph jacket",
+        "code": "",
+        "price": 3409
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "rex jkt trench tipo gab con desm peludito",
+        "code": "",
+        "price": 9209
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "ricco rain jkt print",
+        "code": "",
+        "price": 3359
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "robby rain jkt",
+        "code": "",
+        "price": 3439
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "roberto",
+        "code": "",
+        "price": 3119
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "roy down chaleco pluma",
+        "code": "",
+        "price": 5089
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "roy jkt",
+        "code": "",
+        "price": 10189
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "skibase",
+        "code": "",
+        "price": 8509
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "snow shirt xenotex anorak",
+        "code": "",
+        "price": 6319
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "snowboard print jkt",
+        "code": "",
+        "price": 9179
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "sparta c/micropolar desm",
+        "code": "",
+        "price": 10379
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "squall jkt",
+        "code": "",
+        "price": 6699
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "travel gene jacket",
+        "code": "",
+        "price": 4009
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "travel vest chaleco",
+        "code": "",
+        "price": 2729
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "vest duvet iso",
+        "code": "",
+        "price": 4219
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "vest jan",
+        "code": "",
+        "price": 4219
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "xenotex naranja",
+        "code": "",
+        "price": 5849
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "yam 3x1",
+        "code": "",
+        "price": 13109
+      },
+      {
+        "brand": "northland",
+        "class": "campera",
+        "gender": "homre",
+        "name": "errol xeno",
+        "code": "",
+        "price": 9429
       },
       {
         "brand": "northland",
@@ -15974,7 +15987,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "xenotex child dragon",
         "code": "",
-        "price": 2490
+        "price": 3239
       },
       {
         "brand": "northland",
@@ -15982,7 +15995,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "xenotex kids",
         "code": "",
-        "price": 2490
+        "price": 3239
       },
       {
         "brand": "northland",
@@ -15990,7 +16003,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "xenotex niño",
         "code": "",
-        "price": 2244
+        "price": 2919
       },
       {
         "brand": "northland",
@@ -15998,7 +16011,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell",
         "code": "",
-        "price": 3395
+        "price": 4419
       },
       {
         "brand": "northland",
@@ -16006,7 +16019,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell base",
         "code": "",
-        "price": 3890
+        "price": 5059
       },
       {
         "brand": "northland",
@@ -16014,7 +16027,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell fleece combinada",
         "code": "",
-        "price": 4350
+        "price": 5659
       },
       {
         "brand": "northland",
@@ -16022,7 +16035,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell jkt lisa",
         "code": "",
-        "price": 3890
+        "price": 5059
       },
       {
         "brand": "northland",
@@ -16030,7 +16043,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell purpose jkt",
         "code": "",
-        "price": 4680
+        "price": 6089
       },
       {
         "brand": "northland",
@@ -16038,7 +16051,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "active shell tea jkt doble lamina",
         "code": "",
-        "price": 3990
+        "price": 5189
       },
       {
         "brand": "northland",
@@ -16046,7 +16059,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "base shell zoe",
         "code": "",
-        "price": 4668
+        "price": 6069
       },
       {
         "brand": "northland",
@@ -16054,7 +16067,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "calla storm shell",
         "code": "",
-        "price": 7986
+        "price": 10389
       },
       {
         "brand": "northland",
@@ -16062,7 +16075,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "holly jkt hood",
         "code": "",
-        "price": 3348
+        "price": 4359
       },
       {
         "brand": "northland",
@@ -16070,7 +16083,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lorena base shell jkt",
         "code": "",
-        "price": 3990
+        "price": 5189
       },
       {
         "brand": "northland",
@@ -16078,7 +16091,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "paige jkt",
         "code": "",
-        "price": 3108
+        "price": 4049
       },
       {
         "brand": "northland",
@@ -16086,7 +16099,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "stephanie",
         "code": "",
-        "price": 3990
+        "price": 5189
       },
       {
         "brand": "northland",
@@ -16094,7 +16107,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell bs scope",
         "code": "",
-        "price": 5300
+        "price": 6889
       },
       {
         "brand": "northland",
@@ -16102,7 +16115,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell denali",
         "code": "",
-        "price": 5952
+        "price": 7739
       },
       {
         "brand": "northland",
@@ -16110,7 +16123,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell lina",
         "code": "",
-        "price": 5940
+        "price": 7729
       },
       {
         "brand": "northland",
@@ -16118,7 +16131,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell pisa",
         "code": "",
-        "price": 4788
+        "price": 6229
       },
       {
         "brand": "northland",
@@ -16126,7 +16139,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell pro ski jkt",
         "code": "",
-        "price": 4320
+        "price": 5619
       },
       {
         "brand": "northland",
@@ -16134,7 +16147,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell purpa c/cap 5000mm",
         "code": "",
-        "price": 5280
+        "price": 6869
       },
       {
         "brand": "northland",
@@ -16142,7 +16155,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell scope c/capucha",
         "code": "",
-        "price": 4320
+        "price": 5619
       },
       {
         "brand": "northland",
@@ -16150,7 +16163,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "stormshell georgia c/puño 5000mm",
         "code": "",
-        "price": 4990
+        "price": 6489
       },
       {
         "brand": "northland",
@@ -16158,7 +16171,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "summer shell bahiti",
         "code": "",
-        "price": 3290
+        "price": 4279
       },
       {
         "brand": "northland",
@@ -16166,7 +16179,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "torino",
         "code": "",
-        "price": 6890
+        "price": 8959
       },
       {
         "brand": "northland",
@@ -16174,7 +16187,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "active shell base",
         "code": "",
-        "price": 4290
+        "price": 5579
       },
       {
         "brand": "northland",
@@ -16182,7 +16195,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "active shell combinada",
         "code": "",
-        "price": 4290
+        "price": 5579
       },
       {
         "brand": "northland",
@@ -16190,7 +16203,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "active shell vest",
         "code": "",
-        "price": 2790
+        "price": 3629
       },
       {
         "brand": "northland",
@@ -16198,7 +16211,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cas base shell pro",
         "code": "",
-        "price": 5280
+        "price": 6869
       },
       {
         "brand": "northland",
@@ -16206,7 +16219,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "chaleco hakon",
         "code": "",
-        "price": 2988
+        "price": 3889
       },
       {
         "brand": "northland",
@@ -16214,7 +16227,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denali stormshell jkt",
         "code": "",
-        "price": 5490
+        "price": 7139
       },
       {
         "brand": "northland",
@@ -16222,7 +16235,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ever shell jkt",
         "code": "",
-        "price": 4590
+        "price": 5969
       },
       {
         "brand": "northland",
@@ -16230,7 +16243,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "exo 20k sepia",
         "code": "",
-        "price": 6690
+        "price": 8699
       },
       {
         "brand": "northland",
@@ -16238,7 +16251,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "giorgia jkt",
         "code": "",
-        "price": 4920
+        "price": 6399
       },
       {
         "brand": "northland",
@@ -16246,7 +16259,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "jerry hood c/capucha",
         "code": "",
-        "price": 5200
+        "price": 6759
       },
       {
         "brand": "northland",
@@ -16254,7 +16267,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "jerry hood s/capucha",
         "code": "",
-        "price": 4776
+        "price": 6209
       },
       {
         "brand": "northland",
@@ -16262,7 +16275,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "jkt softshell posh",
         "code": "",
-        "price": 5040
+        "price": 6559
       },
       {
         "brand": "northland",
@@ -16270,7 +16283,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro ski jkt camp lisa",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "northland",
@@ -16278,7 +16291,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro ski stormshell",
         "code": "",
-        "price": 5880
+        "price": 7649
       },
       {
         "brand": "northland",
@@ -16286,7 +16299,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "purpose jkt",
         "code": "",
-        "price": 4350
+        "price": 5659
       },
       {
         "brand": "northland",
@@ -16294,7 +16307,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "spr jkt zaplex",
         "code": "",
-        "price": 2388
+        "price": 3109
       },
       {
         "brand": "northland",
@@ -16302,7 +16315,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell basic s/capucha 5000mm",
         "code": "",
-        "price": 5220
+        "price": 6789
       },
       {
         "brand": "northland",
@@ -16310,7 +16323,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell hugh",
         "code": "",
-        "price": 5082
+        "price": 6609
       },
       {
         "brand": "northland",
@@ -16318,7 +16331,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell lin",
         "code": "",
-        "price": 6468
+        "price": 8409
       },
       {
         "brand": "northland",
@@ -16326,7 +16339,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell logan 5000mm c/puño",
         "code": "",
-        "price": 6228
+        "price": 8099
       },
       {
         "brand": "northland",
@@ -16334,7 +16347,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell pro base",
         "code": "",
-        "price": 5290
+        "price": 6879
       },
       {
         "brand": "northland",
@@ -16342,7 +16355,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell scope 5000mm c/capucha",
         "code": "",
-        "price": 5778
+        "price": 7519
       },
       {
         "brand": "northland",
@@ -16350,7 +16363,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "str jkt tide",
         "code": "",
-        "price": 3468
+        "price": 4509
       },
       {
         "brand": "northland",
@@ -16358,7 +16371,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "sunset base",
         "code": "",
-        "price": 3950
+        "price": 5139
       },
       {
         "brand": "northland",
@@ -16366,7 +16379,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "torino storm shell",
         "code": "",
-        "price": 7190
+        "price": 9349
       },
       {
         "brand": "northland",
@@ -16374,7 +16387,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "wales stormshell",
         "code": "",
-        "price": 6450
+        "price": 8389
       },
       {
         "brand": "northland",
@@ -16382,7 +16395,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "yamo jkt",
         "code": "",
-        "price": 7188
+        "price": 9349
       },
       {
         "brand": "northland",
@@ -16390,7 +16403,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "chomba pique sony",
         "code": "",
-        "price": 1190
+        "price": 1549
       },
       {
         "brand": "northland",
@@ -16398,7 +16411,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cooldry gregory polo shirt micropique m/c",
         "code": "",
-        "price": 1440
+        "price": 1879
       },
       {
         "brand": "northland",
@@ -16406,7 +16419,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "rene caro escosesa m/c",
         "code": "",
-        "price": 1380
+        "price": 1799
       },
       {
         "brand": "northland",
@@ -16414,7 +16427,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "shirt m/c organic",
         "code": "",
-        "price": 1548
+        "price": 2019
       },
       {
         "brand": "northland",
@@ -16422,7 +16435,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "shirt m/l y m/c",
         "code": "",
-        "price": 1908
+        "price": 2489
       },
       {
         "brand": "northland",
@@ -16430,7 +16443,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "spt chomba mao m/z h/z dry fit",
         "code": "",
-        "price": 1190
+        "price": 1549
       },
       {
         "brand": "northland",
@@ -16438,7 +16451,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "spt rem s/m h/z dry fit",
         "code": "",
-        "price": 936
+        "price": 1219
       },
       {
         "brand": "northland",
@@ -16446,7 +16459,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tahiti joe",
         "code": "",
-        "price": 1380
+        "price": 1799
       },
       {
         "brand": "northland",
@@ -16454,7 +16467,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bolsa dormir",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "northland",
@@ -16462,7 +16475,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bolsa dormir vison",
         "code": "",
-        "price": 3828
+        "price": 4979
       },
       {
         "brand": "northland",
@@ -16470,7 +16483,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bolso expedit 75l",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "northland",
@@ -16478,7 +16491,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bolso matero",
         "code": "",
-        "price": 1068
+        "price": 1389
       },
       {
         "brand": "northland",
@@ -16486,7 +16499,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "hi extreme",
         "code": "",
-        "price": 780
+        "price": 1019
       },
       {
         "brand": "northland",
@@ -16494,7 +16507,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "kailash 45/5",
         "code": "",
-        "price": 5988
+        "price": 7789
       },
       {
         "brand": "northland",
@@ -16502,7 +16515,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "kailash 50/5",
         "code": "",
-        "price": 7188
+        "price": 9349
       },
       {
         "brand": "northland",
@@ -16510,7 +16523,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "kailash 60/10",
         "code": "",
-        "price": 8040
+        "price": 10459
       },
       {
         "brand": "northland",
@@ -16518,7 +16531,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "kailash 70/10",
         "code": "",
-        "price": 8388
+        "price": 10909
       },
       {
         "brand": "northland",
@@ -16526,7 +16539,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "kailash 80/10",
         "code": "",
-        "price": 9108
+        "price": 11849
       },
       {
         "brand": "northland",
@@ -16534,7 +16547,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "sprint 10l",
         "code": "",
-        "price": 1308
+        "price": 1709
       },
       {
         "brand": "northland",
@@ -16542,7 +16555,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pant pro dry mount",
         "code": "",
-        "price": 2820
+        "price": 3669
       },
       {
         "brand": "northland",
@@ -16550,7 +16563,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "*pro dry bermuda mount",
         "code": "",
-        "price": 2050
+        "price": 2669
       },
       {
         "brand": "northland",
@@ -16558,7 +16571,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro dry mount",
         "code": "",
-        "price": 2820
+        "price": 3669
       },
       {
         "brand": "northland",
@@ -16566,7 +16579,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "apollo child ski trouser",
         "code": "",
-        "price": 3200
+        "price": 4159
       },
       {
         "brand": "northland",
@@ -16574,7 +16587,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "irina pant softshell",
         "code": "",
-        "price": 3300
+        "price": 4289
       },
       {
         "brand": "northland",
@@ -16582,7 +16595,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lorena shell pant softshell",
         "code": "",
-        "price": 3960
+        "price": 5149
       },
       {
         "brand": "northland",
@@ -16590,7 +16603,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "low rise pant",
         "code": "",
-        "price": 2720
+        "price": 3539
       },
       {
         "brand": "northland",
@@ -16598,7 +16611,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm",
         "code": "",
-        "price": 3200
+        "price": 4159
       },
       {
         "brand": "northland",
@@ -16606,7 +16619,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "storm shell falcon",
         "code": "",
-        "price": 3960
+        "price": 5149
       },
       {
         "brand": "northland",
@@ -16614,7 +16627,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "xenotex ski pant",
         "code": "",
-        "price": 3200
+        "price": 4159
       },
       {
         "brand": "northland",
@@ -16622,7 +16635,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "*yen clasico",
         "code": "",
-        "price": 3192
+        "price": 4149
       },
       {
         "brand": "northland",
@@ -16630,7 +16643,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "apollo ski",
         "code": "",
-        "price": 3192
+        "price": 4149
       },
       {
         "brand": "northland",
@@ -16638,7 +16651,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ferdi",
         "code": "",
-        "price": 3192
+        "price": 4149
       },
       {
         "brand": "northland",
@@ -16646,7 +16659,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "greg",
         "code": "",
-        "price": 3192
+        "price": 4149
       },
       {
         "brand": "northland",
@@ -16654,7 +16667,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro dry pant fijo",
         "code": "",
-        "price": 2640
+        "price": 3439
       },
       {
         "brand": "northland",
@@ -16662,7 +16675,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "storm shell falcon",
         "code": "",
-        "price": 4200
+        "price": 5459
       },
       {
         "brand": "northland",
@@ -16670,7 +16683,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "annie jkt",
         "code": "",
-        "price": 2700
+        "price": 3509
       },
       {
         "brand": "northland",
@@ -16678,7 +16691,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "calza 3/4 speed running",
         "code": "",
-        "price": 1250
+        "price": 1629
       },
       {
         "brand": "northland",
@@ -16686,7 +16699,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "chaleco ramona micropolar",
         "code": "",
-        "price": 1750
+        "price": 2279
       },
       {
         "brand": "northland",
@@ -16694,7 +16707,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "hanna c/capucha micropolar",
         "code": "",
-        "price": 1890
+        "price": 2459
       },
       {
         "brand": "northland",
@@ -16702,7 +16715,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "hanna campera micropolar basica",
         "code": "",
-        "price": 1740
+        "price": 2269
       },
       {
         "brand": "northland",
@@ -16710,7 +16723,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "helium full",
         "code": "",
-        "price": 2040
+        "price": 2659
       },
       {
         "brand": "northland",
@@ -16718,7 +16731,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "kengo full",
         "code": "",
-        "price": 2040
+        "price": 2659
       },
       {
         "brand": "northland",
@@ -16726,7 +16739,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "kengo full hood",
         "code": "",
-        "price": 2268
+        "price": 2949
       },
       {
         "brand": "northland",
@@ -16734,7 +16747,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "rolli h/z buzo micropolar",
         "code": "",
-        "price": 1400
+        "price": 1819
       },
       {
         "brand": "northland",
@@ -16742,7 +16755,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "teddy fleece jkt",
         "code": "",
-        "price": 1626
+        "price": 2119
       },
       {
         "brand": "northland",
@@ -16750,7 +16763,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "*aleo jkt mic",
         "code": "",
-        "price": 2388
+        "price": 3109
       },
       {
         "brand": "northland",
@@ -16758,7 +16771,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "*helium",
         "code": "",
-        "price": 2220
+        "price": 2889
       },
       {
         "brand": "northland",
@@ -16766,7 +16779,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "*pro zone helium h/z",
         "code": "",
-        "price": 1860
+        "price": 2419
       },
       {
         "brand": "northland",
@@ -16774,7 +16787,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "adrian camp",
         "code": "",
-        "price": 1944
+        "price": 2529
       },
       {
         "brand": "northland",
@@ -16782,7 +16795,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "adrian chaleco",
         "code": "",
-        "price": 1788
+        "price": 2329
       },
       {
         "brand": "northland",
@@ -16790,7 +16803,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "daniel jkt",
         "code": "",
-        "price": 2724
+        "price": 3549
       },
       {
         "brand": "northland",
@@ -16798,7 +16811,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gravity chaleco",
         "code": "",
-        "price": 2688
+        "price": 3499
       },
       {
         "brand": "northland",
@@ -16806,7 +16819,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "kengo camp",
         "code": "",
-        "price": 1908
+        "price": 2489
       },
       {
         "brand": "northland",
@@ -16814,23 +16827,23 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "kengo camp hood",
         "code": "",
-        "price": 2052
-      },
-      {
-        "brand": "northland",
-        "class": "polar micropolar",
-        "gender": "hombre",
-        "name": "pantalon micropolar",
-        "code": "",
-        "price": 1740
+        "price": 2669
       },
       {
         "brand": "northand",
         "class": "polar micropolar",
         "gender": "hombre",
+        "name": "pantalon micropolar",
+        "code": "",
+        "price": 2269
+      },
+      {
+        "brand": "northland",
+        "class": "polar micropolar",
+        "gender": "hombre",
         "name": "pro ski rolli h/z",
         "code": "",
-        "price": 2052
+        "price": 2669
       },
       {
         "brand": "northland",
@@ -16838,7 +16851,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "rolli h/z",
         "code": "",
-        "price": 1740
+        "price": 2269
       },
       {
         "brand": "northland",
@@ -16846,7 +16859,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "romeo camp",
         "code": "",
-        "price": 1908
+        "price": 2489
       },
       {
         "brand": "northland",
@@ -16854,7 +16867,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "saturn jkt",
         "code": "",
-        "price": 1740
+        "price": 2269
       },
       {
         "brand": "northland",
@@ -16862,7 +16875,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "camiseta thermo under",
         "code": "",
-        "price": 1098
+        "price": 1429
       },
       {
         "brand": "northland",
@@ -16870,7 +16883,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pant thermo under",
         "code": "",
-        "price": 1128
+        "price": 1469
       }
     ]
   },
@@ -19834,6 +19847,14 @@ export const Products : PricingList[] = [
         name: "todos",
         code: "",
         price: 1890
+      },
+      {
+        brand: "silla",
+        class: "calzado",
+        gender: "hombre",
+        name: "bouling",
+        code: "",
+        price: 2590
       }
     ]
   },
@@ -19899,52 +19920,52 @@ export const Products : PricingList[] = [
     brand: 'skala',
     products: [
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "colgante lentes",
-        code: "",
-        price: 96
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "colgante lentes",
+        "code": "",
+        "price": 125
       },
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "cuello com",
-        code: "",
-        price: 299
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "cuello com",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "mag",
-        code: "",
-        price: 199
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "mag",
+        "code": "",
+        "price": 259
       },
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "manguita",
-        code: "",
-        price: 299
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "manguita",
+        "code": "",
+        "price": 390
       },
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "mascara",
-        code: "",
-        price: 324
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "mascara",
+        "code": "",
+        "price": 390
       },
       {
-        brand: "skala",
-        class: "accesorio",
-        gender: "unisex",
-        name: "riñonera running",
-        code: "",
-        price: 290
+        "brand": "skala",
+        "class": "accesorio",
+        "gender": "unisex",
+        "name": "riñonera running",
+        "code": "",
+        "price": 390
       }
     ]
   },
@@ -19970,7 +19991,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "media dama",
         "code": "da125b",
-        "price": 198
+        "price": 239
       },
       {
         "brand": "sox",
@@ -19978,7 +19999,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pantu",
         "code": "",
-        "price": 419
+        "price": 509
       },
       {
         "brand": "sox",
@@ -19986,7 +20007,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pantu",
         "code": "",
-        "price": 449
+        "price": 539
       },
       {
         "brand": "sox",
@@ -19994,7 +20015,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pantu",
         "code": "",
-        "price": 379
+        "price": 459
       },
       {
         "brand": "sox",
@@ -20002,7 +20023,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pantu caminante",
         "code": "",
-        "price": 339
+        "price": 409
       },
       {
         "brand": "sox",
@@ -20010,7 +20031,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pantu escarpin",
         "code": "",
-        "price": 319
+        "price": 389
       },
       {
         "brand": "sox",
@@ -20018,7 +20039,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "tripack escarpin",
         "code": "",
-        "price": 259
+        "price": 319
       },
       {
         "brand": "sox",
@@ -20026,7 +20047,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "tripack niño",
         "code": "",
-        "price": 269
+        "price": 329
       },
       {
         "brand": "sox",
@@ -20034,7 +20055,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media pack x2",
         "code": "da120c",
-        "price": 330
+        "price": 399
       },
       {
         "brand": "sox",
@@ -20042,7 +20063,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media",
         "code": "da165c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20050,7 +20071,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media",
         "code": "da170c",
-        "price": 99
+        "price": 119
       },
       {
         "brand": "sox",
@@ -20058,7 +20079,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media tripack",
         "code": "de01c",
-        "price": 250
+        "price": 299
       },
       {
         "brand": "sox",
@@ -20066,7 +20087,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media deportiva",
         "code": "de07a",
-        "price": 120
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20074,7 +20095,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de107c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20082,7 +20103,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "dama",
         "code": "de108c",
-        "price": 290
+        "price": 349
       },
       {
         "brand": "sox",
@@ -20090,7 +20111,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "hombre",
         "code": "de108c",
-        "price": 290
+        "price": 349
       },
       {
         "brand": "sox",
@@ -20098,7 +20119,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de130c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20106,7 +20127,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de131c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20114,7 +20135,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media caña corta",
         "code": "de132c",
-        "price": 120
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20122,7 +20143,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media dep",
         "code": "de133c",
-        "price": 144
+        "price": 179
       },
       {
         "brand": "sox",
@@ -20130,7 +20151,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de136",
-        "price": 190
+        "price": 229
       },
       {
         "brand": "sox",
@@ -20138,7 +20159,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de139a",
-        "price": 290
+        "price": 349
       },
       {
         "brand": "sox",
@@ -20146,7 +20167,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media",
         "code": "de140b",
-        "price": 120
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20154,7 +20175,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de144c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20162,7 +20183,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de145c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20170,7 +20191,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de146c",
-        "price": 189
+        "price": 229
       },
       {
         "brand": "sox",
@@ -20178,7 +20199,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de151c",
-        "price": 220
+        "price": 269
       },
       {
         "brand": "sox",
@@ -20186,7 +20207,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de158c",
-        "price": 129
+        "price": 159
       },
       {
         "brand": "sox",
@@ -20194,7 +20215,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de159c",
-        "price": 189
+        "price": 229
       },
       {
         "brand": "sox",
@@ -20202,7 +20223,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de165c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20210,7 +20231,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de170c",
-        "price": 99
+        "price": 119
       },
       {
         "brand": "sox",
@@ -20218,7 +20239,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "de69c",
-        "price": 119
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20226,7 +20247,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "soquete",
         "code": "de73a",
-        "price": 120
+        "price": 149
       },
       {
         "brand": "sox",
@@ -20234,7 +20255,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media",
         "code": "de93a",
-        "price": 144
+        "price": 179
       },
       {
         "brand": "sox",
@@ -20242,7 +20263,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "je08c",
-        "price": 129
+        "price": 159
       },
       {
         "brand": "sox",
@@ -20250,7 +20271,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media jean",
         "code": "je113c",
-        "price": 198
+        "price": 239
       },
       {
         "brand": "sox",
@@ -20258,7 +20279,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media jean",
         "code": "je120c",
-        "price": 198
+        "price": 239
       },
       {
         "brand": "sox",
@@ -20266,7 +20287,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media jean",
         "code": "je122c",
-        "price": 198
+        "price": 239
       },
       {
         "brand": "sox",
@@ -20274,7 +20295,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media jean",
         "code": "je123c",
-        "price": 144
+        "price": 179
       },
       {
         "brand": "sox",
@@ -20282,7 +20303,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "je126",
-        "price": 240
+        "price": 289
       },
       {
         "brand": "sox",
@@ -20290,7 +20311,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "je61c",
-        "price": 129
+        "price": 159
       },
       {
         "brand": "sox",
@@ -20298,7 +20319,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media jean",
         "code": "je91c",
-        "price": 144
+        "price": 179
       },
       {
         "brand": "sox",
@@ -20306,7 +20327,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media rayada",
         "code": "Jk126",
-        "price": 240
+        "price": 289
       },
       {
         "brand": "sox",
@@ -20314,7 +20335,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "la07",
-        "price": 220
+        "price": 269
       },
       {
         "brand": "sox",
@@ -20322,7 +20343,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media outdoor",
         "code": "te01 a 06a",
-        "price": 360
+        "price": 439
       },
       {
         "brand": "sox",
@@ -20330,7 +20351,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "te0107c",
-        "price": 270
+        "price": 329
       },
       {
         "brand": "sox",
@@ -20338,7 +20359,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "te124",
-        "price": 260
+        "price": 319
       },
       {
         "brand": "sox",
@@ -20346,7 +20367,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media ski larga",
         "code": "te17a",
-        "price": 360
+        "price": 439
       },
       {
         "brand": "sox",
@@ -20354,7 +20375,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "sky",
         "code": "te53",
-        "price": 320
+        "price": 389
       },
       {
         "brand": "sox",
@@ -20362,7 +20383,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "te55A",
-        "price": 320
+        "price": 389
       },
       {
         "brand": "sox",
@@ -20370,7 +20391,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "",
         "code": "te56A",
-        "price": 270
+        "price": 329
       },
       {
         "brand": "sox",
@@ -20378,7 +20399,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bipack outdoor p",
         "code": "",
-        "price": 360
+        "price": 439
       },
       {
         "brand": "sox",
@@ -20386,7 +20407,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "manguitas",
         "code": "",
-        "price": 499
+        "price": 599
       },
       {
         "brand": "sox",
@@ -20394,7 +20415,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media simple lisa",
         "code": "",
-        "price": 110
+        "price": 139
       },
       {
         "brand": "sox",
@@ -20402,7 +20423,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "polaina nordica",
         "code": "",
-        "price": 419
+        "price": 509
       },
       {
         "brand": "sox",
@@ -20410,7 +20431,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "primera piel",
         "code": "",
-        "price": 149
+        "price": 179
       }
     ]
   },
@@ -20418,140 +20439,140 @@ export const Products : PricingList[] = [
     brand: 'spirit',
     products: [
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "basic riñonera",
-        code: "7040",
-        price: 349
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "basic riñonera",
+        "code": "7040.",
+        "price": 450
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "expedition",
-        code: "m1150",
-        price: 2988
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "expedition",
+        "code": "m1150",
+        "price": 3890
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "freedom",
-        code: "",
-        price: 1020
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "freedom",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "glass",
-        code: "",
-        price: 1020
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "glass",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "max sprint",
-        code: "m1310",
-        price: 1188
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "max sprint",
+        "code": "m1310",
+        "price": 1500
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "s ultra",
-        code: "m1145",
-        price: 1620
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "s ultra",
+        "code": "m1145",
+        "price": 2100
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "s vulcano",
-        code: "m1126",
-        price: 1308
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "s vulcano",
+        "code": "m1126",
+        "price": 1700
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "spring riñonera",
-        code: "7060",
-        price: 588
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "spring riñonera",
+        "code": "7060.",
+        "price": 750
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "travel bolso",
-        code: "6050/6150",
-        price: 1188
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "travel bolso",
+        "code": "6050/6150",
+        "price": 1500
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "travel bolso",
-        code: "6040",
-        price: 990
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "travel bolso",
+        "code": "6040.",
+        "price": 1290
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "messenger",
-        code: "",
-        price: 799
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "messenger",
+        "code": "",
+        "price": 990
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "oustom",
-        code: "",
-        price: 1100
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "custom",
+        "code": "",
+        "price": 1450
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "blockbuster",
-        code: "",
-        price: 1150
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "blockbuster",
+        "code": "",
+        "price": 1490
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "box",
-        code: "",
-        price: 1469
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "box",
+        "code": "",
+        "price": 1900
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "pack",
-        code: "",
-        price: 1650
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "pack",
+        "code": "",
+        "price": 2100
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "ride",
-        code: "",
-        price: 920
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "ride",
+        "code": "",
+        "price": 1190
       },
       {
-        brand: "spirit",
-        class: "mochila",
-        gender: "unisex",
-        name: "baker",
-        code: "",
-        price: 920
+        "brand": "spirit",
+        "class": "mochila",
+        "gender": "unisex",
+        "name": "baker",
+        "code": "",
+        "price": 1190
       }
     ]
   },
@@ -20577,7 +20598,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "gorro shelpa trek",
         "code": "",
-        "price": 708
+        "price": 929
       },
       {
         "brand": "surfanic",
@@ -20585,7 +20606,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante cusay",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "surfanic",
@@ -20593,7 +20614,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante ferrer",
         "code": "",
-        "price": 1320
+        "price": 1719
       },
       {
         "brand": "surfanic",
@@ -20601,7 +20622,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante snapper",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "surfanic",
@@ -20609,7 +20630,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante snua",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "surfanic",
@@ -20617,7 +20638,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "guante swagger",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "surfanic",
@@ -20625,7 +20646,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "guante force",
         "code": "",
-        "price": 1668
+        "price": 2169
       },
       {
         "brand": "surfanic",
@@ -20633,7 +20654,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "media alta x 3",
         "code": "",
-        "price": 790
+        "price": 1029
       },
       {
         "brand": "surfanic",
@@ -20641,7 +20662,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "kelli camp alg f/z",
         "code": "",
-        "price": 2148
+        "price": 2799
       },
       {
         "brand": "surfanic",
@@ -20649,7 +20670,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "saints camp alg f/z",
         "code": "",
-        "price": 2388
+        "price": 3109
       },
       {
         "brand": "surfanic",
@@ -20657,7 +20678,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "asara jkt sky",
         "code": "",
-        "price": 6000
+        "price": 7799
       },
       {
         "brand": "surfanic",
@@ -20665,7 +20686,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "ashima jkt",
         "code": "",
-        "price": 9000
+        "price": 11699
       },
       {
         "brand": "surfanic",
@@ -20673,7 +20694,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "aurora jkt",
         "code": "",
-        "price": 6600
+        "price": 8579
       },
       {
         "brand": "surfanic",
@@ -20681,7 +20702,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "faro",
         "code": "",
-        "price": 6490
+        "price": 8439
       },
       {
         "brand": "surfanic",
@@ -20689,7 +20710,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "luna jkt",
         "code": "",
-        "price": 8040
+        "price": 10459
       },
       {
         "brand": "surfanic",
@@ -20697,7 +20718,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "lynx jkt",
         "code": "",
-        "price": 4290
+        "price": 5579
       },
       {
         "brand": "surfanic",
@@ -20705,7 +20726,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "nova",
         "code": "",
-        "price": 7800
+        "price": 10139
       },
       {
         "brand": "surfanic",
@@ -20713,7 +20734,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "palace",
         "code": "",
-        "price": 7800
+        "price": 10139
       },
       {
         "brand": "surfanic",
@@ -20721,7 +20742,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "sugar",
         "code": "",
-        "price": 6300
+        "price": 8189
       },
       {
         "brand": "surfanic",
@@ -20729,7 +20750,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "widow",
         "code": "",
-        "price": 9480
+        "price": 12329
       },
       {
         "brand": "surfanic",
@@ -20737,7 +20758,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "airwave jkt sky",
         "code": "",
-        "price": 6000
+        "price": 7799
       },
       {
         "brand": "surfanic",
@@ -20745,7 +20766,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "arma jkt",
         "code": "",
-        "price": 9000
+        "price": 11699
       },
       {
         "brand": "surfanic",
@@ -20753,7 +20774,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "baccus jkt",
         "code": "",
-        "price": 6708
+        "price": 8729
       },
       {
         "brand": "surfanic",
@@ -20761,7 +20782,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "clark jkt duvet",
         "code": "",
-        "price": 5400
+        "price": 7019
       },
       {
         "brand": "surfanic",
@@ -20769,7 +20790,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "dakota jkt",
         "code": "",
-        "price": 9000
+        "price": 11699
       },
       {
         "brand": "surfanic",
@@ -20777,7 +20798,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "flex pluma",
         "code": "",
-        "price": 4390
+        "price": 5709
       },
       {
         "brand": "surfanic",
@@ -20785,7 +20806,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "inferno jkt",
         "code": "",
-        "price": 9000
+        "price": 11699
       },
       {
         "brand": "surfanic",
@@ -20793,7 +20814,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "polar",
         "code": "",
-        "price": 4590
+        "price": 5969
       },
       {
         "brand": "surfanic",
@@ -20801,7 +20822,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "viper",
         "code": "",
-        "price": 7200
+        "price": 9359
       },
       {
         "brand": "surfanic",
@@ -20809,7 +20830,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "ada jkt jr +14",
         "code": "",
-        "price": 4320
+        "price": 5619
       },
       {
         "brand": "surfanic",
@@ -20817,7 +20838,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "ada jkt jr hasta 14",
         "code": "",
-        "price": 3960
+        "price": 5149
       },
       {
         "brand": "surfanic",
@@ -20825,7 +20846,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "ariel jkt",
         "code": "",
-        "price": 5880
+        "price": 7649
       },
       {
         "brand": "surfanic",
@@ -20833,7 +20854,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "baher",
         "code": "",
-        "price": 4400
+        "price": 5719
       },
       {
         "brand": "surfanic",
@@ -20841,7 +20862,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "baldo jkt",
         "code": "",
-        "price": 6588
+        "price": 8569
       },
       {
         "brand": "surfanic",
@@ -20849,7 +20870,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "barker down jr",
         "code": "",
-        "price": 3588
+        "price": 4669
       },
       {
         "brand": "surfanic",
@@ -20857,7 +20878,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "bazooka jr +14",
         "code": "",
-        "price": 4320
+        "price": 5619
       },
       {
         "brand": "surfanic",
@@ -20865,7 +20886,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "bazooka jr hasta 14",
         "code": "",
-        "price": 3960
+        "price": 5149
       },
       {
         "brand": "surfanic",
@@ -20873,7 +20894,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "cassim jkt",
         "code": "",
-        "price": 6588
+        "price": 8569
       },
       {
         "brand": "surfanic",
@@ -20881,7 +20902,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "drake jkt",
         "code": "",
-        "price": 6588
+        "price": 8569
       },
       {
         "brand": "surfanic",
@@ -20889,7 +20910,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "shores",
         "code": "",
-        "price": 4400
+        "price": 5719
       },
       {
         "brand": "surfanic",
@@ -20897,7 +20918,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "stubby",
         "code": "",
-        "price": 4200
+        "price": 5459
       },
       {
         "brand": "surfanic",
@@ -20905,7 +20926,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "atria",
         "code": "",
-        "price": 4428
+        "price": 5759
       },
       {
         "brand": "surfanic",
@@ -20913,7 +20934,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "attrack jkt softshell",
         "code": "",
-        "price": 3840
+        "price": 4999
       },
       {
         "brand": "surfanic",
@@ -20921,7 +20942,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "challenger softshell jkt",
         "code": "",
-        "price": 4320
+        "price": 5619
       },
       {
         "brand": "surfanic",
@@ -20929,7 +20950,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "pant ella",
         "code": "",
-        "price": 3480
+        "price": 4529
       },
       {
         "brand": "surfanic",
@@ -20937,7 +20958,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "micropolar dill h/z",
         "code": "",
-        "price": 1188
+        "price": 1549
       },
       {
         "brand": "surfanic",
@@ -20945,7 +20966,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "micropolar tucker h/z",
         "code": "",
-        "price": 1380
+        "price": 1799
       },
       {
         "brand": "surfanic",
@@ -20953,7 +20974,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "calley camiseta termica h/z",
         "code": "",
-        "price": 990
+        "price": 1289
       },
       {
         "brand": "surfanic",
@@ -20961,7 +20982,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "sussi camiseta termica bossa camuflada",
         "code": "",
-        "price": 960
+        "price": 1249
       },
       {
         "brand": "surfanic",
@@ -20969,7 +20990,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "jonah camiseta termica bossa",
         "code": "",
-        "price": 990
+        "price": 1289
       },
       {
         "brand": "surfanic",
@@ -20977,7 +20998,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zammo camiseta termica bossa",
         "code": "",
-        "price": 990
+        "price": 1289
       },
       {
         "brand": "surfanic",
@@ -20985,7 +21006,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "lockie camiseta termica niño bossa",
         "code": "",
-        "price": 684
+        "price": 889
       }
     ]
   },
@@ -22572,28 +22593,28 @@ export const Products : PricingList[] = [
     brand: 'tinsulate',
     products: [
       {
-        brand: "tinsulate",
-        class: "accesorio",
-        gender: "hombre",
-        name: "gorro coya tejido",
-        code: "",
-        price: 450
+        "brand": "tinsulate",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "gorro coya tejido",
+        "code": "",
+        "price": 590
       },
       {
-        brand: "tinsulate",
-        class: "accesorio",
-        gender: "hombre",
-        name: "gorro tejido",
-        code: "",
-        price: 390
+        "brand": "tinsulate",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "gorro tejido",
+        "code": "",
+        "price": 490
       },
       {
-        brand: "tinsulate",
-        class: "accesorio",
-        gender: "hombre",
-        name: "guantes",
-        code: "",
-        price: 390
+        "brand": "tinsulate",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "guantes",
+        "code": "",
+        "price": 490
       }
     ]
   },
@@ -22614,7 +22635,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "remera",
         code: "",
-        price: 300
+        price: 399
       }
     ]
   },

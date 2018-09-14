@@ -84,6 +84,10 @@ export const Brands = [
         "name": "calvin klein"
     },
     {
+        "id": "165",
+        "name": "campinox"
+    },
+    {
         "id": "69",
         "name": "cartujano"
     },
