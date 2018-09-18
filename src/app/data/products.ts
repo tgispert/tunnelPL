@@ -11048,108 +11048,108 @@ export const Products : PricingList[] = [
     brand: 'lee no lista',
     products: [
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "dama",
-        name: "engomado",
-        code: "",
-        price: 2290
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "engomado",
+        "code": "",
+        "price": 2490
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "dama",
-        name: "todos",
-        code: "",
-        price: 1990
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "todos",
+        "code": "",
+        "price": 2190
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1100",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1100",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1101",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1101",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1101",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1101",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1104",
-        price: 1890
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1104",
+        "price": 2100
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1104",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1104",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1104",
-        price: 1690
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1104",
+        "price": 1890
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1107",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1107",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1111",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1111",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "clasico",
-        code: "otros",
-        price: 1490
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "clasico",
+        "code": "otros",
+        "price": 1690
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "moda",
-        code: "otros",
-        price: 1990
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "moda",
+        "code": "otros",
+        "price": 2100
       },
       {
-        brand: "lee no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "engomado",
-        code: "",
-        price: 2290
+        "brand": "lee no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "engomado",
+        "code": "",
+        "price": 2490
       }
     ]
   },
@@ -24210,124 +24210,124 @@ export const Products : PricingList[] = [
     brand: 'ufo',
     products: [
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "dama",
-        name: "todos",
-        code: "",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "todos",
+        "code": "",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1104",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1104",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1104",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1104",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1104",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1104",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1105",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1105",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1105",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1105",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1105",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1105",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1106",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1106",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1106",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1106",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1107",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1107",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1107",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1107",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1107",
-        price: 1690
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1107",
+        "price": 1890
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1108",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1108",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "clascico",
-        code: "otros",
-        price: 1490
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "clascico",
+        "code": "otros",
+        "price": 1690
       },
       {
-        brand: "ufo",
-        class: "pantalon",
-        gender: "hombre",
-        name: "moda",
-        code: "otros",
-        price: 1890
+        "brand": "ufo",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "moda",
+        "code": "otros",
+        "price": 2100
       }
     ]
   },
@@ -24483,668 +24483,668 @@ export const Products : PricingList[] = [
     brand: 'vf',
     products: [
       {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "billetera",
-        code: "",
-        price: 750
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "boxer rebote",
-        code: "",
-        price: 430
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "boxer rib",
-        code: "",
-        price: 390
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "cinturon cuero",
-        code: "",
-        price: 670
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "cinturon soga",
-        code: "",
-        price: 630
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "cup",
-        code: "",
-        price: 708
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "media",
-        code: "",
-        price: 189
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "perfume",
-        code: "",
-        price: 588
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "slip",
-        code: "",
-        price: 359
-      },
-      {
-        brand: "vf",
-        class: "accesorio",
-        gender: "hombre",
-        name: "soquete x2",
-        code: "",
-        price: 350
-      },
-      {
-        brand: "vf",
-        class: "bermuda",
-        gender: "hombre",
-        name: "bermuda denim",
-        code: "",
-        price: 1990
-      },
-      {
-        brand: "vf",
-        class: "bermuda",
-        gender: "hombre",
-        name: "bermuda gabardina",
-        code: "",
-        price: 1990
-      },
-      {
-        brand: "vf",
-        class: "bermuda",
-        gender: "hombre",
-        name: "bermuda gabardina rev cargo",
-        code: "",
-        price: 1990
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "billetera",
+        "code": "",
+        "price": 750
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "boxer rebote",
+        "code": "",
+        "price": 599
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "boxer rib",
+        "code": "",
+        "price": 499
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "cinturon cuero",
+        "code": "",
+        "price": 989
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "cinturon soga",
+        "code": "",
+        "price": 630
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "cup",
+        "code": "",
+        "price": 750
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "media",
+        "code": "",
+        "price": 250
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "perfume",
+        "code": "",
+        "price": 750
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "slip",
+        "code": "",
+        "price": 459
+      },
+      {
+        "brand": "vf",
+        "class": "accesorio",
+        "gender": "hombre",
+        "name": "soquete x2",
+        "code": "",
+        "price": 450
+      },
+      {
+        "brand": "vf",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "bermuda denim",
+        "code": "",
+        "price": 2199
+      },
+      {
+        "brand": "vf",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "bermuda gabardina",
+        "code": "",
+        "price": 1990
+      },
+      {
+        "brand": "vf",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "bermuda gabardina rev cargo",
+        "code": "",
+        "price": 1990
       },
       {
-        brand: "vf",
-        class: "bermuda",
-        gender: "hombre",
-        name: "short de baño",
-        code: "",
-        price: 1788
+        "brand": "vf",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "short de baño",
+        "code": "",
+        "price": 1890
       },
       {
-        brand: "vf",
-        class: "blazer",
-        gender: "hombre",
-        name: "blazer corderoy",
-        code: "3990",
-        price: 4788
+        "brand": "vf",
+        "class": "blazer",
+        "gender": "hombre",
+        "name": "blazer corderoy",
+        "code": "3990",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "blazer",
-        gender: "hombre",
-        name: "blazer denim",
-        code: "",
-        price: 3948
+        "brand": "vf",
+        "class": "blazer",
+        "gender": "hombre",
+        "name": "blazer denim",
+        "code": "",
+        "price": 4790
       },
       {
-        brand: "vf",
-        class: "blazer",
-        gender: "hombre",
-        name: "blazer paño",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "blazer",
+        "gender": "hombre",
+        "name": "blazer paño",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "buzo",
-        gender: "hombre",
-        name: "buzo algodon",
-        code: "",
-        price: 2148
+        "brand": "vf",
+        "class": "buzo",
+        "gender": "hombre",
+        "name": "buzo algodon",
+        "code": "",
+        "price": 2590
       },
       {
-        brand: "vf",
-        class: "buzo",
-        gender: "hombre",
-        name: "buzo friza y lana",
-        code: "",
-        price: 2268
+        "brand": "vf",
+        "class": "buzo",
+        "gender": "hombre",
+        "name": "buzo friza y lana",
+        "code": "",
+        "price": 2690
       },
       {
-        brand: "vf",
-        class: "buzo",
-        gender: "hombre",
-        name: "campera algodon y cang",
-        code: "",
-        price: 2388
+        "brand": "vf",
+        "class": "buzo",
+        "gender": "hombre",
+        "name": "campera algodon y cang",
+        "code": "",
+        "price": 2790
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/c",
-        code: "",
-        price: 1690
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/c",
+        "code": "",
+        "price": 1850
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/c denim",
-        code: "",
-        price: 1790
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/c denim",
+        "code": "",
+        "price": 1879
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/l",
-        code: "",
-        price: 1890
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/l",
+        "code": "",
+        "price": 1979
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/l corderoy",
-        code: "",
-        price: 1890
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/l corderoy",
+        "code": "",
+        "price": 1979
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/l denim",
-        code: "",
-        price: 1890
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/l denim",
+        "code": "",
+        "price": 2190
       },
       {
-        brand: "vf",
-        class: "camisa",
-        gender: "hombre",
-        name: "camisa m/l viyela",
-        code: "",
-        price: 1890
+        "brand": "vf",
+        "class": "camisa",
+        "gender": "hombre",
+        "name": "camisa m/l viyela",
+        "code": "",
+        "price": 1979
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "dama",
-        name: "campera nylon dama",
-        code: "",
-        price: 4428
+        "brand": "vf",
+        "class": "campera",
+        "gender": "dama",
+        "name": "campera nylon dama",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "dama",
-        name: "jkt denim dama",
-        code: "",
-        price: 3468
+        "brand": "vf",
+        "class": "campera",
+        "gender": "dama",
+        "name": "jkt denim dama",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "dama",
-        name: "piloto dama",
-        code: "",
-        price: 4308
+        "brand": "vf",
+        "class": "campera",
+        "gender": "dama",
+        "name": "piloto dama",
+        "code": "",
+        "price": 4990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt simil cuero",
-        code: "3135-9002",
-        price: 3948
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt simil cuero",
+        "code": "3135-9002",
+        "price": 4590
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt gabardina",
-        code: "3197-4427",
-        price: 4308
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt gabardina",
+        "code": "3197-4427",
+        "price": 4990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "paño corto",
-        code: "3240-5247",
-        price: 4308
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "paño corto",
+        "code": "3240-5247",
+        "price": 4990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt nylon con pluma rev",
-        code: "3259-4423",
-        price: 4668
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt nylon con pluma rev",
+        "code": "3259-4423",
+        "price": 5590
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt gabardina",
-        code: "3273-1455",
-        price: 4308
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt gabardina",
+        "code": "3273-1455",
+        "price": 5490
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt nylon con pluma rev",
-        code: "3316-4422",
-        price: 4668
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt nylon con pluma rev",
+        "code": "3316-4422",
+        "price": 5590
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt nylon desm polar",
-        code: "3321-4428",
-        price: 4428
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt nylon desm polar",
+        "code": "3321-4428",
+        "price": 4990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "montgomery paño",
-        code: "3326-4009",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "montgomery paño",
+        "code": "3326-4009",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "parka desm",
-        code: "3335-1455",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "parka desm",
+        "code": "3335-1455",
+        "price": 5990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "parka",
-        code: "3336-1515",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "parka",
+        "code": "3336-1515",
+        "price": 5990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt nylon c/chaleco desm",
-        code: "3358-4423",
-        price: 5508
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt nylon c/chaleco desm",
+        "code": "3358-4423",
+        "price": 5990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt polar",
-        code: "7061-4894",
-        price: 2988
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt polar",
+        "code": "7061-4894",
+        "price": 3500
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera friza",
-        code: "7307-4491-77",
-        price: 2388
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera friza",
+        "code": "7307-4491-77",
+        "price": 2890
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "montgomery lana",
-        code: "7841-5246",
-        price: 3228
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "montgomery lana",
+        "code": "7841-5246",
+        "price": 3790
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera gab corta",
-        code: "",
-        price: 4308
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera gab corta",
+        "code": "",
+        "price": 4308
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera gab int desm",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera gab int desm",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera gab larga",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera gab larga",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera gab rev",
-        code: "",
-        price: 4428
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera gab rev",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera matelasse",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera matelasse",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera microf",
-        code: "",
-        price: 3948
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera microf",
+        "code": "",
+        "price": 4790
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera nylon mga desm",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera nylon mga desm",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera nylon rev",
-        code: "",
-        price: 3948
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera nylon rev",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera polar",
-        code: "",
-        price: 2148
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera polar",
+        "code": "",
+        "price": 2590
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "campera rev mga desm",
-        code: "",
-        price: 4788
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "campera rev mga desm",
+        "code": "",
+        "price": 5290
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt americana paño rev",
-        code: "",
-        price: 4428
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt americana paño rev",
+        "code": "",
+        "price": 4990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt corderoy",
-        code: "",
-        price: 3468
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt corderoy",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt denim c/abrigo",
-        code: "",
-        price: 3948
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt denim c/abrigo",
+        "code": "",
+        "price": 4790
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt denim engomada",
-        code: "",
-        price: 4188
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt denim engomada",
+        "code": "",
+        "price": 4890
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt denim mat",
-        code: "",
-        price: 3480
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt denim mat",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt denim spandex",
-        code: "",
-        price: 4188
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt denim spandex",
+        "code": "",
+        "price": 4890
       },
       {
-        brand: "vf",
-        class: "campera",
-        gender: "hombre",
-        name: "jkt denim sw",
-        code: "",
-        price: 3480
+        "brand": "vf",
+        "class": "campera",
+        "gender": "hombre",
+        "name": "jkt denim sw",
+        "code": "",
+        "price": 3990
       },
       {
-        brand: "vf",
-        class: "chaleco",
-        gender: "hombre",
-        name: "chaleco nylon",
-        code: "",
-        price: 3228
+        "brand": "vf",
+        "class": "chaleco",
+        "gender": "hombre",
+        "name": "chaleco nylon",
+        "code": "",
+        "price": 3590
       },
       {
-        brand: "vf",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba alg ray y lisa",
-        code: "",
-        price: 1100
+        "brand": "vf",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba alg ray y lisa",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "vf",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba lisa micropique",
-        code: "",
-        price: 869
+        "brand": "vf",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba lisa micropique",
+        "code": "",
+        "price": 989
       },
       {
-        brand: "vf",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba lisa pique",
-        code: "",
-        price: 869
+        "brand": "vf",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba lisa pique",
+        "code": "",
+        "price": 989
       },
       {
-        brand: "vf",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba m/l alg ray",
-        code: "",
-        price: 1188
+        "brand": "vf",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba m/l alg ray",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "vf",
-        class: "chomba",
-        gender: "hombre",
-        name: "chomba ray mic/pique",
-        code: "",
-        price: 1100
+        "brand": "vf",
+        "class": "chomba",
+        "gender": "hombre",
+        "name": "chomba ray mic/pique",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "vf",
-        class: "falda",
-        gender: "dama",
-        name: "falda",
-        code: "",
-        price: 1450
+        "brand": "vf",
+        "class": "falda",
+        "gender": "dama",
+        "name": "falda",
+        "code": "",
+        "price": 1750
       },
       {
-        brand: "vf",
-        class: "mochila",
-        gender: "hombre",
-        name: "bolso denim",
-        code: "",
-        price: 1068
+        "brand": "vf",
+        "class": "mochila",
+        "gender": "hombre",
+        "name": "bolso denim",
+        "code": "",
+        "price": 1290
       },
       {
-        brand: "vf",
-        class: "mochila",
-        gender: "hombre",
-        name: "bolso denim matero",
-        code: "",
-        price: 948
+        "brand": "vf",
+        "class": "mochila",
+        "gender": "hombre",
+        "name": "bolso denim matero",
+        "code": "",
+        "price": 1100
       },
       {
-        brand: "vf",
-        class: "pantalon",
-        gender: "hombre",
-        name: "pantalon cargo",
-        code: "",
-        price: 1599
+        "brand": "vf",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "pantalon cargo",
+        "code": "",
+        "price": 1920
       },
       {
-        brand: "vf",
-        class: "remera",
-        gender: "dama",
-        name: "musculosa algodon",
-        code: "",
-        price: 589
-      },
-      {
-        brand: "vf",
-        class: "remera",
-        gender: "hombre",
-        name: "remera m/c",
-        code: "",
-        price: 790
-      },
-      {
-        brand: "vf",
-        class: "remera",
-        gender: "hombre",
-        name: "remera m/l",
-        code: "",
-        price: 900
-      },
-      {
-        brand: "vf",
-        class: "remera",
-        gender: "hombre",
-        name: "remera pack x2",
-        code: "",
-        price: 899
-      },
-      {
-        brand: "vf",
-        class: "short",
-        gender: "dama",
-        name: "short dama",
-        code: "",
-        price: 1450
-      },
-      {
-        brand: "vf",
-        class: "sweater",
-        gender: "dama",
-        name: "cardigan punto dama",
-        code: "",
-        price: 2388
-      },
-      {
-        brand: "vf",
-        class: "sweater",
-        gender: "hombre",
-        name: "cardigan punto",
-        code: "",
-        price: 3108
-      },
-      {
-        brand: "vf",
-        class: "sweater",
-        gender: "hombre",
-        name: "polera punto",
-        code: "",
-        price: 2388
-      },
-      {
-        brand: "vf",
-        class: "sweater",
-        gender: "hombre",
-        name: "sweater punto",
-        code: "",
-        price: 2388
-      },
-      {
-        brand: "vf",
-        class: "vestido",
-        gender: "dama",
-        name: "enteritos y vestidos denim",
-        code: "",
-        price: 2748
-      },
-      {
-        brand: "vf",
-        class: "vestido",
-        gender: "dama",
-        name: "solero broderi",
-        code: "",
-        price: 2988
-      },
-      {
-        brand: "vf",
-        class: "vestido",
-        gender: "dama",
-        name: "vestido corto",
-        code: "",
-        price: 2388
-      },
-      {
-        brand: "vf",
-        class: "vestido",
-        gender: "dama",
-        name: "vestido largo",
-        code: "",
-        price: 2748
+        "brand": "vf",
+        "class": "remera",
+        "gender": "dama",
+        "name": "musculosa algodon",
+        "code": "",
+        "price": 690
+      },
+      {
+        "brand": "vf",
+        "class": "remera",
+        "gender": "hombre",
+        "name": "remera m/c",
+        "code": "",
+        "price": 950
+      },
+      {
+        "brand": "vf",
+        "class": "remera",
+        "gender": "hombre",
+        "name": "remera m/l",
+        "code": "",
+        "price": 1100
+      },
+      {
+        "brand": "vf",
+        "class": "remera",
+        "gender": "hombre",
+        "name": "remera pack x2",
+        "code": "",
+        "price": 990
+      },
+      {
+        "brand": "vf",
+        "class": "short",
+        "gender": "dama",
+        "name": "short dama",
+        "code": "",
+        "price": 1790
+      },
+      {
+        "brand": "vf",
+        "class": "sweater",
+        "gender": "dama",
+        "name": "cardigan punto dama",
+        "code": "",
+        "price": 2890
+      },
+      {
+        "brand": "vf",
+        "class": "sweater",
+        "gender": "hombre",
+        "name": "cardigan punto",
+        "code": "",
+        "price": 3690
+      },
+      {
+        "brand": "vf",
+        "class": "sweater",
+        "gender": "hombre",
+        "name": "polera punto",
+        "code": "",
+        "price": 2990
+      },
+      {
+        "brand": "vf",
+        "class": "sweater",
+        "gender": "hombre",
+        "name": "sweater punto",
+        "code": "",
+        "price": 2890
+      },
+      {
+        "brand": "vf",
+        "class": "vestido",
+        "gender": "dama",
+        "name": "enteritos y vestidos denim",
+        "code": "",
+        "price": 3190
+      },
+      {
+        "brand": "vf",
+        "class": "vestido",
+        "gender": "dama",
+        "name": "solero broderi",
+        "code": "",
+        "price": 3290
+      },
+      {
+        "brand": "vf",
+        "class": "vestido",
+        "gender": "dama",
+        "name": "vestido corto",
+        "code": "",
+        "price": 3290
+      },
+      {
+        "brand": "vf",
+        "class": "vestido",
+        "gender": "dama",
+        "name": "vestido largo",
+        "code": "",
+        "price": 3290
       }
     ]
   },
@@ -25218,156 +25218,156 @@ export const Products : PricingList[] = [
     brand: 'wrangler no lista',
     products: [
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "dama",
-        name: "todos",
-        code: "",
-        price: 1890
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "dama",
+        "name": "todos",
+        "code": "",
+        "price": 2290
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim clasico",
-        code: "1102",
-        price: 1299
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim clasico",
+        "code": "1102",
+        "price": 1529
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim respirable",
-        code: "1102",
-        price: 1690
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim respirable",
+        "code": "1102",
+        "price": 1800
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim spandex",
-        code: "1102",
-        price: 1890
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim spandex",
+        "code": "1102",
+        "price": 2000
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1102",
-        price: 1690
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1102",
+        "price": 1800
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1104",
-        price: 1690
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1104",
+        "price": 1800
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1104",
-        price: 1490
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1104",
+        "price": 1690
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "corderoy",
-        code: "1105",
-        price: 1690
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "corderoy",
+        "code": "1105",
+        "price": 1800
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1105",
-        price: 1490
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1105",
+        "price": 1690
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1105",
-        price: 1690
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1105",
+        "price": 1800
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim",
-        code: "1106",
-        price: 1990
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim",
+        "code": "1106",
+        "price": 2100
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "gabardina",
-        code: "1106",
-        price: 1890
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "gabardina",
+        "code": "1106",
+        "price": 2000
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "cody gabardina",
-        code: "1108",
-        price: 1790
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "cody gabardina",
+        "code": "1108",
+        "price": 1900
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim clasico",
-        code: "1108",
-        price: 1790
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim clasico",
+        "code": "1108",
+        "price": 1900
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim respirable y moda",
-        code: "1108",
-        price: 1990
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim respirable y moda",
+        "code": "1108",
+        "price": 2100
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim varios",
-        code: "1140",
-        price: 1990
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim varios",
+        "code": "1140",
+        "price": 2100
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "clasico",
-        code: "otros",
-        price: 1490
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "clasico",
+        "code": "otros",
+        "price": 1690
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "moda",
-        code: "otros",
-        price: 1990
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "moda",
+        "code": "otros",
+        "price": 2100
       },
       {
-        brand: "wrangler no lista",
-        class: "pantalon",
-        gender: "hombre",
-        name: "denim impermeable",
-        code: "",
-        price: 2290
+        "brand": "wrangler no lista",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "denim impermeable",
+        "code": "",
+        "price": 2490
       }
     ]
   },
