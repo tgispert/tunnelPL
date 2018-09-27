@@ -6824,148 +6824,148 @@ export const Products : PricingList[] = [
     brand: 'crocs',
     products: [
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "band kids",
-        code: "",
-        price: 640
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "band kids",
+        "code": "",
+        "price": 832
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "band sandalia niño",
-        code: "",
-        price: 1265
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "band sandalia niño",
+        "code": "",
+        "price": 820
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "kids tortugas ninja y otros",
-        code: "",
-        price: 989
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "kids tortugas ninja y otros",
+        "code": "",
+        "price": 1405
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "niño y junior hasta M3/W5",
-        code: "",
-        price: 445
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "niño y junior hasta M3/W5",
+        "code": "",
+        "price": 589
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "piel jr",
-        code: "",
-        price: 679
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "piel jr",
+        "code": "",
+        "price": 780
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "sport glog importada kids",
-        code: "",
-        price: 979
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "sport glog importada kids",
+        "code": "",
+        "price": 1405
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "niño",
-        name: "sport glog nacional kids",
-        code: "",
-        price: 726
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "sport glog nacional kids",
+        "code": "",
+        "price": 850
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "band leopardo",
-        code: "",
-        price: 875
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "band leopardo",
+        "code": "",
+        "price": 1289
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "baya",
-        code: "",
-        price: 699
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "baya",
+        "code": "",
+        "price": 869
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "baya flip",
-        code: "",
-        price: 455
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "baya flip",
+        "code": "",
+        "price": 655
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "classic",
-        code: "",
-        price: 618
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "classic",
+        "code": "",
+        "price": 819
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "mocasin santa cruz",
-        code: "",
-        price: 1080
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "mocasin santa cruz",
+        "code": "",
+        "price": 1759
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "piel",
-        code: "",
-        price: 779
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "piel",
+        "code": "",
+        "price": 890
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "pin",
-        code: "",
-        price: 89
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "pin",
+        "code": "",
+        "price": 99
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "sport glog importada",
-        code: "",
-        price: 1199
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "sport glog importada",
+        "code": "",
+        "price": 1300
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "sport glog nacional",
-        code: "",
-        price: 858
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "sport glog nacional",
+        "code": "",
+        "price": 990
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "walu",
-        code: "",
-        price: 1255
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "walu",
+        "code": "",
+        "price": 1759
       },
       {
-        brand: "crocs",
-        class: "calzado",
-        gender: "unisex",
-        name: "yukon",
-        code: "",
-        price: 1199
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "yukon",
+        "code": "",
+        "price": 1399
       }
     ]
   },
@@ -9713,372 +9713,372 @@ export const Products : PricingList[] = [
     brand: 'havaianas',
     products: [
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "niño",
-        name: "kids",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "kids",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "niño",
-        name: "kids football",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "niño",
+        "name": "kids football",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "*hight metallic",
-        code: "",
-        price: 690
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "bamboo",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "bamboo",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "beach",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "beach",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "color",
+        "code": "",
+        "price": 285
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "color",
-        code: "",
-        price: 270
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "color mix",
+        "code": "",
+        "price": 285
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "color mix",
-        code: "",
-        price: 270
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "cool",
+        "code": "",
+        "price": 285
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "cool",
-        code: "",
-        price: 270
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "dragon",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "dragon",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "fit",
+        "code": "",
+        "price": 590
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "fit",
-        code: "",
-        price: 590
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash hit",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash hit",
-        code: "",
-        price: 390
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash sweet",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash sweet",
-        code: "",
-        price: 390
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash tresse",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash tresse",
-        code: "",
-        price: 390
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash urban",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash urban",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash urban fresh",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash urban fresh",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash way",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash way",
-        code: "",
-        price: 390
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "flash way metal",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "flash way metal",
-        code: "",
-        price: 390
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "floral gypsy",
+        "code": "",
+        "price": 390
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "floral gypsy",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "grace",
+        "code": "",
+        "price": 550
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "grace",
-        code: "",
-        price: 520
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "high fashion",
+        "code": "",
+        "price": 859
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "high fashion",
-        code: "",
-        price: 790
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "high light",
+        "code": "",
+        "price": 750
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "high light",
-        code: "",
-        price: 690
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "high metallic",
+        "code": "",
+        "price": 820
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "joy",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "joy",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "leaves",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "leaves",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "metallic",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "metallic",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "metallic stripes",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "metallic stripes",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "power",
-        code: "",
-        price: 590
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "power",
+        "code": "",
+        "price": 650
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim",
+        "code": "",
+        "price": 419
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim animals",
-        code: "",
-        price: 420
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim animals",
+        "code": "",
+        "price": 449
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim butterfly",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim butterfly",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim cool",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim cool",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim fashion",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim fashion",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim poise",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim poise",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim season",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim season",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "slim trendy",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "slim trendy",
+        "code": "",
+        "price": 439
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "spirit",
-        code: "",
-        price: 420
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "spirit",
+        "code": "",
+        "price": 390
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "spring",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "spring",
+        "code": "",
+        "price": 299
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "style",
-        code: "",
-        price: 290
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "style",
+        "code": "",
+        "price": 320
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "summer",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "summer",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "sunny",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "sunny",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "surf",
-        code: "",
-        price: 450
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "surf",
+        "code": "",
+        "price": 490
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "team argentina",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "team argentina",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "trail",
-        code: "",
-        price: 320
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "trail",
+        "code": "",
+        "price": 350
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "trendy",
-        code: "",
-        price: 399
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "trendy",
+        "code": "",
+        "price": 420
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "urban",
-        code: "",
-        price: 490
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "urban",
+        "code": "",
+        "price": 490
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "urban style",
-        code: "",
-        price: 620
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "urban style",
+        "code": "",
+        "price": 750
       },
       {
-        brand: "havaianas",
-        class: "calzado",
-        gender: "unisex",
-        name: "wind",
-        code: "",
-        price: 550
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "wind",
+        "code": "",
+        "price": 650
       }
     ]
   },
@@ -19908,23 +19908,23 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "bota cata",
         "code": "",
-        "price": 990
+        "price": 1265
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "dama",
         "name": "daniela",
-        "code": "370",
-        "price": 789
+        "code": "370.",
+        "price": 1265
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "dama",
         "name": "marigot",
-        "code": "210",
-        "price": 209
+        "code": "210.",
+        "price": 299
       },
       {
         "brand": "seawalk",
@@ -19932,31 +19932,31 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "piel",
         "code": "",
-        "price": 450
+        "price": 540
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "dama",
         "name": "seaband puntera",
-        "code": "260",
-        "price": 399
+        "code": "260.",
+        "price": 539
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "dama",
         "name": "sueco",
-        "code": "200",
-        "price": 249
+        "code": "200.",
+        "price": 340
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "hombre",
         "name": "peter",
-        "code": "750",
-        "price": 219
+        "code": "750.",
+        "price": 299
       },
       {
         "brand": "seawalk",
@@ -19964,23 +19964,23 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "piel",
         "code": "",
-        "price": 450
+        "price": 590
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "hombre",
         "name": "seaband puntera",
-        "code": "270",
-        "price": 399
+        "code": "270.",
+        "price": 610
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "hombre",
         "name": "sueco",
-        "code": "300",
-        "price": 249
+        "code": "300.",
+        "price": 380
       },
       {
         "brand": "seawalk",
@@ -19988,7 +19988,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "piel",
         "code": "",
-        "price": 350
+        "price": 489
       },
       {
         "brand": "seawalk",
@@ -19996,15 +19996,15 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "seaband",
         "code": "",
-        "price": 329
+        "price": 390
       },
       {
         "brand": "seawalk",
         "class": "calzado",
         "gender": "niño",
         "name": "sueco",
-        "code": "100",
-        "price": 219
+        "code": "100.",
+        "price": 299
       }
     ]
   },
