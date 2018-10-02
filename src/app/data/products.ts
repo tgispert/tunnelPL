@@ -14076,7 +14076,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "adventure zapa",
         "code": "",
-        "price": 2329
+        "price": 2100
       },
       {
         "brand": "nexxt",
@@ -14084,7 +14084,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance pro zapa",
         "code": "",
-        "price": 2329
+        "price": 2150
       },
       {
         "brand": "nexxt",
@@ -14092,7 +14092,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance zapa",
         "code": "",
-        "price": 2329
+        "price": 2100
       },
       {
         "brand": "nexxt",
@@ -14108,7 +14108,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "khumbu",
         "code": "",
-        "price": 2459
+        "price": 2270
       },
       {
         "brand": "nexxt",
@@ -14116,7 +14116,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pro shell zapa",
         "code": "",
-        "price": 2589
+        "price": 2350
       },
       {
         "brand": "nexxt",
@@ -14132,7 +14132,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "adventure zapa",
         "code": "",
-        "price": 2459
+        "price": 2250
       },
       {
         "brand": "nexxt",
@@ -14140,7 +14140,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "broad xt mid",
         "code": "",
-        "price": 4159
+        "price": 3850
       },
       {
         "brand": "nexxt",
@@ -14148,7 +14148,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "endurance zapa",
         "code": "",
-        "price": 2339
+        "price": 2150
       },
       {
         "brand": "nexxt",
@@ -14156,7 +14156,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "huapi mid",
         "code": "",
-        "price": 3249
+        "price": 2700
       },
       {
         "brand": "nexxt",
@@ -14172,7 +14172,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "manaslu xt mid",
         "code": "",
-        "price": 3889
+        "price": 3490
       },
       {
         "brand": "nexxt",
@@ -14180,7 +14180,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro shell zapa",
         "code": "",
-        "price": 2589
+        "price": 2350
       },
       {
         "brand": "nexxt",
@@ -14188,7 +14188,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "terrain pro zapa",
         "code": "",
-        "price": 2589
+        "price": 2350
       },
       {
         "brand": "nexxt",
@@ -14204,7 +14204,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "xtrail 1/2 mid",
         "code": "",
-        "price": 2759
+        "price": 2550
       },
       {
         "brand": "nexxt",
@@ -25375,7 +25375,7 @@ export const Products : PricingList[] = [
     brand: 'wrangler',
     products: [
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO WRANGLER PANT DENIM ELASTANO S.W",
@@ -25383,79 +25383,79 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA O.15 DESTROYED",
         "code": "1102-0765-86",
-        "price": 1529
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA O.D 15 SW",
         "code": "1102-0765-94",
-        "price": 1529
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA DENIM BLACK NEGRO",
         "code": "1102-1012-96",
-        "price": 1809
+        "price": 1939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA ADVANCED EXTRA COMFORT DENIM C/",
         "code": "1102-1030-80",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONT BLU.BL.S.W",
         "code": "1102-1042-94",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA COAL BLACK PREWASHED",
         "code": "1102-1057-79",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA OVERFIXED DIRTY S.W.LOCALIZADO",
         "code": "1102-1059-95",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA POPLIN POPLIN MICROESMERILADO AZ",
         "code": "1102-1078-38",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA POPLIN POPLIN MICROESMERILADO BE",
         "code": "1102-1078-41",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA POPLIN POPLIN MICROESMERILADO VE",
@@ -25463,7 +25463,7 @@ export const Products : PricingList[] = [
         "price": 1869
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA POPLIN POPLIN MICROESMERILADO NE",
@@ -25471,111 +25471,111 @@ export const Products : PricingList[] = [
         "price": 1869
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA DENIM INTENSE BLUE INDIGO",
         "code": "1102-1088-95",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA NEW CAST NEW CAST KHAKY",
         "code": "1102-1123-43",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA NEW CAST NEW CAST VERDE MUSGO",
         "code": "1102-1123-63",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA NEW CAST NEW CAST GRIS PLOMO",
         "code": "1102-1123-77",
-        "price": 1809
+        "price": 1929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA ADV. EXTRA COMF.BLACK SUAV.",
         "code": "1102-1209-80",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA COMFORT DENIM ELASTANO DARK S.W",
         "code": "1102-1266-84",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA COMFORT DEN ELAS DIRTY BLUE WASH",
         "code": "1102-1266-89",
-        "price": 2199
+        "price": 2139
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONTANA KOOLTEX DENIM ELAS MED BLUE WASH",
         "code": "1102-1267-94",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CODY COMFORT DENIM ELASTANO LIGHT S.W",
         "code": "1108-1294-92",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CODY COMFORT DENIM ELAST STREET MEDWASH",
         "code": "1108-1294-94",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CODY KOOLTEX DENIM ELAST DARK BLUE WASH",
         "code": "1108-1295-84",
-        "price": 2089
+        "price": 2249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON 1947 DENIM 11OZ.BLUE VINTAGE",
         "code": "1140-1108-37",
-        "price": 2139
+        "price": 2289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON 1947 BLUE DENIM 10OZ BLUE WASH",
         "code": "1140-1108-89",
-        "price": 2139
+        "price": 2289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON - DENIM ELASTANO DARK BLUE WASH",
@@ -25583,103 +25583,103 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON - DENIM ELASTANO LIGHT S.W",
         "code": "1140-1116-92",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON - MD DENIM ELASTANO MEDIUM WASH",
         "code": "1140-1116-94",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON - DENIM ELAST DIRTY GREEN WASH",
         "code": "1140-1116-95",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON ADV EXTRA COMF JER DEN ST LOC",
         "code": "1140-1276-85",
-        "price": 2419
+        "price": 2619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON AD EXTRA COMF JER DEN DARK S.W",
         "code": "1140-1276-95",
-        "price": 2419
+        "price": 2619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON REPREVE- DENIM ELASTANO INDIGO",
         "code": "1140-1497-94",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON MEDIUM BLUE DENIM ELAST ST LOC",
         "code": "1140-1740-85",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON LIGHT DENIM ELASTANO LIGHT LOC",
         "code": "1140-1740-86",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROCKTON DIRTY BLUE DEN ELAST USED WASH",
         "code": "1140-1740-96",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHINO PANT GABARDINA ELASTANO INDIGO",
         "code": "1177-1457-36",
-        "price": 2309
+        "price": 2459
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHINO PANT GABARDINA ELASTANO KHAKY",
         "code": "1177-1457-42",
-        "price": 2309
+        "price": 2459
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHINO PANT GABARDINA ELASTANO LGHT GREEN",
         "code": "1177-1457-62",
-        "price": 2309
+        "price": 2459
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL DENIM PANT ELASTANO DARK S.W",
@@ -25687,47 +25687,47 @@ export const Products : PricingList[] = [
         "price": 2529
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE ADV ACTIVE SOFT DENIM ELAST DARK",
         "code": "1200-1208-84",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE ADV ACTIVE SOFT DEN ELAST MID ST",
         "code": "1200-1208-95",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE REPREVE - DENIM DARK VINTAGE",
         "code": "1200-1209-81",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE KOOLTEX DENIM ELAS MED STONE LOC",
         "code": "1200-1210-95",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE BL GABARDINA NEGRO",
         "code": "1200-1455-79",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICOLE RW DENIM INDIGO",
@@ -25735,31 +25735,31 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOM FIT DENIM ELASTANO STONE WASH",
         "code": "1202-1213-94",
-        "price": 2419
+        "price": 2569
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOM FIT ROTURAS DENIM ELASTANO BLUE S.W",
         "code": "1202-1213-95",
-        "price": 2419
+        "price": 2569
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DREW II DENIM ELASTANO MEDIUM STONE",
         "code": "1203-1208-95",
-        "price": 2419
+        "price": 2569
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA CROPPED SOFT DENIM ELAST VINTAGE",
@@ -25767,15 +25767,15 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA ROTURAS B DENIM ELAST HEAVY S.W",
         "code": "1212-1297-93",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA SHAPE KEEPER - DENIM ELAST BLACK",
@@ -25783,55 +25783,55 @@ export const Products : PricingList[] = [
         "price": 2639
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA SHAPE KEEPER DEN ELAST ULTRA DARK",
         "code": "1212-1298-81",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA REPREVE- DENIM ELAST BLUE INDIGO",
         "code": "1212-1299-94",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA DENIM ELASTANO BLEACH WASH",
         "code": "1212-1302-86",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BIANCA DENIM ELASTANO MID BLUE",
         "code": "1212-1302-94",
-        "price": 2419
+        "price": 2589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LIA EXTRA COMFORT DENIM ELAST STONE DARK",
         "code": "1242-1197-84",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LIA EXTRA COMFORT DENIM ELAST BLUE LIGHT",
         "code": "1242-1197-92",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LEGGING POWER PUNTO ROMA PIACENZA NEGRO",
@@ -25839,23 +25839,23 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MISSOURI DENIM INTENSE PRE WASHED+SILIC",
         "code": "1257-1043-80",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MISSOURI DENIM LINET MEGA BCK ENZIMÁTICO",
         "code": "1257-1143-79",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MISSOURI DENIM ELASTANO S.W LOCALIZADO",
@@ -25863,7 +25863,7 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MANDY DENIM C/ELAST.DIRTY STONE WASH",
@@ -25871,31 +25871,31 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MANDY DENIM INTENSE PRE WASHED SILIC",
         "code": "1278-1043-80",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MANDY DENIM C/ ELASTANO INDIGO",
         "code": "1278-1206-94",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MANDY DENIM ELASTANO LIGHT STONE WASH",
         "code": "1278-1207-92",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON ORIGINAL DEN ELASTANO BLUE WHITE",
@@ -25903,15 +25903,15 @@ export const Products : PricingList[] = [
         "price": 2639
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON REPREVE DENIM ELAST MEDIUM STONE",
         "code": "1301-1188-95",
-        "price": 2749
+        "price": 2939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON ADV COOLMAX DEN ELAST STONE GREEN",
@@ -25919,15 +25919,15 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON ADV ACTIVE SOFT DEN FADED BLUE W.",
         "code": "1301-1189-94",
-        "price": 2749
+        "price": 2939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON ROTURAS DEN ELAS HEAVY BLACK WASH",
@@ -25935,127 +25935,127 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON - BLK R DENIM ELASTANO BLACK",
         "code": "1301-1697-84",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON - LT DENIM ELASTANO LIGHT WASH",
         "code": "1301-1698-92",
-        "price": 2309
+        "price": 2469
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DEYTON - DENIM ELASTANO VINTAGE MID BLUE",
         "code": "1301-1698-95",
-        "price": 2309
+        "price": 2469
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARNON DENIM RIGIDO LIGHT LOCALIZADO",
         "code": "1303-1695-92",
-        "price": 1319
+        "price": 1279
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARNON DENIM RIGIDO STREET LOCALIZADO",
         "code": "1303-1695-95",
-        "price": 1319
+        "price": 1279
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL FLAP PANT GABARDINA AZUL",
         "code": "1308-4650-37",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL FLAP PANT GABARDINA LIGHT KHAKY",
         "code": "1308-4650-42",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL FLAP PANT GABARDINA VDE GRISACEO",
         "code": "1308-4650-66",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON ADV ACTIVE SFT DEN E. LIGHT BLUE",
         "code": "1337-1194-92",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON ADV COOLMAX DEN ELAS STONE LIGHT",
         "code": "1337-1194-94",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON REPREVE DEN ELAST MID VNTGE WASH",
         "code": "1337-1195-95",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON DG DENIM ELAST DIRTY GREEN WASH",
         "code": "1337-1207-89",
-        "price": 2419
+        "price": 2569
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON BLANCO GABARDINA ELASTANO",
         "code": "1337-1497-02",
-        "price": 2419
+        "price": 2569
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON COLOR GABARDINA ELASTANO MOSTAZA",
         "code": "1337-1497-46",
-        "price": 1979
+        "price": 2139
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON ADV EXTRA COMFORT JER DEN DK LOC",
         "code": "1337-1643-84",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON ADV EXTRA COMF JER DEN BLK GAST",
@@ -26063,23 +26063,23 @@ export const Products : PricingList[] = [
         "price": 2639
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON - DK DENIM ELASTANO DARK",
         "code": "1337-1655-84",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LARSTON - UW DENIM ELASTANO USED WASH",
         "code": "1337-1655-95",
-        "price": 1869
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKSVILLE ORIGINAL DEN ELAST VINT LIGHT",
@@ -26087,15 +26087,15 @@ export const Products : PricingList[] = [
         "price": 2529
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKSVILLE ADV ACTIVE SOFT DEN BLUE S.W",
         "code": "1341-1191-94",
-        "price": 2639
+        "price": 2819
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKSVILLE REPREVE DEN ELAST DRK VINTAGE",
@@ -26103,71 +26103,71 @@ export const Products : PricingList[] = [
         "price": 2639
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILITARY CARGO TWILL SAND",
         "code": "1503-1076-40",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILITARY CARGO TWILL MILITAR GREEN",
         "code": "1503-1076-68",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILITARY CARGO TWILL GREY",
         "code": "1503-1076-77",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILITARY CARGO TWILL BLACK ENZYME WASH",
         "code": "1503-1076-79",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLYNN PLAIN BOARDSHORT NYLON NARANJA",
         "code": "2000-4412-10",
-        "price": 1529
+        "price": 1549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLYNN PLAIN BOARDSHORT NYLON CELESTE",
         "code": "2000-4412-25",
-        "price": 1529
+        "price": 1549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLYNN PLAIN BOARDSHORT NYLON AZ FRANCIA",
         "code": "2000-4412-37",
-        "price": 1529
+        "price": 1549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLYNN PLAIN BOARDSHORT NYLON ROJO",
         "code": "2000-4412-55",
-        "price": 1529
+        "price": 1549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COLE DEGRADE BOARDSHORT 4-WAY STRCH NEG",
@@ -26175,7 +26175,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HAWAII BOARDSHORT MICROFIBRA NEGRO",
@@ -26183,7 +26183,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PALMS BOARDSHORT MICROFIBRA CRUDO + AERO",
@@ -26191,7 +26191,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK CARGO BERMUDA GABARDINA ARENA",
@@ -26199,7 +26199,7 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK CARGO BERMUDA GABARDINA BORDO",
@@ -26207,7 +26207,7 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK CARGO BERMUDA GAB VERDE MILITAR",
@@ -26215,7 +26215,7 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK CARGO BERMUDA GABARDINA NEGRO",
@@ -26223,7 +26223,7 @@ export const Products : PricingList[] = [
         "price": 2089
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LUCKY BERMUDA GABARDINA CAMUFLADO",
@@ -26231,7 +26231,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO BERMUDA DENIM ELASTANO S.W SILIC",
@@ -26239,7 +26239,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO BERMUDA DENIM ELASTANO S.W SILIC",
@@ -26247,7 +26247,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FRANKIE SKIRT DENIM ENGOMADO BLACK",
@@ -26255,31 +26255,31 @@ export const Products : PricingList[] = [
         "price": 1759
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERMUDA KOOLTEX CMFRT DEN ELAS S.W SILIC",
         "code": "2158-1935-86",
-        "price": 2139
+        "price": 2149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERMUDA KOOLTEX CMFRT DEN ELAS S.W SILIC",
         "code": "2158-1935-95",
-        "price": 2139
+        "price": 2149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLOWER DRESS TELA PLANA ROJO",
         "code": "2257-5963-55",
-        "price": 2969
+        "price": 2999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LOVE DRESS TELA PLANA NEGRO",
@@ -26287,55 +26287,55 @@ export const Products : PricingList[] = [
         "price": 3299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MISHA SHORT DENIM GARMENT WASH",
         "code": "2262-1241-79",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BATIK SHORT I DENIM BATIK",
         "code": "2263-1242-71",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BATIK SHORT II DENIM GARMENT WASH",
         "code": "2263-1243-02",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BATIK SHORT DENIM STONE WASH SILICONADO",
         "code": "2263-1244-36",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO SKIRT DENIM STONE WASH+SILICONADO",
         "code": "2264-1245-36",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO SKIRT I DENIM SOBRETEÑIDO",
         "code": "2264-1245-55",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW YEAR DRESS TELA PLANA BLANCO",
@@ -26343,39 +26343,39 @@ export const Products : PricingList[] = [
         "price": 3299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO BUTTON SHORT DENIM S.W SILICONADO",
         "code": "2266-1240-02",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO BUTTON SHORT I DENIM S.W SILIC",
         "code": "2266-1240-36",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BESTON BERMUDA GABARDINA BLUE ICE",
         "code": "2304-1455-35",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BESTON BERMUDA GABARDINA AZUL MARINO",
         "code": "2304-1455-38",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERMUDA ADV EXTRA COMF JERS DEN DRK ST",
@@ -26383,7 +26383,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERMUDA ADV EXTRA COMF JERS DEN ST LOC",
@@ -26391,31 +26391,31 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM DRESS TENSEL SUAVIZADO",
         "code": "2400-5971-36",
-        "price": 3239
+        "price": 3249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NELLY BASIC SKIRT DENIM SW+SILICONADO",
         "code": "2438-1226-95",
-        "price": 1979
+        "price": 2119
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NELLY BASIC SKIRT DENIM SUAVIZADO",
         "code": "2438-1299-02",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHARLY REVER JACKET MICROF RES AL AGUA",
@@ -26423,7 +26423,7 @@ export const Products : PricingList[] = [
         "price": 4399
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM JACKET ELASTANO BLEACH HEAVY WASH",
@@ -26431,7 +26431,7 @@ export const Products : PricingList[] = [
         "price": 4069
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM REPREVE JACKET M MID BLUE WASH",
@@ -26439,7 +26439,7 @@ export const Products : PricingList[] = [
         "price": 4179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PHIL ADV BOMBER NYLON BORDEAUX/CELESTE",
@@ -26447,7 +26447,7 @@ export const Products : PricingList[] = [
         "price": 4399
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PHIL ADVANCED BOMBER NYLON NEGRO/AQUA",
@@ -26455,7 +26455,7 @@ export const Products : PricingList[] = [
         "price": 4399
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO COLOR JACKET NYLON ROJO+AZUL",
@@ -26463,7 +26463,7 @@ export const Products : PricingList[] = [
         "price": 3679
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NICK ADV JCKT NYLON REFLEX RES AL AGUA",
@@ -26471,7 +26471,7 @@ export const Products : PricingList[] = [
         "price": 4289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLOWER MILITARY BOMBER GAB ELAST VERDE",
@@ -26479,7 +26479,7 @@ export const Products : PricingList[] = [
         "price": 4399
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM CROPPED JACKET ELAST HEAVY WASH",
@@ -26487,7 +26487,7 @@ export const Products : PricingList[] = [
         "price": 3739
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM CROP JCKT ELAST TEÑ EN PDA+HVY W",
@@ -26495,7 +26495,7 @@ export const Products : PricingList[] = [
         "price": 3739
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM REPREVE JACKET W STONE WASH",
@@ -26503,15 +26503,15 @@ export const Products : PricingList[] = [
         "price": 4179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KRIS DENIM COOLMAX MC LIGHT STONE WASH",
         "code": "4001-1459-94",
-        "price": 2529
+        "price": 2549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JOHN RETRO ML C1 ALGODON AZUL+VERDE",
@@ -26519,7 +26519,7 @@ export const Products : PricingList[] = [
         "price": 2309
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BUTTON PIMA C3 ALGODON AZUL+CELESTE",
@@ -26527,7 +26527,7 @@ export const Products : PricingList[] = [
         "price": 2309
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BUTTON PIMA C2 ALGODON ROJO+AZUL+BCO",
@@ -26535,7 +26535,7 @@ export const Products : PricingList[] = [
         "price": 2309
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM REPREVE SHIRT LIGHT BLUE WASH",
@@ -26543,7 +26543,7 @@ export const Products : PricingList[] = [
         "price": 2529
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DENIM REPREVE SHIRT MEDIUM STONE WASH",
@@ -26551,87 +26551,87 @@ export const Products : PricingList[] = [
         "price": 2529
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT M/L (BOT.PASTA) TWINKLE RE",
         "code": "4100-1006-94",
-        "price": 2199
+        "price": 2119
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT ML TWINKLE RLDED DESTROYED",
         "code": "4101-1106-25",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT ML TWINKLE RELOADED S.W",
         "code": "4101-1106-36",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT ML TWINKLE BROWNCAST S.W L",
         "code": "4101-1106-48",
-        "price": 2089
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT M/L POPLIN 40/1 BLANCO",
         "code": "4101-1457-02",
-        "price": 1979
+        "price": 2119
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT M/L POPLIN 40/1 NEGRO",
         "code": "4101-1457-79",
-        "price": 1979
+        "price": 2119
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT ML C3 POP CRUDO+TURQ+CEL",
         "code": "4101-1458-01",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT ML C4 POP AZUL+BCO+CELES",
         "code": "4101-1458-25",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT MC C1 POPLIN BCO+AZUL+ROJO",
         "code": "4104-1818-02",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "WESTERN SHIRT MC C2 POP 40/1 AZ+RO+OFF W",
         "code": "4104-1818-37",
-        "price": 2089
+        "price": 2099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW WESTERN M/C POPLIN 40/1 BLANCO",
@@ -26639,7 +26639,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW WESTERN SHIRT C3 POP 40/1 BCO+NAR+AZ",
@@ -26647,7 +26647,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW WESTERN SHIRT C1 POP AZUL+ROJO",
@@ -26655,7 +26655,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW WESTERN SHIRT C2 POP 40/1 AZ FRANCIA",
@@ -26663,31 +26663,31 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOSPEL SHIRT MC C5 POPLIN 40/1 TURQ+BCO",
         "code": "4141-2429-26",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOSPEL SHIRT ML C3 POP 40/1 AZUL+CELESTE",
         "code": "4141-2430-37",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOSPEL SHIRT ML C4 POPLIN 40/1 ROJO+AZUL",
         "code": "4141-2430-55",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ORIGINAL WESTERN GIRL COOLMAX DENIM COOL",
@@ -26695,7 +26695,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HERITAGE SHIRT C1 POPLIN 40/1 ROJO+ BCO",
@@ -26703,7 +26703,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HERITAGE SHIRT POPLIN 40/1 AZUL+ROSA",
@@ -26711,7 +26711,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HERITAGE SHIRT POPLIN 40/1 TURQUESA+AZUL",
@@ -26719,47 +26719,47 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
         "code": "4345-2109-02",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUALS REGULAR SHIRT M/L LISA POPLIN DI",
         "code": "4345-2119-79",
-        "price": 2199
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL REGULAR C1 ALG DIF ORQUIDEA+CELES",
         "code": "4345-2439-25",
-        "price": 2309
+        "price": 2299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL REGULAR C3 ALG DIF TURQ+ROSA",
         "code": "4345-2439-26",
-        "price": 2309
+        "price": 2299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL REGULAR C2 ALG DIF AZUL+VERDE",
         "code": "4345-2439-60",
-        "price": 2309
+        "price": 2299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL PIMA F1 ALGODON PIMA BCO+ CELESTE",
@@ -26767,7 +26767,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL PIMA F4 ALGODON PIMA TURQUESA",
@@ -26775,7 +26775,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL PIMA F3 ALGODON AZUL MARINO+BCO",
@@ -26783,7 +26783,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL PIMA F2 ALGODON AZUL MARINO+ TURQ",
@@ -26791,7 +26791,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUAL PIMA F5 ALGODON PIMA ROSA",
@@ -26799,23 +26799,23 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER STRETCH LISA OXFORD ELAST BLANCO",
         "code": "4363-2431-02",
-        "price": 2089
+        "price": 2249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER STRETCH LISA OXFORD ELAST CELESTE",
         "code": "4363-2431-25",
-        "price": 2089
+        "price": 2249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER C2 POPLIN BLANCO+NEGRO",
@@ -26823,7 +26823,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER C1 POPLIN AZUL+CELESTE",
@@ -26831,7 +26831,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER C3 POPLIN ROSA+ CELESTE",
@@ -26839,7 +26839,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER F2 POPLIN RAYA+ PRINT",
@@ -26847,7 +26847,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER F3 POPLIN BLANCO FLOR",
@@ -26855,7 +26855,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER F4 POPLIN ROSA",
@@ -26863,7 +26863,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER F1 POPLIN AZUL+ BLANCO",
@@ -26871,7 +26871,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GUNTER LISA LINO ALGODON AZUL CHAMBRAY",
@@ -26879,7 +26879,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "INDIGO SHIRT C1 ALGODÓN CEL+AMARILLO+RO",
@@ -26887,7 +26887,7 @@ export const Products : PricingList[] = [
         "price": 2309
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "INDIGO SHIRT C2 ALGODÓN VERDE+INDIGO",
@@ -26895,7 +26895,7 @@ export const Products : PricingList[] = [
         "price": 2309
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JOHN MC F1 POPLIN BLANCO+VERDE",
@@ -26903,7 +26903,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JOHN MC F2 POPLIN AZUL+ROSA",
@@ -26911,7 +26911,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JOHN MC CUADRO ALG TEJIDO MILITAR+NEGRO",
@@ -26919,15 +26919,15 @@ export const Products : PricingList[] = [
         "price": 2359
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "",
-        "code": "4410-1006-94-01",
-        "price": 2089
+        "code": "4410-1006-94",
+        "price": 2239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLOWER SHIRT GAB LIVIANA VERDE MILITAR",
@@ -26935,7 +26935,7 @@ export const Products : PricingList[] = [
         "price": 2859
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERLIN SHIRT POPLIN RAYA",
@@ -26943,7 +26943,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MONACO SHIRT VISCOSA BLANCO",
@@ -26951,63 +26951,63 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SICILIA TOP ALG MODAL RAYITA BCO Y NEG",
         "code": "4480-4815-02",
-        "price": 1759
+        "price": 1799
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "VENECIA TOP VISCOSA BCO BORDADO COLORES",
         "code": "4481-5960-02",
-        "price": 1869
+        "price": 1899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "VENECIA TOP VISCOSA CELESTE BORDADO BCO",
         "code": "4481-5960-25",
-        "price": 1869
+        "price": 1899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NIZA SHIRT ALGODON ESTAMPADO RAYA FLOR",
         "code": "4482-4800-00",
-        "price": 1979
+        "price": 1999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NIZA TOP VOILE ESTAMPADO RAYA FLOR",
         "code": "4483-4816-00",
-        "price": 1529
+        "price": 1549
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MARTINICA BLOUSE VISCOSA FANTASIA BLANCO",
         "code": "4484-5960-02",
-        "price": 1869
+        "price": 1899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MARTINICA BLOUSE VISC FANTASIA AZUL FCIA",
         "code": "4484-5960-38",
-        "price": 1869
+        "price": 1899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GRECIA TOP ALGODÓN ESTAMPADO ARABESCOS",
@@ -27015,7 +27015,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GRECIA TOP ALGODÓN NEGRO",
@@ -27023,7 +27023,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILAN TOP SEDA ESTAMPADO FLOR ROJO",
@@ -27031,7 +27031,7 @@ export const Products : PricingList[] = [
         "price": 1649
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "TYRA DENIM TENCEL SHIRT LYOCELL S.W",
@@ -27039,7 +27039,7 @@ export const Products : PricingList[] = [
         "price": 2859
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MABI TENCEL SHIRT BLANCO",
@@ -27047,7 +27047,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MABI TENCEL SHIRT ROSA CHICLE TEÑIDO",
@@ -27055,7 +27055,7 @@ export const Products : PricingList[] = [
         "price": 2419
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLORENCIA SHIRT POPLIN BLANCO",
@@ -27063,7 +27063,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ROMA TOP SEDA BLANCO",
@@ -27071,7 +27071,7 @@ export const Products : PricingList[] = [
         "price": 1759
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ADVANCED STRIPE SOCKS TEJIDO BLANCO",
@@ -27079,7 +27079,7 @@ export const Products : PricingList[] = [
         "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ADVANCED SHORT SOCKS TEJIDO AZUL FRANCIA",
@@ -27087,7 +27087,7 @@ export const Products : PricingList[] = [
         "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ADVANCED SHORT SOCKS TEJIDO GRIS MELANGE",
@@ -27095,7 +27095,7 @@ export const Products : PricingList[] = [
         "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ADVANCED STRIPE SOCKS TEJIDO NEGRO",
@@ -27103,7 +27103,7 @@ export const Products : PricingList[] = [
         "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STRIPE SHORT SOCKS TEJIDO AZUL MARINO",
@@ -27111,7 +27111,7 @@ export const Products : PricingList[] = [
         "price": 259
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STRIPE SHORT SOCKS TEJIDO GRIS MELANGE",
@@ -27119,7 +27119,7 @@ export const Products : PricingList[] = [
         "price": 259
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO SHORT SOCKS TEJIDO AZUL",
@@ -27127,7 +27127,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO SHORT SOCKS TEJIDO GRIS MELANGE",
@@ -27135,7 +27135,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO LONG SOCKS TEJIDO BLANCO",
@@ -27143,7 +27143,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO LONG SOCKS TEJIDO ROSA",
@@ -27151,111 +27151,111 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA BASICA LISA BLANCA",
         "code": "5103-0000-02",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA BASICA HIL.GRANITE AZUL",
         "code": "5103-0000-37",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA BASICA LISA GRIS MELANGE",
         "code": "5103-0000-72",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA BASICA LISA NEGRA",
         "code": "5103-0000-79",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA WRANGLER CASUALS TEJ. AZUL PIEDRA",
         "code": "5112-0001-38",
-        "price": 269
+        "price": 289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA WRANGLER CASUALS TEJIDO BORDEAUX",
         "code": "5112-0002-58",
-        "price": 269
+        "price": 289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MEDIA WRANGLER CASUALS TEJIDO GRIS TOPO",
         "code": "5112-0002-78",
-        "price": 269
+        "price": 289
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN SOCK TEJIDO BLANCO",
         "code": "5125-0000-02",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN SOCK TEJIDO NEGRO",
         "code": "5125-0000-79",
-        "price": 249
+        "price": 269
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC WOMEN SOCKS TEJIDO BLANCO",
         "code": "5209-0000-02",
-        "price": 239
+        "price": 259
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC WOMEN SOCKS TEJIDO NEGRO",
         "code": "5209-0000-79",
-        "price": 239
+        "price": 259
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN W SOCK TEJIDO BLANCO",
         "code": "5220-0000-02",
-        "price": 219
+        "price": 239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN W SOCK TEJIDO NEGRO",
         "code": "5220-0000-79",
-        "price": 219
+        "price": 239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GEOMETRIC SHORT SOCKS TEJIDO ROSA+BORDO",
@@ -27263,7 +27263,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GEOMETRIC SHORT SOCKS TEJIDO NEGRO+ROSA",
@@ -27271,7 +27271,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARROW SHORT SHOCKS TEJIDO BLANCO",
@@ -27279,7 +27279,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARROW SHORT SHOCKS TEJIDO AZUL",
@@ -27287,7 +27287,7 @@ export const Products : PricingList[] = [
         "price": 249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DOTS INVISIBLE SOCKS TEJIDO FUCSIA",
@@ -27295,7 +27295,7 @@ export const Products : PricingList[] = [
         "price": 219
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DOTS INVISIBLE SOCKS TEJIDO GRIS MELANGE",
@@ -27303,7 +27303,7 @@ export const Products : PricingList[] = [
         "price": 219
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DESODORANTE URBAN 170ML",
@@ -27311,7 +27311,7 @@ export const Products : PricingList[] = [
         "price": 199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "DESODORANTE WAVE 170ML",
@@ -27319,31 +27319,31 @@ export const Products : PricingList[] = [
         "price": 199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RUSTY BELT CUERO MARRON",
         "code": "6002-9000-48",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POINT BELT CUERO AZUL",
         "code": "6003-9000-37",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POINT BELT CUERO SUELA",
         "code": "6003-9000-49",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ZIG ZAG TARJETERO CUERO MARRON",
@@ -27351,7 +27351,7 @@ export const Products : PricingList[] = [
         "price": 669
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ZIG ZAG TARJETERO CUERO NEGRO",
@@ -27359,7 +27359,7 @@ export const Products : PricingList[] = [
         "price": 669
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA PLAIN TWO COLOR CUERO NEGRO",
@@ -27367,7 +27367,7 @@ export const Products : PricingList[] = [
         "price": 1129
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA PLAIN TWO COLOR CUERO NEG + AZ",
@@ -27375,7 +27375,7 @@ export const Products : PricingList[] = [
         "price": 1129
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA BOOK CUERO NEGRO",
@@ -27383,7 +27383,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA SQUARE CUERO MARRON",
@@ -27391,7 +27391,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA SQUARE CUERO NEGRO",
@@ -27399,7 +27399,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOCHILA ADVANCE TELA VERDE MILITAR",
@@ -27407,7 +27407,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOCHILA ADVANCE TELA NEGRO",
@@ -27415,7 +27415,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA FRAN CUERO MARRON GASTADO",
@@ -27423,7 +27423,7 @@ export const Products : PricingList[] = [
         "price": 859
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "TARJETERO WILLIS CUERO SUELA",
@@ -27431,15 +27431,15 @@ export const Products : PricingList[] = [
         "price": 459
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON METALIC CUERO SUELA",
         "code": "6468-9000-47",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "EAU DE TOILETTE WRANGLER BLUE 55ML PERFU",
@@ -27447,7 +27447,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "EAU DE TOILETTE WRANGLER BLUE 80ML PERFU",
@@ -27455,23 +27455,23 @@ export const Products : PricingList[] = [
         "price": 769
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CASUALS REVERSIBLE BELT CUERO MARR./NGO",
         "code": "6591-9001-79",
-        "price": 1099
+        "price": 1179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON TACHAS CUERO ROSA",
         "code": "6607-9000-50",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON HEBILLA CUERO SUELA",
@@ -27479,7 +27479,7 @@ export const Products : PricingList[] = [
         "price": 959
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON HEBILLA CUERO NEGRO",
@@ -27487,7 +27487,7 @@ export const Products : PricingList[] = [
         "price": 959
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "EAU DE TOILETTE WRANGLER MUJER 55ML PERF",
@@ -27495,7 +27495,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "EAU DE TOILETTE WRANGLER MUJER 80ML PERF",
@@ -27503,7 +27503,7 @@ export const Products : PricingList[] = [
         "price": 769
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BANDANA POPLIN ELECTRIC BLUE",
@@ -27511,7 +27511,7 @@ export const Products : PricingList[] = [
         "price": 179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BANDANA POPLIN NAVY BLUE",
@@ -27519,7 +27519,7 @@ export const Products : PricingList[] = [
         "price": 179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BANDANA POPLIN RED",
@@ -27527,7 +27527,7 @@ export const Products : PricingList[] = [
         "price": 179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BANDANA POPLIN BLACK",
@@ -27535,7 +27535,7 @@ export const Products : PricingList[] = [
         "price": 179
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURÓN TRIPLE COSTURA CUERO BLANCO",
@@ -27543,39 +27543,39 @@ export const Products : PricingList[] = [
         "price": 929
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON TRIPLE COSTURA CUERO MARRON",
         "code": "6705-9000-48",
-        "price": 989
+        "price": 1059
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CINTURON TRIPLE COSTURA CUERO NEGRO",
         "code": "6705-9000-79",
-        "price": 989
+        "price": 1059
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN BELT CUERO MARRON",
         "code": "6729-9000-48",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN BELT CUERO NEGRO",
         "code": "6729-9001-79",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STRIPE BELT CUERO NEGRO",
@@ -27583,7 +27583,7 @@ export const Products : PricingList[] = [
         "price": 1039
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILA TRANFER BELT CUERO AZUL",
@@ -27591,7 +27591,7 @@ export const Products : PricingList[] = [
         "price": 769
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILA TRANFER BELT CUERO NEGRO",
@@ -27599,7 +27599,7 @@ export const Products : PricingList[] = [
         "price": 769
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKIE PLAIN BELT CUERO NEGRO",
@@ -27607,7 +27607,7 @@ export const Products : PricingList[] = [
         "price": 709
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BILLETERA TOM CUERO NEGRO",
@@ -27615,15 +27615,15 @@ export const Products : PricingList[] = [
         "price": 669
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HANS SWEATER ALGODON NEGRO",
         "code": "7087-4800-79",
-        "price": 2749
+        "price": 2939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HANS SWEATER ALGODON NARANJA",
@@ -27631,7 +27631,7 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HANS SWEATER ALGODON AZULINO",
@@ -27639,7 +27639,7 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "HANS SWEATER ALGODON ROSA",
@@ -27647,7 +27647,7 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MADOX POLO JERSEY DIFERENCIADO NAR + NEG",
@@ -27655,7 +27655,7 @@ export const Products : PricingList[] = [
         "price": 1589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MADOX POLO JERSEY DIFERENCIADO AZUL + NE",
@@ -27663,7 +27663,7 @@ export const Products : PricingList[] = [
         "price": 1589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MADOX POLO JERSEY DIFERENCIADO ROJO + AZ",
@@ -27671,7 +27671,7 @@ export const Products : PricingList[] = [
         "price": 1589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MADOX POLO JER DIFERENCIADO VDE AGUA+NEG",
@@ -27679,7 +27679,7 @@ export const Products : PricingList[] = [
         "price": 1589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN POLO PIQUE BLANCO",
@@ -27687,7 +27687,7 @@ export const Products : PricingList[] = [
         "price": 989
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN POLO PIQUE AZUL",
@@ -27695,7 +27695,7 @@ export const Products : PricingList[] = [
         "price": 989
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN POLO PIQUE ROJO",
@@ -27703,7 +27703,7 @@ export const Products : PricingList[] = [
         "price": 989
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN POLO PIQUE GRIS MELANGE",
@@ -27711,15 +27711,15 @@ export const Products : PricingList[] = [
         "price": 989
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO TANK JERSEY NEGRO",
         "code": "7200-4861-78",
-        "price": 819
+        "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PLAIN TEE TEJIDO FANTASIA ROJO",
@@ -27727,7 +27727,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "VANI TEE JERSEY BLANCA",
@@ -27735,7 +27735,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "VANI TEE JERSEY NEGRO",
@@ -27743,31 +27743,31 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILLIE TEE JERSEY OFF WHITE+NEG",
         "code": "7256-4812-01",
-        "price": 1319
+        "price": 1299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MILLIE TEE ALGODON VISCOSA FUCSIA",
         "code": "7256-4812-56",
-        "price": 1319
+        "price": 1299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "FLOWER TEE JERSEY 30/1 BLANCA",
         "code": "7257-4862-02",
-        "price": 879
+        "price": 899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LUPITA TANK JERSEY FLAMME BLANCO",
@@ -27775,7 +27775,7 @@ export const Products : PricingList[] = [
         "price": 1239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LUPITA TANK JERSEY FLAMME FUCSIA",
@@ -27783,7 +27783,7 @@ export const Products : PricingList[] = [
         "price": 1239
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CALI COAT TEJIDO NEGRO",
@@ -27791,7 +27791,7 @@ export const Products : PricingList[] = [
         "price": 2359
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKIE SWEATER TEJIDO AZUL FRANCIA",
@@ -27799,7 +27799,7 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACKIE SWEATER TEJIDO FUCSIA",
@@ -27807,7 +27807,7 @@ export const Products : PricingList[] = [
         "price": 2749
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO KABEL CREW NECK RUSTICO LIV ROSA",
@@ -27815,7 +27815,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO STRIPE CREW NECK RUST LIV GRIS MEL",
@@ -27823,7 +27823,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AMY TEE JERSEY SUSTENTABLE BLANCO",
@@ -27831,7 +27831,7 @@ export const Products : PricingList[] = [
         "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AMY TEE JERSEY SUSTENTABLE GRIS MELANGE",
@@ -27839,7 +27839,7 @@ export const Products : PricingList[] = [
         "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO RAINBOW RUSTICO LIVIANO BLANCO",
@@ -27847,47 +27847,47 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO KISS TEE JERSEY BLANCO",
         "code": "7281-4861-02",
-        "price": 879
+        "price": 939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO KABEL MULTICOLOR TEE JERSEY ROSA",
         "code": "7281-4861-50",
-        "price": 879
+        "price": 939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO KABEL TEE JERSEY NEGRO",
         "code": "7281-4861-79",
-        "price": 879
+        "price": 939
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO TWO COLOR TANK JERSEY BCO + ROJO",
         "code": "7282-4861-02",
-        "price": 819
+        "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO LOGO TANK JERSEY ROSA + NEGRO",
         "code": "7283-4861-50",
-        "price": 819
+        "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BEACH TEE JERSEY 30/1 BLANCO",
@@ -27895,7 +27895,7 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STAMP TEE JERSEY 30/1 BLANCO",
@@ -27903,7 +27903,7 @@ export const Products : PricingList[] = [
         "price": 1039
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STAMP TEE JERSEY 30/1 CELESTE",
@@ -27911,159 +27911,159 @@ export const Products : PricingList[] = [
         "price": 1039
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CALIFORNIA TEE JERSEY 30/1 BLANCO",
         "code": "7328-4862-02",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CALIFORNIA TEE JERSEY 30/1 GRIS MELANGE",
         "code": "7328-4862-71",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CALIFORNIA TEE JERSEY 30/1 NEGRO",
         "code": "7328-4862-79",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KABEL TEE JERSEY 30/1 BLANCO",
         "code": "7345-4862-02",
-        "price": 989
+        "price": 1059
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KABEL TEE JERSEY 30/1 AZUL FRANCIA",
         "code": "7345-4862-37",
-        "price": 989
+        "price": 1059
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STRIPE KABEL TEE JERSEY AZUL MARINO",
         "code": "7345-4862-38",
-        "price": 1039
+        "price": 1109
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KABEL TEE JERSEY 30/1 VERDE",
         "code": "7345-4862-60",
-        "price": 989
+        "price": 1059
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERLIN TEE JERSEY 30/1 BORDO",
         "code": "7370-4862-58",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BERLIN TEE JERSEY 30/1 VERDE",
         "code": "7370-4862-60",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BLUE POLO JERSEY 30/1 AZUL MARINO",
         "code": "7371-4862-38",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BLUE POLO JERSEY 30/1 VERDE",
         "code": "7371-4862-60",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BLUE YELLOW TEE JERSEY AZ+GRIS MEL+AMA",
         "code": "7373-4862-37",
-        "price": 989
+        "price": 1069
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KANSAS POLO W",
         "code": "7373-4862-55",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "KANSAS POLO W",
         "code": "7373-4862-02",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CANADA POLO W",
         "code": "7374-4862-62",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CANADA POLO W",
         "code": "7374-4862-37",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROOK TEE JERSEY 30/1 CELESTE",
         "code": "7378-4862-25",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BROOK TEE JERSEY 30/1 BORDÓ",
         "code": "7378-4862-58",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CAMO TEE JERSEY 30/1 AZUL MARINO",
         "code": "7380-4862-38",
-        "price": 1279
+        "price": 1299
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHUCK SWEATER ALGODON AZUL + ROJO + BCO",
@@ -28071,7 +28071,7 @@ export const Products : PricingList[] = [
         "price": 3079
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CHUCK SWEATER ALGODON AZUL FRANCIA + BCO",
@@ -28079,7 +28079,7 @@ export const Products : PricingList[] = [
         "price": 3079
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COLOR BLOCK TEE JERSEY 30/1 GRIS MELANGE",
@@ -28087,15 +28087,15 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GLORY RETRO SWEATSHIRT RUS LIV GRIS MEL",
         "code": "7384-5943-71",
-        "price": 2469
+        "price": 2449
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COOL ADVANCE TEE JERSEY GRIS MELANGE",
@@ -28103,47 +28103,47 @@ export const Products : PricingList[] = [
         "price": 1869
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK STRIPE POLO JERSEY 30/1 AZUL",
         "code": "7386-4862-37",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JACK STRIPE POLO JERSEY 30/1 ROJO",
         "code": "7386-4862-55",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "INDIGO POLO PIQUE AZUL",
         "code": "7388-5220-37",
-        "price": 1869
+        "price": 1899
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ISLAND TEE JERSEY 30/1 AZUL",
         "code": "7390-4862-37",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ISLAND TEE JERSEY 30/1 VERDE AGUA",
         "code": "7390-4862-62",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "JOHN POLO JERSEY C/ELAST BUTONÉ A.MARINO",
@@ -28151,15 +28151,15 @@ export const Products : PricingList[] = [
         "price": 1589
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LIGHT CREW NECK JER DOBLE GRIS MEL+BCO",
         "code": "7392-5893-02",
-        "price": 2359
+        "price": 2349
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LEWIS TEE JERSEY 30/1 GRIS MELANGE",
@@ -28167,39 +28167,39 @@ export const Products : PricingList[] = [
         "price": 1039
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "OLD SCHOOL TEE JERSEY 30/1 ROJO + AZUL",
         "code": "7394-4862-55",
-        "price": 1039
+        "price": 1109
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "OLD SCHOOL TEE JERSEY GRIS MEL + AZUL",
         "code": "7394-4862-71",
-        "price": 1039
+        "price": 1109
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MULTI KABEL TEE JERSEY 30/1 BLANCO",
         "code": "7395-4862-01",
-        "price": 1039
+        "price": 1109
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LOUIS STRIPE TEE JER DEVORÉ BCO+ROSA",
         "code": "7396-4861-02",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PAUL PANEAUX POLO JERSEY AZ MARINO+TURQ",
@@ -28207,7 +28207,7 @@ export const Products : PricingList[] = [
         "price": 1699
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PAUL PANEAUX POLO JER GRIS MEL OSC+ROJO",
@@ -28215,7 +28215,7 @@ export const Products : PricingList[] = [
         "price": 1699
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO STRIPE SWEATSHIRT RUS LIV GRIS MEL",
@@ -28223,7 +28223,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PALM TEE JERSEY ROSA",
@@ -28231,7 +28231,7 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "PALM TEE JERSEY VISÓN",
@@ -28239,23 +28239,23 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POINT TEE JERSEY VIGORÉ AZUL",
         "code": "7500-4861-37",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POINT TEE JERSEY FLAMÉ ROSA",
         "code": "7500-4875-50",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO STRIPE POLO JERSEY 30/1 ROJO",
@@ -28263,7 +28263,7 @@ export const Products : PricingList[] = [
         "price": 1699
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO COLOR BCK POLO JER GRIS MEL+AMA+AZ",
@@ -28271,7 +28271,7 @@ export const Products : PricingList[] = [
         "price": 1699
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO CREW NECK RUSTICO LIVIANO AZUL",
@@ -28279,7 +28279,7 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RETRO CREW NECK RUSTICO LIVIANO ROJO",
@@ -28287,39 +28287,39 @@ export const Products : PricingList[] = [
         "price": 2199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SPIRIT TEE JERSEY 30/1 BLANCO",
         "code": "7503-4862-02",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SPIRIT TEE JERSEY 30/1 TURQUESA",
         "code": "7503-4862-26",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SPIRIT TEE JERSEY 30/1 ROSA",
         "code": "7503-4862-50",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SPIRIT TEE JERSEY 30/1 GRIS MELANGE",
         "code": "7503-4862-71",
-        "price": 989
+        "price": 999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SOUL TEE JERSEY 30/1 CELESTE",
@@ -28327,7 +28327,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SOUL TEE JERSEY 30/1 AZUL MARINO",
@@ -28335,7 +28335,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SOUL TEE JERSEY 30/1 GRIS MELANGE",
@@ -28343,7 +28343,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SUN TEE JERSEY VERDE",
@@ -28351,23 +28351,23 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "VINTAGE TEE JERSEY FLAME OFF WHITE",
         "code": "7509-4875-01",
-        "price": 989
+        "price": 1069
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RAINBOW TEE JERSEY 30/1 BLANCO",
         "code": "7512-4862-02",
-        "price": 1039
+        "price": 1109
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COLOR BLOCK RETRO SWEATSHIRT RUST AZ+RO",
@@ -28375,7 +28375,7 @@ export const Products : PricingList[] = [
         "price": 2469
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT JERSEY BLANCO",
@@ -28383,7 +28383,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT II JERSEY AZUL",
@@ -28391,7 +28391,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT VI JERSEY AZUL FRANCIA",
@@ -28399,7 +28399,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT IV JERSEY ROJO",
@@ -28407,7 +28407,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT I JERSEY VERDE",
@@ -28415,7 +28415,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT V JERSEY GRIS MEL",
@@ -28423,7 +28423,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT VII JERSEY GRIS TOPO",
@@ -28431,7 +28431,7 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GOOD TSHIRT III JERSEY NEGRO",
@@ -28439,55 +28439,55 @@ export const Products : PricingList[] = [
         "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOTO TEE JERSEY 30/1 BLANCO",
         "code": "7536-4862-02",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MOTO TEE JERSEY 30/1 VERDE",
         "code": "7536-4862-60",
-        "price": 1039
+        "price": 1049
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC TEE M/C ESCOTE REDONDO JERSEY BCO",
         "code": "7586-4861-02",
-        "price": 829
+        "price": 889
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC TEE M/C ESCOTE REDONDO JERSEY NEG",
         "code": "7586-4861-79",
-        "price": 829
+        "price": 889
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MORRIS TEE JERSEY SUSTENTABLE AZUL",
         "code": "7590-4887-37",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MORRIS TEE JERSEY SUSTENTABLE GRIS MEL",
         "code": "7590-4887-71",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ORANGE TANK JERSEY DIFERENCIADO BLANCO",
@@ -28495,7 +28495,7 @@ export const Products : PricingList[] = [
         "price": 1209
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ORANGE TANK JERSEY DIFERENCIADO NARANJA",
@@ -28503,23 +28503,23 @@ export const Products : PricingList[] = [
         "price": 1209
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BRODERIE TEE JERSEY Y BRODERIE BLANCO",
         "code": "7601-2948-02",
-        "price": 1429
+        "price": 1449
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BRODERIE TEE JERSEY Y BRODERIE AZ MARINO",
         "code": "7601-2948-38",
-        "price": 1429
+        "price": 1449
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARMONY TEE JERSEY SUSTENTABLE BLANCO",
@@ -28527,7 +28527,7 @@ export const Products : PricingList[] = [
         "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ARMONY TEE JERSEY SUSTENTABLE ROSA",
@@ -28535,7 +28535,7 @@ export const Products : PricingList[] = [
         "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GREECE TEE JERSEY BLANCO",
@@ -28543,7 +28543,7 @@ export const Products : PricingList[] = [
         "price": 1429
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "GREECE TEE JERSEY NEGRO",
@@ -28551,39 +28551,39 @@ export const Products : PricingList[] = [
         "price": 1429
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ALI TEE VISCOSA Y GASA BLANCO",
         "code": "7606-5960-02",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "ALI TEE VISCOSA Y GASA NEGRO",
         "code": "7606-5960-79",
-        "price": 1239
+        "price": 1249
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NAI TEE JERSEY ROSA",
         "code": "7607-4861-50",
-        "price": 1209
+        "price": 1199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NAI TEE JERSEY VERDE MILITAR",
         "code": "7607-4861-68",
-        "price": 1209
+        "price": 1199
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "STAR TANK JERSEY VERDE MILITAR",
@@ -28591,7 +28591,7 @@ export const Products : PricingList[] = [
         "price": 1099
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "CAMI TEE JERSEY NEGRO",
@@ -28599,7 +28599,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "LOLA TEE JERSEY 30/1 BLANCO",
@@ -28607,7 +28607,7 @@ export const Products : PricingList[] = [
         "price": 879
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SUNSET TEE JERSEY 30/1 NARANJA",
@@ -28615,7 +28615,7 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "SUNSET TEE JERSEY 30/1 NEGRO",
@@ -28623,7 +28623,7 @@ export const Products : PricingList[] = [
         "price": 1149
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MICRO PIQ.30/1 PIMA AZL MAR",
@@ -28631,7 +28631,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MICRO PIQ.30/1 PIMA ROJO",
@@ -28639,7 +28639,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE AZUL FRANCIA",
@@ -28647,7 +28647,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MICRO PIQUE 30/1 PIMA NEGRO",
@@ -28655,7 +28655,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE AMARILLO",
@@ -28663,7 +28663,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE TURQUESA",
@@ -28671,7 +28671,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE ROSA",
@@ -28679,7 +28679,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE CORAL",
@@ -28687,7 +28687,7 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "POLO BASIC MC MICRO PIQUE VERDE",
@@ -28695,39 +28695,39 @@ export const Products : PricingList[] = [
         "price": 1319
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "TOM POLO JERSEY SUSTENTABLE TURQUESA",
         "code": "7726-4861-26",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "TOM POLO JERSEY SUSTENTABLE AZUL MARINO",
         "code": "7726-4861-38",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEIL POLO JERSEY 30/1 GRIS MEL + NEGRO",
         "code": "7762-4862-71",
-        "price": 1589
+        "price": 1599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RICKY HOODIE JERSEY REV AZUL VIGORÉ",
         "code": "7914-4861-36",
-        "price": 2969
+        "price": 2999
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "RICKY HOODIE JERSEY NEGRO+GRIS MGE",
@@ -28735,63 +28735,63 @@ export const Products : PricingList[] = [
         "price": 2969
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW PLAIN BOXER JERSEY C/ELAST.BLANCO",
         "code": "8123-4900-02",
-        "price": 559
+        "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW PLAIN BOXER JERSEY C/ ELAST.AZUL",
         "code": "8123-4900-38",
-        "price": 559
+        "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW PLAIN BOXER JERSEY C/ ELAST.MGE",
         "code": "8123-4900-70",
-        "price": 559
+        "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW PLAIN BOXER JERSEY C/ELAST.NEGRO",
         "code": "8123-4900-79",
-        "price": 559
+        "price": 599
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW STRIPE BOXER JRSY C/ELAST.BCO/GRIS",
         "code": "8124-4900-02",
-        "price": 619
+        "price": 659
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW STRIPE BOXER JRSY C/ELAST MARI/RJO",
         "code": "8124-4900-55",
-        "price": 619
+        "price": 659
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "NEW STRIPE BOXER JRSY C/ELAST.NGR/GRIS",
         "code": "8124-4900-79",
-        "price": 619
+        "price": 659
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COMFORT BOXER JERSEY C/ ELAST.GRANATE",
@@ -28799,7 +28799,7 @@ export const Products : PricingList[] = [
         "price": 559
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "COMFORT BOXER JERSEY C/ELAST.FRANCIA",
@@ -28807,7 +28807,7 @@ export const Products : PricingList[] = [
         "price": 559
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AUTHENTIC BOXER LISO JERSEY PETROLEO",
@@ -28815,7 +28815,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AUTHENTIC BOXER JERSEY AZUL",
@@ -28823,7 +28823,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AUTHENTIC BOXER LISO JERSEY NEGRO",
@@ -28831,7 +28831,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AUTHENTIC BOXER RAY.JERSEY AZUL MLG",
@@ -28839,7 +28839,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "AUTHENTIC BOXER RAY.GRIS MLG OSCURO",
@@ -28847,23 +28847,23 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC TEE TWIN PACK BASIC SOFT JERSEY 16",
         "code": "8301-4862-02",
-        "price": 1239
+        "price": 1329
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "BASIC TEE TWIN PACK V NECK BNC/NGRO",
         "code": "8301-4863-02",
-        "price": 1239
+        "price": 1329
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MULTISTRIPE BOXER JERSEY ELASTANO AZ+BCO",
@@ -28871,7 +28871,7 @@ export const Products : PricingList[] = [
         "price": 619
       },
       {
-        "brand": "Wrangler",
+        "brand": "wrangler",
         "class": "",
         "gender": "",
         "name": "MULTISTRIPE BOXER JER ELAST AZ+BORDO+BCO",
