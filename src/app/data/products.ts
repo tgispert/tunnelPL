@@ -23098,7 +23098,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "billetera",
         "code": "",
-        "price": 468
+        "price": 690
       },
       {
         "brand": "tunnel",
