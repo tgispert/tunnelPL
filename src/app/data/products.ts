@@ -3676,7 +3676,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bahama",
         "code": "",
-        "price": 2550
+        "price": 3490
       },
       {
         "brand": "columbia",
@@ -3684,7 +3684,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bonehead",
         "code": "",
-        "price": 2200
+        "price": 3490
       },
       {
         "brand": "columbia",
@@ -3692,7 +3692,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cape jake",
         "code": "",
-        "price": 1890
+        "price": 3290
       },
       {
         "brand": "columbia",
@@ -3700,7 +3700,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cliff",
         "code": "",
-        "price": 1990
+        "price": 3290
       },
       {
         "brand": "columbia",
@@ -3708,7 +3708,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corktown",
         "code": "",
-        "price": 2100
+        "price": 2950
       },
       {
         "brand": "columbia",
@@ -3716,7 +3716,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cotton wood cuadro",
         "code": "",
-        "price": 1590
+        "price": 2590
       },
       {
         "brand": "columbia",
@@ -3724,7 +3724,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cotton wood lisa",
         "code": "",
-        "price": 1590
+        "price": 2590
       },
       {
         "brand": "columbia",
@@ -3732,7 +3732,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "crown point",
         "code": "",
-        "price": 1800
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -3740,7 +3740,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "declination",
         "code": "",
-        "price": 2000
+        "price": 2790
       },
       {
         "brand": "columbia",
@@ -3748,7 +3748,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "decoy rock",
         "code": "",
-        "price": 2000
+        "price": 2790
       },
       {
         "brand": "columbia",
@@ -3756,7 +3756,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "east peak",
         "code": "",
-        "price": 1590
+        "price": 2590
       },
       {
         "brand": "columbia",
@@ -3764,7 +3764,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "intercontinental",
         "code": "",
-        "price": 1990
+        "price": 2590
       },
       {
         "brand": "columbia",
@@ -3772,7 +3772,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "katchor",
         "code": "",
-        "price": 2100
+        "price": 2950
       },
       {
         "brand": "columbia",
@@ -3780,7 +3780,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "longitude",
         "code": "",
-        "price": 1990
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3788,7 +3788,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mesa ridge",
         "code": "",
-        "price": 1790
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3796,7 +3796,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mnt algodon",
         "code": "",
-        "price": 1900
+        "price": 2700
       },
       {
         "brand": "columbia",
@@ -3804,7 +3804,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mnt secado rapido",
         "code": "",
-        "price": 2100
+        "price": 2950
       },
       {
         "brand": "columbia",
@@ -3812,7 +3812,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pilsner",
         "code": "",
-        "price": 2800
+        "price": 3650
       },
       {
         "brand": "columbia",
@@ -3820,7 +3820,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pinnacle point",
         "code": "",
-        "price": 1990
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3828,7 +3828,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "rigge creek",
         "code": "",
-        "price": 2000
+        "price": 2790
       },
       {
         "brand": "columbia",
@@ -3836,7 +3836,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "security check",
         "code": "",
-        "price": 1990
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3844,7 +3844,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge cuadros",
         "code": "",
-        "price": 2800
+        "price": 3890
       },
       {
         "brand": "columbia",
@@ -3852,7 +3852,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge lisa",
         "code": "",
-        "price": 2580
+        "price": 3490
       },
       {
         "brand": "columbia",
@@ -3860,7 +3860,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "sterling",
         "code": "",
-        "price": 1990
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3868,7 +3868,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tamiami",
         "code": "",
-        "price": 2550
+        "price": 3490
       },
       {
         "brand": "columbia",
@@ -3876,7 +3876,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "thompson cuadros",
         "code": "",
-        "price": 2000
+        "price": 2730
       },
       {
         "brand": "columbia",
@@ -3884,7 +3884,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tree forks",
         "code": "",
-        "price": 2000
+        "price": 2790
       },
       {
         "brand": "columbia",
@@ -3892,7 +3892,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "treeline",
         "code": "",
-        "price": 1990
+        "price": 2890
       },
       {
         "brand": "columbia",
@@ -3900,7 +3900,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "uptowner",
         "code": "",
-        "price": 2200
+        "price": 2990
       },
       {
         "brand": "columbia",
@@ -3908,7 +3908,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "utilizer trail cuadro",
         "code": "",
-        "price": 2000
+        "price": 2790
       },
       {
         "brand": "columbia",
@@ -3916,7 +3916,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "utilizer trail lisa",
         "code": "",
-        "price": 1800
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -3924,7 +3924,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "voyager",
         "code": "",
-        "price": 2100
+        "price": 2950
       },
       {
         "brand": "columbia",
@@ -3932,7 +3932,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bahama",
         "code": "",
-        "price": 3000
+        "price": 4180
       },
       {
         "brand": "columbia",
@@ -3940,7 +3940,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bonehead",
         "code": "",
-        "price": 2550
+        "price": 3490
       },
       {
         "brand": "columbia",
@@ -3948,7 +3948,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "carray cuadros",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -3956,7 +3956,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cascade",
         "code": "",
-        "price": 3000
+        "price": 4180
       },
       {
         "brand": "columbia",
@@ -3964,7 +3964,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cool creek",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -3972,7 +3972,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corktown",
         "code": "am1026",
-        "price": 2200
+        "price": 3300
       },
       {
         "brand": "columbia",
@@ -3980,7 +3980,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "declination",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -3988,7 +3988,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "flare viyela",
         "code": "",
-        "price": 2700
+        "price": 3700
       },
       {
         "brand": "columbia",
@@ -3996,7 +3996,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "frost warming",
         "code": "",
-        "price": 2790
+        "price": 3700
       },
       {
         "brand": "columbia",
@@ -4004,7 +4004,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "lewsville",
         "code": "",
-        "price": 2000
+        "price": 2900
       },
       {
         "brand": "columbia",
@@ -4012,7 +4012,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "outback cuadros",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -4020,7 +4020,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "padre island",
         "code": "",
-        "price": 2000
+        "price": 2900
       },
       {
         "brand": "columbia",
@@ -4028,7 +4028,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pilsner",
         "code": "",
-        "price": 3000
+        "price": 4400
       },
       {
         "brand": "columbia",
@@ -4036,7 +4036,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "royce",
         "code": "",
-        "price": 3300
+        "price": 4400
       },
       {
         "brand": "columbia",
@@ -4044,7 +4044,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge",
         "code": "",
-        "price": 3000
+        "price": 4180
       },
       {
         "brand": "columbia",
@@ -4052,7 +4052,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge plaid",
         "code": "",
-        "price": 3399
+        "price": 4400
       },
       {
         "brand": "columbia",
@@ -4060,7 +4060,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge plaid new",
         "code": "",
-        "price": 3399
+        "price": 4400
       },
       {
         "brand": "columbia",
@@ -4068,7 +4068,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tamiami",
         "code": "",
-        "price": 3000
+        "price": 4100
       },
       {
         "brand": "columbia",
@@ -4076,7 +4076,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "thompson",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -4084,7 +4084,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "utilizer cuadros",
         "code": "",
-        "price": 2000
+        "price": 3000
       },
       {
         "brand": "columbia",
@@ -4092,7 +4092,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "vapor cuadros",
         "code": "",
-        "price": 2200
+        "price": 3100
       },
       {
         "brand": "columbia",
@@ -4100,7 +4100,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "voyager",
         "code": "",
-        "price": 2450
+        "price": 3500
       },
       {
         "brand": "columbia",
@@ -4108,7 +4108,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "weston pass",
         "code": "am7554",
-        "price": 2300
+        "price": 3200
       },
       {
         "brand": "columbia",
@@ -5044,7 +5044,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cougar peak",
         "code": "",
-        "price": 3100
+        "price": 4500
       },
       {
         "brand": "columbia",
@@ -5052,7 +5052,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "evapouration",
         "code": "rm2023",
-        "price": 7500
+        "price": 10600
       },
       {
         "brand": "columbia",
@@ -5060,7 +5060,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "flash back",
         "code": "",
-        "price": 2700
+        "price": 3550
       },
       {
         "brand": "columbia",
@@ -5068,7 +5068,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "glenmaker lake",
         "code": "",
-        "price": 3300
+        "price": 4560
       },
       {
         "brand": "columbia",
@@ -5076,7 +5076,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ibex engomada",
         "code": "",
-        "price": 2490
+        "price": 3900
       },
       {
         "brand": "columbia",
@@ -5084,7 +5084,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "trail dryer",
         "code": "",
-        "price": 3900
+        "price": 5300
       },
       {
         "brand": "columbia",
@@ -5092,7 +5092,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "watertight",
         "code": "",
-        "price": 4900
+        "price": 6800
       },
       {
         "brand": "columbia",
@@ -5100,7 +5100,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "watertight manchester",
         "code": "",
-        "price": 4900
+        "price": 6500
       },
       {
         "brand": "columbia",
@@ -5236,7 +5236,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ascender 2 alloway",
         "code": "wm6645",
-        "price": 4700
+        "price": 6900
       },
       {
         "brand": "columbia",
@@ -5244,7 +5244,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ballistic",
         "code": "",
-        "price": 4190
+        "price": 5900
       },
       {
         "brand": "columbia",
@@ -5252,7 +5252,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cascade manchester",
         "code": "",
-        "price": 5400
+        "price": 6000
       },
       {
         "brand": "columbia",
@@ -5260,7 +5260,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "cascade ridge",
         "code": "",
-        "price": 5400
+        "price": 6500
       },
       {
         "brand": "columbia",
@@ -5268,7 +5268,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "departure",
         "code": "",
-        "price": 4990
+        "price": 5900
       },
       {
         "brand": "columbia",
@@ -5276,7 +5276,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "depictor",
         "code": "",
-        "price": 4000
+        "price": 5000
       },
       {
         "brand": "columbia",
@@ -5284,7 +5284,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "heat wado",
         "code": "",
-        "price": 7350
+        "price": 8500
       },
       {
         "brand": "columbia",
@@ -5292,7 +5292,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "heat wode",
         "code": "",
-        "price": 7690
+        "price": 8500
       },
       {
         "brand": "columbia",
@@ -5300,7 +5300,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "racers",
         "code": "",
-        "price": 8590
+        "price": 9500
       },
       {
         "brand": "columbia",
@@ -5308,7 +5308,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "shelbys",
         "code": "wm6615",
-        "price": 4700
+        "price": 6900
       },
       {
         "brand": "columbia",
@@ -5316,7 +5316,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "strata",
         "code": "",
-        "price": 5990
+        "price": 6800
       },
       {
         "brand": "columbia",
@@ -5324,7 +5324,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "sweet as",
         "code": "",
-        "price": 3750
+        "price": 4800
       },
       {
         "brand": "columbia",
@@ -5332,7 +5332,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tectonic",
         "code": "",
-        "price": 5990
+        "price": 6900
       },
       {
         "brand": "columbia",
@@ -5340,7 +5340,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "thermodinamic",
         "code": "",
-        "price": 5190
+        "price": 6100
       },
       {
         "brand": "columbia",
@@ -5348,7 +5348,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "torque hood",
         "code": "",
-        "price": 5450
+        "price": 7900
       },
       {
         "brand": "columbia",
@@ -5356,7 +5356,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "waypoint",
         "code": "em6521",
-        "price": 3750
+        "price": 4800
       },
       {
         "brand": "columbia",
@@ -5364,7 +5364,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "windefend",
         "code": "",
-        "price": 6000
+        "price": 7000
       },
       {
         "brand": "columbia",
@@ -5372,7 +5372,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "windprotector",
         "code": "",
-        "price": 4900
+        "price": 5900
       },
       {
         "brand": "columbia",
@@ -5380,7 +5380,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zephyr ridge",
         "code": "",
-        "price": 6000
+        "price": 7000
       },
       {
         "brand": "columbia",
@@ -5388,7 +5388,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zona field",
         "code": "",
-        "price": 11000
+        "price": 8300
       },
       {
         "brand": "columbia",
@@ -5548,7 +5548,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "chek dam",
         "code": "em6463",
-        "price": 2200
+        "price": 2700
       },
       {
         "brand": "columbia",
@@ -5556,7 +5556,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "garden grove",
         "code": "em6339",
-        "price": 2000
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -5564,7 +5564,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "ibex 2",
         "code": "em2415",
-        "price": 2200
+        "price": 2700
       },
       {
         "brand": "columbia",
@@ -5572,7 +5572,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "mill creek",
         "code": "em6417",
-        "price": 2200
+        "price": 2800
       },
       {
         "brand": "columbia",
@@ -5580,7 +5580,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "new utilizer",
         "code": "",
-        "price": 2000
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -5588,7 +5588,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pacific grove",
         "code": "",
-        "price": 2000
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -5596,7 +5596,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "sweat thresat",
         "code": "",
-        "price": 1790
+        "price": 3200
       },
       {
         "brand": "columbia",
@@ -5604,7 +5604,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "thisteltown lisa",
         "code": "am6284",
-        "price": 2200
+        "price": 2600
       },
       {
         "brand": "columbia",
@@ -5612,7 +5612,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "thisteltown rayada",
         "code": "am6757",
-        "price": 2400
+        "price": 3000
       },
       {
         "brand": "columbia",
@@ -5620,7 +5620,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "trail detector",
         "code": "tm6703",
-        "price": 2200
+        "price": 3000
       },
       {
         "brand": "columbia",
@@ -5628,7 +5628,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "windi point rayada",
         "code": "",
-        "price": 1790
+        "price": 3200
       },
       {
         "brand": "columbia",
@@ -5636,7 +5636,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "zero rules",
         "code": "",
-        "price": 2400
+        "price": 3200
       },
       {
         "brand": "columbia",
