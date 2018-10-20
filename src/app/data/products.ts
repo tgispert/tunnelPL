@@ -706,7 +706,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "jkt cam nylon",
         code: "5043",
-        price: 3590
+        price: 4200
       },
       {
         brand: "absolut",
@@ -6180,7 +6180,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "fast trek f/z",
         "code": "",
-        "price": 2550
+        "price": 2900
       },
       {
         "brand": "columbia",
