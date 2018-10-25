@@ -25343,7 +25343,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "moda",
         "code": "otros",
-        "price": 2100
+        "price": 2500
       },
       {
         "brand": "wrangler no lista",
