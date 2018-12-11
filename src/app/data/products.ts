@@ -2748,7 +2748,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge",
         "code": "",
-        "price": 2750
+        "price": 3700
       },
       {
         "brand": "columbia",
@@ -2908,7 +2908,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "silver ridge bermuda",
         "code": "",
-        "price": 2450
+        "price": 3400
       },
       {
         "brand": "columbia",
@@ -2916,7 +2916,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "silver ridge capri",
         "code": "",
-        "price": 2550
+        "price": 3500
       },
       {
         "brand": "columbia",
@@ -2924,7 +2924,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "silver ridge strech short",
         "code": "",
-        "price": 2450
+        "price": 3400
       },
       {
         "brand": "columbia",
@@ -5740,7 +5740,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "silver ridge desmontable",
         "code": "",
-        "price": 3700
+        "price": 5100
       },
       {
         "brand": "columbia",
@@ -5748,7 +5748,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "silver ridge fijo",
         "code": "",
-        "price": 3400
+        "price": 4600
       },
       {
         "brand": "columbia",
@@ -5788,7 +5788,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "bock cast",
         "code": "",
-        "price": 2900
+        "price": 4300
       },
       {
         "brand": "columbia",
@@ -5908,7 +5908,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge desmontable",
         "code": "",
-        "price": 3750
+        "price": 5150
       },
       {
         "brand": "columbia",
@@ -5916,7 +5916,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "silver ridge fijo",
         "code": "",
-        "price": 3400
+        "price": 4600
       },
       {
         "brand": "columbia",
@@ -20149,7 +20149,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "mascara",
         "code": "",
-        "price": 390
+        "price": 550
       },
       {
         "brand": "skala",
@@ -21389,7 +21389,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "cup militar",
         "code": "",
-        "price": 6350
+        "price": 635
       },
       {
         "brand": "taverniti",
