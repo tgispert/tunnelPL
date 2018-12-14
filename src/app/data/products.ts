@@ -1478,10 +1478,98 @@ export const Products : PricingList[] = [
       },
       {
         brand: "bless",
-        class: "pantalon`",
+        class: "bermuda",
+        gender: "dama",
+        name: "short denim",
+        code: "964",
+        price: 799
+      },
+      {
+        brand: "bless",
+        class: "falda",
+        gender: "dama",
+        name: "denim",
+        code: "875",
+        price: 799
+      },
+      {
+        brand: "bless",
+        class: "falda",
+        gender: "dama",
+        name: "denim",
+        code: "876",
+        price: 649
+      },
+      {
+        brand: "bless",
+        class: "falda",
+        gender: "dama",
+        name: "denim",
+        code: "879",
+        price: 649
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
         gender: "dama",
         name: "jean denim",
         code: "",
+        price: 1290
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "192",
+        price: 990
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "407",
+        price: 990
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "507",
+        price: 990
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4503",
+        price: 1290
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4504",
+        price: 1290
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4532",
+        price: 1490
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4533",
         price: 1290
       }
     ]
@@ -2661,6 +2749,14 @@ export const Products : PricingList[] = [
         "name": "burnt creek",
         "code": "",
         "price": 1990
+      },
+      {
+        "brand": "columbia",
+        "class": "bermuda",
+        "gender": "hombre",
+        "name": "cascade short",
+        "code": "",
+        "price": 3220
       },
       {
         "brand": "columbia",
@@ -5797,6 +5893,14 @@ export const Products : PricingList[] = [
         "name": "bugaboo",
         "code": "",
         "price": 4400
+      },
+      {
+        "brand": "columbia",
+        "class": "pantalon",
+        "gender": "hombre",
+        "name": "cascade conv",
+        "code": "",
+        "price": 4580
       },
       {
         "brand": "columbia",
@@ -18302,6 +18406,27 @@ export const Products : PricingList[] = [
         name: "pinzado gabardina 54-60",
         code: "",
         price: 950
+      }
+    ]
+  },
+  {
+    brand: 'palo',
+    products: [
+      {
+        brand: "palo",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean gross",
+        code: "",
+        price: 990
+      },
+      {
+        brand: "palo",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean elastizado",
+        code: "",
+        price: 1190
       }
     ]
   },

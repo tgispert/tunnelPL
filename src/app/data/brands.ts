@@ -460,6 +460,10 @@ export const Brands = [
         "name": "oxford"
     },
     {
+        "id": "166",
+        "name": "palo"
+    },
+    {
         "id": "122",
         "name": "pierre balmain"
     },
