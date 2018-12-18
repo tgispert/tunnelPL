@@ -264,6 +264,10 @@ export const Brands = [
         "name": "henry sacks"
     },
     {
+        "id": "167",
+        "name": "hey dude"
+    },
+    {
         "id": "9",
         "name": "hi tec"
     },
