@@ -9822,7 +9822,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "kids",
         "code": "",
-        "price": 320
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9830,7 +9830,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "kids football",
         "code": "",
-        "price": 320
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9838,7 +9838,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "bamboo",
         "code": "",
-        "price": 320
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9846,7 +9846,15 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "beach",
         "code": "",
-        "price": 320
+        "price": 349
+      },
+      {
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "brasil",
+        "code": "",
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -9854,7 +9862,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "color",
         "code": "",
-        "price": 285
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9862,7 +9870,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "color mix",
         "code": "",
-        "price": 285
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9870,7 +9878,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "cool",
         "code": "",
-        "price": 285
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9878,7 +9886,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "dragon",
         "code": "",
-        "price": 320
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -9886,7 +9894,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "fit",
         "code": "",
-        "price": 590
+        "price": 650
       },
       {
         "brand": "havaianas",
@@ -9894,7 +9902,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash hit",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -9902,7 +9910,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash sweet",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -9910,7 +9918,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash tresse",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -9918,7 +9926,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash urban",
         "code": "",
-        "price": 439
+        "price": 449
       },
       {
         "brand": "havaianas",
@@ -9926,7 +9934,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash urban fresh",
         "code": "",
-        "price": 439
+        "price": 449
       },
       {
         "brand": "havaianas",
@@ -9934,7 +9942,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash way",
         "code": "",
-        "price": 439
+        "price": 449
       },
       {
         "brand": "havaianas",
@@ -9942,7 +9950,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "flash way metal",
         "code": "",
-        "price": 439
+        "price": 449
       },
       {
         "brand": "havaianas",
@@ -9956,9 +9964,17 @@ export const Products : PricingList[] = [
         "brand": "havaianas",
         "class": "calzado",
         "gender": "unisex",
+        "name": "freedom",
+        "code": "",
+        "price": 549
+      },
+      {
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
         "name": "grace",
         "code": "",
-        "price": 550
+        "price": 590
       },
       {
         "brand": "havaianas",
@@ -9966,7 +9982,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "high fashion",
         "code": "",
-        "price": 859
+        "price": 999
       },
       {
         "brand": "havaianas",
@@ -9974,7 +9990,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "high light",
         "code": "",
-        "price": 750
+        "price": 790
       },
       {
         "brand": "havaianas",
@@ -9982,7 +9998,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "high metallic",
         "code": "",
-        "price": 820
+        "price": 890
       },
       {
         "brand": "havaianas",
@@ -10030,7 +10046,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim",
         "code": "",
-        "price": 419
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10038,7 +10054,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim animals",
         "code": "",
-        "price": 449
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10046,7 +10062,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim butterfly",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10054,7 +10070,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim cool",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10062,7 +10078,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim fashion",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10070,7 +10086,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim poise",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10078,7 +10094,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim season",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10086,7 +10102,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "slim trendy",
         "code": "",
-        "price": 439
+        "price": 499
       },
       {
         "brand": "havaianas",
@@ -10094,7 +10110,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "spirit",
         "code": "",
-        "price": 390
+        "price": 449
       },
       {
         "brand": "havaianas",
@@ -10102,7 +10118,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "spring",
         "code": "",
-        "price": 299
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -10110,7 +10126,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "style",
         "code": "",
-        "price": 320
+        "price": 349
       },
       {
         "brand": "havaianas",
@@ -10143,6 +10159,14 @@ export const Products : PricingList[] = [
         "name": "team argentina",
         "code": "",
         "price": 350
+      },
+      {
+        "brand": "havaianas",
+        "class": "calzado",
+        "gender": "unisex",
+        "name": "top",
+        "code": "",
+        "price": 429
       },
       {
         "brand": "havaianas",
@@ -20822,7 +20846,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "basic riñonera",
         "code": "7040.",
-        "price": 450
+        "price": 550
       },
       {
         "brand": "spirit",
@@ -20830,7 +20854,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "expedition",
         "code": "m1150",
-        "price": 3890
+        "price": 2500
       },
       {
         "brand": "spirit",
@@ -20838,7 +20862,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "freedom",
         "code": "",
-        "price": 1300
+        "price": 1500
       },
       {
         "brand": "spirit",
@@ -20846,7 +20870,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "glass",
         "code": "",
-        "price": 1300
+        "price": 1500
       },
       {
         "brand": "spirit",
@@ -20854,7 +20878,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "max sprint",
         "code": "m1310",
-        "price": 1500
+        "price": 1200
       },
       {
         "brand": "spirit",
@@ -20862,7 +20886,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "s ultra",
         "code": "m1145",
-        "price": 2100
+        "price": 1900
       },
       {
         "brand": "spirit",
@@ -20870,7 +20894,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "s vulcano",
         "code": "m1126",
-        "price": 1700
+        "price": 1900
       },
       {
         "brand": "spirit",
@@ -20902,7 +20926,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "messenger",
         "code": "",
-        "price": 990
+        "price": 1200
       },
       {
         "brand": "spirit",
@@ -20910,7 +20934,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "custom",
         "code": "",
-        "price": 1450
+        "price": 1500
       },
       {
         "brand": "spirit",
@@ -20918,7 +20942,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "blockbuster",
         "code": "",
-        "price": 1490
+        "price": 1500
       },
       {
         "brand": "spirit",
@@ -20926,7 +20950,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "box",
         "code": "",
-        "price": 1900
+        "price": 2300
       },
       {
         "brand": "spirit",
@@ -20934,7 +20958,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "pack",
         "code": "",
-        "price": 2100
+        "price": 1900
       },
       {
         "brand": "spirit",
@@ -20942,7 +20966,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "ride",
         "code": "",
-        "price": 1190
+        "price": 1300
       },
       {
         "brand": "spirit",
@@ -20950,7 +20974,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "baker",
         "code": "",
-        "price": 1190
+        "price": 1300
       }
     ]
   },
