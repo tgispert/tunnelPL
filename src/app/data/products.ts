@@ -10248,7 +10248,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "farty",
         code: "",
-        price: 2199
+        price: 1990
       },
       {
         brand: "hey dude",
@@ -10256,7 +10256,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "farty print",
         code: "",
-        price: 2549
+        price: 2290
       },
       {
         brand: "hey dude",
@@ -10264,7 +10264,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "flip braided",
         code: "",
-        price: 2299
+        price: 2090
       },
       {
         brand: "hey dude",
@@ -10272,7 +10272,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "wally",
         code: "",
-        price: 2549
+        price: 2290
       },
       {
         brand: "hey dude",
@@ -10280,7 +10280,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "wally linen",
         code: "",
-        price: 2749
+        price: 2490
       }
     ]
   },
