@@ -2884,7 +2884,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "whidbey",
         "code": "",
-        "price": 1690
+        "price": 2290
       },
       {
         "brand": "columbia",
@@ -6933,7 +6933,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "band kids",
         "code": "",
-        "price": 832
+        "price": 1080
       },
       {
         "brand": "crocs",
@@ -6949,7 +6949,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "kids tortugas ninja y otros",
         "code": "",
-        "price": 1405
+        "price": 1410
       },
       {
         "brand": "crocs",
@@ -6957,7 +6957,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "niño y junior hasta M3/W5",
         "code": "",
-        "price": 589
+        "price": 650
       },
       {
         "brand": "crocs",
@@ -6965,21 +6965,21 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "piel jr",
         "code": "",
-        "price": 780
+        "price": 1030
       },
       {
         "brand": "crocs",
         "class": "calzado",
         "gender": "niño",
-        "name": "sport glog importada kids",
+        "name": "sport clog importada kids",
         "code": "",
-        "price": 1405
+        "price": 1160
       },
       {
         "brand": "crocs",
         "class": "calzado",
         "gender": "niño",
-        "name": "sport glog nacional kids",
+        "name": "sport clog nacional kids",
         "code": "",
         "price": 850
       },
@@ -6989,7 +6989,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "band leopardo",
         "code": "",
-        "price": 1289
+        "price": 1599
       },
       {
         "brand": "crocs",
@@ -6997,7 +6997,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "baya",
         "code": "",
-        "price": 869
+        "price": 900
       },
       {
         "brand": "crocs",
@@ -7005,7 +7005,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "baya flip",
         "code": "",
-        "price": 655
+        "price": 699
       },
       {
         "brand": "crocs",
@@ -7013,15 +7013,15 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "classic",
         "code": "",
-        "price": 819
+        "price": 870
       },
       {
         "brand": "crocs",
         "class": "calzado",
         "gender": "unisex",
-        "name": "mocasin santa cruz",
+        "name": "mocasin santa cruz / suede",
         "code": "",
-        "price": 1759
+        "price": 2168
       },
       {
         "brand": "crocs",
@@ -7043,7 +7043,7 @@ export const Products : PricingList[] = [
         "brand": "crocs",
         "class": "calzado",
         "gender": "unisex",
-        "name": "sport glog importada",
+        "name": "sport clog importada",
         "code": "",
         "price": 1300
       },
@@ -7051,7 +7051,7 @@ export const Products : PricingList[] = [
         "brand": "crocs",
         "class": "calzado",
         "gender": "unisex",
-        "name": "sport glog nacional",
+        "name": "sport clog nacional",
         "code": "",
         "price": 990
       },
@@ -7059,9 +7059,9 @@ export const Products : PricingList[] = [
         "brand": "crocs",
         "class": "calzado",
         "gender": "unisex",
-        "name": "walu",
+        "name": "walu / ascent",
         "code": "",
-        "price": 1759
+        "price": 2168
       },
       {
         "brand": "crocs",
@@ -7069,7 +7069,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "yukon",
         "code": "",
-        "price": 1399
+        "price": 1599
       }
     ]
   },
@@ -10406,6 +10406,14 @@ export const Products : PricingList[] = [
         "name": "bahama sport",
         "code": "",
         "price": 3119
+      },
+      {
+        "brand": "hi tec",
+        "class": "calzado",
+        "gender": "hombre",
+        "name": "bandera",
+        "code": "",
+        "price": 4500
       },
       {
         "brand": "hi tec",
