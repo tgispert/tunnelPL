@@ -14257,7 +14257,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "adventure zapa",
         "code": "",
-        "price": 2100
+        "price": 3100
       },
       {
         "brand": "nexxt",
@@ -14265,7 +14265,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance pro zapa",
         "code": "",
-        "price": 2150
+        "price": 3150
       },
       {
         "brand": "nexxt",
@@ -14273,7 +14273,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "endurance zapa",
         "code": "",
-        "price": 2100
+        "price": 3100
       },
       {
         "brand": "nexxt",
@@ -14289,7 +14289,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "khumbu",
         "code": "",
-        "price": 2270
+        "price": 3250
       },
       {
         "brand": "nexxt",
@@ -14297,7 +14297,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "pro shell zapa",
         "code": "",
-        "price": 2350
+        "price": 3250
       },
       {
         "brand": "nexxt",
@@ -14305,7 +14305,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "terrain pro zapa",
         "code": "",
-        "price": 2459
+        "price": 3250
       },
       {
         "brand": "nexxt",
@@ -14313,7 +14313,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "adventure zapa",
         "code": "",
-        "price": 2250
+        "price": 3250
       },
       {
         "brand": "nexxt",
@@ -14321,7 +14321,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "broad xt mid",
         "code": "",
-        "price": 3850
+        "price": 4800
       },
       {
         "brand": "nexxt",
@@ -14329,7 +14329,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "endurance zapa",
         "code": "",
-        "price": 2150
+        "price": 3250
       },
       {
         "brand": "nexxt",
@@ -14337,7 +14337,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "huapi mid",
         "code": "",
-        "price": 2700
+        "price": 3790
       },
       {
         "brand": "nexxt",
@@ -14353,7 +14353,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "manaslu xt mid",
         "code": "",
-        "price": 3490
+        "price": 4390
       },
       {
         "brand": "nexxt",
@@ -14361,7 +14361,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "pro shell zapa",
         "code": "",
-        "price": 2350
+        "price": 3390
       },
       {
         "brand": "nexxt",
@@ -14369,7 +14369,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "terrain pro zapa",
         "code": "",
-        "price": 2350
+        "price": 3350
       },
       {
         "brand": "nexxt",
@@ -14377,7 +14377,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "tron xt mid",
         "code": "",
-        "price": 3249
+        "price": 3350
       },
       {
         "brand": "nexxt",
@@ -14385,7 +14385,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "xtrail 1/2 mid",
         "code": "",
-        "price": 2550
+        "price": 3750
       },
       {
         "brand": "nexxt",
