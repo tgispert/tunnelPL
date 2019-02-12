@@ -3050,6 +3050,14 @@ export const Products : PricingList[] = [
         "brand": "columbia",
         "class": "calzado",
         "gender": "dama",
+        "name": "barraca sandalia",
+        "code": "",
+        "price": 3490
+      },
+      {
+        "brand": "columbia",
+        "class": "calzado",
+        "gender": "dama",
         "name": "big cedar mid",
         "code": "",
         "price": 3500
@@ -3092,7 +3100,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "fire camp II wp",
         "code": "",
-        "price": 3900
+        "price": 4300
       },
       {
         "brand": "columbia",
@@ -3356,7 +3364,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "fire camp 2",
         "code": "",
-        "price": 4500
+        "price": 4640
       },
       {
         "brand": "columbia",
@@ -3364,7 +3372,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "fire camp mid",
         "code": "",
-        "price": 4200
+        "price": 4890
       },
       {
         "brand": "columbia",
@@ -5148,7 +5156,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "evapouration",
         "code": "rm2023",
-        "price": 10600
+        "price": 8000
       },
       {
         "brand": "columbia",
@@ -7868,7 +7876,23 @@ export const Products : PricingList[] = [
         brand: "energy",
         class: "remera",
         gender: "hombre",
-        name: "remera hombre",
+        name: "remera m/c",
+        code: "",
+        price: 490
+      },
+      {
+        brand: "energy",
+        class: "remera",
+        gender: "hombre",
+        name: "remera m/l",
+        code: "",
+        price: 690
+      },
+      {
+        brand: "energy",
+        class: "remera",
+        gender: "hombre",
+        name: "sudadera",
         code: "",
         price: 300
       }
