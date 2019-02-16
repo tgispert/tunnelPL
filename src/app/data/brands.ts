@@ -652,6 +652,10 @@ export const Brands = [
         "name": "wrangler no lista"
     },
     {
+        "id": "168",
+        "name": "xanfari"
+    },
+    {
         "id": "145",
         "name": "ysl"
     },
