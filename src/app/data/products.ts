@@ -634,7 +634,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "zapatilla cuero",
         code: "",
-        price: 1550
+        price: 1990
       },
       {
         brand: "absolut",
@@ -1545,7 +1545,7 @@ export const Products : PricingList[] = [
         class: "pantalon",
         gender: "hombre",
         name: "jean",
-        code: "4503",
+        code: "4481",
         price: 1290
       },
       {
@@ -1553,7 +1553,39 @@ export const Products : PricingList[] = [
         class: "pantalon",
         gender: "hombre",
         name: "jean",
+        code: "4494",
+        price: 1290
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean talle especial",
+        code: "4494",
+        price: 1390
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4503",
+        price: 1390
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
         code: "4504",
+        price: 1290
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "4526",
         price: 1290
       },
       {
@@ -1570,7 +1602,15 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "jean",
         code: "4533",
-        price: 1290
+        price: 1390
+      },
+      {
+        brand: "bless",
+        class: "pantalon",
+        gender: "hombre",
+        name: "jean",
+        code: "5192",
+        price: 990
       }
     ]
   },
@@ -6965,7 +7005,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "band sandalia niño",
         "code": "",
-        "price": 820
+        "price": 890
       },
       {
         "brand": "crocs",
@@ -7005,7 +7045,7 @@ export const Products : PricingList[] = [
         "gender": "niño",
         "name": "sport clog nacional kids",
         "code": "",
-        "price": 850
+        "price": 990
       },
       {
         "brand": "crocs",
@@ -7043,6 +7083,14 @@ export const Products : PricingList[] = [
         "brand": "crocs",
         "class": "calzado",
         "gender": "unisex",
+        "name": "duet adulto",
+        "code": "",
+        "price": 1259
+      },
+      {
+        "brand": "crocs",
+        "class": "calzado",
+        "gender": "unisex",
         "name": "mocasin santa cruz / suede",
         "code": "",
         "price": 2168
@@ -7053,7 +7101,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "piel",
         "code": "",
-        "price": 890
+        "price": 1030
       },
       {
         "brand": "crocs",
@@ -7061,7 +7109,7 @@ export const Products : PricingList[] = [
         "gender": "unisex",
         "name": "pin",
         "code": "",
-        "price": 99
+        "price": 150
       },
       {
         "brand": "crocs",
@@ -7936,7 +7984,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "jkt universitaria",
         code: "",
-        price: 3590
+        price: 4990
       }
     ]
   },
@@ -9466,7 +9514,7 @@ export const Products : PricingList[] = [
         gender: "hombre",
         name: "chomba m/c rayada",
         code: "",
-        price: 700
+        price: 900
       },
       {
         brand: "givenchy",
@@ -11274,7 +11322,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "engomado",
         "code": "",
-        "price": 2490
+        "price": 2690
       },
       {
         "brand": "lee no lista",
@@ -11282,7 +11330,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "todos",
         "code": "",
-        "price": 2190
+        "price": 2590
       },
       {
         "brand": "lee no lista",
@@ -11290,7 +11338,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1100",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11298,7 +11346,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1101",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11306,7 +11354,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gabardina",
         "code": "1101",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11322,7 +11370,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1104",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11330,7 +11378,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gabardina",
         "code": "1104",
-        "price": 1890
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11338,7 +11386,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1107",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "lee no lista",
@@ -11346,7 +11394,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1111",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11354,7 +11402,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "clasico",
         "code": "otros",
-        "price": 1690
+        "price": 1899
       },
       {
         "brand": "lee no lista",
@@ -11362,7 +11410,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "moda",
         "code": "otros",
-        "price": 2100
+        "price": 2990
       },
       {
         "brand": "lee no lista",
@@ -11370,7 +11418,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "engomado",
         "code": "",
-        "price": 2490
+        "price": 2990
       }
     ]
   },
@@ -11407,7 +11455,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHINO PANT I STRETCH TWILL TOASTED",
         "code": "1122-1818-44-01",
-        "price": 2199
+        "price": 2899
       },
       {
         "brand": "Lee",
@@ -11415,7 +11463,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHINO PANT III STRETCH TWILL BLUE",
         "code": "1122-1855-94-01",
-        "price": 2199
+        "price": 2899
       },
       {
         "brand": "Lee",
@@ -11423,7 +11471,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "SLICKER JOGG I DENIM STONE BLACK WASH",
         "code": "1125-1543-79-01",
-        "price": 2639
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11431,7 +11479,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "SLICKER III STRETCH DENIM DARK BLUE",
         "code": "1125-1816-84-01",
-        "price": 2359
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11439,7 +11487,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "SLICKER I STRETCH DENIM MID STONE WASH",
         "code": "1125-1852-86-01",
-        "price": 2359
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11447,7 +11495,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MARK JOGG II DENIM SOFT BLUE WASH",
         "code": "1155-1812-86-01",
-        "price": 2529
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11455,7 +11503,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MARK JOGG I JOGG DENIM MID BLUE WASH",
         "code": "1155-1812-94-01",
-        "price": 2529
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11463,7 +11511,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY IV STRETCH DENIM RAW WASH",
         "code": "1164-1403-85-01",
-        "price": 2089
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11471,7 +11519,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY V STRETCH DENIM LIGHT WASH",
         "code": "1164-1405-86-01",
-        "price": 2199
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11479,7 +11527,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY VI STRETCH DENIM DARK BLUE WASH",
         "code": "1164-1406-81-01",
-        "price": 2199
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11487,7 +11535,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY JOGG II DENIM DIZZY BLUE WASH",
         "code": "1164-1548-86-01",
-        "price": 2639
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11495,7 +11543,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY STRETCH DENIM INDIGO",
         "code": "1164-1760-84-01",
-        "price": 1869
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11503,7 +11551,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY STRETCH DENIM INDIGO",
         "code": "1164-1761-85-01",
-        "price": 1869
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11511,7 +11559,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MACKY III STRETCH BLACK SOLID BLACK W",
         "code": "1164-1812-79-01",
-        "price": 1979
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11519,7 +11567,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE IV STRETCH DENIM MID LIGHT WASH",
         "code": "1166-1404-94-01",
-        "price": 2469
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11527,7 +11575,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE V STRETCH DENIM DIZZY BLUE WASH",
         "code": "1166-1405-86-01",
-        "price": 2469
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11535,7 +11583,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE VI STRETCH DENIM MID VINTAGE WASH",
         "code": "1166-1406-95-01",
-        "price": 2469
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11543,7 +11591,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE III DENIM INDIGO RESIN BLUE 11",
         "code": "1166-1545-80-01",
-        "price": 2199
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11551,7 +11599,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE I STRETCH TWILL BLACK SUAVIZADO",
         "code": "1166-1817-79-01",
-        "price": 2199
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11559,7 +11607,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE III STRETCH DENIM LIGHT STONE WASH",
         "code": "1166-1854-95-01",
-        "price": 1869
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11567,7 +11615,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CHASE II STRETCH DENIM DARK STONE WASH",
         "code": "1166-1864-94-01",
-        "price": 1869
+        "price": 2699
       },
       {
         "brand": "Lee",
@@ -11575,7 +11623,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "101-S I STRETCH DENIM INDIGO RAW WASH",
         "code": "1180-1808-80-01",
-        "price": 2089
+        "price": 2599
       },
       {
         "brand": "Lee",
@@ -11583,7 +11631,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "101-S III STRETCH DENIM MID STONE WASH",
         "code": "1180-1851-86-01",
-        "price": 2199
+        "price": 2599
       },
       {
         "brand": "Lee",
@@ -11591,7 +11639,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MEN JEANS (LUKE) STRCH MID LIGHT SHADE",
         "code": "1191-1806-94-01",
-        "price": 2859
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11599,7 +11647,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "706-RAMONE II STRETCH DENIM IN",
         "code": "1194-1806-86-01",
-        "price": 2469
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -11607,7 +11655,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "CROPPED JEANS (RAMONE) STRCH LIGHT SHADE",
         "code": "1194-1808-86-01",
-        "price": 2859
+        "price": 2999
       },
       {
         "brand": "Lee",
@@ -24465,7 +24513,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "todos",
         "code": "",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24473,7 +24521,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corderoy",
         "code": "1104",
-        "price": 1890
+        "price": 2199
       },
       {
         "brand": "ufo",
@@ -24481,7 +24529,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1104",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24489,7 +24537,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gabardina",
         "code": "1104",
-        "price": 1890
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24497,7 +24545,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corderoy",
         "code": "1105",
-        "price": 1890
+        "price": 2199
       },
       {
         "brand": "ufo",
@@ -24505,7 +24553,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1105",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24513,7 +24561,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gabardina",
         "code": "1105",
-        "price": 1890
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24521,7 +24569,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corderoy",
         "code": "1106",
-        "price": 1890
+        "price": 2199
       },
       {
         "brand": "ufo",
@@ -24529,7 +24577,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1106",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24537,7 +24585,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "corderoy",
         "code": "1107",
-        "price": 1890
+        "price": 2199
       },
       {
         "brand": "ufo",
@@ -24545,7 +24593,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1107",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24553,7 +24601,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "gabardina",
         "code": "1107",
-        "price": 1890
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24561,7 +24609,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1108",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24569,7 +24617,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "clascico",
         "code": "otros",
-        "price": 1690
+        "price": 1999
       },
       {
         "brand": "ufo",
@@ -24577,7 +24625,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "moda",
         "code": "otros",
-        "price": 2100
+        "price": 2199
       }
     ]
   },
@@ -25266,7 +25314,7 @@ export const Products : PricingList[] = [
         "gender": "dama",
         "name": "falda",
         "code": "",
-        "price": 1750
+        "price": 2119
       },
       {
         "brand": "vf",
@@ -25481,7 +25529,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim clasico",
         "code": "1102",
-        "price": 1529
+        "price": 1799
       },
       {
         "brand": "wrangler no lista",
@@ -25521,7 +25569,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1104",
-        "price": 1690
+        "price": 1799
       },
       {
         "brand": "wrangler no lista",
@@ -25537,7 +25585,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "denim",
         "code": "1105",
-        "price": 1690
+        "price": 1799
       },
       {
         "brand": "wrangler no lista",
@@ -25601,7 +25649,7 @@ export const Products : PricingList[] = [
         "gender": "hombre",
         "name": "clasico",
         "code": "otros",
-        "price": 1690
+        "price": 1799
       },
       {
         "brand": "wrangler no lista",
@@ -25638,7 +25686,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MONTANA O.15 DESTROYED",
         "code": "1102-0765-86",
-        "price": 1599
+        "price": 1799
       },
       {
         "brand": "wrangler",
@@ -25646,7 +25694,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "MONTANA O.D 15 SW",
         "code": "1102-0765-94",
-        "price": 1599
+        "price": 1799
       },
       {
         "brand": "wrangler",
@@ -26086,7 +26134,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "LEGGING POWER PUNTO ROMA PIACENZA NEGRO",
         "code": "1247-2171-79",
-        "price": 1319
+        "price": 1799
       },
       {
         "brand": "wrangler",
@@ -26214,7 +26262,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "ARNON DENIM RIGIDO LIGHT LOCALIZADO",
         "code": "1303-1695-92",
-        "price": 1279
+        "price": 1799
       },
       {
         "brand": "wrangler",
@@ -26222,7 +26270,7 @@ export const Products : PricingList[] = [
         "gender": "",
         "name": "ARNON DENIM RIGIDO STREET LOCALIZADO",
         "code": "1303-1695-95",
-        "price": 1279
+        "price": 1799
       },
       {
         "brand": "wrangler",
